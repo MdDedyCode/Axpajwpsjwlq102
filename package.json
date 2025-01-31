@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Bang",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
   "dependencies": {
     "mongoose": "^5.13.8",
     "telegraf": "^4.16.3",     
