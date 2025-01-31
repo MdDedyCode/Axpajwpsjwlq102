@@ -1,0 +1,2615 @@
+[
+  {
+    "index": 0,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ yang selalu kuinginkan",
+    "jawaban": "Semua",
+    "pilihanJawaban": [
+      "Sedikit",
+      "Semua",
+      "Hanya",
+      "Segala",
+      "Banyak"
+    ]
+  },
+  {
+    "index": 1,
+    "web": "md-code.xyz",
+    "soal": "Di ........ malam, kita bersinar bersama",
+    "jawaban": "Gelap",
+    "pilihanJawaban": [
+      "Gelap",
+      "Redup",
+      "Hujan",
+      "Badai",
+      "Terang"
+    ]
+  },
+  {
+    "index": 2,
+    "web": "md-code.xyz",
+    "soal": "Aku ........ padamu seperti hari pertama",
+    "jawaban": "Terpesona",
+    "pilihanJawaban": [
+      "Terpaku",
+      "Terpesona",
+      "Terharu",
+      "Terinspirasi",
+      "Tergila-gila"
+    ]
+  },
+  {
+    "index": 3,
+    "web": "md-code.xyz",
+    "soal": "Kita adalah ........ yang takkan terpisah",
+    "jawaban": "Pasangan",
+    "pilihanJawaban": [
+      "Kompak",
+      "Pecinta",
+      "Sejati",
+      "Sahabat",
+      "Pasangan"
+    ]
+  },
+  {
+    "index": 4,
+    "web": "md-code.xyz",
+    "soal": "........ ini tak akan pernah padam",
+    "jawaban": "Harapan",
+    "pilihanJawaban": [
+      "Mimpi",
+      "Cinta",
+      "Harapan",
+      "Kenyataan",
+      "Perasaan"
+    ]
+  },
+  {
+    "index": 5,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ yang membuatku hidup",
+    "jawaban": "Cinta",
+    "pilihanJawaban": [
+      "Nafas",
+      "Keajaiban",
+      "Kenyataan",
+      "Harapan",
+      "Cinta"
+    ]
+  },
+  {
+    "index": 6,
+    "web": "md-code.xyz",
+    "soal": "Dalam ........ kita bersinar bersama",
+    "jawaban": "Terang",
+    "pilihanJawaban": [
+      "Terang",
+      "Redup",
+      "Gelap",
+      "Hujan",
+      "Badai"
+    ]
+  },
+  {
+    "index": 7,
+    "web": "md-code.xyz",
+    "soal": "........ ini adalah jawaban atas semua doaku",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Kenyataan",
+      "Kisah",
+      "Harapan",
+      "Mimpi",
+      "Keajaiban"
+    ]
+  },
+  {
+    "index": 8,
+    "web": "md-code.xyz",
+    "soal": "Ku akan ........ dirimu sepanjang waktu",
+    "jawaban": "Ingat",
+    "pilihanJawaban": [
+      "Mengingat",
+      "Melupakan",
+      "Mencintai",
+      "Menyentuh",
+      "Membelai"
+    ]
+  },
+  {
+    "index": 9,
+    "web": "md-code.xyz",
+    "soal": "Dalam ........ cinta ini, kita berdua",
+    "jawaban": "Kisah",
+    "pilihanJawaban": [
+      "Kenangan",
+      "Kegembiraan",
+      "Kedamaian",
+      "Kisah",
+      "Kenyataan"
+    ]
+  },
+  {
+    "index": 10,
+    "web": "md-code.xyz",
+    "soal": "Cinta ........ hatiku",
+    "jawaban": "Mengisi",
+    "pilihanJawaban": [
+      "Menyentuh",
+      "Membelah",
+      "Mengisi",
+      "Menghancurkan",
+      "Membuat"
+    ]
+  },
+  {
+    "index": 11,
+    "web": "md-code.xyz",
+    "soal": "Di ........ malam, kita bersama",
+    "jawaban": "Bawah",
+    "pilihanJawaban": [
+      "Bawah",
+      "Samping",
+      "Tengah",
+      "Depan",
+      "Atas"
+    ]
+  },
+  {
+    "index": 12,
+    "web": "md-code.xyz",
+    "soal": "Cinta ini ........ seperti lautan",
+    "jawaban": "Luas",
+    "pilihanJawaban": [
+      "Penuh",
+      "Tulus",
+      "Luas",
+      "Indah",
+      "Dalam"
+    ]
+  },
+  {
+    "index": 13,
+    "web": "md-code.xyz",
+    "soal": "........ ini adalah jawaban atas doaku",
+    "jawaban": "Kini",
+    "pilihanJawaban": [
+      "Kemarin",
+      "Kini",
+      "Lalu",
+      "Esok",
+      "Nanti"
+    ]
+  },
+  {
+    "index": 14,
+    "web": "md-code.xyz",
+    "soal": "Cinta ........ seperti bintang di langit",
+    "jawaban": "Abadi",
+    "pilihanJawaban": [
+      "Abadi",
+      "Singkat",
+      "Indah",
+      "Kilat",
+      "Ephemeral"
+    ]
+  },
+  {
+    "index": 15,
+    "web": "md-code.xyz",
+    "soal": "........ ini kita takkan terpisah",
+    "jawaban": "Selamanya",
+    "pilihanJawaban": [
+      "Sementara",
+      "Selamanya",
+      "Mungkin",
+      "Sebentar",
+      "Terlupakan"
+    ]
+  },
+  {
+    "index": 16,
+    "web": "md-code.xyz",
+    "soal": "Denganmu, ........ selalu ada di sampingku",
+    "jawaban": "Bahagia",
+    "pilihanJawaban": [
+      "Ketakutan",
+      "Bahagia",
+      "Kesedihan",
+      "Kecewa",
+      "Kegalauan"
+    ]
+  },
+  {
+    "index": 17,
+    "web": "md-code.xyz",
+    "soal": "........ ini adalah saat yang kujalani",
+    "jawaban": "Kini",
+    "pilihanJawaban": [
+      "Nanti",
+      "Esok",
+      "Kemarin",
+      "Kini",
+      "Lalu"
+    ]
+  },
+  {
+    "index": 18,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ yang ku cari",
+    "jawaban": "Sosok",
+    "pilihanJawaban": [
+      "Harapan",
+      "Sosok",
+      "Keajaiban",
+      "Cinta",
+      "Kesempatan"
+    ]
+  },
+  {
+    "index": 19,
+    "web": "md-code.xyz",
+    "soal": "Di depan mata, ........ tak terlupakan",
+    "jawaban": "Kau",
+    "pilihanJawaban": [
+      "Terpesona",
+      "Hatiku",
+      "Kau",
+      "Selalu",
+      "Mata"
+    ]
+  },
+  {
+    "index": 20,
+    "web": "md-code.xyz",
+    "soal": "Terbang tinggi seperti ........ di angkasa",
+    "jawaban": "Bidadari",
+    "pilihanJawaban": [
+      "Sinar",
+      "Bidadari",
+      "Terang",
+      "Lalat",
+      "Kupu-kupu"
+    ]
+  },
+  {
+    "index": 21,
+    "web": "md-code.xyz",
+    "soal": "Aku ingin ........ semua tentang dirimu",
+    "jawaban": "Tahu",
+    "pilihanJawaban": [
+      "Tahu",
+      "Menyentuh",
+      "Mengerti",
+      "Melupakan",
+      "Menginginkan"
+    ]
+  },
+  {
+    "index": 22,
+    "web": "md-code.xyz",
+    "soal": "Ketika malam tiba, ........ pun datang",
+    "jawaban": "Senja",
+    "pilihanJawaban": [
+      "Siang",
+      "Keheningan",
+      "Malam",
+      "Senja",
+      "Pagi"
+    ]
+  },
+  {
+    "index": 23,
+    "web": "md-code.xyz",
+    "soal": "Hidup ini ........ seperti mimpimu",
+    "jawaban": "Indah",
+    "pilihanJawaban": [
+      "Singkat",
+      "Sederhana",
+      "Indah",
+      "Mengasyikkan",
+      "Rumit"
+    ]
+  },
+  {
+    "index": 24,
+    "web": "md-code.xyz",
+    "soal": "Hanya ........ yang bisa menolongku",
+    "jawaban": "Kamu",
+    "pilihanJawaban": [
+      "Sahabat",
+      "Mereka",
+      "Kita",
+      "Kamu",
+      "Dia"
+    ]
+  },
+  {
+    "index": 25,
+    "web": "md-code.xyz",
+    "soal": "Jika kita bersama, ........ selalu ada",
+    "jawaban": "Bahagia",
+    "pilihanJawaban": [
+      "Mengerti",
+      "Merasa",
+      "Gelisah",
+      "Bahagia",
+      "Susah"
+    ]
+  },
+  {
+    "index": 26,
+    "web": "md-code.xyz",
+    "soal": "Tak perlu ........ cinta ini",
+    "jawaban": "Bicara",
+    "pilihanJawaban": [
+      "Berharap",
+      "Mengeluh",
+      "Melupakan",
+      "Menyembunyikan",
+      "Bicara"
+    ]
+  },
+  {
+    "index": 27,
+    "web": "md-code.xyz",
+    "soal": "Aku ........ di dalam hatimu",
+    "jawaban": "Ada",
+    "pilihanJawaban": [
+      "Hilang",
+      "Menyelamatkan",
+      "Menghilang",
+      "Melihat",
+      "Ada"
+    ]
+  },
+  {
+    "index": 28,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ yang terindah",
+    "jawaban": "Bunga",
+    "pilihanJawaban": [
+      "Pohon",
+      "Matahari",
+      "Lautan",
+      "Bintang",
+      "Bunga"
+    ]
+  },
+  {
+    "index": 29,
+    "web": "md-code.xyz",
+    "soal": "Cinta ini ........ seperti angin",
+    "jawaban": "Luar",
+    "pilihanJawaban": [
+      "Terang",
+      "Mendalam",
+      "Luar",
+      "Dalam",
+      "Tak Terbatas"
+    ]
+  },
+  {
+    "index": 30,
+    "web": "md-code.xyz",
+    "soal": "........ hati ini tak pernah berubah",
+    "jawaban": "Selalu",
+    "pilihanJawaban": [
+      "Mungkin",
+      "Selalu",
+      "Sering",
+      "Kadang-kadang",
+      "Tidak pernah"
+    ]
+  },
+  {
+    "index": 31,
+    "web": "md-code.xyz",
+    "soal": "Saat kau pergi, ........ pun hancur",
+    "jawaban": "Dunia",
+    "pilihanJawaban": [
+      "Hati",
+      "Dunia",
+      "Bintang",
+      "Harapan",
+      "Mimpi"
+    ]
+  },
+  {
+    "index": 32,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ di antara bintang",
+    "jawaban": "Satu",
+    "pilihanJawaban": [
+      "Banyak",
+      "Terbaik",
+      "Satu",
+      "Istimewa",
+      "Terindah"
+    ]
+  },
+  {
+    "index": 33,
+    "web": "md-code.xyz",
+    "soal": "Jika ........ menyakitimu, biarkan aku yang merasakannya",
+    "jawaban": "Cinta",
+    "pilihanJawaban": [
+      "Kehilangan",
+      "Cinta",
+      "Pergi",
+      "Kegagalan",
+      "Waktu"
+    ]
+  },
+  {
+    "index": 34,
+    "web": "md-code.xyz",
+    "soal": "Kita adalah ........ yang tak bisa dipisahkan",
+    "jawaban": "Pasangan",
+    "pilihanJawaban": [
+      "Teman",
+      "Keluarga",
+      "Pasangan",
+      "Musuh",
+      "Sahabat"
+    ]
+  },
+  {
+    "index": 35,
+    "web": "md-code.xyz",
+    "soal": "Hidup ini ........ tanpa cintamu",
+    "jawaban": "Hampa",
+    "pilihanJawaban": [
+      "Membosankan",
+      "Menggembirakan",
+      "Bahagia",
+      "Penuh",
+      "Hampa"
+    ]
+  },
+  {
+    "index": 36,
+    "web": "md-code.xyz",
+    "soal": "........ cinta ini tulus dari hati",
+    "jawaban": "Sungguh",
+    "pilihanJawaban": [
+      "Rasional",
+      "Santai",
+      "Sungguh",
+      "Tulus",
+      "Pura-pura"
+    ]
+  },
+  {
+    "index": 37,
+    "web": "md-code.xyz",
+    "soal": "Hatiku ........ karena cintamu",
+    "jawaban": "Tenang",
+    "pilihanJawaban": [
+      "Berdebar",
+      "Tersiksa",
+      "Senang",
+      "Riang",
+      "Tenang"
+    ]
+  },
+  {
+    "index": 38,
+    "web": "md-code.xyz",
+    "soal": "........ ini ku akan menjagamu",
+    "jawaban": "Janji",
+    "pilihanJawaban": [
+      "Rencana",
+      "Cinta",
+      "Janji",
+      "Mimpi",
+      "Masa depan"
+    ]
+  },
+  {
+    "index": 39,
+    "web": "md-code.xyz",
+    "soal": "Hanya ........ yang bisa membuatku tersenyum",
+    "jawaban": "Kamu",
+    "pilihanJawaban": [
+      "Orang asing",
+      "Dia",
+      "Kamu",
+      "Mereka",
+      "Sahabat"
+    ]
+  },
+  {
+    "index": 40,
+    "web": "md-code.xyz",
+    "soal": "Aku tak pernah bisa ........ darimu",
+    "jawaban": "Jauh",
+    "pilihanJawaban": [
+      "Lupa",
+      "Jauh",
+      "Menyerah",
+      "Menikmati",
+      "Mengerti"
+    ]
+  },
+  {
+    "index": 41,
+    "web": "md-code.xyz",
+    "soal": "........ ini bukanlah akhir dari kita",
+    "jawaban": "Malam",
+    "pilihanJawaban": [
+      "Siang",
+      "Tengah hari",
+      "Pagi",
+      "Malam",
+      "Sore"
+    ]
+  },
+  {
+    "index": 42,
+    "web": "md-code.xyz",
+    "soal": "Bersamamu aku ........ bahagia",
+    "jawaban": "Merasa",
+    "pilihanJawaban": [
+      "Merasa",
+      "Kehilangan",
+      "Menunggu",
+      "Tertawa",
+      "Sadar"
+    ]
+  },
+  {
+    "index": 43,
+    "web": "md-code.xyz",
+    "soal": "........ selalu ada di sampingmu",
+    "jawaban": "Aku",
+    "pilihanJawaban": [
+      "Kamu",
+      "Mereka",
+      "Dia",
+      "Aku",
+      "Kita"
+    ]
+  },
+  {
+    "index": 44,
+    "web": "md-code.xyz",
+    "soal": "Tak pernah ........ akan kulepaskan dirimu",
+    "jawaban": "Mungkin",
+    "pilihanJawaban": [
+      "Mungkin",
+      "Tidak",
+      "Akan",
+      "Pasti",
+      "Segera"
+    ]
+  },
+  {
+    "index": 45,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ yang selalu ku nanti",
+    "jawaban": "Bintang",
+    "pilihanJawaban": [
+      "Matahari",
+      "Galaksi",
+      "Bintang",
+      "Planet",
+      "Bulan"
+    ]
+  },
+  {
+    "index": 46,
+    "web": "md-code.xyz",
+    "soal": "Dalam ........ kita bersama",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Realitas",
+      "Keajaiban",
+      "Mimpi",
+      "Cinta",
+      "Waktu"
+    ]
+  },
+  {
+    "index": 47,
+    "web": "md-code.xyz",
+    "soal": "Jangan ........ hati ini terluka",
+    "jawaban": "Sakitkan",
+    "pilihanJawaban": [
+      "Coba",
+      "Buat",
+      "Sentuh",
+      "Sakitkan",
+      "Tinggalkan"
+    ]
+  },
+  {
+    "index": 48,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ terindah dalam hidupku",
+    "jawaban": "Cinta",
+    "pilihanJawaban": [
+      "Bunga",
+      "Matahari",
+      "Bintang",
+      "Hujan",
+      "Cinta"
+    ]
+  },
+  {
+    "index": 49,
+    "web": "md-code.xyz",
+    "soal": "Kita bisa ........ dunia bersama",
+    "jawaban": "Ubah",
+    "pilihanJawaban": [
+      "Tinggalkan",
+      "Ubah",
+      "Buat",
+      "Hancurkan",
+      "Jelajahi"
+    ]
+  },
+  {
+    "index": 50,
+    "web": "md-code.xyz",
+    "soal": "........ ini adalah awal dari cerita kita",
+    "jawaban": "Malam",
+    "pilihanJawaban": [
+      "Siang",
+      "Sore",
+      "Malam",
+      "Pagi",
+      "Tengah hari"
+    ]
+  },
+  {
+    "index": 51,
+    "web": "md-code.xyz",
+    "soal": "Dalam ........ yang gelap, kau adalah sinar terang",
+    "jawaban": "Kesunyian",
+    "pilihanJawaban": [
+      "Kesedihan",
+      "Kerinduan",
+      "Ketakutan",
+      "Kebahagiaan",
+      "Kesunyian"
+    ]
+  },
+  {
+    "index": 52,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ dalam hidupku",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Kenyataan",
+      "Kenangan",
+      "Harapan",
+      "Mimpi",
+      "Keajaiban"
+    ]
+  },
+  {
+    "index": 53,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ di tengah kegelapan",
+    "jawaban": "Cahaya",
+    "pilihanJawaban": [
+      "Lampu",
+      "Matahari",
+      "Bintang",
+      "Cahaya",
+      "Bulan"
+    ]
+  },
+  {
+    "index": 54,
+    "web": "md-code.xyz",
+    "soal": "........ ini kita akan bersama selamanya",
+    "jawaban": "Mungkin",
+    "pilihanJawaban": [
+      "Sementara",
+      "Pasti",
+      "Tidak",
+      "Mungkin",
+      "Selamanya"
+    ]
+  },
+  {
+    "index": 55,
+    "web": "md-code.xyz",
+    "soal": "Denganmu, ........ selalu tertawa",
+    "jawaban": "Hati",
+    "pilihanJawaban": [
+      "Hati",
+      "Mulut",
+      "Wajah",
+      "Bibir",
+      "Mata"
+    ]
+  },
+  {
+    "index": 56,
+    "web": "md-code.xyz",
+    "soal": "Cinta ........ selalu ada di antara kita",
+    "jawaban": "Sejati",
+    "pilihanJawaban": [
+      "Bersyarat",
+      "Mungkin",
+      "Sejati",
+      "Semu",
+      "Kemungkinan"
+    ]
+  },
+  {
+    "index": 57,
+    "web": "md-code.xyz",
+    "soal": "Dalam ........ cinta kita berdua merayakan",
+    "jawaban": "Malam",
+    "pilihanJawaban": [
+      "Pagi",
+      "Sore",
+      "Tengah hari",
+      "Malam",
+      "Siang"
+    ]
+  },
+  {
+    "index": 58,
+    "web": "md-code.xyz",
+    "soal": "Ketika malam tiba, bintang-bintang ........",
+    "jawaban": "Bersinar",
+    "pilihanJawaban": [
+      "Mati",
+      "Bersinar",
+      "Hilang",
+      "Tidur",
+      "Bersembunyi"
+    ]
+  },
+  {
+    "index": 59,
+    "web": "md-code.xyz",
+    "soal": "Hatiku ........ saat pertama kali ku melihatmu",
+    "jawaban": "Berdebar",
+    "pilihanJawaban": [
+      "Tenang",
+      "Sakit",
+      "Gelisah",
+      "Berdebar",
+      "Mati"
+    ]
+  },
+  {
+    "index": 60,
+    "web": "md-code.xyz",
+    "soal": "Cinta sejati takkan pernah ........",
+    "jawaban": "Pergi",
+    "pilihanJawaban": [
+      "Pergi",
+      "Berkembang",
+      "Hilang",
+      "Tiba",
+      "Datang"
+    ]
+  },
+  {
+    "index": 61,
+    "web": "md-code.xyz",
+    "soal": "........ ku berjalan sendiri di malam ini",
+    "jawaban": "Hati",
+    "pilihanJawaban": [
+      "Kaki",
+      "Bintang",
+      "Langkah",
+      "Mata",
+      "Hati"
+    ]
+  },
+  {
+    "index": 62,
+    "web": "md-code.xyz",
+    "soal": "Bersamamu, semua rasa menjadi ........",
+    "jawaban": "Indah",
+    "pilihanJawaban": [
+      "Menggembirakan",
+      "Sulit",
+      "Menyakitkan",
+      "Indah",
+      "Buruk"
+    ]
+  },
+  {
+    "index": 63,
+    "web": "md-code.xyz",
+    "soal": "Ketika ........ datang, ku akan menunggumu di sini",
+    "jawaban": "Malam",
+    "pilihanJawaban": [
+      "Pagi",
+      "Sore",
+      "Malam",
+      "Siang",
+      "Senja"
+    ]
+  },
+  {
+    "index": 64,
+    "web": "md-code.xyz",
+    "soal": "Di ........ ini, kita bersinar bersama",
+    "jawaban": "Senja",
+    "pilihanJawaban": [
+      "Tengah malam",
+      "Pagi",
+      "Sore",
+      "Malam",
+      "Senja"
+    ]
+  },
+  {
+    "index": 65,
+    "web": "md-code.xyz",
+    "soal": "Aku ingin ........ selamanya denganmu",
+    "jawaban": "Bersama",
+    "pilihanJawaban": [
+      "Menangis",
+      "Tersenyum",
+      "Sendiri",
+      "Bersama",
+      "Pergi"
+    ]
+  },
+  {
+    "index": 66,
+    "web": "md-code.xyz",
+    "soal": "Cinta ........ selalu ada di hatiku",
+    "jawaban": "Abadi",
+    "pilihanJawaban": [
+      "Abadi",
+      "Sementara",
+      "Baru",
+      "Lemah",
+      "Kuat"
+    ]
+  },
+  {
+    "index": 67,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ yang selalu ku cari",
+    "jawaban": "Cinta",
+    "pilihanJawaban": [
+      "Pacar",
+      "Sahabat",
+      "Cinta",
+      "Pekerjaan",
+      "Hobi"
+    ]
+  },
+  {
+    "index": 68,
+    "web": "md-code.xyz",
+    "soal": "Di ........ itu, kita tertawa bersama",
+    "jawaban": "Hujan",
+    "pilihanJawaban": [
+      "Badai",
+      "Angin",
+      "Matahari",
+      "Salju",
+      "Hujan"
+    ]
+  },
+  {
+    "index": 69,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ yang membuatku bahagia",
+    "jawaban": "Sumber",
+    "pilihanJawaban": [
+      "Batu",
+      "Hujan",
+      "Mimpi",
+      "Sumber",
+      "Cahaya"
+    ]
+  },
+  {
+    "index": 70,
+    "web": "md-code.xyz",
+    "soal": "Ketika ........ tiba, ku akan mencarimu",
+    "jawaban": "Pagi",
+    "pilihanJawaban": [
+      "Pagi",
+      "Tengah malam",
+      "Senja",
+      "Malam",
+      "Sore"
+    ]
+  },
+  {
+    "index": 71,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ yang selalu ku impikan",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Keajaiban",
+      "Cinta",
+      "Harapan",
+      "Kenyataan",
+      "Mimpi"
+    ]
+  },
+  {
+    "index": 72,
+    "web": "md-code.xyz",
+    "soal": "Cinta ........ seperti ombak di laut",
+    "jawaban": "Bebas",
+    "pilihanJawaban": [
+      "Riang",
+      "Sakit",
+      "Sempurna",
+      "Indah",
+      "Bebas"
+    ]
+  },
+  {
+    "index": 73,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ dalam setiap doaku",
+    "jawaban": "Jawaban",
+    "pilihanJawaban": [
+      "Pertanyaan",
+      "Mimpi",
+      "Jawaban",
+      "Cahaya",
+      "Harapan"
+    ]
+  },
+  {
+    "index": 74,
+    "web": "md-code.xyz",
+    "soal": "Ketika ........ datang, kau selalu ada di sisi",
+    "jawaban": "Malam",
+    "pilihanJawaban": [
+      "Pagi",
+      "Siang",
+      "Malam",
+      "Senja",
+      "Sore"
+    ]
+  },
+  {
+    "index": 75,
+    "web": "md-code.xyz",
+    "soal": "Di bawah ........ indah, kita bertemu pertama kali",
+    "jawaban": "Langit",
+    "pilihanJawaban": [
+      "Gunung",
+      "Lautan",
+      "Bintang",
+      "Langit",
+      "Pohon"
+    ]
+  },
+  {
+    "index": 76,
+    "web": "md-code.xyz",
+    "soal": "........ ku berjalan, tak pernah sendiri",
+    "jawaban": "Hati",
+    "pilihanJawaban": [
+      "Bintang",
+      "Kaki",
+      "Mata",
+      "Langkah",
+      "Hati"
+    ]
+  },
+  {
+    "index": 77,
+    "web": "md-code.xyz",
+    "soal": "Ketika ........ tiba, ku akan menunggumu di sini",
+    "jawaban": "Pagi",
+    "pilihanJawaban": [
+      "Pagi",
+      "Sore",
+      "Malam",
+      "Siang",
+      "Senja"
+    ]
+  },
+  {
+    "index": 78,
+    "web": "md-code.xyz",
+    "soal": "Di ........ ini, kita tertawa bersama",
+    "jawaban": "Pantai",
+    "pilihanJawaban": [
+      "Pantai",
+      "Matahari",
+      "Salju",
+      "Badai",
+      "Angin"
+    ]
+  },
+  {
+    "index": 79,
+    "web": "md-code.xyz",
+    "soal": "Aku rela ........ hatimu yang lain",
+    "jawaban": "Melepaskan",
+    "pilihanJawaban": [
+      "Menunggu",
+      "Melepaskan",
+      "Merindukan",
+      "Meninggalkan",
+      "Mencintai"
+    ]
+  },
+  {
+    "index": 80,
+    "web": "md-code.xyz",
+    "soal": "Tak pernah ternilai ........ dirimu padaku",
+    "jawaban": "Hargai",
+    "pilihanJawaban": [
+      "Lupakan",
+      "Tinggalkan",
+      "Butuhkan",
+      "Hargai",
+      "Cintai"
+    ]
+  },
+  {
+    "index": 81,
+    "web": "md-code.xyz",
+    "soal": "Saat ku lewati semua ........ ini",
+    "jawaban": "Cobaan",
+    "pilihanJawaban": [
+      "Cobaan",
+      "Masalah",
+      "Kesulitan",
+      "Pengalaman",
+      "Perjuangan"
+    ]
+  },
+  {
+    "index": 82,
+    "web": "md-code.xyz",
+    "soal": "Buatku ........ semua tentang dirimu",
+    "jawaban": "Berarti",
+    "pilihanJawaban": [
+      "Butuhkan",
+      "Berarti",
+      "Cintai",
+      "Lupakan",
+      "Tinggalkan"
+    ]
+  },
+  {
+    "index": 83,
+    "web": "md-code.xyz",
+    "soal": "Kau selalu ada ........ sisi ku",
+    "jawaban": "Di",
+    "pilihanJawaban": [
+      "Dekat",
+      "Di",
+      "Dalam",
+      "Tepi",
+      "Jauh"
+    ]
+  },
+  {
+    "index": 84,
+    "web": "md-code.xyz",
+    "soal": "Yang kuinginkan hanya ........ dirimu",
+    "jawaban": "Miliki",
+    "pilihanJawaban": [
+      "Tinggalkan",
+      "Lupakan",
+      "Cintai",
+      "Butuhkan",
+      "Miliki"
+    ]
+  },
+  {
+    "index": 85,
+    "web": "md-code.xyz",
+    "soal": "Kita ....... bagai langit dan bumi",
+    "jawaban": "Berbeda",
+    "pilihanJawaban": [
+      "Mirip",
+      "Tidak cocok",
+      "Tidak sejalan",
+      "Sama",
+      "Berbeda"
+    ]
+  },
+  {
+    "index": 86,
+    "web": "md-code.xyz",
+    "soal": "Jangan ....... hatiku yang rapuh ini",
+    "jawaban": "Sakitkan",
+    "pilihanJawaban": [
+      "Tinggalkan",
+      "Lupakan",
+      "Cintai",
+      "Butuhkan",
+      "Sakitkan"
+    ]
+  },
+  {
+    "index": 87,
+    "web": "md-code.xyz",
+    "soal": "Bila ku ....... lagi",
+    "jawaban": "Hilang",
+    "pilihanJawaban": [
+      "Cintai",
+      "Hilang",
+      "Lupakan",
+      "Tinggalkan",
+      "Butuhkan"
+    ]
+  },
+  {
+    "index": 88,
+    "web": "md-code.xyz",
+    "soal": "Hidup ini penuh .......",
+    "jawaban": "Misteri",
+    "pilihanJawaban": [
+      "Misteri",
+      "Rahasia",
+      "Tantangan",
+      "Kesulitan",
+      "Pertanyaan"
+    ]
+  },
+  {
+    "index": 89,
+    "web": "md-code.xyz",
+    "soal": "Semua ....... terasa indah",
+    "jawaban": "Kini",
+    "pilihanJawaban": [
+      "Lalu",
+      "Selalu",
+      "Nanti",
+      "Kini",
+      "Saat ini"
+    ]
+  },
+  {
+    "index": 90,
+    "web": "md-code.xyz",
+    "soal": "Jika ....... aku akan pergi",
+    "jawaban": "Kau bilang",
+    "pilihanJawaban": [
+      "Kau bilang",
+      "Kau suka",
+      "Kita bicara",
+      "Kau minta",
+      "Kita tahu"
+    ]
+  },
+  {
+    "index": 91,
+    "web": "md-code.xyz",
+    "soal": "Kau ....... aku di dalam hatimu",
+    "jawaban": "Simpan",
+    "pilihanJawaban": [
+      "Simpan",
+      "Cintai",
+      "Lupakan",
+      "Tinggalkan",
+      "Butuhkan"
+    ]
+  },
+  {
+    "index": 92,
+    "web": "md-code.xyz",
+    "soal": "....... ku terus berjuang",
+    "jawaban": "Biarlah",
+    "pilihanJawaban": [
+      "Ayo",
+      "Biarlah",
+      "Kita",
+      "Sekarang",
+      "Sama-sama"
+    ]
+  },
+  {
+    "index": 93,
+    "web": "md-code.xyz",
+    "soal": "Kau ....... bintang di malamku",
+    "jawaban": "Menjadi",
+    "pilihanJawaban": [
+      "Lupakan",
+      "Butuhkan",
+      "Cintai",
+      "Tinggalkan",
+      "Menjadi"
+    ]
+  },
+  {
+    "index": 94,
+    "web": "md-code.xyz",
+    "soal": "Kau yang selalu ada di ....... hatiku",
+    "jawaban": "Dalam",
+    "pilihanJawaban": [
+      "Dalam",
+      "Lupakan",
+      "Tinggalkan",
+      "Butuhkan",
+      "Cintai"
+    ]
+  },
+  {
+    "index": 95,
+    "web": "md-code.xyz",
+    "soal": "Kau buat aku ....... nyaman",
+    "jawaban": "Merasa",
+    "pilihanJawaban": [
+      "Merasa",
+      "Tinggalkan",
+      "Lupakan",
+      "Cintai",
+      "Butuhkan"
+    ]
+  },
+  {
+    "index": 96,
+    "web": "md-code.xyz",
+    "soal": "Aku ....... mencintaimu",
+    "jawaban": "Tetap",
+    "pilihanJawaban": [
+      "Butuhkan",
+      "Lupakan",
+      "Cintai",
+      "Tinggalkan",
+      "Tetap"
+    ]
+  },
+  {
+    "index": 97,
+    "web": "md-code.xyz",
+    "soal": "Kau yang selalu ....... dulu",
+    "jawaban": "Pergi",
+    "pilihanJawaban": [
+      "Lupakan",
+      "Pergi",
+      "Cintai",
+      "Tinggalkan",
+      "Butuhkan"
+    ]
+  },
+  {
+    "index": 98,
+    "web": "md-code.xyz",
+    "soal": "....... hanya untukmu",
+    "jawaban": "Aku",
+    "pilihanJawaban": [
+      "Aku",
+      "Sekarang",
+      "Sama-sama",
+      "Kita",
+      "Kau"
+    ]
+  },
+  {
+    "index": 99,
+    "web": "md-code.xyz",
+    "soal": "Kita berdua ....... dalam satu bintang",
+    "jawaban": "Terpisah",
+    "pilihanJawaban": [
+      "Bersatu",
+      "Bersama",
+      "Bertemu",
+      "Terpisah",
+      "Tersenyum"
+    ]
+  },
+  {
+    "index": 100,
+    "web": "md-code.xyz",
+    "soal": "Kau ....... air mata ini",
+    "jawaban": "Hapus",
+    "pilihanJawaban": [
+      "Tinggalkan",
+      "Butuhkan",
+      "Hapus",
+      "Lupakan",
+      "Cintai"
+    ]
+  },
+  {
+    "index": 101,
+    "web": "md-code.xyz",
+    "soal": "Saat kau ....... cinta di hatimu",
+    "jawaban": "Mengerti",
+    "pilihanJawaban": [
+      "Cintai",
+      "Tinggalkan",
+      "Butuhkan",
+      "Mengerti",
+      "Lupakan"
+    ]
+  },
+  {
+    "index": 102,
+    "web": "md-code.xyz",
+    "soal": "Kau bagai ....... di tengah malam",
+    "jawaban": "Bintang",
+    "pilihanJawaban": [
+      "Matahari",
+      "Awan",
+      "Bulan",
+      "Hujan",
+      "Bintang"
+    ]
+  },
+  {
+    "index": 103,
+    "web": "md-code.xyz",
+    "soal": "Semua akan ....... saat waktu t'lah tiba",
+    "jawaban": "Berakhir",
+    "pilihanJawaban": [
+      "Cintai",
+      "Butuhkan",
+      "Tinggalkan",
+      "Menghilang",
+      "Berakhir"
+    ]
+  },
+  {
+    "index": 104,
+    "web": "md-code.xyz",
+    "soal": "Aku ....... cinta yang indah",
+    "jawaban": "Rindu",
+    "pilihanJawaban": [
+      "Tinggalkan",
+      "Butuhkan",
+      "Lupakan",
+      "Cintai",
+      "Rindu"
+    ]
+  },
+  {
+    "index": 105,
+    "web": "md-code.xyz",
+    "soal": "Kau selalu di ....... hatiku",
+    "jawaban": "Dalam",
+    "pilihanJawaban": [
+      "Dalam",
+      "Lupakan",
+      "Tinggalkan",
+      "Butuhkan",
+      "Cintai"
+    ]
+  },
+  {
+    "index": 106,
+    "web": "md-code.xyz",
+    "soal": "Kau bagai ....... dalam tidurku",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Kenyataan",
+      "Mimpi",
+      "Cintai",
+      "Butuhkan",
+      "Lupakan"
+    ]
+  },
+  {
+    "index": 107,
+    "web": "md-code.xyz",
+    "soal": "Hilang ....... waktu",
+    "jawaban": "Tak terasa",
+    "pilihanJawaban": [
+      "Tak terasa",
+      "Cepat",
+      "Lama",
+      "Tinggi",
+      "Rendah"
+    ]
+  },
+  {
+    "index": 108,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ....... terindah",
+    "jawaban": "Kisah",
+    "pilihanJawaban": [
+      "Lupakan",
+      "Kisah",
+      "Butuhkan",
+      "Tinggalkan",
+      "Cintai"
+    ]
+  },
+  {
+    "index": 109,
+    "web": "md-code.xyz",
+    "soal": "....... ini adalah yang terbaik",
+    "jawaban": "Sekarang",
+    "pilihanJawaban": [
+      "Cintai",
+      "Butuhkan",
+      "Tinggalkan",
+      "Sekarang",
+      "Lalu"
+    ]
+  },
+  {
+    "index": 110,
+    "web": "md-code.xyz",
+    "soal": "Kita ....... di dunia yang penuh warna",
+    "jawaban": "Berdua",
+    "pilihanJawaban": [
+      "Bersama",
+      "Berdua",
+      "Tertawa",
+      "Berpisah",
+      "Sendiri"
+    ]
+  },
+  {
+    "index": 111,
+    "web": "md-code.xyz",
+    "soal": "Kau ....... di hatiku selamanya",
+    "jawaban": "Ada",
+    "pilihanJawaban": [
+      "Ada",
+      "Cintai",
+      "Lupakan",
+      "Butuhkan",
+      "Tinggalkan"
+    ]
+  },
+  {
+    "index": 112,
+    "web": "md-code.xyz",
+    "soal": "Kau yang selalu ....... di hatiku",
+    "jawaban": "Ada",
+    "pilihanJawaban": [
+      "Ada",
+      "Lupakan",
+      "Tinggalkan",
+      "Butuhkan",
+      "Cintai"
+    ]
+  },
+  {
+    "index": 113,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ....... ku",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Kenyataan",
+      "Cintai",
+      "Lupakan",
+      "Mimpi",
+      "Butuhkan"
+    ]
+  },
+  {
+    "index": 114,
+    "web": "md-code.xyz",
+    "soal": "Aku ....... kamu di sini",
+    "jawaban": "Rindu",
+    "pilihanJawaban": [
+      "Cintai",
+      "Tinggalkan",
+      "Rindu",
+      "Butuhkan",
+      "Lupakan"
+    ]
+  },
+  {
+    "index": 115,
+    "web": "md-code.xyz",
+    "soal": "Aku ....... cintamu di hatiku",
+    "jawaban": "Simpan",
+    "pilihanJawaban": [
+      "Cintai",
+      "Butuhkan",
+      "Tinggalkan",
+      "Lupakan",
+      "Simpan"
+    ]
+  },
+  {
+    "index": 116,
+    "web": "md-code.xyz",
+    "soal": "Kita ....... di bawah langit yang sama",
+    "jawaban": "Bersama",
+    "pilihanJawaban": [
+      "Berpisah",
+      "Berdua",
+      "Tertawa",
+      "Sendiri",
+      "Bersama"
+    ]
+  },
+  {
+    "index": 117,
+    "web": "md-code.xyz",
+    "soal": "Hati ini selalu ....... kepadamu",
+    "jawaban": "Merindu",
+    "pilihanJawaban": [
+      "Mengharapkan",
+      "Mencintaimu",
+      "Meninggalkan",
+      "Menyayangimu",
+      "Merindu"
+    ]
+  },
+  {
+    "index": 118,
+    "web": "md-code.xyz",
+    "soal": "Biarlah waktu yang menjawab semua ........",
+    "jawaban": "Pertanyaan",
+    "pilihanJawaban": [
+      "Pertanyaan",
+      "Perasaan",
+      "Kehendak",
+      "Keinginan",
+      "Masalah"
+    ]
+  },
+  {
+    "index": 119,
+    "web": "md-code.xyz",
+    "soal": "Kau buat aku ....... dengan cinta",
+    "jawaban": "Terbang",
+    "pilihanJawaban": [
+      "Melayang",
+      "Terbang",
+      "Hilang",
+      "Bahagia",
+      "Sadar"
+    ]
+  },
+  {
+    "index": 120,
+    "web": "md-code.xyz",
+    "soal": "Kita pernah ....... bersama",
+    "jawaban": "Bahagia",
+    "pilihanJawaban": [
+      "Berpisah",
+      "Menangis",
+      "Tertawa",
+      "Sedih",
+      "Bahagia"
+    ]
+  },
+  {
+    "index": 121,
+    "web": "md-code.xyz",
+    "soal": "Kau selalu ada di sisi ku, di ....... hatiku",
+    "jawaban": "Dalam",
+    "pilihanJawaban": [
+      "Kecil",
+      "Dalam",
+      "Sempit",
+      "Luar",
+      "Ruang"
+    ]
+  },
+  {
+    "index": 122,
+    "web": "md-code.xyz",
+    "soal": "Hidup ini adalah ....... yang indah",
+    "jawaban": "Perjalanan",
+    "pilihanJawaban": [
+      "Tantangan",
+      "Misteri",
+      "Petualangan",
+      "Perjalanan",
+      "Kisah"
+    ]
+  },
+  {
+    "index": 123,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah cinta yang selalu .......",
+    "jawaban": "Mengerti",
+    "pilihanJawaban": [
+      "Menanti",
+      "Merasakan",
+      "Mendengar",
+      "Menyayangi",
+      "Mengerti"
+    ]
+  },
+  {
+    "index": 124,
+    "web": "md-code.xyz",
+    "soal": "Bila ku ....... lagi, ku kan menjemputmu",
+    "jawaban": "Hilang",
+    "pilihanJawaban": [
+      "Hilang",
+      "Pergi",
+      "Datang",
+      "Muncul",
+      "Sadar"
+    ]
+  },
+  {
+    "index": 125,
+    "web": "md-code.xyz",
+    "soal": "Hati ini ....... hanya untukmu",
+    "jawaban": "Milik",
+    "pilihanJawaban": [
+      "Tersimpan",
+      "Sudah",
+      "Berbagi",
+      "Milik",
+      "Bukan"
+    ]
+  },
+  {
+    "index": 126,
+    "web": "md-code.xyz",
+    "soal": "Saat ku lihat mata indahmu, hatiku .......",
+    "jawaban": "Bergetar",
+    "pilihanJawaban": [
+      "Terpukau",
+      "Menghentak",
+      "Bergetar",
+      "Tersenyum",
+      "Terpesona"
+    ]
+  },
+  {
+    "index": 127,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ....... yang kuinginkan",
+    "jawaban": "Segalanya",
+    "pilihanJawaban": [
+      "Segalanya",
+      "Harapan",
+      "Cinta",
+      "Kisah",
+      "Sosok"
+    ]
+  },
+  {
+    "index": 128,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ yang ku impikan",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Butuhkan",
+      "Lupakan",
+      "Cintai",
+      "Kenyataan",
+      "Mimpi"
+    ]
+  },
+  {
+    "index": 129,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ....... di setiap langkahku",
+    "jawaban": "Mentari",
+    "pilihanJawaban": [
+      "Senja",
+      "Pagi",
+      "Malam",
+      "Bulan",
+      "Mentari"
+    ]
+  },
+  {
+    "index": 130,
+    "web": "md-code.xyz",
+    "soal": "Takkan pernah bisa ....... dirimu",
+    "jawaban": "Meninggalkan",
+    "pilihanJawaban": [
+      "Menghianati",
+      "Meninggalkan",
+      "Melupakan",
+      "Mencintai",
+      "Mengabaikan"
+    ]
+  },
+  {
+    "index": 131,
+    "web": "md-code.xyz",
+    "soal": "Kita berdua di dunia yang penuh ........",
+    "jawaban": "Warna",
+    "pilihanJawaban": [
+      "Keindahan",
+      "Cinta",
+      "Kisah",
+      "Keajaiban",
+      "Warna"
+    ]
+  },
+  {
+    "index": 132,
+    "web": "md-code.xyz",
+    "soal": "Kau yang selalu ada di ........ hatiku",
+    "jawaban": "Sisi",
+    "pilihanJawaban": [
+      "Sisi",
+      "Kecil",
+      "Sempit",
+      "Dalam",
+      "Ruang"
+    ]
+  },
+  {
+    "index": 133,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ....... yang kusayangi",
+    "jawaban": "Cintaku",
+    "pilihanJawaban": [
+      "Segalanya",
+      "Cintaku",
+      "Kisah",
+      "Harapan",
+      "Sosok"
+    ]
+  },
+  {
+    "index": 134,
+    "web": "md-code.xyz",
+    "soal": "Saat kau pergi, hatiku .......",
+    "jawaban": "Sakiti",
+    "pilihanJawaban": [
+      "Sakiti",
+      "Lupakan",
+      "Tinggalkan",
+      "Butuhkan",
+      "Cintai"
+    ]
+  },
+  {
+    "index": 135,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ....... dalam hidupku",
+    "jawaban": "Arti",
+    "pilihanJawaban": [
+      "Harapan",
+      "Segalanya",
+      "Kisah",
+      "Sosok",
+      "Arti"
+    ]
+  },
+  {
+    "index": 136,
+    "web": "md-code.xyz",
+    "soal": "Kau selalu ada di ........ hatiku",
+    "jawaban": "Dalam",
+    "pilihanJawaban": [
+      "Dalam",
+      "Luar",
+      "Sempit",
+      "Ruang",
+      "Kecil"
+    ]
+  },
+  {
+    "index": 137,
+    "web": "md-code.xyz",
+    "soal": "Bersama dirimu aku ....... dunia",
+    "jawaban": "Terangi",
+    "pilihanJawaban": [
+      "Terangi",
+      "Gelapkan",
+      "Lupakan",
+      "Cintai",
+      "Tinggalkan"
+    ]
+  },
+  {
+    "index": 138,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ yang indah",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Mimpi",
+      "Kenyataan",
+      "Kisah",
+      "Cinta",
+      "Harapan"
+    ]
+  },
+  {
+    "index": 139,
+    "web": "md-code.xyz",
+    "soal": "Kita ....... di bawah bintang yang sama",
+    "jawaban": "Bersinar",
+    "pilihanJawaban": [
+      "Berpisah",
+      "Bersama",
+      "Bersinar",
+      "Bertemu",
+      "Bertawa"
+    ]
+  },
+  {
+    "index": 140,
+    "web": "md-code.xyz",
+    "soal": "Kau selalu ada di ....... hatiku",
+    "jawaban": "Sisi",
+    "pilihanJawaban": [
+      "Sisi",
+      "Dalam",
+      "Ruang",
+      "Kecil",
+      "Sempit"
+    ]
+  },
+  {
+    "index": 141,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ....... yang ku impikan",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Cintai",
+      "Kenyataan",
+      "Butuhkan",
+      "Lupakan",
+      "Mimpi"
+    ]
+  },
+  {
+    "index": 142,
+    "web": "md-code.xyz",
+    "soal": "Kau yang ......... hatiku",
+    "jawaban": "merusak",
+    "pilihanJawaban": [
+      "merusak",
+      "memenuhi",
+      "mengisi",
+      "membakar",
+      "menyentuh"
+    ]
+  },
+  {
+    "index": 143,
+    "web": "md-code.xyz",
+    "soal": "Di depan ........ bunga",
+    "jawaban": "rumahku",
+    "pilihanJawaban": [
+      "rumahku",
+      "rumahmu",
+      "taman",
+      "kantorku",
+      "jalan"
+    ]
+  },
+  {
+    "index": 144,
+    "web": "md-code.xyz",
+    "soal": "Bukan ........ biasa",
+    "jawaban": "sekali",
+    "pilihanJawaban": [
+      "sayang",
+      "berarti",
+      "sungguh",
+      "selalu",
+      "sekali"
+    ]
+  },
+  {
+    "index": 145,
+    "web": "md-code.xyz",
+    "soal": "Tak perlu ........ di sini",
+    "jawaban": "ribut",
+    "pilihanJawaban": [
+      "ribut",
+      "berpikir",
+      "berbicara",
+      "tersenyum",
+      "menangis"
+    ]
+  },
+  {
+    "index": 146,
+    "web": "md-code.xyz",
+    "soal": "......... seperti biasa",
+    "jawaban": "hidup",
+    "pilihanJawaban": [
+      "merasa",
+      "terhenti",
+      "hidup",
+      "terjaga",
+      "menari"
+    ]
+  },
+  {
+    "index": 147,
+    "web": "md-code.xyz",
+    "soal": "......... tanda tanya",
+    "jawaban": "seribu",
+    "pilihanJawaban": [
+      "tertawa",
+      "berlari",
+      "bergembira",
+      "menari",
+      "seribu"
+    ]
+  },
+  {
+    "index": 148,
+    "web": "md-code.xyz",
+    "soal": "......... hujan datang",
+    "jawaban": "setelah",
+    "pilihanJawaban": [
+      "sebentar",
+      "saat",
+      "sebelum",
+      "setelah",
+      "saat-saat"
+    ]
+  },
+  {
+    "index": 149,
+    "web": "md-code.xyz",
+    "soal": "Kau ........ di hatiku",
+    "jawaban": "yang",
+    "pilihanJawaban": [
+      "yang",
+      "akan",
+      "sudah",
+      "adalah",
+      "selalu"
+    ]
+  },
+  {
+    "index": 150,
+    "web": "md-code.xyz",
+    "soal": "......... engkau sakit",
+    "jawaban": "saat",
+    "pilihanJawaban": [
+      "dalam",
+      "saat",
+      "ketika",
+      "sejak",
+      "jika"
+    ]
+  },
+  {
+    "index": 151,
+    "web": "md-code.xyz",
+    "soal": "Aku ......... semua tentangmu",
+    "jawaban": "tahu",
+    "pilihanJawaban": [
+      "memahami",
+      "melupakan",
+      "tahu",
+      "mencintai",
+      "mengerti"
+    ]
+  },
+  {
+    "index": 152,
+    "web": "md-code.xyz",
+    "soal": ".......... yang terpenting",
+    "jawaban": "kebahagiaan",
+    "pilihanJawaban": [
+      "Perpisahan",
+      "Cinta",
+      "Kebahagiaan",
+      "Kekuatan",
+      "Kesedihan"
+    ]
+  },
+  {
+    "index": 153,
+    "web": "md-code.xyz",
+    "soal": "Biar ........ teringat",
+    "jawaban": "lama",
+    "pilihanJawaban": [
+      "jangan",
+      "senyum",
+      "lama",
+      "menangis",
+      "marah"
+    ]
+  },
+  {
+    "index": 154,
+    "web": "md-code.xyz",
+    "soal": ".......... kau pergi",
+    "jawaban": "takkan",
+    "pilihanJawaban": [
+      "Mungkin",
+      "Tiba-tiba",
+      "Terkadang",
+      "Takkan",
+      "Selalu"
+    ]
+  },
+  {
+    "index": 155,
+    "web": "md-code.xyz",
+    "soal": "......... ini yang terakhir",
+    "jawaban": "mungkin",
+    "pilihanJawaban": [
+      "Sekarang",
+      "Mungkin",
+      "Pasti",
+      "Sudah",
+      "Tentu"
+    ]
+  },
+  {
+    "index": 156,
+    "web": "md-code.xyz",
+    "soal": "Kau ........ selalu di hatiku",
+    "jawaban": "ada",
+    "pilihanJawaban": [
+      "selalu",
+      "sudah",
+      "ada",
+      "pasti",
+      "takkan"
+    ]
+  },
+  {
+    "index": 157,
+    "web": "md-code.xyz",
+    "soal": ".......... yang terucap",
+    "jawaban": "terlambat",
+    "pilihanJawaban": [
+      "Cinta",
+      "Tulus",
+      "Bahagia",
+      "Terlambat",
+      "Kecewa"
+    ]
+  },
+  {
+    "index": 158,
+    "web": "md-code.xyz",
+    "soal": "Aku ........ kepadamu",
+    "jawaban": "menangis",
+    "pilihanJawaban": [
+      "menangis",
+      "mendengarkan",
+      "menginginkan",
+      "menyanyikan",
+      "menghormati"
+    ]
+  },
+  {
+    "index": 159,
+    "web": "md-code.xyz",
+    "soal": ".......... yang tersisa",
+    "jawaban": "hanya",
+    "pilihanJawaban": [
+      "Cinta",
+      "Kecewa",
+      "Bahagia",
+      "Tulus",
+      "Hanya"
+    ]
+  },
+  {
+    "index": 160,
+    "web": "md-code.xyz",
+    "soal": "Bersamamu ........ bahagia",
+    "jawaban": "aku",
+    "pilihanJawaban": [
+      "kita",
+      "aku",
+      "dia",
+      "mereka",
+      "saya"
+    ]
+  },
+  {
+    "index": 161,
+    "web": "md-code.xyz",
+    "soal": "Kini ........ semua",
+    "jawaban": "pahit",
+    "pilihanJawaban": [
+      "tawar",
+      "manis",
+      "pahit",
+      "asam",
+      "pedas"
+    ]
+  },
+  {
+    "index": 162,
+    "web": "md-code.xyz",
+    "soal": ".......... malam ini ku rindu",
+    "jawaban": "sepi",
+    "pilihanJawaban": [
+      "sepi",
+      "sendiri",
+      "gelap",
+      "sunyi",
+      "dingin"
+    ]
+  },
+  {
+    "index": 163,
+    "web": "md-code.xyz",
+    "soal": "Kau buat aku jadi .........",
+    "jawaban": "begitu",
+    "pilihanJawaban": [
+      "begitu",
+      "kacau",
+      "bingung",
+      "bahagia",
+      "sedih"
+    ]
+  },
+  {
+    "index": 164,
+    "web": "md-code.xyz",
+    "soal": "Kau ........ dalam benakku",
+    "jawaban": "selalu",
+    "pilihanJawaban": [
+      "kadang",
+      "juga",
+      "ada",
+      "sering",
+      "selalu"
+    ]
+  },
+  {
+    "index": 165,
+    "web": "md-code.xyz",
+    "soal": "......... menyenangkan hati",
+    "jawaban": "senyummu",
+    "pilihanJawaban": [
+      "berjalanmu",
+      "senyummu",
+      "tatapanmu",
+      "pelukanmu",
+      "bicaramu"
+    ]
+  },
+  {
+    "index": 166,
+    "web": "md-code.xyz",
+    "soal": "Di sini ........ ku berpijak",
+    "jawaban": "tempat",
+    "pilihanJawaban": [
+      "jalan",
+      "mimpi",
+      "pintu",
+      "tempat",
+      "hati"
+    ]
+  },
+  {
+    "index": 167,
+    "web": "md-code.xyz",
+    "soal": "Kau ........ datang padaku",
+    "jawaban": "sudah",
+    "pilihanJawaban": [
+      "juga",
+      "sudah",
+      "kemarin",
+      "terlalu",
+      "selalu"
+    ]
+  },
+  {
+    "index": 168,
+    "web": "md-code.xyz",
+    "soal": "Kau selalu ......... di sini",
+    "jawaban": "ada",
+    "pilihanJawaban": [
+      "ada",
+      "senyum",
+      "pergi",
+      "menunggu",
+      "bahagia"
+    ]
+  },
+  {
+    "index": 169,
+    "web": "md-code.xyz",
+    "soal": "Tak pernah ......... lelah",
+    "jawaban": "akan",
+    "pilihanJawaban": [
+      "berhenti",
+      "mengerti",
+      "terhenti",
+      "selalu",
+      "akan"
+    ]
+  },
+  {
+    "index": 170,
+    "web": "md-code.xyz",
+    "soal": "Kau ........ ku rindu",
+    "jawaban": "yang",
+    "pilihanJawaban": [
+      "sudah",
+      "selalu",
+      "menghantui",
+      "menyentuh",
+      "yang"
+    ]
+  },
+  {
+    "index": 171,
+    "web": "md-code.xyz",
+    "soal": "Aku ......... duniamu",
+    "jawaban": "dalam",
+    "pilihanJawaban": [
+      "menuju",
+      "dalam",
+      "ke",
+      "di",
+      "lupa"
+    ]
+  },
+  {
+    "index": 172,
+    "web": "md-code.xyz",
+    "soal": ".......... yang tak terungkap",
+    "jawaban": "perasaan",
+    "pilihanJawaban": [
+      "Perasaan",
+      "Takdir",
+      "Rasa",
+      "Niat",
+      "Cinta"
+    ]
+  },
+  {
+    "index": 173,
+    "web": "md-code.xyz",
+    "soal": "......... kau mengerti",
+    "jawaban": "bila",
+    "pilihanJawaban": [
+      "Bila",
+      "Tapi",
+      "Jika",
+      "Saat",
+      "Nanti"
+    ]
+  },
+  {
+    "index": 174,
+    "web": "md-code.xyz",
+    "soal": "Ku ingin ......... bahagia",
+    "jawaban": "kau",
+    "pilihanJawaban": [
+      "aku",
+      "mereka",
+      "semua",
+      "kau",
+      "sama"
+    ]
+  },
+  {
+    "index": 175,
+    "web": "md-code.xyz",
+    "soal": "......... saat bersamamu",
+    "jawaban": "bahagia",
+    "pilihanJawaban": [
+      "Bahagia",
+      "Sedih",
+      "Kecewa",
+      "Cinta",
+      "Takut"
+    ]
+  },
+  {
+    "index": 176,
+    "web": "md-code.xyz",
+    "soal": ".......... kau datang padaku",
+    "jawaban": "tiba-tiba",
+    "pilihanJawaban": [
+      "Lama",
+      "Tiba-tiba",
+      "Terkadang",
+      "Selalu",
+      "Mungkin"
+    ]
+  },
+  {
+    "index": 177,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah .........",
+    "jawaban": "segalanya",
+    "pilihanJawaban": [
+      "bagian",
+      "penting",
+      "satu-satunya",
+      "terbaik",
+      "segalanya"
+    ]
+  },
+  {
+    "index": 178,
+    "web": "md-code.xyz",
+    "soal": "Aku ......... selalu di sini",
+    "jawaban": "ada",
+    "pilihanJawaban": [
+      "pasti",
+      "ada",
+      "takkan",
+      "sudah",
+      "selalu"
+    ]
+  },
+  {
+    "index": 179,
+    "web": "md-code.xyz",
+    "soal": "......... yang tersisa",
+    "jawaban": "hanya",
+    "pilihanJawaban": [
+      "Cinta",
+      "Kecewa",
+      "Bahagia",
+      "Tulus",
+      "Hanya"
+    ]
+  },
+  {
+    "index": 180,
+    "web": "md-code.xyz",
+    "soal": "......... malam ini ku rindu",
+    "jawaban": "sepi",
+    "pilihanJawaban": [
+      "sendiri",
+      "sepi",
+      "sunyi",
+      "gelap",
+      "dingin"
+    ]
+  },
+  {
+    "index": 181,
+    "web": "md-code.xyz",
+    "soal": "Kau ........ cintaku, cintaku padamu tak kan pernah berubah",
+    "jawaban": "Segalanya",
+    "pilihanJawaban": [
+      "Segalanya",
+      "Tahu",
+      "Rasakan",
+      "Sempurna",
+      "Mengerti"
+    ]
+  },
+  {
+    "index": 182,
+    "web": "md-code.xyz",
+    "soal": "Bukalah jendela ........ kau akan melihat semua",
+    "jawaban": "Hatimu",
+    "pilihanJawaban": [
+      "Perasaan",
+      "Cintaku",
+      "Hatimu",
+      "Dunia",
+      "Bahagia"
+    ]
+  },
+  {
+    "index": 183,
+    "web": "md-code.xyz",
+    "soal": "Kau bagai ........ yang selalu ku nanti",
+    "jawaban": "Bulan",
+    "pilihanJawaban": [
+      "Matahari",
+      "Bulan",
+      "Hujan",
+      "Bintang",
+      "Mimpi"
+    ]
+  },
+  {
+    "index": 184,
+    "web": "md-code.xyz",
+    "soal": "Pergi ........ kau pergi, aku tak akan menghindar",
+    "jawaban": "Kemana",
+    "pilihanJawaban": [
+      "Kemari",
+      "Kemana",
+      "Mana",
+      "Sana",
+      "Sini"
+    ]
+  },
+  {
+    "index": 185,
+    "web": "md-code.xyz",
+    "soal": "Jangan kau lepaskan ........ tangan ini",
+    "jawaban": "Seperti",
+    "pilihanJawaban": [
+      "Hati",
+      "Kasih",
+      "Rindu",
+      "Cinta",
+      "Seperti"
+    ]
+  },
+  {
+    "index": 186,
+    "web": "md-code.xyz",
+    "soal": "Aku tak pernah ........ terlalu jauh darimu",
+    "jawaban": "Berpikir",
+    "pilihanJawaban": [
+      "Mengerti",
+      "Berpikir",
+      "Pandai",
+      "Mencintaimu",
+      "Pergi"
+    ]
+  },
+  {
+    "index": 187,
+    "web": "md-code.xyz",
+    "soal": "Malam ini ku ....... terlalu banyak",
+    "jawaban": "Merindukan",
+    "pilihanJawaban": [
+      "Tidak tidur",
+      "Merindukan",
+      "Menangis",
+      "Berpikir",
+      "Menginginkan"
+    ]
+  },
+  {
+    "index": 188,
+    "web": "md-code.xyz",
+    "soal": "Aku ingin ........ hatimu yang dulu",
+    "jawaban": "Kembali",
+    "pilihanJawaban": [
+      "Melupakan",
+      "Kembali",
+      "Merindukan",
+      "Menginginkan",
+      "Menangis"
+    ]
+  },
+  {
+    "index": 189,
+    "web": "md-code.xyz",
+    "soal": "Terlalu banyak ........ dalam hidup ini",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Cinta",
+      "Kesalahan",
+      "Rahasia",
+      "Harapan",
+      "Mimpi"
+    ]
+  },
+  {
+    "index": 190,
+    "web": "md-code.xyz",
+    "soal": "Hanya ........ yang bisa menggantikanmu",
+    "jawaban": "Dirimu",
+    "pilihanJawaban": [
+      "Seseorang",
+      "Dirimu",
+      "Aku",
+      "Dunia",
+      "Kau"
+    ]
+  },
+  {
+    "index": 191,
+    "web": "md-code.xyz",
+    "soal": "Saat engkau jauh, ........ ku kirimkan padamu",
+    "jawaban": "Doa",
+    "pilihanJawaban": [
+      "Hati",
+      "Cinta",
+      "Harapan",
+      "Kasih",
+      "Doa"
+    ]
+  },
+  {
+    "index": 192,
+    "web": "md-code.xyz",
+    "soal": "Hilangkan ........ yang terlalu lama",
+    "jawaban": "Rindu",
+    "pilihanJawaban": [
+      "Takut",
+      "Doa",
+      "Kasih",
+      "Rindu",
+      "Cinta"
+    ]
+  },
+  {
+    "index": 193,
+    "web": "md-code.xyz",
+    "soal": "Dalam ........ hati, kau adalah yang terbaik",
+    "jawaban": "Lubuk",
+    "pilihanJawaban": [
+      "Lubuk",
+      "Mimpi",
+      "Cinta",
+      "Doa",
+      "Hati"
+    ]
+  },
+  {
+    "index": 194,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ yang paling berharga",
+    "jawaban": "Harta",
+    "pilihanJawaban": [
+      "Doa",
+      "Rindu",
+      "Mimpi",
+      "Harta",
+      "Cinta"
+    ]
+  },
+  {
+    "index": 195,
+    "web": "md-code.xyz",
+    "soal": "Jangan ........ matahari terbenam",
+    "jawaban": "Lupakan",
+    "pilihanJawaban": [
+      "Rindu",
+      "Cintai",
+      "Menangis",
+      "Ingat",
+      "Lupakan"
+    ]
+  },
+  {
+    "index": 196,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ dalam hatiku",
+    "jawaban": "Bahagia",
+    "pilihanJawaban": [
+      "Harapan",
+      "Mimpi",
+      "Cinta",
+      "Bahagia",
+      "Rindu"
+    ]
+  },
+  {
+    "index": 197,
+    "web": "md-code.xyz",
+    "soal": "Kau adalah ........ yang terindah dalam hidupku",
+    "jawaban": "Bunga",
+    "pilihanJawaban": [
+      "Langit",
+      "Pohon",
+      "Bintang",
+      "Matahari",
+      "Bunga"
+    ]
+  },
+  {
+    "index": 198,
+    "web": "md-code.xyz",
+    "soal": "Di antara ........ kita, hanya kau yang ku sayang",
+    "jawaban": "Ratusan",
+    "pilihanJawaban": [
+      "Ratusan",
+      "Jutaan",
+      "Bunga",
+      "Milion",
+      "Pohon"
+    ]
+  },
+  {
+    "index": 199,
+    "web": "md-code.xyz",
+    "soal": "Jika ........ ku adalah kamu, kenapa harus ku miliki",
+    "jawaban": "Rindu",
+    "pilihanJawaban": [
+      "Bahagia",
+      "Cinta",
+      "Rindu",
+      "Sakit",
+      "Kasih"
+    ]
+  },
+  {
+    "index": 200,
+    "web": "md-code.xyz",
+    "soal": "Hujan ........ tanda mulai rindu",
+    "jawaban": "Turun",
+    "pilihanJawaban": [
+      "Reda",
+      "Pergi",
+      "Turun",
+      "Datang",
+      "Menghilang"
+    ]
+  }
+]

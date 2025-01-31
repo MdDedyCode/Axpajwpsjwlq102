@@ -1,0 +1,2615 @@
+[
+  {
+    "index": 0,
+    "web": "md-code.xyz",
+    "soal": "Saat matahari terbenam, kita bisa melihat ... yang muncul di ufuk.",
+    "jawaban": "siluet pegunungan",
+    "pilihanJawaban": [
+      "siluet kota",
+      "siluet sungai",
+      "siluet laut",
+      "siluet pegunungan",
+      "siluet pohon"
+    ]
+  },
+  {
+    "index": 1,
+    "web": "md-code.xyz",
+    "soal": "Di malam yang cerah, kita bisa melihat ... di atas atap rumah.",
+    "jawaban": "satelit alami",
+    "pilihanJawaban": [
+      "bintang-bintang",
+      "pesawat terbang",
+      "meteor",
+      "satelit alami",
+      "bulu babi"
+    ]
+  },
+  {
+    "index": 2,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang dingin, kita sering berkumpul di sekitar ... untuk menghangatkan diri.",
+    "jawaban": "api unggun",
+    "pilihanJawaban": [
+      "alat pemanggang",
+      "batu bara",
+      "kompor gas",
+      "lampu minyak",
+      "api unggun"
+    ]
+  },
+  {
+    "index": 3,
+    "web": "md-code.xyz",
+    "soal": "Saat hujan turun, kita sering melihat ... yang bersinar di langit.",
+    "jawaban": "kilat",
+    "pilihanJawaban": [
+      "kilat",
+      "hujan lebat",
+      "badai",
+      "pelangi",
+      "awan mendung"
+    ]
+  },
+  {
+    "index": 4,
+    "web": "md-code.xyz",
+    "soal": "Dalam cuaca yang panas, kita mencari ... untuk berteduh.",
+    "jawaban": "pohon rindang",
+    "pilihanJawaban": [
+      "pohon rindang",
+      "gubuk",
+      "payung",
+      "batu besar",
+      "kolam renang"
+    ]
+  },
+  {
+    "index": 5,
+    "web": "md-code.xyz",
+    "soal": "Saat angin berhembus kencang, kita sering mendengar suara ... di pohon-pohon.",
+    "jawaban": "dedaunan berdesir",
+    "pilihanJawaban": [
+      "kucing mengiau",
+      "burung bernyanyi",
+      "hujan lebat",
+      "dedaunan berdesir",
+      "pohon tumbang"
+    ]
+  },
+  {
+    "index": 6,
+    "web": "md-code.xyz",
+    "soal": "Pada pagi yang cerah, kita bisa melihat ... di tengah taman.",
+    "jawaban": "burung berkicau",
+    "pilihanJawaban": [
+      "hujan turun",
+      "burung bernyanyi",
+      "angin berbisik",
+      "bunga-bunga mekar",
+      "air terjun"
+    ]
+  },
+  {
+    "index": 7,
+    "web": "md-code.xyz",
+    "soal": "Saat matahari terbit, kita bisa melihat ... di ufuk timur.",
+    "jawaban": "awan merah",
+    "pilihanJawaban": [
+      "bulu babi",
+      "bintang jatuh",
+      "burung terbang",
+      "awan putih",
+      "siluet gunung"
+    ]
+  },
+  {
+    "index": 8,
+    "web": "md-code.xyz",
+    "soal": "Di dalam rumah yang gelap, kita bisa melihat ... di langit-langit.",
+    "jawaban": "bayangan hantu",
+    "pilihanJawaban": [
+      "kursi goyang",
+      "jendela pecah",
+      "lukisan",
+      "jejak lumut",
+      "pintu kayu"
+    ]
+  },
+  {
+    "index": 9,
+    "web": "md-code.xyz",
+    "soal": "Saat hujan turun, kita bisa mendengar ... di atap rumah.",
+    "jawaban": "suara hujan",
+    "pilihanJawaban": [
+      "suara angin",
+      "tetesan air hujan",
+      "kereta api",
+      "genting bocor",
+      "burung hujan"
+    ]
+  },
+  {
+    "index": 10,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang sunyi, kita bisa mendengar ... dari dalam hutan.",
+    "jawaban": "suara serigala",
+    "pilihanJawaban": [
+      "suara serigala",
+      "misterius",
+      "suara angin",
+      "seram",
+      "ulat bulu"
+    ]
+  },
+  {
+    "index": 11,
+    "web": "md-code.xyz",
+    "soal": "Saat matahari terbit, langit sering berubah menjadi warna ... yang indah.",
+    "jawaban": "merah muda",
+    "pilihanJawaban": [
+      "merah muda",
+      "oranje",
+      "kuning",
+      "hijau",
+      "biru"
+    ]
+  },
+  {
+    "index": 12,
+    "web": "md-code.xyz",
+    "soal": "Dalam cuaca yang cerah, kita bisa melihat ... terbang di langit biru.",
+    "jawaban": "paralayang",
+    "pilihanJawaban": [
+      "elang",
+      "burung hantu",
+      "kupu-kupu",
+      "burung pemangsa",
+      "paralayang"
+    ]
+  },
+  {
+    "index": 13,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang dingin, kita sering berkumpul di dekat ... untuk menghangatkan diri.",
+    "jawaban": "perapian",
+    "pilihanJawaban": [
+      "kompor",
+      "lampu",
+      "mesin",
+      "perapian",
+      "sumber cahaya"
+    ]
+  },
+  {
+    "index": 14,
+    "web": "md-code.xyz",
+    "soal": "Saat angin berhembus kencang, kita sering mendengar suara ... pohon.",
+    "jawaban": "dedaunan terseret",
+    "pilihanJawaban": [
+      "melengking",
+      "bergoyang",
+      "bergerak",
+      "berteriak",
+      "dedaunan terseret"
+    ]
+  },
+  {
+    "index": 15,
+    "web": "md-code.xyz",
+    "soal": "Pada pagi yang cerah, kita bisa mendengar suara ... dari taman bermain dekatnya.",
+    "jawaban": "anak-anak bermain riang",
+    "pilihanJawaban": [
+      "bel sekolah berdering",
+      "klakson mobil",
+      "musik merdu",
+      "bis kota berhenti",
+      "anak-anak bermain riang"
+    ]
+  },
+  {
+    "index": 16,
+    "web": "md-code.xyz",
+    "soal": "Saat hujan turun, kita bisa melihat ... di jalan.",
+    "jawaban": "banjir",
+    "pilihanJawaban": [
+      "kendaraan",
+      "batu besar",
+      "banjir",
+      "genangan air",
+      "kereta api"
+    ]
+  },
+  {
+    "index": 17,
+    "web": "md-code.xyz",
+    "soal": "Di dalam hutan yang lebat, terdapat suara ... yang menghentak.",
+    "jawaban": "deru air terjun",
+    "pilihanJawaban": [
+      "burung",
+      "deru air terjun",
+      "teriakan binatang",
+      "angin",
+      "deru ombak"
+    ]
+  },
+  {
+    "index": 18,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang sunyi, kita bisa mendengar ... dari perapian.",
+    "jawaban": "suara kayu terbakar",
+    "pilihanJawaban": [
+      "angin berbisik",
+      "suara kayu terbakar",
+      "suara dedaunan kering",
+      "burung bernyanyi",
+      "suara hujan"
+    ]
+  },
+  {
+    "index": 19,
+    "web": "md-code.xyz",
+    "soal": "Saat matahari terbenam, kita bisa melihat ... yang merambat di langit.",
+    "jawaban": "warna merah",
+    "pilihanJawaban": [
+      "warna hijau",
+      "warna merah",
+      "warna ungu",
+      "warna biru",
+      "warna kuning"
+    ]
+  },
+  {
+    "index": 20,
+    "web": "md-code.xyz",
+    "soal": "Di malam yang cerah, kita bisa melihat ... yang bersinar di langit.",
+    "jawaban": "bulan purnama",
+    "pilihanJawaban": [
+      "meteor",
+      "bulan purnama",
+      "awan",
+      "matahari terbenam",
+      "bintang-bintang"
+    ]
+  },
+  {
+    "index": 21,
+    "web": "md-code.xyz",
+    "soal": "Saat hujan turun, kita sering melihat ... yang indah di langit.",
+    "jawaban": "pelangi",
+    "pilihanJawaban": [
+      "kilat",
+      "hujan lebat",
+      "badai",
+      "pelangi",
+      "awan mendung"
+    ]
+  },
+  {
+    "index": 22,
+    "web": "md-code.xyz",
+    "soal": "Saat matahari terbit, langit sering berubah menjadi warna ... yang memukau.",
+    "jawaban": "oranje",
+    "pilihanJawaban": [
+      "kuning",
+      "oranje",
+      "merah muda",
+      "hijau",
+      "biru"
+    ]
+  },
+  {
+    "index": 23,
+    "web": "md-code.xyz",
+    "soal": "Di dalam hutan yang lebat, terdapat suara ... yang merdu.",
+    "jawaban": "burung berkicau",
+    "pilihanJawaban": [
+      "burung berkicau",
+      "teriakan binatang",
+      "angin",
+      "burung",
+      "deru air terjun"
+    ]
+  },
+  {
+    "index": 24,
+    "web": "md-code.xyz",
+    "soal": "Saat matahari terbenam, kita bisa melihat ... yang menyinari langit.",
+    "jawaban": "sinar emas",
+    "pilihanJawaban": [
+      "sinar putih",
+      "sinar biru",
+      "sinar merah",
+      "sinar emas",
+      "sinar keemasan"
+    ]
+  },
+  {
+    "index": 25,
+    "web": "md-code.xyz",
+    "soal": "Di malam yang cerah, kita bisa melihat ... yang terhampar di langit.",
+    "jawaban": "bintang-bintang",
+    "pilihanJawaban": [
+      "awan",
+      "meteor",
+      "bintang-bintang",
+      "matahari",
+      "bulan"
+    ]
+  },
+  {
+    "index": 26,
+    "web": "md-code.xyz",
+    "soal": "Saat matahari terbenam, kita bisa melihat ... dari jauh.",
+    "jawaban": "awan merah",
+    "pilihanJawaban": [
+      "awan merah",
+      "awan biru",
+      "awan hitam",
+      "awan putih",
+      "awan ungu"
+    ]
+  },
+  {
+    "index": 27,
+    "web": "md-code.xyz",
+    "soal": "Di malam yang cerah, kita bisa melihat ... di langit.",
+    "jawaban": "meteor",
+    "pilihanJawaban": [
+      "matahari",
+      "bintang",
+      "bulan",
+      "meteor",
+      "awan"
+    ]
+  },
+  {
+    "index": 28,
+    "web": "md-code.xyz",
+    "soal": "Saat hujan turun, kita sering melihat ... di atas rumah.",
+    "jawaban": "pelangi",
+    "pilihanJawaban": [
+      "badai",
+      "awan mendung",
+      "pelangi",
+      "hujan lebat",
+      "kilat"
+    ]
+  },
+  {
+    "index": 29,
+    "web": "md-code.xyz",
+    "soal": "Di dalam hutan yang lebat, terdengar suara ... yang menghentak.",
+    "jawaban": "dendang burung",
+    "pilihanJawaban": [
+      "angin",
+      "burung",
+      "teriakan binatang",
+      "dendang burung",
+      "deru air terjun"
+    ]
+  },
+  {
+    "index": 30,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang sunyi, kita bisa mendengar ... dari hutan yang jauh.",
+    "jawaban": "dengkuran",
+    "pilihanJawaban": [
+      "dengkuran",
+      "suara burung",
+      "gemuruh air",
+      "deru air terjun",
+      "angin berbisik"
+    ]
+  },
+  {
+    "index": 31,
+    "web": "md-code.xyz",
+    "soal": "Di dalam kota yang sibuk, terdapat banyak suara ... dari lalu lintas.",
+    "jawaban": "klakson mobil",
+    "pilihanJawaban": [
+      "anak-anak bermain",
+      "musik merdu",
+      "bel sekolah",
+      "klakson mobil",
+      "bis kota"
+    ]
+  },
+  {
+    "index": 32,
+    "web": "md-code.xyz",
+    "soal": "Saat matahari terbit, kita bisa melihat ... yang muncul di langit.",
+    "jawaban": "bulan",
+    "pilihanJawaban": [
+      "planet",
+      "awan",
+      "bintang",
+      "matahari",
+      "bulan"
+    ]
+  },
+  {
+    "index": 33,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang gelap, kita bisa melihat ... di hutan.",
+    "jawaban": "hantu",
+    "pilihanJawaban": [
+      "kicau burung",
+      "menakutkan",
+      "misterius",
+      "hantu",
+      "seram"
+    ]
+  },
+  {
+    "index": 34,
+    "web": "md-code.xyz",
+    "soal": "Dalam ketidakpastian, kita mencari ... untuk memberikan arah.",
+    "jawaban": "petunjuk",
+    "pilihanJawaban": [
+      "tujuan",
+      "panduan",
+      "arah",
+      "sumber",
+      "petunjuk"
+    ]
+  },
+  {
+    "index": 35,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang sunyi, kita bisa mendengar ... dari langit.",
+    "jawaban": "bunyi aneh",
+    "pilihanJawaban": [
+      "bunyi aneh",
+      "angin berbisik",
+      "suara hujan",
+      "kerisikan dedaunan",
+      "deru api"
+    ]
+  },
+  {
+    "index": 36,
+    "web": "md-code.xyz",
+    "soal": "Saat matahari terbenam, langit sering berubah menjadi warna ... yang menawan.",
+    "jawaban": "kuning",
+    "pilihanJawaban": [
+      "biru",
+      "kuning",
+      "hijau",
+      "ungu",
+      "merah"
+    ]
+  },
+  {
+    "index": 37,
+    "web": "md-code.xyz",
+    "soal": "Dalam cuaca yang cerah, kita bisa melihat ... terbang tinggi di langit.",
+    "jawaban": "burung merpati",
+    "pilihanJawaban": [
+      "burung pemangsa",
+      "burung merpati",
+      "elang",
+      "burung hantu",
+      "kupu-kupu"
+    ]
+  },
+  {
+    "index": 38,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang dingin, kita sering berkumpul di dekat ... untuk hangat.",
+    "jawaban": "api unggun",
+    "pilihanJawaban": [
+      "kompor",
+      "lampu",
+      "sumber cahaya",
+      "mesin",
+      "api unggun"
+    ]
+  },
+  {
+    "index": 39,
+    "web": "md-code.xyz",
+    "soal": "Saat angin berhembus kencang, kita sering mendengar suara ... di pepohonan.",
+    "jawaban": "bergoyang",
+    "pilihanJawaban": [
+      "berteriak",
+      "bergoyang",
+      "terseret",
+      "melengking",
+      "bergerak"
+    ]
+  },
+  {
+    "index": 40,
+    "web": "md-code.xyz",
+    "soal": "Pada pagi yang cerah, kita bisa mendengar ... dari taman bermain dekatnya.",
+    "jawaban": "anak-anak bermain",
+    "pilihanJawaban": [
+      "bel sekolah",
+      "klakson mobil",
+      "anak-anak bermain",
+      "musik merdu",
+      "bis kota"
+    ]
+  },
+  {
+    "index": 41,
+    "web": "md-code.xyz",
+    "soal": "Saat hujan turun, kita bisa mendengar suara ... di atap rumah.",
+    "jawaban": "bunyi air",
+    "pilihanJawaban": [
+      "burung hujan",
+      "hujan deras",
+      "bunyi air",
+      "suara angin",
+      "kereta api"
+    ]
+  },
+  {
+    "index": 42,
+    "web": "md-code.xyz",
+    "soal": "Di dalam hutan yang gelap, terdengar suara ... yang menggetarkan.",
+    "jawaban": "ulat bulu",
+    "pilihanJawaban": [
+      "suara angin",
+      "ulat bulu",
+      "dengkuran",
+      "seram",
+      "misterius"
+    ]
+  },
+  {
+    "index": 43,
+    "web": "md-code.xyz",
+    "soal": "Dalam cuaca yang cerah, kita bisa melihat ... di langit biru.",
+    "jawaban": "awan putih",
+    "pilihanJawaban": [
+      "siluet gunung",
+      "awan putih",
+      "bulu babi",
+      "kota",
+      "bintang"
+    ]
+  },
+  {
+    "index": 44,
+    "web": "md-code.xyz",
+    "soal": "Saat malam tiba, kita bisa melihat ... dari jendela.",
+    "jawaban": "sinar bulan",
+    "pilihanJawaban": [
+      "sinar bulan",
+      "pegunungan",
+      "bintang-bintang",
+      "awan putih",
+      "sinar matahari"
+    ]
+  },
+  {
+    "index": 45,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang sunyi, kita bisa mendengar ... di tengah hutan.",
+    "jawaban": "suara hewan malam",
+    "pilihanJawaban": [
+      "seram",
+      "suara hewan malam",
+      "ulat bulu",
+      "misterius",
+      "suara angin"
+    ]
+  },
+  {
+    "index": 46,
+    "web": "md-code.xyz",
+    "soal": "Di dalam hutan yang lebat, terdengar suara ... yang menenangkan.",
+    "jawaban": "aliran sungai",
+    "pilihanJawaban": [
+      "teriakan binatang",
+      "aliran sungai",
+      "burung",
+      "angin",
+      "deru air terjun"
+    ]
+  },
+  {
+    "index": 47,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang tenang, kita bisa mendengar suara ... di jauh.",
+    "jawaban": "ombak",
+    "pilihanJawaban": [
+      "bulan",
+      "ombak",
+      "hujan",
+      "angin",
+      "burung"
+    ]
+  },
+  {
+    "index": 48,
+    "web": "md-code.xyz",
+    "soal": "Di dalam gua yang gelap, kita bisa melihat ... di langit.",
+    "jawaban": "stalaktit",
+    "pilihanJawaban": [
+      "batu karang",
+      "batu cadas",
+      "kerak bumi",
+      "batu besar",
+      "stalaktit"
+    ]
+  },
+  {
+    "index": 49,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang gelap, kita bisa melihat ... dari roket di langit.",
+    "jawaban": "jejak",
+    "pilihanJawaban": [
+      "bulu babi",
+      "awan",
+      "jejak",
+      "planet",
+      "bintang"
+    ]
+  },
+  {
+    "index": 50,
+    "web": "md-code.xyz",
+    "soal": "Saat matahari terbenam, langit sering berubah menjadi warna ... yang indah.",
+    "jawaban": "merah jingga",
+    "pilihanJawaban": [
+      "kemerahan",
+      "hitam",
+      "biru",
+      "merah jingga",
+      "kuning"
+    ]
+  },
+  {
+    "index": 51,
+    "web": "md-code.xyz",
+    "soal": "Dalam keheningan malam, terdengar suara ... dari dalam hutan.",
+    "jawaban": "seram",
+    "pilihanJawaban": [
+      "misterius",
+      "hantu",
+      "menakutkan",
+      "kicau burung",
+      "seram"
+    ]
+  },
+  {
+    "index": 52,
+    "web": "md-code.xyz",
+    "soal": "Pada hari yang cerah, kita bisa melihat ... terbang tinggi di langit biru.",
+    "jawaban": "layang-layang",
+    "pilihanJawaban": [
+      "kupu-kupu",
+      "elang",
+      "layang-layang",
+      "burung hantu",
+      "burung merpati"
+    ]
+  },
+  {
+    "index": 53,
+    "web": "md-code.xyz",
+    "soal": "Di lautan yang dalam, kita bisa menemukan berbagai jenis ... yang unik.",
+    "jawaban": "makhluk laut",
+    "pilihanJawaban": [
+      "ikan",
+      "kapal selam",
+      "makhluk laut",
+      "ikan paus",
+      "paus"
+    ]
+  },
+  {
+    "index": 54,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang cerah, kita bisa melihat ... di langit.",
+    "jawaban": "planet Mars",
+    "pilihanJawaban": [
+      "bintang",
+      "bulan",
+      "awan",
+      "matahari",
+      "planet Mars"
+    ]
+  },
+  {
+    "index": 55,
+    "web": "md-code.xyz",
+    "soal": "Dalam keterbatasan, kita sering menemukan ... yang tak terduga.",
+    "jawaban": "kemungkinan",
+    "pilihanJawaban": [
+      "batasan",
+      "hambatan",
+      "kesempatan",
+      "kemungkinan",
+      "peluang"
+    ]
+  },
+  {
+    "index": 56,
+    "web": "md-code.xyz",
+    "soal": "Saat hujan turun, kita bisa melihat ... di jendela.",
+    "jawaban": "tetesan air",
+    "pilihanJawaban": [
+      "burung hujan",
+      "tetesan air",
+      "kereta api",
+      "suara angin",
+      "hujan deras"
+    ]
+  },
+  {
+    "index": 57,
+    "web": "md-code.xyz",
+    "soal": "Di dalam hutan yang lebat, kita bisa mendengar suara ... dari jauh.",
+    "jawaban": "teriakan binatang",
+    "pilihanJawaban": [
+      "teriakan binatang",
+      "burung",
+      "angin",
+      "aliran sungai",
+      "deru air terjun"
+    ]
+  },
+  {
+    "index": 58,
+    "web": "md-code.xyz",
+    "soal": "Saat matahari terbenam, langit sering berubah menjadi warna ... yang menakjubkan.",
+    "jawaban": "ungu",
+    "pilihanJawaban": [
+      "biru",
+      "hijau",
+      "ungu",
+      "kuning",
+      "merah"
+    ]
+  },
+  {
+    "index": 59,
+    "web": "md-code.xyz",
+    "soal": "Dalam cuaca yang cerah, kita bisa melihat ... terbang di langit.",
+    "jawaban": "burung pemangsa",
+    "pilihanJawaban": [
+      "elang",
+      "burung hantu",
+      "burung merpati",
+      "kupu-kupu",
+      "burung pemangsa"
+    ]
+  },
+  {
+    "index": 60,
+    "web": "md-code.xyz",
+    "soal": "Pada pagi yang cerah, kita bisa mendengar suara ... dari sekolah dekatnya.",
+    "jawaban": "bel sekolah",
+    "pilihanJawaban": [
+      "klakson mobil",
+      "bel sekolah",
+      "musik merdu",
+      "anak-anak bermain",
+      "bis kota"
+    ]
+  },
+  {
+    "index": 61,
+    "web": "md-code.xyz",
+    "soal": "Di dalam hutan yang gelap, terdengar suara ... yang menyeramkan.",
+    "jawaban": "ulat bulu",
+    "pilihanJawaban": [
+      "dengkuran",
+      "ulat bulu",
+      "suara angin",
+      "misterius",
+      "seram"
+    ]
+  },
+  {
+    "index": 62,
+    "web": "md-code.xyz",
+    "soal": "Dalam kegelapan malam, kita bisa melihat ... di langit.",
+    "jawaban": "bintang",
+    "pilihanJawaban": [
+      "planet",
+      "bintang",
+      "awan",
+      "matahari",
+      "bulan"
+    ]
+  },
+  {
+    "index": 63,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang dingin, kita mencari ... untuk membuat api.",
+    "jawaban": "kayu",
+    "pilihanJawaban": [
+      "kayu",
+      "air",
+      "pasir",
+      "rumput",
+      "batu"
+    ]
+  },
+  {
+    "index": 64,
+    "web": "md-code.xyz",
+    "soal": "Di pantai, kita bisa melihat ... yang menyapu pantai.",
+    "jawaban": "ombak",
+    "pilihanJawaban": [
+      "burung",
+      "kapal",
+      "pasir",
+      "laut",
+      "ombak"
+    ]
+  },
+  {
+    "index": 65,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang sunyi, kita bisa mendengar suara ... dari hutan.",
+    "jawaban": "serangga",
+    "pilihanJawaban": [
+      "binatang",
+      "burung",
+      "hewan",
+      "serangga",
+      "buah"
+    ]
+  },
+  {
+    "index": 66,
+    "web": "md-code.xyz",
+    "soal": "Dalam kebisuan malam, kita bisa mendengar ... di hutan.",
+    "jawaban": "desiran angin",
+    "pilihanJawaban": [
+      "gerak daun",
+      "kicau burung",
+      "dengkuran",
+      "kedamaian",
+      "desiran angin"
+    ]
+  },
+  {
+    "index": 67,
+    "web": "md-code.xyz",
+    "soal": "Pada siang yang cerah, kita bisa melihat ... terbang tinggi di langit.",
+    "jawaban": "elang",
+    "pilihanJawaban": [
+      "burung hantu",
+      "kupu-kupu",
+      "burung merpati",
+      "elang",
+      "kucing"
+    ]
+  },
+  {
+    "index": 68,
+    "web": "md-code.xyz",
+    "soal": "Di ladang luas, angin sering membawa aroma segar dari ... yang baru dipanen.",
+    "jawaban": "padi",
+    "pilihanJawaban": [
+      "gandum",
+      "padi",
+      "kacang",
+      "tebu",
+      "jagung"
+    ]
+  },
+  {
+    "index": 69,
+    "web": "md-code.xyz",
+    "soal": "Dalam kegelapan, kita mencari ... untuk menerangi jalan.",
+    "jawaban": "senter",
+    "pilihanJawaban": [
+      "lampu",
+      "lilin",
+      "peluit",
+      "batu api",
+      "senter"
+    ]
+  },
+  {
+    "index": 70,
+    "web": "md-code.xyz",
+    "soal": "Saat musim gugur tiba, daun-daun pohon mulai ... dari ranting.",
+    "jawaban": "berguguran",
+    "pilihanJawaban": [
+      "berguguran",
+      "berbunga",
+      "berwarna",
+      "berkumpul",
+      "berbuah"
+    ]
+  },
+  {
+    "index": 71,
+    "web": "md-code.xyz",
+    "soal": "Dalam perjalanan jauh, kita bisa melihat ... di langit malam.",
+    "jawaban": "konstelasi",
+    "pilihanJawaban": [
+      "awan",
+      "konstelasi",
+      "galaksi",
+      "bintang",
+      "bulu babi"
+    ]
+  },
+  {
+    "index": 72,
+    "web": "md-code.xyz",
+    "soal": "Pada pagi yang cerah, kita bisa mendengar suara ... dari hutan.",
+    "jawaban": "kicau burung",
+    "pilihanJawaban": [
+      "desiran angin",
+      "kicau burung",
+      "dengkuran",
+      "gerak daun",
+      "kedamaian"
+    ]
+  },
+  {
+    "index": 73,
+    "web": "md-code.xyz",
+    "soal": "Dalam hujan yang deras, kita sering melihat ... di jalan.",
+    "jawaban": "genangan air",
+    "pilihanJawaban": [
+      "kereta api",
+      "genangan air",
+      "burung hantu",
+      "batu besar",
+      "lumpur"
+    ]
+  },
+  {
+    "index": 74,
+    "web": "md-code.xyz",
+    "soal": "Saat malam tiba, kita bisa melihat ... di langit.",
+    "jawaban": "planet",
+    "pilihanJawaban": [
+      "bulan",
+      "matahari",
+      "awan",
+      "bintang",
+      "planet"
+    ]
+  },
+  {
+    "index": 75,
+    "web": "md-code.xyz",
+    "soal": "Di dalam goa yang gelap, kita bisa mendengar suara ... dari dalamnya.",
+    "jawaban": "gemuruh air",
+    "pilihanJawaban": [
+      "bunyi aneh",
+      "gemuruh air",
+      "kelelawar terbang",
+      "suara angin",
+      "gelap total"
+    ]
+  },
+  {
+    "index": 76,
+    "web": "md-code.xyz",
+    "soal": "Saat matahari terbit, hutan hujan tropis menjadi sangat ... .",
+    "jawaban": "lembab",
+    "pilihanJawaban": [
+      "basah",
+      "kering",
+      "lembab",
+      "dingin",
+      "panas"
+    ]
+  },
+  {
+    "index": 77,
+    "web": "md-code.xyz",
+    "soal": "Dalam cuaca yang panas, kita mencari ... untuk menghindari terik matahari.",
+    "jawaban": "teduhan",
+    "pilihanJawaban": [
+      "teduhan",
+      "sungai",
+      "air minum",
+      "batu besar",
+      "perisai"
+    ]
+  },
+  {
+    "index": 78,
+    "web": "md-code.xyz",
+    "soal": "Pada pagi yang cerah, langit sering berwarna ... dengan awan putih yang berarak.",
+    "jawaban": "biru",
+    "pilihanJawaban": [
+      "hijau",
+      "gelap",
+      "biru",
+      "kemerahan",
+      "hitam"
+    ]
+  },
+  {
+    "index": 79,
+    "web": "md-code.xyz",
+    "soal": "Saat malam tiba, kita bisa melihat ... dari permukaan bulan.",
+    "jawaban": "bayangan",
+    "pilihanJawaban": [
+      "sinar matahari",
+      "awan putih",
+      "pegunungan",
+      "bintang-bintang",
+      "bayangan"
+    ]
+  },
+  {
+    "index": 80,
+    "web": "md-code.xyz",
+    "soal": "Dalam kegelapan hutan, terdengar suara ... yang menakutkan.",
+    "jawaban": "hewan buas",
+    "pilihanJawaban": [
+      "kicau burung",
+      "serangga",
+      "angin bertiup",
+      "hewan buas",
+      "binatang"
+    ]
+  },
+  {
+    "index": 81,
+    "web": "md-code.xyz",
+    "soal": "Di alam liar, kita bisa menemukan berbagai jenis ... yang eksotis.",
+    "jawaban": "hewan",
+    "pilihanJawaban": [
+      "fauna",
+      "flora",
+      "hewan",
+      "batu",
+      "tumbuhan"
+    ]
+  },
+  {
+    "index": 82,
+    "web": "md-code.xyz",
+    "soal": "Saat cuaca cerah, langit terlihat ... dengan warna biru yang jernih.",
+    "jawaban": "terang",
+    "pilihanJawaban": [
+      "cerah",
+      "buram",
+      "kabur",
+      "terang",
+      "gelap"
+    ]
+  },
+  {
+    "index": 83,
+    "web": "md-code.xyz",
+    "soal": "Di dalam hutan, terdapat banyak pohon yang tinggi dan ... .",
+    "jawaban": "tebal",
+    "pilihanJawaban": [
+      "kering",
+      "berbuah",
+      "gundul",
+      "rendah",
+      "tebal"
+    ]
+  },
+  {
+    "index": 84,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang cerah, bulan akan ... di langit.",
+    "jawaban": "muncul",
+    "pilihanJawaban": [
+      "bersinar",
+      "muncul",
+      "terbenam",
+      "berkilau",
+      "terbit"
+    ]
+  },
+  {
+    "index": 85,
+    "web": "md-code.xyz",
+    "soal": "Dalam petualangan, kita sering menghadapi berbagai jenis ... .",
+    "jawaban": "tantangan",
+    "pilihanJawaban": [
+      "hambatan",
+      "kesulitan",
+      "tantangan",
+      "tugas",
+      "perjalanan"
+    ]
+  },
+  {
+    "index": 86,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang dingin, kita mencari ... untuk menjaga tubuh tetap hangat.",
+    "jawaban": "perlindungan",
+    "pilihanJawaban": [
+      "perlindungan",
+      "kehangatan",
+      "pelukan",
+      "perisai",
+      "pakaian tebal"
+    ]
+  },
+  {
+    "index": 87,
+    "web": "md-code.xyz",
+    "soal": "Dalam kesendirian, seringkali kita merenungkan arti ... kehidupan.",
+    "jawaban": "makna",
+    "pilihanJawaban": [
+      "cinta",
+      "makna",
+      "kebenaran",
+      "kebahagiaan",
+      "tujuan"
+    ]
+  },
+  {
+    "index": 88,
+    "web": "md-code.xyz",
+    "soal": "Setiap embun pagi menggantung di ujung daun, seperti permata ... .",
+    "jawaban": "berkilau",
+    "pilihanJawaban": [
+      "bercahaya",
+      "berkilau",
+      "misterius",
+      "dingin",
+      "gelap"
+    ]
+  },
+  {
+    "index": 89,
+    "web": "md-code.xyz",
+    "soal": "Saat malam tiba, bintang-bintang mulai ... di langit.",
+    "jawaban": "bersinar",
+    "pilihanJawaban": [
+      "hilang",
+      "redup",
+      "muncul",
+      "berkilau",
+      "bersinar"
+    ]
+  },
+  {
+    "index": 90,
+    "web": "md-code.xyz",
+    "soal": "Ketika kita merasa lelah, kita mencari ... untuk istirahat.",
+    "jawaban": "tempat",
+    "pilihanJawaban": [
+      "kebahagiaan",
+      "kekuatan",
+      "perisai",
+      "tujuan",
+      "tempat"
+    ]
+  },
+  {
+    "index": 91,
+    "web": "md-code.xyz",
+    "soal": "Dalam kesendirian, kita bisa merenungkan misteri ... alam semesta.",
+    "jawaban": "luasnya",
+    "pilihanJawaban": [
+      "kedalamannya",
+      "luasnya",
+      "kompleksitasnya",
+      "keragamannya",
+      "keindahannya"
+    ]
+  },
+  {
+    "index": 92,
+    "web": "md-code.xyz",
+    "soal": "Pada pagi yang cerah, bunga-bunga mulai ... kembali.",
+    "jawaban": "mekar",
+    "pilihanJawaban": [
+      "berwarna",
+      "mati",
+      "layu",
+      "meledak",
+      "melebur"
+    ]
+  },
+  {
+    "index": 93,
+    "web": "md-code.xyz",
+    "soal": "Dalam keterbatasan, kita sering menemukan ... baru.",
+    "jawaban": "kreativitas",
+    "pilihanJawaban": [
+      "kemungkinan",
+      "peluang",
+      "kreativitas",
+      "hambatan",
+      "batasan"
+    ]
+  },
+  {
+    "index": 94,
+    "web": "md-code.xyz",
+    "soal": "Ketika malam tiba, kita sering mencari ... untuk melihat di dalam ruangan.",
+    "jawaban": "pencahayaan",
+    "pilihanJawaban": [
+      "petunjuk",
+      "keselamatan",
+      "pencahayaan",
+      "kebahagiaan",
+      "penghibur"
+    ]
+  },
+  {
+    "index": 95,
+    "web": "md-code.xyz",
+    "soal": "Pada pagi yang cerah, matahari ... di ufuk timur.",
+    "jawaban": "terbit",
+    "pilihanJawaban": [
+      "terbenam",
+      "terbit",
+      "bersinar",
+      "muncul",
+      "berkilau"
+    ]
+  },
+  {
+    "index": 96,
+    "web": "md-code.xyz",
+    "soal": "Saat malam tiba, kita sering melihat ... di langit.",
+    "jawaban": "bintang",
+    "pilihanJawaban": [
+      "planet",
+      "bulan",
+      "bintang",
+      "matahari",
+      "awan"
+    ]
+  },
+  {
+    "index": 97,
+    "web": "md-code.xyz",
+    "soal": "Dalam kesunyian, terdengar ... yang menenangkan.",
+    "jawaban": "suara alam",
+    "pilihanJawaban": [
+      "kedamaian",
+      "bisikan angin",
+      "kebisingan",
+      "suara alam",
+      "musik"
+    ]
+  },
+  {
+    "index": 98,
+    "web": "md-code.xyz",
+    "soal": "Saat hujan turun, kita bisa mendengar suara ... di genting rumah.",
+    "jawaban": "tetesan air",
+    "pilihanJawaban": [
+      "bergerak",
+      "suara kereta",
+      "angin bertiup",
+      "tetesan air",
+      "kicau burung"
+    ]
+  },
+  {
+    "index": 99,
+    "web": "md-code.xyz",
+    "soal": "Di alam liar, kita bisa menemukan ... yang hidup di sungai.",
+    "jawaban": "ikan",
+    "pilihanJawaban": [
+      "singa",
+      "beruang",
+      "ular",
+      "ikan",
+      "burung"
+    ]
+  },
+  {
+    "index": 100,
+    "web": "md-code.xyz",
+    "soal": "Dalam kegelapan, bintang adalah satu-satunya ... yang bersinar.",
+    "jawaban": "cahaya",
+    "pilihanJawaban": [
+      "cahaya",
+      "panas",
+      "dingin",
+      "angin",
+      "hujan"
+    ]
+  },
+  {
+    "index": 101,
+    "web": "md-code.xyz",
+    "soal": "Pada saat petang, matahari akan ... di ufuk barat.",
+    "jawaban": "terbenam",
+    "pilihanJawaban": [
+      "terbenam",
+      "bersinar",
+      "berkilau",
+      "muncul",
+      "terbit"
+    ]
+  },
+  {
+    "index": 102,
+    "web": "md-code.xyz",
+    "soal": "Dalam kebingungan, kita mencari ... untuk menjawab pertanyaan.",
+    "jawaban": "petunjuk",
+    "pilihanJawaban": [
+      "arah",
+      "solusi",
+      "jawaban",
+      "petunjuk",
+      "kebenaran"
+    ]
+  },
+  {
+    "index": 103,
+    "web": "md-code.xyz",
+    "soal": "Pohon besar memberikan ... di bawah sinar matahari.",
+    "jawaban": "bayangan",
+    "pilihanJawaban": [
+      "angin",
+      "keteduhan",
+      "suhu",
+      "buah",
+      "bayangan"
+    ]
+  },
+  {
+    "index": 104,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang dingin, kita sering mencari ... untuk hangat.",
+    "jawaban": "selimut",
+    "pilihanJawaban": [
+      "teman",
+      "selimut",
+      "sumber cahaya",
+      "kompas",
+      "minuman"
+    ]
+  },
+  {
+    "index": 105,
+    "web": "md-code.xyz",
+    "soal": "Saat hujan turun, kita dapat mendengar ... di atap.",
+    "jawaban": "gerimis",
+    "pilihanJawaban": [
+      "petir",
+      "suhu",
+      "hujan deras",
+      "gerimis",
+      "angin"
+    ]
+  },
+  {
+    "index": 106,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang cerah, kita dapat melihat ... bintang di langit.",
+    "jawaban": "ribuan",
+    "pilihanJawaban": [
+      "sedikit",
+      "jutaan",
+      "puluhan",
+      "ratusan",
+      "ribuan"
+    ]
+  },
+  {
+    "index": 107,
+    "web": "md-code.xyz",
+    "soal": "Pada hari libur, kita sering mencari ... untuk bersantai.",
+    "jawaban": "hiburan",
+    "pilihanJawaban": [
+      "hiburan",
+      "tugas",
+      "kesibukan",
+      "tugas rumah",
+      "pekerjaan"
+    ]
+  },
+  {
+    "index": 108,
+    "web": "md-code.xyz",
+    "soal": "Dalam ketidakpastian, kita mencari ... untuk membimbing kita.",
+    "jawaban": "arah",
+    "pilihanJawaban": [
+      "jawaban",
+      "solusi",
+      "kebenaran",
+      "arah",
+      "petunjuk"
+    ]
+  },
+  {
+    "index": 109,
+    "web": "md-code.xyz",
+    "soal": "Saat pagi tiba, kita dapat mendengar ... nyanyian burung.",
+    "jawaban": "indah",
+    "pilihanJawaban": [
+      "melodis",
+      "indah",
+      "ceria",
+      "riang",
+      "gemilang"
+    ]
+  },
+  {
+    "index": 110,
+    "web": "md-code.xyz",
+    "soal": "Saat hujan turun, tanah menjadi ... dan licin.",
+    "jawaban": "basah",
+    "pilihanJawaban": [
+      "banjir",
+      "kering",
+      "gundul",
+      "berdebu",
+      "basah"
+    ]
+  },
+  {
+    "index": 111,
+    "web": "md-code.xyz",
+    "soal": "Dalam kesunyian, kita dapat mendengar suara ... yang tenang.",
+    "jawaban": "bisikan",
+    "pilihanJawaban": [
+      "bisikan",
+      "teriakan",
+      "alam",
+      "jeritan",
+      "gemuruh"
+    ]
+  },
+  {
+    "index": 112,
+    "web": "md-code.xyz",
+    "soal": "Kebahagiaan adalah perasaan ... yang dicari semua orang.",
+    "jawaban": "sejati",
+    "pilihanJawaban": [
+      "sementara",
+      "sejati",
+      "sementara",
+      "palsu",
+      "tersembunyi"
+    ]
+  },
+  {
+    "index": 113,
+    "web": "md-code.xyz",
+    "soal": "Dalam kegelapan, kita mencari ... untuk memberikan cahaya.",
+    "jawaban": "sumber",
+    "pilihanJawaban": [
+      "sumber",
+      "keselamatan",
+      "penerangan",
+      "kebahagiaan",
+      "bimbingan"
+    ]
+  },
+  {
+    "index": 114,
+    "web": "md-code.xyz",
+    "soal": "Saat matahari terbit, langit menjadi ... di sekitarnya.",
+    "jawaban": "merah",
+    "pilihanJawaban": [
+      "biru",
+      "hitam",
+      "putih",
+      "merah",
+      "kuning"
+    ]
+  },
+  {
+    "index": 115,
+    "web": "md-code.xyz",
+    "soal": "Dalam keadaan darurat, kita mencari ... untuk menyelamatkan diri.",
+    "jawaban": "peluang",
+    "pilihanJawaban": [
+      "bantuan",
+      "peluang",
+      "petunjuk",
+      "sumber",
+      "perlindungan"
+    ]
+  },
+  {
+    "index": 116,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang gelap, kita sering mendengar suara ... di hutan.",
+    "jawaban": "seram",
+    "pilihanJawaban": [
+      "bisikan",
+      "seram",
+      "menakutkan",
+      "hantu",
+      "misterius"
+    ]
+  },
+  {
+    "index": 117,
+    "web": "md-code.xyz",
+    "soal": "Dalam ketidakpastian, kita mencari ... untuk menentukan arah.",
+    "jawaban": "panduan",
+    "pilihanJawaban": [
+      "arah",
+      "sumber",
+      "panduan",
+      "petunjuk",
+      "tujuan"
+    ]
+  },
+  {
+    "index": 118,
+    "web": "md-code.xyz",
+    "soal": "Pada saat petang, langit sering berubah menjadi warna ... yang indah.",
+    "jawaban": "jingga",
+    "pilihanJawaban": [
+      "biru",
+      "merah",
+      "kuning",
+      "jingga",
+      "hijau"
+    ]
+  },
+  {
+    "index": 119,
+    "web": "md-code.xyz",
+    "soal": "Dalam gelap, terdengar suara langkah ... .",
+    "jawaban": "ringan",
+    "pilihanJawaban": [
+      "lambat",
+      "berat",
+      "cepat",
+      "tenang",
+      "ringan"
+    ]
+  },
+  {
+    "index": 120,
+    "web": "md-code.xyz",
+    "soal": "Di malam yang sunyi, sering terdengar nyanyian ... .",
+    "jawaban": "burung",
+    "pilihanJawaban": [
+      "manusia",
+      "aliran sungai",
+      "angin",
+      "burung",
+      "hewan"
+    ]
+  },
+  {
+    "index": 121,
+    "web": "md-code.xyz",
+    "soal": "Matahari terbit di ... dan terbenam di ... .",
+    "jawaban": "timur, barat",
+    "pilihanJawaban": [
+      "selatan, utara",
+      "utara, timur",
+      "timur, barat",
+      "barat, timur",
+      "utara, selatan"
+    ]
+  },
+  {
+    "index": 122,
+    "web": "md-code.xyz",
+    "soal": "Dalam kesendirian, terkadang kita menemukan ... diri.",
+    "jawaban": "jiwa",
+    "pilihanJawaban": [
+      "jiwa",
+      "tujuan",
+      "kemampuan",
+      "kebahagiaan",
+      "kebenaran"
+    ]
+  },
+  {
+    "index": 123,
+    "web": "md-code.xyz",
+    "soal": "Dalam keterbatasan, terletak potensi yang ... .",
+    "jawaban": "besar",
+    "pilihanJawaban": [
+      "kecil",
+      "besar",
+      "terhenti",
+      "terbatas",
+      "tersembunyi"
+    ]
+  },
+  {
+    "index": 124,
+    "web": "md-code.xyz",
+    "soal": "Setiap hari adalah kesempatan untuk ... lebih baik.",
+    "jawaban": "bertumbuh",
+    "pilihanJawaban": [
+      "berpikir",
+      "berhenti",
+      "bertumbuh",
+      "berubah",
+      "menyerah"
+    ]
+  },
+  {
+    "index": 125,
+    "web": "md-code.xyz",
+    "soal": "Dalam kesulitan, kita belajar menjadi lebih ... .",
+    "jawaban": "kuat",
+    "pilihanJawaban": [
+      "lemah",
+      "kuat",
+      "sabar",
+      "teguh",
+      "tahan"
+    ]
+  },
+  {
+    "index": 126,
+    "web": "md-code.xyz",
+    "soal": "Bintang-bintang di langit menghiasi malam dengan cahaya yang ... .",
+    "jawaban": "gemilang",
+    "pilihanJawaban": [
+      "berkilau",
+      "bersinar",
+      "hilang",
+      "redup",
+      "gemilang"
+    ]
+  },
+  {
+    "index": 127,
+    "web": "md-code.xyz",
+    "soal": "Di puncak gunung, udara sangat ... .",
+    "jawaban": "sejuk",
+    "pilihanJawaban": [
+      "dingin",
+      "berat",
+      "panas",
+      "lemah",
+      "sejuk"
+    ]
+  },
+  {
+    "index": 128,
+    "web": "md-code.xyz",
+    "soal": "Musik adalah bahasa ... yang dapat dipahami semua orang.",
+    "jawaban": "universal",
+    "pilihanJawaban": [
+      "paling sulit",
+      "universal",
+      "umum",
+      "asing",
+      "tersulit"
+    ]
+  },
+  {
+    "index": 129,
+    "web": "md-code.xyz",
+    "soal": "Dalam ketidakpastian, kita mencari ... untuk pedoman.",
+    "jawaban": "petunjuk",
+    "pilihanJawaban": [
+      "kebenaran",
+      "petunjuk",
+      "arah",
+      "solusi",
+      "jawaban"
+    ]
+  },
+  {
+    "index": 130,
+    "web": "md-code.xyz",
+    "soal": "Hujan lebat sering disertai petir dan suara ... yang menyeramkan.",
+    "jawaban": "guntur",
+    "pilihanJawaban": [
+      "teriakan",
+      "guntur",
+      "redup",
+      "angin",
+      "gelap"
+    ]
+  },
+  {
+    "index": 131,
+    "web": "md-code.xyz",
+    "soal": "Dalam kebisingan, sulit untuk mendengar suara ... .",
+    "jawaban": "hati",
+    "pilihanJawaban": [
+      "hati",
+      "kebahagiaan",
+      "intuisi",
+      "alam",
+      "keheningan"
+    ]
+  },
+  {
+    "index": 132,
+    "web": "md-code.xyz",
+    "soal": "Setelah badai, langit akan kembali ... .",
+    "jawaban": "cerah",
+    "pilihanJawaban": [
+      "hujan",
+      "dingin",
+      "redup",
+      "cerah",
+      "gelap"
+    ]
+  },
+  {
+    "index": 133,
+    "web": "md-code.xyz",
+    "soal": "Kesabaran adalah kunci untuk mencapai ... .",
+    "jawaban": "sukses",
+    "pilihanJawaban": [
+      "kegagalan",
+      "kesalahan",
+      "keberhasilan",
+      "sukses",
+      "kebahagiaan"
+    ]
+  },
+  {
+    "index": 134,
+    "web": "md-code.xyz",
+    "soal": "Di hutan yang lebat, terdapat banyak ... eksotis.",
+    "jawaban": "flora",
+    "pilihanJawaban": [
+      "batu",
+      "fauna",
+      "tumbuhan",
+      "flora",
+      "hewan"
+    ]
+  },
+  {
+    "index": 135,
+    "web": "md-code.xyz",
+    "soal": "Dalam dunia yang terus berubah, adaptasi adalah kunci ... .",
+    "jawaban": "kelangsungan",
+    "pilihanJawaban": [
+      "perubahan",
+      "kelangsungan",
+      "kesuksesan",
+      "keberlanjutan",
+      "kebahagiaan"
+    ]
+  },
+  {
+    "index": 136,
+    "web": "md-code.xyz",
+    "soal": "Dalam kesendirian, seringkali kita menemukan ... sejati.",
+    "jawaban": "diri",
+    "pilihanJawaban": [
+      "tujuan",
+      "kebahagiaan",
+      "cinta",
+      "diri",
+      "kebenaran"
+    ]
+  },
+  {
+    "index": 137,
+    "web": "md-code.xyz",
+    "soal": "Setiap bunga memiliki keindahan ... sendiri.",
+    "jawaban": "unik",
+    "pilihanJawaban": [
+      "terpendam",
+      "unik",
+      "tersembunyi",
+      "berkembang",
+      "biasa"
+    ]
+  },
+  {
+    "index": 138,
+    "web": "md-code.xyz",
+    "soal": "Jauh di ..., dekat di hati.",
+    "jawaban": "mata",
+    "pilihanJawaban": [
+      "atas",
+      "sini",
+      "kaki",
+      "telinga",
+      "tangan"
+    ]
+  },
+  {
+    "index": 139,
+    "web": "md-code.xyz",
+    "soal": "Buku adalah ..., ilmu.",
+    "jawaban": "sumber",
+    "pilihanJawaban": [
+      "teman",
+      "sumber",
+      "pintu",
+      "kunci",
+      "guru"
+    ]
+  },
+  {
+    "index": 140,
+    "web": "md-code.xyz",
+    "soal": "Hujan datang dengan ..., petir menyambar.",
+    "jawaban": "deru",
+    "pilihanJawaban": [
+      "angin",
+      "senyum",
+      "teriakan",
+      "hujan",
+      "deru"
+    ]
+  },
+  {
+    "index": 141,
+    "web": "md-code.xyz",
+    "soal": "Setelah malam gelap, akan datang ..., menyinari dunia.",
+    "jawaban": "pagi",
+    "pilihanJawaban": [
+      "sore",
+      "pagi",
+      "siang",
+      "malam",
+      "fajar"
+    ]
+  },
+  {
+    "index": 142,
+    "web": "md-code.xyz",
+    "soal": "Bunga mekar di ..., menarik perhatian.",
+    "jawaban": "taman",
+    "pilihanJawaban": [
+      "taman",
+      "pantai",
+      "desa",
+      "ladang",
+      "hutan"
+    ]
+  },
+  {
+    "index": 143,
+    "web": "md-code.xyz",
+    "soal": "Bulan purnama bersinar ..., menyinari malam.",
+    "jawaban": "cerah",
+    "pilihanJawaban": [
+      "cerah",
+      "redup",
+      "gelap",
+      "panas",
+      "dingin"
+    ]
+  },
+  {
+    "index": 144,
+    "web": "md-code.xyz",
+    "soal": "Di laut yang luas, ikan berenang ... dan bebas.",
+    "jawaban": "tenang",
+    "pilihanJawaban": [
+      "laju",
+      "tenang",
+      "lambat",
+      "tercebur",
+      "girang"
+    ]
+  },
+  {
+    "index": 145,
+    "web": "md-code.xyz",
+    "soal": "Musim ... adalah waktu panen padi.",
+    "jawaban": "gugur",
+    "pilihanJawaban": [
+      "hujan",
+      "dingin",
+      "semi",
+      "panas",
+      "gugur"
+    ]
+  },
+  {
+    "index": 146,
+    "web": "md-code.xyz",
+    "soal": "Dalam gelap, kita mencari ... menuju keluar.",
+    "jawaban": "jalan",
+    "pilihanJawaban": [
+      "petunjuk",
+      "tangan",
+      "mata",
+      "arah",
+      "jalan"
+    ]
+  },
+  {
+    "index": 147,
+    "web": "md-code.xyz",
+    "soal": "Setelah hujan, bunga ... kembali segar.",
+    "jawaban": "mekar",
+    "pilihanJawaban": [
+      "mati",
+      "layu",
+      "meleleh",
+      "mekar",
+      "melebur"
+    ]
+  },
+  {
+    "index": 148,
+    "web": "md-code.xyz",
+    "soal": "Berpikir ..., kita dapat menemukan solusi.",
+    "jawaban": "bijak",
+    "pilihanJawaban": [
+      "bijak",
+      "kasar",
+      "terburu-buru",
+      "cepat",
+      "santai"
+    ]
+  },
+  {
+    "index": 149,
+    "web": "md-code.xyz",
+    "soal": "Dalam diam, ada kekuatan yang ... .",
+    "jawaban": "besar",
+    "pilihanJawaban": [
+      "lemah",
+      "kuat",
+      "kecil",
+      "tersembunyi",
+      "besar"
+    ]
+  },
+  {
+    "index": 150,
+    "web": "md-code.xyz",
+    "soal": "Kehidupan adalah perjalanan yang penuh ... .",
+    "jawaban": "misteri",
+    "pilihanJawaban": [
+      "misteri",
+      "kebahagiaan",
+      "kemungkinan",
+      "kejutan",
+      "kesuksesan"
+    ]
+  },
+  {
+    "index": 151,
+    "web": "md-code.xyz",
+    "soal": "Pada akhir cerita, sang pahlawan akan meraih ... .",
+    "jawaban": "kemenangan",
+    "pilihanJawaban": [
+      "kerugian",
+      "kemenangan",
+      "keberhasilan",
+      "kebahagiaan",
+      "kekalahan"
+    ]
+  },
+  {
+    "index": 152,
+    "web": "md-code.xyz",
+    "soal": "Perjalanan jauh dimulai dengan satu ... .",
+    "jawaban": "langkah",
+    "pilihanJawaban": [
+      "impian",
+      "langkah",
+      "keinginan",
+      "perjalanan",
+      "rencana"
+    ]
+  },
+  {
+    "index": 153,
+    "web": "md-code.xyz",
+    "soal": "Hidup adalah ... yang harus dinikmati.",
+    "jawaban": "anugerah",
+    "pilihanJawaban": [
+      "pertarungan",
+      "teka-teki",
+      "kesulitan",
+      "anugerah",
+      "pencobaan"
+    ]
+  },
+  {
+    "index": 154,
+    "web": "md-code.xyz",
+    "soal": "Rasa ... membuat hidup lebih berwarna.",
+    "jawaban": "cinta",
+    "pilihanJawaban": [
+      "bahagia",
+      "marah",
+      "cinta",
+      "sedih",
+      "benci"
+    ]
+  },
+  {
+    "index": 155,
+    "web": "md-code.xyz",
+    "soal": "Dalam keheningan, terdengar suara ... .",
+    "jawaban": "alam",
+    "pilihanJawaban": [
+      "musik",
+      "kendaraan",
+      "hewan",
+      "manusia",
+      "alam"
+    ]
+  },
+  {
+    "index": 156,
+    "web": "md-code.xyz",
+    "soal": "Hujan adalah ... yang menyirami tanaman.",
+    "jawaban": "rahmat",
+    "pilihanJawaban": [
+      "hambatan",
+      "cobaan",
+      "rahmat",
+      "kesengsaraan",
+      "musibah"
+    ]
+  },
+  {
+    "index": 157,
+    "web": "md-code.xyz",
+    "soal": "Dalam ketenangan, kita menemukan ... diri.",
+    "jawaban": "diri",
+    "pilihanJawaban": [
+      "arti",
+      "diri",
+      "kebahagiaan",
+      "kebenaran",
+      "tujuan"
+    ]
+  },
+  {
+    "index": 158,
+    "web": "md-code.xyz",
+    "soal": "Saat matahari terbenam, kita bisa melihat ... yang merona di langit.",
+    "jawaban": "warna senja",
+    "pilihanJawaban": [
+      "warna biru",
+      "warna hijau",
+      "warna senja",
+      "warna ungu",
+      "warna kuning"
+    ]
+  },
+  {
+    "index": 159,
+    "web": "md-code.xyz",
+    "soal": "Di malam yang cerah, kita bisa melihat ... yang berkilauan di langit.",
+    "jawaban": "bintang-bintang",
+    "pilihanJawaban": [
+      "awan",
+      "bulan",
+      "matahari",
+      "bintang-bintang",
+      "meteor"
+    ]
+  },
+  {
+    "index": 160,
+    "web": "md-code.xyz",
+    "soal": "Setiap malam, kita bisa melihat ... muncul di langit.",
+    "jawaban": "bintang",
+    "pilihanJawaban": [
+      "matahari",
+      "awan",
+      "bulan",
+      "bintang",
+      "planet"
+    ]
+  },
+  {
+    "index": 161,
+    "web": "md-code.xyz",
+    "soal": "Di musim dingin, kita sering melihat ... jatuh dari langit.",
+    "jawaban": "salju",
+    "pilihanJawaban": [
+      "angin kencang",
+      "kabut",
+      "salju",
+      "hujan",
+      "suhu panas"
+    ]
+  },
+  {
+    "index": 162,
+    "web": "md-code.xyz",
+    "soal": "Pada hari yang cerah, kita bisa melihat ... mengambang di atas air.",
+    "jawaban": "balon udara",
+    "pilihanJawaban": [
+      "bentuk awan",
+      "balon udara",
+      "perahu kayuh",
+      "kapal pesiar",
+      "ikan berenang"
+    ]
+  },
+  {
+    "index": 163,
+    "web": "md-code.xyz",
+    "soal": "Saat cuaca buruk, kita sering mendengar ... gemuruh di langit.",
+    "jawaban": "guntur",
+    "pilihanJawaban": [
+      "angin kencang",
+      "hujan",
+      "guntur",
+      "kilat",
+      "tornado"
+    ]
+  },
+  {
+    "index": 164,
+    "web": "md-code.xyz",
+    "soal": "Pada malam Halloween, orang sering berpakaian seperti ...",
+    "jawaban": "hantu",
+    "pilihanJawaban": [
+      "penyihir",
+      "zombie",
+      "vampir",
+      "hantu",
+      "setan"
+    ]
+  },
+  {
+    "index": 165,
+    "web": "md-code.xyz",
+    "soal": "Saat liburan musim panas, banyak orang pergi ke pantai untuk bermain di ...",
+    "jawaban": "pasir",
+    "pilihanJawaban": [
+      "gunung berapi",
+      "pohon kelapa",
+      "pasir",
+      "rumput",
+      "air laut"
+    ]
+  },
+  {
+    "index": 166,
+    "web": "md-code.xyz",
+    "soal": "Pada pagi hari, kita sering melihat ... naik di langit timur.",
+    "jawaban": "matahari",
+    "pilihanJawaban": [
+      "bintang",
+      "matahari",
+      "awan",
+      "bulan",
+      "planet"
+    ]
+  },
+  {
+    "index": 167,
+    "web": "md-code.xyz",
+    "soal": "Saat musim panas tiba, kita sering mengenakan pakaian ...",
+    "jawaban": "berenang",
+    "pilihanJawaban": [
+      "hangat",
+      "berenang",
+      "hujan",
+      "musim dingin",
+      "bersepeda"
+    ]
+  },
+  {
+    "index": 168,
+    "web": "md-code.xyz",
+    "soal": "Pada malam hari, kita bisa mendengar ... berkicau di pohon-pohon.",
+    "jawaban": "burung",
+    "pilihanJawaban": [
+      "tikus",
+      "kucing",
+      "ular",
+      "burung",
+      "monyet"
+    ]
+  },
+  {
+    "index": 169,
+    "web": "md-code.xyz",
+    "soal": "Saat kita lapar, kita sering mencari ... untuk dimakan.",
+    "jawaban": "makanan",
+    "pilihanJawaban": [
+      "mainan",
+      "makanan",
+      "baju",
+      "kendaraan",
+      "air"
+    ]
+  },
+  {
+    "index": 170,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang tenang, kita bisa mendengar ... di atas air.",
+    "jawaban": "katak berkokok",
+    "pilihanJawaban": [
+      "laba-laba merajut",
+      "katak berkokok",
+      "kuda berlari",
+      "burung berkicau",
+      "ikan berenang"
+    ]
+  },
+  {
+    "index": 171,
+    "web": "md-code.xyz",
+    "soal": "Saat kita bosan, kita sering mencari ... untuk menghibur diri.",
+    "jawaban": "hobi",
+    "pilihanJawaban": [
+      "hobi",
+      "pekerjaan",
+      "makanan",
+      "kendaraan",
+      "mainan"
+    ]
+  },
+  {
+    "index": 172,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang cerah, kita bisa melihat ... terbang di langit.",
+    "jawaban": "pesawat",
+    "pilihanJawaban": [
+      "bintang jatuh",
+      "balon udara",
+      "pesawat",
+      "perahu layar",
+      "kapal pesiar"
+    ]
+  },
+  {
+    "index": 173,
+    "web": "md-code.xyz",
+    "soal": "Saat kita lelah, kita sering mencari ... untuk istirahat.",
+    "jawaban": "tempat tidur",
+    "pilihanJawaban": [
+      "kursi",
+      "tempat tidur",
+      "meja makan",
+      "lemari",
+      "kompor"
+    ]
+  },
+  {
+    "index": 174,
+    "web": "md-code.xyz",
+    "soal": "Pada hari ulang tahun, kita sering menerima ... dari teman-teman.",
+    "jawaban": "kado",
+    "pilihanJawaban": [
+      "ucapan selamat",
+      "buku",
+      "mainan",
+      "makanan",
+      "kado"
+    ]
+  },
+  {
+    "index": 175,
+    "web": "md-code.xyz",
+    "soal": "Saat kita ingin berkomunikasi dengan seseorang jauh, kita sering menggunakan ...",
+    "jawaban": "telepon",
+    "pilihanJawaban": [
+      "surat",
+      "telepon",
+      "radio",
+      "komputer",
+      "mobil"
+    ]
+  },
+  {
+    "index": 176,
+    "web": "md-code.xyz",
+    "soal": "Pada malam hari, kita sering melihat ... terbit di langit.",
+    "jawaban": "bulan",
+    "pilihanJawaban": [
+      "awan",
+      "planet",
+      "bulan",
+      "bintang",
+      "matahari"
+    ]
+  },
+  {
+    "index": 177,
+    "web": "md-code.xyz",
+    "soal": "Saat kita ingin berlibur, kita sering pergi ke ...",
+    "jawaban": "pantai",
+    "pilihanJawaban": [
+      "gunung",
+      "pantai",
+      "kota",
+      "hutan",
+      "desa"
+    ]
+  },
+  {
+    "index": 178,
+    "web": "md-code.xyz",
+    "soal": "Pada hari yang panas, kita sering mencari ... untuk minum.",
+    "jawaban": "air",
+    "pilihanJawaban": [
+      "minuman bersoda",
+      "air",
+      "kopi",
+      "susu",
+      "jus"
+    ]
+  },
+  {
+    "index": 179,
+    "web": "md-code.xyz",
+    "soal": "Saat musim gugur tiba, banyak pohon menggugurkan ... mereka.",
+    "jawaban": "daun",
+    "pilihanJawaban": [
+      "bunga",
+      "daun",
+      "dahan",
+      "buah",
+      "ranting"
+    ]
+  },
+  {
+    "index": 180,
+    "web": "md-code.xyz",
+    "soal": "Saat cuaca buruk, kita sering melihat ... di jalan.",
+    "jawaban": "genangan air",
+    "pilihanJawaban": [
+      "angin kencang",
+      "pohon tumbang",
+      "kabut",
+      "salju",
+      "genangan air"
+    ]
+  },
+  {
+    "index": 181,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang gelap, kita bisa melihat ... di langit.",
+    "jawaban": "bintang jatuh",
+    "pilihanJawaban": [
+      "planet",
+      "kilat",
+      "bulan purnama",
+      "awan berarak",
+      "bintang jatuh"
+    ]
+  },
+  {
+    "index": 182,
+    "web": "md-code.xyz",
+    "soal": "Saat kita ingin berbelanja, kita sering pergi ke ...",
+    "jawaban": "pasar",
+    "pilihanJawaban": [
+      "toko serba ada",
+      "mall",
+      "supermarket",
+      "warung",
+      "pasar"
+    ]
+  },
+  {
+    "index": 183,
+    "web": "md-code.xyz",
+    "soal": "Saat kita ingin bermain game, kita sering menggunakan ...",
+    "jawaban": "konsol game",
+    "pilihanJawaban": [
+      "kotak puzzle",
+      "kartu",
+      "kamera",
+      "papan permainan",
+      "konsol game"
+    ]
+  },
+  {
+    "index": 184,
+    "web": "md-code.xyz",
+    "soal": "Pada hari yang cerah, kita bisa melihat ... terbang di langit.",
+    "jawaban": "pesawat terbang",
+    "pilihanJawaban": [
+      "pesawat terbang",
+      "burung pipit",
+      "balon udara",
+      "layang-layang",
+      "bintang jatuh"
+    ]
+  },
+  {
+    "index": 185,
+    "web": "md-code.xyz",
+    "soal": "Saat kita ingin menggambar atau menulis, kita sering menggunakan ...",
+    "jawaban": "pensil",
+    "pilihanJawaban": [
+      "kuas cat",
+      "penghapus",
+      "pita perekat",
+      "pensil",
+      "spidol"
+    ]
+  },
+  {
+    "index": 186,
+    "web": "md-code.xyz",
+    "soal": "Pada hari libur, kita sering mengunjungi ... untuk melihat binatang.",
+    "jawaban": "kebun binatang",
+    "pilihanJawaban": [
+      "museum seni",
+      "kebun binatang",
+      "gunung",
+      "pantai",
+      "taman bermain"
+    ]
+  },
+  {
+    "index": 187,
+    "web": "md-code.xyz",
+    "soal": "Saat kita ingin merayakan ulang tahun, kita sering membeli ...",
+    "jawaban": "kue",
+    "pilihanJawaban": [
+      "kue",
+      "bola",
+      "buku",
+      "kado",
+      "mainan"
+    ]
+  },
+  {
+    "index": 188,
+    "web": "md-code.xyz",
+    "soal": "Saat kita ingin berenang, kita sering pergi ke ...",
+    "jawaban": "kolam renang",
+    "pilihanJawaban": [
+      "pantai",
+      "danau",
+      "sungai",
+      "kolam renang",
+      "mandi air panas"
+    ]
+  },
+  {
+    "index": 189,
+    "web": "md-code.xyz",
+    "soal": "Pada pagi hari, kita sering mendengar ... berbunyi untuk membangunkan orang.",
+    "jawaban": "bel sekolah",
+    "pilihanJawaban": [
+      "musik merdu",
+      "bel sekolah",
+      "klakson mobil",
+      "kendaraan melintas",
+      "bis kota berhenti"
+    ]
+  },
+  {
+    "index": 190,
+    "web": "md-code.xyz",
+    "soal": "Saat kita ingin mengukur sesuatu, kita sering menggunakan ...",
+    "jawaban": "penggaris",
+    "pilihanJawaban": [
+      "penggaris",
+      "timbangan",
+      "jarum jam",
+      "thermometer",
+      "meteran"
+    ]
+  },
+  {
+    "index": 191,
+    "web": "md-code.xyz",
+    "soal": "Pada hari yang panas, kita sering mencari ... untuk diminum.",
+    "jawaban": "minuman dingin",
+    "pilihanJawaban": [
+      "teh hangat",
+      "air putih",
+      "minuman dingin",
+      "minuman panas",
+      "kopi hitam"
+    ]
+  },
+  {
+    "index": 192,
+    "web": "md-code.xyz",
+    "soal": "Saat kita ingin merakit sesuatu, kita sering menggunakan ...",
+    "jawaban": "obeng",
+    "pilihanJawaban": [
+      "pisau lipat",
+      "palu",
+      "obeng",
+      "paku",
+      "sekrup"
+    ]
+  },
+  {
+    "index": 193,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang tenang, kita bisa mendengar ... dari perapian.",
+    "jawaban": "suara kayu terbakar",
+    "pilihanJawaban": [
+      "angin berbisik",
+      "suara kayu terbakar",
+      "suara hujan",
+      "suara dedaunan kering",
+      "burung bernyanyi"
+    ]
+  },
+  {
+    "index": 194,
+    "web": "md-code.xyz",
+    "soal": "Saat kita ingin mencatat sesuatu, kita sering menggunakan ...",
+    "jawaban": "buku catatan",
+    "pilihanJawaban": [
+      "buku catatan",
+      "laptop",
+      "pensil dan kertas",
+      "papan tulis",
+      "tablet"
+    ]
+  },
+  {
+    "index": 195,
+    "web": "md-code.xyz",
+    "soal": "Pada hari yang cerah, kita bisa melihat ... di langit.",
+    "jawaban": "pelangi",
+    "pilihanJawaban": [
+      "burung pemakan ikan",
+      "pelangi",
+      "awan putih",
+      "bulan",
+      "badai petir"
+    ]
+  },
+  {
+    "index": 196,
+    "web": "md-code.xyz",
+    "soal": "Saat cuaca sangat panas, kita sering merasakan ... di kulit kita.",
+    "jawaban": "sengatan matahari",
+    "pilihanJawaban": [
+      "sengatan matahari",
+      "angin sejuk",
+      "hujan lebat",
+      "salju",
+      "cuaca dingin"
+    ]
+  },
+  {
+    "index": 197,
+    "web": "md-code.xyz",
+    "soal": "Pada hari libur, kita sering pergi ke ... untuk bersantai.",
+    "jawaban": "taman",
+    "pilihanJawaban": [
+      "kantor",
+      "sekolah",
+      "taman",
+      "kuburan",
+      "rumah sakit"
+    ]
+  },
+  {
+    "index": 198,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang cerah, kita bisa melihat ... berkilauan di langit.",
+    "jawaban": "bulu babi",
+    "pilihanJawaban": [
+      "bintang-bintang",
+      "bulu babi",
+      "burung hantu",
+      "elang",
+      "bulan"
+    ]
+  },
+  {
+    "index": 199,
+    "web": "md-code.xyz",
+    "soal": "Saat musim gugur tiba, daun-daun pohon berubah menjadi ...",
+    "jawaban": "warna-warni",
+    "pilihanJawaban": [
+      "abu-abu",
+      "warna-warni",
+      "hitam",
+      "putih",
+      "merah"
+    ]
+  },
+  {
+    "index": 200,
+    "web": "md-code.xyz",
+    "soal": "Pada malam yang tenang, kita bisa mendengar ... di perairan.",
+    "jawaban": "ombak berdeburan",
+    "pilihanJawaban": [
+      "ombak berdeburan",
+      "ikan berenang",
+      "perahu meluncur",
+      "kapal layar",
+      "bintang-bintang"
+    ]
+  }
+]

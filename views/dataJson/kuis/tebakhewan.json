@@ -1,0 +1,2615 @@
+[
+  {
+    "index": 0,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki cula dan singa laut.",
+    "jawaban": "Gajah",
+    "pilihanJawaban": [
+      "Jerapah",
+      "Gajah",
+      "Badak",
+      "Harimau",
+      "Singa"
+    ]
+  },
+  {
+    "index": 1,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki sayap, tetapi tidak bisa terbang.",
+    "jawaban": "Pinguin",
+    "pilihanJawaban": [
+      "Merpati",
+      "Burung Hantu",
+      "Elang",
+      "Pinguin",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 2,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang bisa menggigit dengan racunnya yang mematikan.",
+    "jawaban": "Ular",
+    "pilihanJawaban": [
+      "Tokek",
+      "Katak",
+      "Kodok",
+      "Ular",
+      "Buaya"
+    ]
+  },
+  {
+    "index": 3,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di air dan darat, memiliki cakar tajam.",
+    "jawaban": "Kura-kura",
+    "pilihanJawaban": [
+      "Kodok",
+      "Kepiting",
+      "Ikan",
+      "Kura-kura",
+      "Katak"
+    ]
+  },
+  {
+    "index": 4,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di hutan dan memakan daun-daunan.",
+    "jawaban": "Koala",
+    "pilihanJawaban": [
+      "Koala",
+      "Harimau",
+      "Beruang",
+      "Panda",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 5,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang bisa terbang dan sering membawa surat.",
+    "jawaban": "Burung Hantu",
+    "pilihanJawaban": [
+      "Pinguin",
+      "Burung Hantu",
+      "Kanguru",
+      "Elang",
+      "Merpati"
+    ]
+  },
+  {
+    "index": 6,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di air, berkumis, dan memiliki insang.",
+    "jawaban": "Ikan",
+    "pilihanJawaban": [
+      "Buaya",
+      "Katak",
+      "Kura-kura",
+      "Kepiting",
+      "Ikan"
+    ]
+  },
+  {
+    "index": 7,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki tanduk besar dan sering digunakan untuk memburu.",
+    "jawaban": "Rusa",
+    "pilihanJawaban": [
+      "Jerapah",
+      "Rusa",
+      "Singa",
+      "Badak",
+      "Kuda"
+    ]
+  },
+  {
+    "index": 8,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang bisa berenang dan hidup di air tawar atau laut.",
+    "jawaban": "Lumba-lumba",
+    "pilihanJawaban": [
+      "Kura-kura",
+      "Lumba-lumba",
+      "Hiu",
+      "Pinguin",
+      "Paus"
+    ]
+  },
+  {
+    "index": 9,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang bisa berubah warna dan menggigit dengan cepat.",
+    "jawaban": "Kameleon",
+    "pilihanJawaban": [
+      "Iguana",
+      "Cicak",
+      "Tokek",
+      "Ular",
+      "Kameleon"
+    ]
+  },
+  {
+    "index": 10,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki belalai panjang dan taring besar.",
+    "jawaban": "Gajah",
+    "pilihanJawaban": [
+      "Jerapah",
+      "Badak",
+      "Singa",
+      "Harimau",
+      "Gajah"
+    ]
+  },
+  {
+    "index": 11,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di kutub utara dan berbulu tebal.",
+    "jawaban": "Beruang Kutub",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Panda",
+      "Koala",
+      "Harimau",
+      "Beruang Kutub"
+    ]
+  },
+  {
+    "index": 12,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang dapat terbang tinggi di langit dan mengeluarkan suara khas.",
+    "jawaban": "Elang",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Pinguin",
+      "Merpati",
+      "Burung Hantu",
+      "Elang"
+    ]
+  },
+  {
+    "index": 13,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki taring besar dan sering tidur sepanjang hari.",
+    "jawaban": "Harimau",
+    "pilihanJawaban": [
+      "Badak",
+      "Jerapah",
+      "Gajah",
+      "Singa",
+      "Harimau"
+    ]
+  },
+  {
+    "index": 14,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki sisik dan bisa berjalan di atas air.",
+    "jawaban": "Kodok",
+    "pilihanJawaban": [
+      "Buaya",
+      "Kodok",
+      "Katak",
+      "Ikan",
+      "Tokek"
+    ]
+  },
+  {
+    "index": 15,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki ekor panjang dan memanjat pohon dengan cepat.",
+    "jawaban": "Karakal",
+    "pilihanJawaban": [
+      "Harimau",
+      "Gajah",
+      "Singa",
+      "Karakal",
+      "Macan Tutul"
+    ]
+  },
+  {
+    "index": 16,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna-warni dan sering terlihat di kebun bunga.",
+    "jawaban": "Kolibri",
+    "pilihanJawaban": [
+      "Elang",
+      "Pinguin",
+      "Merpati",
+      "Kolibri",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 17,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di atas pohon dan berjalan di dahan dengan mudah.",
+    "jawaban": "Kuskus",
+    "pilihanJawaban": [
+      "Harimau",
+      "Koala",
+      "Kuskus",
+      "Beruang",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 18,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang dapat menyusup di tanah dan hidup di bawah tanah.",
+    "jawaban": "Marmut",
+    "pilihanJawaban": [
+      "Marmut",
+      "Kanguru",
+      "Tikus",
+      "Hamster",
+      "Koala"
+    ]
+  },
+  {
+    "index": 19,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu lebat dan ekor berbintik hitam.",
+    "jawaban": "Luak",
+    "pilihanJawaban": [
+      "Luak",
+      "Harimau",
+      "Singa",
+      "Jerapah",
+      "Gajah"
+    ]
+  },
+  {
+    "index": 20,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki cangkang keras dan tinggal di air.",
+    "jawaban": "Kepiting",
+    "pilihanJawaban": [
+      "Katak",
+      "Buaya",
+      "Kodok",
+      "Kura-kura",
+      "Kepiting"
+    ]
+  },
+  {
+    "index": 21,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang bisa terbang tinggi di langit dan sering membawa surat.",
+    "jawaban": "Burung",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Burung",
+      "Elang",
+      "Merpati",
+      "Pinguin"
+    ]
+  },
+  {
+    "index": 22,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu lebat dan hidup di pegunungan salju.",
+    "jawaban": "Yak",
+    "pilihanJawaban": [
+      "Jerapah",
+      "Kuda",
+      "Badak",
+      "Bison",
+      "Yak"
+    ]
+  },
+  {
+    "index": 23,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang dapat menggigit dan berbisa, sering hidup di hutan.",
+    "jawaban": "Ular",
+    "pilihanJawaban": [
+      "Katak",
+      "Kodok",
+      "Tokek",
+      "Buaya",
+      "Ular"
+    ]
+  },
+  {
+    "index": 24,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki dua tanduk panjang dan sering ditemukan di padang rumput.",
+    "jawaban": "Rusa",
+    "pilihanJawaban": [
+      "Rusa",
+      "Singa",
+      "Badak",
+      "Kuda",
+      "Jerapah"
+    ]
+  },
+  {
+    "index": 25,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di hutan hujan tropis dan terkenal dengan warna bulunya yang cerah.",
+    "jawaban": "Macaw",
+    "pilihanJawaban": [
+      "Macaw",
+      "Kanguru",
+      "Kolibri",
+      "Merpati",
+      "Pinguin"
+    ]
+  },
+  {
+    "index": 26,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki ekor panjang dan biasanya tinggal di rawa-rawa.",
+    "jawaban": "Kanguru",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Beruang",
+      "Koala",
+      "Harimau",
+      "Koala"
+    ]
+  },
+  {
+    "index": 27,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu lebat dan ekor panjang, sering dijadikan simbol perayaan Tahun Baru.",
+    "jawaban": "Singa",
+    "pilihanJawaban": [
+      "Singa",
+      "Jerapah",
+      "Gajah",
+      "Kuda",
+      "Badak"
+    ]
+  },
+  {
+    "index": 28,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki warna bulu hitam dan putih serta hidup di kutub selatan.",
+    "jawaban": "Pinguin",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Kolibri",
+      "Pinguin",
+      "Elang",
+      "Merpati"
+    ]
+  },
+  {
+    "index": 29,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki tanduk panjang dan sering dijadikan simbol nasional Afrika Selatan.",
+    "jawaban": "Springbok",
+    "pilihanJawaban": [
+      "Gajah",
+      "Springbok",
+      "Badak",
+      "Jerapah",
+      "Rusa"
+    ]
+  },
+  {
+    "index": 30,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki paruh panjang dan sering mencari makan di sungai.",
+    "jawaban": "Raja Udang",
+    "pilihanJawaban": [
+      "Kepiting",
+      "Raja Udang",
+      "Katak",
+      "Ikan",
+      "Kura-kura"
+    ]
+  },
+  {
+    "index": 31,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki ekor berbintik dan tinggal di hutan tropis.",
+    "jawaban": "Ocelot",
+    "pilihanJawaban": [
+      "Singa",
+      "Macan Tutul",
+      "Karakal",
+      "Ocelot",
+      "Harimau"
+    ]
+  },
+  {
+    "index": 32,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna merah terang dan hidup di hutan Amerika Selatan.",
+    "jawaban": "Ara",
+    "pilihanJawaban": [
+      "Ara",
+      "Kolibri",
+      "Pinguin",
+      "Merpati",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 33,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki tubuh kecil dan sayap transparan, sering ditemui di malam hari.",
+    "jawaban": "Kupu-kupu",
+    "pilihanJawaban": [
+      "Lalat",
+      "Lebah",
+      "Kecoak",
+      "Kupu-kupu",
+      "Semut"
+    ]
+  },
+  {
+    "index": 34,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki kepala berwarna merah dan bersarang di sungai.",
+    "jawaban": "Merah",
+    "pilihanJawaban": [
+      "Katak",
+      "Ikan",
+      "Ular",
+      "Kepiting",
+      "Merah"
+    ]
+  },
+  {
+    "index": 35,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang sering terlihat menggali tanah dan memiliki ekor berwarna hitam dan putih.",
+    "jawaban": "Tikus",
+    "pilihanJawaban": [
+      "Kucing",
+      "Tikus",
+      "Anjing",
+      "Kura-kura",
+      "Burung"
+    ]
+  },
+  {
+    "index": 36,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki tubuh berbentuk cacing dan sering tinggal di sungai.",
+    "jawaban": "Lintah",
+    "pilihanJawaban": [
+      "Katak",
+      "Buaya",
+      "Lintah",
+      "Ikan",
+      "Kepiting"
+    ]
+  },
+  {
+    "index": 37,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki tanduk bercabang dan sering digunakan untuk menarik kereta.",
+    "jawaban": "Kuda",
+    "pilihanJawaban": [
+      "Kuda",
+      "Rusa",
+      "Jerapah",
+      "Gajah",
+      "Badak"
+    ]
+  },
+  {
+    "index": 38,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna hitam dan putih dan dapat terbang.",
+    "jawaban": "Zebra",
+    "pilihanJawaban": [
+      "Badak",
+      "Jerapah",
+      "Kuda",
+      "Gajah",
+      "Zebra"
+    ]
+  },
+  {
+    "index": 39,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki moncong panjang dan bergantung di cabang pohon.",
+    "jawaban": "Tarsius",
+    "pilihanJawaban": [
+      "Tarsius",
+      "Koala",
+      "Beruang",
+      "Harimau",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 40,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang bisa berlari sangat cepat dan sering dijadikan maskot Olimpiade.",
+    "jawaban": "Kuda Nil",
+    "pilihanJawaban": [
+      "Rusa",
+      "Gajah",
+      "Badak",
+      "Jerapah",
+      "Kuda Nil"
+    ]
+  },
+  {
+    "index": 41,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu tebal dan sering terlihat di Arktik.",
+    "jawaban": "Monyet Salju",
+    "pilihanJawaban": [
+      "Singa",
+      "Gajah",
+      "Harimau",
+      "Jerapah",
+      "Monyet Salju"
+    ]
+  },
+  {
+    "index": 42,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang bisa terbang tinggi di langit dan mengeluarkan suara seram.",
+    "jawaban": "Burung Hantu",
+    "pilihanJawaban": [
+      "Merpati",
+      "Elang",
+      "Pinguin",
+      "Burung Hantu",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 43,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di lautan dan merupakan hewan terbesar di dunia.",
+    "jawaban": "Paus Biru",
+    "pilihanJawaban": [
+      "Kura-kura",
+      "Paus Biru",
+      "Pinguin",
+      "Hiu Putih",
+      "Lumba-lumba"
+    ]
+  },
+  {
+    "index": 44,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki paruh besar dan sering mencari makan di air.",
+    "jawaban": "Pelikan",
+    "pilihanJawaban": [
+      "Ikan",
+      "Kepiting",
+      "Kura-kura",
+      "Katak",
+      "Pelikan"
+    ]
+  },
+  {
+    "index": 45,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki tanduk panjang dan dijadikan maskot perusahaan terkenal.",
+    "jawaban": "Meriamu",
+    "pilihanJawaban": [
+      "Jerapah",
+      "Badak",
+      "Rusa",
+      "Meriamu",
+      "Gajah"
+    ]
+  },
+  {
+    "index": 46,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang sering terlihat berenang di sungai dan memiliki kulit keras.",
+    "jawaban": "Buaya",
+    "pilihanJawaban": [
+      "Kodok",
+      "Buaya",
+      "Ular",
+      "Katak",
+      "Tokek"
+    ]
+  },
+  {
+    "index": 47,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna kuning cerah dan bisa berbicara.",
+    "jawaban": "Nuri",
+    "pilihanJawaban": [
+      "Pinguin",
+      "Nuri",
+      "Kolibri",
+      "Merpati",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 48,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di hutan hujan tropis dan memiliki ekor panjang.",
+    "jawaban": "Kasuari",
+    "pilihanJawaban": [
+      "Kasuari",
+      "Koala",
+      "Beruang",
+      "Kanguru",
+      "Harimau"
+    ]
+  },
+  {
+    "index": 49,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki sayap lebar dan sering berada di sekitar air.",
+    "jawaban": "Angsa",
+    "pilihanJawaban": [
+      "Angsa",
+      "Katak",
+      "Kura-kura",
+      "Kodok",
+      "Ikan"
+    ]
+  },
+  {
+    "index": 50,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di hutan dan memiliki taring tajam.",
+    "jawaban": "Macan Tutul",
+    "pilihanJawaban": [
+      "Badak",
+      "Gajah",
+      "Jerapah",
+      "Singa",
+      "Macan Tutul"
+    ]
+  },
+  {
+    "index": 51,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang suka mengambil hak warga?.",
+    "jawaban": "Banteng",
+    "pilihanJawaban": [
+      "Ular",
+      "Buaya",
+      "Kura-kura",
+      "Katak",
+      "Banteng"
+    ]
+  },
+  {
+    "index": 52,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki ekor berbintik dan tinggal di daerah gurun pasir.",
+    "jawaban": "Kangkang",
+    "pilihanJawaban": [
+      "Kangkang",
+      "Gajah",
+      "Rusa",
+      "Jerapah",
+      "Badak"
+    ]
+  },
+  {
+    "index": 53,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki kaki panjang dan sering berdiri tegak di padang rumput.",
+    "jawaban": "Jerapah",
+    "pilihanJawaban": [
+      "Jerapah",
+      "Kuda",
+      "Singa",
+      "Badak",
+      "Rusa"
+    ]
+  },
+  {
+    "index": 54,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki cakar tajam dan sering bersembunyi di pepohonan.",
+    "jawaban": "Kucing Hutan",
+    "pilihanJawaban": [
+      "Harimau",
+      "Kucing Hutan",
+      "Macan Tutul",
+      "Singa",
+      "Jerapah"
+    ]
+  },
+  {
+    "index": 55,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di air, memiliki paruh seperti burung, dan sering mencari ikan.",
+    "jawaban": "Pelikan",
+    "pilihanJawaban": [
+      "Katak",
+      "Kura-kura",
+      "Pelikan",
+      "Ikan",
+      "Kepiting"
+    ]
+  },
+  {
+    "index": 56,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu tebal berwarna hitam dan putih, sering hidup di hutan bambu.",
+    "jawaban": "Panda",
+    "pilihanJawaban": [
+      "Harimau",
+      "Beruang",
+      "Kanguru",
+      "Koala",
+      "Panda"
+    ]
+  },
+  {
+    "index": 57,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang sering digunakan dalam perlombaan dan memiliki leher panjang.",
+    "jawaban": "Unta",
+    "pilihanJawaban": [
+      "Unta",
+      "Badak",
+      "Singa",
+      "Gajah",
+      "Jerapah"
+    ]
+  },
+  {
+    "index": 58,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki sayap tetapi tidak bisa terbang dan sering berburu di malam hari.",
+    "jawaban": "Kelelawar",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Pinguin",
+      "Kelelawar",
+      "Merpati",
+      "Elang"
+    ]
+  },
+  {
+    "index": 59,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di hutan dan memiliki ekor tebal yang menyerupai bulu.",
+    "jawaban": "Musang",
+    "pilihanJawaban": [
+      "Katak",
+      "Kodok",
+      "Cicak",
+      "Musang",
+      "Buaya"
+    ]
+  },
+  {
+    "index": 60,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki sayap dan dapat mengeluarkan suara nyaring saat terbang.",
+    "jawaban": "Merpati",
+    "pilihanJawaban": [
+      "Pinguin",
+      "Merpati",
+      "Elang",
+      "Kanguru",
+      "Koala"
+    ]
+  },
+  {
+    "index": 61,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di air dan memiliki cangkang keras.",
+    "jawaban": "Kepiting",
+    "pilihanJawaban": [
+      "Kepiting",
+      "Katak",
+      "Kura-kura",
+      "Buaya",
+      "Kodok"
+    ]
+  },
+  {
+    "index": 62,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki gigi taring dan biasanya berburu di malam hari.",
+    "jawaban": "Serigala",
+    "pilihanJawaban": [
+      "Gajah",
+      "Serigala",
+      "Singa",
+      "Jerapah",
+      "Kucing"
+    ]
+  },
+  {
+    "index": 63,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki leher panjang dan suka makan daun tinggi di atas pohon.",
+    "jawaban": "Jerapah",
+    "pilihanJawaban": [
+      "Kuda",
+      "Rusa",
+      "Singa",
+      "Badak",
+      "Jerapah"
+    ]
+  },
+  {
+    "index": 64,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang dapat menyelam dalam air dengan baik dan memiliki bulu tebal.",
+    "jawaban": "Domba Laut",
+    "pilihanJawaban": [
+      "Pinguin",
+      "Hiu",
+      "Domba Laut",
+      "Lumba-lumba",
+      "Kura-kura"
+    ]
+  },
+  {
+    "index": 65,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di padang rumput dan memiliki tanduk besar.",
+    "jawaban": "Bison",
+    "pilihanJawaban": [
+      "Bison",
+      "Badak",
+      "Rusa",
+      "Kuda",
+      "Jerapah"
+    ]
+  },
+  {
+    "index": 66,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu tebal berwarna putih dan terkenal dengan kicauannya.",
+    "jawaban": "Burung Kenari",
+    "pilihanJawaban": [
+      "Pinguin",
+      "Burung Kenari",
+      "Merpati",
+      "Kanguru",
+      "Kolibri"
+    ]
+  },
+  {
+    "index": 67,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di air dan memiliki paruh panjang seperti pedang.",
+    "jawaban": "Ikan Pedang",
+    "pilihanJawaban": [
+      "Ikan Pedang",
+      "Katak",
+      "Kodok",
+      "Kura-kura",
+      "Buaya"
+    ]
+  },
+  {
+    "index": 68,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di hutan hujan tropis dan memiliki tubuh berwarna cerah.",
+    "jawaban": "Toucan",
+    "pilihanJawaban": [
+      "Harimau",
+      "Beruang",
+      "Koala",
+      "Toucan",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 69,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki sayap lebar dan biasanya hidup di padang rumput.",
+    "jawaban": "Elang Botak",
+    "pilihanJawaban": [
+      "Katak",
+      "Ikan",
+      "Kodok",
+      "Kura-kura",
+      "Elang Botak"
+    ]
+  },
+  {
+    "index": 70,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki warna bulu belang-belang dan tinggal di air tawar.",
+    "jawaban": "Zebra Danau",
+    "pilihanJawaban": [
+      "Zebra Danau",
+      "Macan Tutul",
+      "Karakal",
+      "Singa",
+      "Harimau"
+    ]
+  },
+  {
+    "index": 71,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki tubuh berbentuk seperti banjo dan sering menggali tanah.",
+    "jawaban": "Marmut",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Marmut",
+      "Koala",
+      "Hamster",
+      "Tikus"
+    ]
+  },
+  {
+    "index": 72,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki kulit berwarna coklat dan menggali lubang sebagai tempat tinggalnya.",
+    "jawaban": "Kangkang",
+    "pilihanJawaban": [
+      "Kangkang",
+      "Kuda",
+      "Jerapah",
+      "Gajah",
+      "Badak"
+    ]
+  },
+  {
+    "index": 73,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna cerah dan dapat mengeluarkan suara nyaring.",
+    "jawaban": "Ara",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Pinguin",
+      "Merpati",
+      "Kolibri",
+      "Ara"
+    ]
+  },
+  {
+    "index": 74,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di daerah gurun pasir dan memiliki kulit berkerut.",
+    "jawaban": "Kura-kura Gurun",
+    "pilihanJawaban": [
+      "Kodok",
+      "Ular",
+      "Kura-kura Gurun",
+      "Buaya",
+      "Katak"
+    ]
+  },
+  {
+    "index": 75,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki ekor berbintik dan sering ditemukan di padang rumput.",
+    "jawaban": "Zebra",
+    "pilihanJawaban": [
+      "Zebra",
+      "Badak",
+      "Gajah",
+      "Kuda",
+      "Jerapah"
+    ]
+  },
+  {
+    "index": 76,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di hutan hujan tropis dan memiliki bulu berwarna-warni.",
+    "jawaban": "Parrot",
+    "pilihanJawaban": [
+      "Harimau",
+      "Macan Tutul",
+      "Koala",
+      "Parrot",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 77,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki cangkang keras dan sering ditemukan di pantai.",
+    "jawaban": "Kepiting Laut",
+    "pilihanJawaban": [
+      "Katak",
+      "Buaya",
+      "Kodok",
+      "Kura-kura",
+      "Kepiting Laut"
+    ]
+  },
+  {
+    "index": 78,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki tanduk besar dan sering digunakan untuk memisahkan pasangan.",
+    "jawaban": "Paus",
+    "pilihanJawaban": [
+      "Paus",
+      "Lumba-lumba",
+      "Pinguin",
+      "Kura-kura",
+      "Ikan"
+    ]
+  },
+  {
+    "index": 79,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang bisa terbang tinggi di langit dan sering memburu di malam hari.",
+    "jawaban": "Kelelawar",
+    "pilihanJawaban": [
+      "Pinguin",
+      "Merpati",
+      "Elang",
+      "Kelelawar",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 80,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki ekor panjang dan sering ditemukan di padang rumput Afrika.",
+    "jawaban": "Gnu",
+    "pilihanJawaban": [
+      "Jerapah",
+      "Gnu",
+      "Badak",
+      "Kuda",
+      "Singa"
+    ]
+  },
+  {
+    "index": 81,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di hutan hujan dan memiliki bulu berwarna terang.",
+    "jawaban": "Tukan",
+    "pilihanJawaban": [
+      "Beruang",
+      "Kanguru",
+      "Koala",
+      "Harimau",
+      "Tukan"
+    ]
+  },
+  {
+    "index": 82,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki tubuh panjang dan memiliki racun mematikan.",
+    "jawaban": "Cobra",
+    "pilihanJawaban": [
+      "Gajah",
+      "Cobra",
+      "Singa",
+      "Jerapah",
+      "Badak"
+    ]
+  },
+  {
+    "index": 83,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di daerah gurun dan bisa bertahan tanpa air lama.",
+    "jawaban": "Camel",
+    "pilihanJawaban": [
+      "Camel",
+      "Buaya",
+      "Kura-kura",
+      "Kodok",
+      "Katak"
+    ]
+  },
+  {
+    "index": 84,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki sayap lebar dan biasanya hidup di dekat air.",
+    "jawaban": "Bangau",
+    "pilihanJawaban": [
+      "Elang",
+      "Bangau",
+      "Kanguru",
+      "Merpati",
+      "Pinguin"
+    ]
+  },
+  {
+    "index": 85,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna putih dan ekor panjang, sering ditemukan di lingkungan perkotaan.",
+    "jawaban": "Merpati",
+    "pilihanJawaban": [
+      "Pinguin",
+      "Kanguru",
+      "Koala",
+      "Kolibri",
+      "Merpati"
+    ]
+  },
+  {
+    "index": 86,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di hutan hujan tropis dan memiliki gigi taring.",
+    "jawaban": "Harimau",
+    "pilihanJawaban": [
+      "Gajah",
+      "Singa",
+      "Badak",
+      "Harimau",
+      "Jerapah"
+    ]
+  },
+  {
+    "index": 87,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki kulit berkerut dan sering ditemui di hutan hujan.",
+    "jawaban": "Orangutan",
+    "pilihanJawaban": [
+      "Orangutan",
+      "Beruang",
+      "Macan Tutul",
+      "Kanguru",
+      "Koala"
+    ]
+  },
+  {
+    "index": 88,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki tubuh panjang dan bisa menggali tanah dengan cepat.",
+    "jawaban": "Moler",
+    "pilihanJawaban": [
+      "Hamster",
+      "Moler",
+      "Kanguru",
+      "Koala",
+      "Tikus"
+    ]
+  },
+  {
+    "index": 89,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki ekor panjang dan sering digunakan sebagai maskot perusahaan.",
+    "jawaban": "Aardvark",
+    "pilihanJawaban": [
+      "Aardvark",
+      "Jerapah",
+      "Badak",
+      "Kuda",
+      "Singa"
+    ]
+  },
+  {
+    "index": 90,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki tanduk spiral dan sering ditemukan di padang rumput Afrika.",
+    "jawaban": "Kudu",
+    "pilihanJawaban": [
+      "Kuda",
+      "Kudu",
+      "Badak",
+      "Jerapah",
+      "Gnu"
+    ]
+  },
+  {
+    "index": 91,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna merah dan hidup di hutan hujan.",
+    "jawaban": "Lorikeet",
+    "pilihanJawaban": [
+      "Pinguin",
+      "Merpati",
+      "Kolibri",
+      "Kanguru",
+      "Lorikeet"
+    ]
+  },
+  {
+    "index": 92,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di lautan dan sering melompat keluar dari air.",
+    "jawaban": "Lumba-lumba",
+    "pilihanJawaban": [
+      "Paus",
+      "Kura-kura",
+      "Hiu",
+      "Pinguin",
+      "Lumba-lumba"
+    ]
+  },
+  {
+    "index": 93,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki moncong panjang dan sering mencari makan di malam hari.",
+    "jawaban": "Tarsius",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Tarsius",
+      "Beruang",
+      "Koala",
+      "Harimau"
+    ]
+  },
+  {
+    "index": 94,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di hutan dan memiliki cakar tajam.",
+    "jawaban": "Kucing Hutan",
+    "pilihanJawaban": [
+      "Kucing Hutan",
+      "Harimau",
+      "Macan Tutul",
+      "Jerapah",
+      "Singa"
+    ]
+  },
+  {
+    "index": 95,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki paruh panjang dan sering menghuni pantai.",
+    "jawaban": "Pikatan",
+    "pilihanJawaban": [
+      "Kepiting",
+      "Kura-kura",
+      "Ikan",
+      "Katak",
+      "Pikatan"
+    ]
+  },
+  {
+    "index": 96,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki kulit berlapis dan sering digunakan sebagai hewan peliharaan.",
+    "jawaban": "Kura-kura",
+    "pilihanJawaban": [
+      "Katak",
+      "Kura-kura",
+      "Buaya",
+      "Kepiting Laut",
+      "Kodok"
+    ]
+  },
+  {
+    "index": 97,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna cerah dan hidup di pegunungan tinggi.",
+    "jawaban": "Kondor",
+    "pilihanJawaban": [
+      "Kondor",
+      "Elang",
+      "Merpati",
+      "Pinguin",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 98,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki cangkang dan sering hidup di sungai dan danau.",
+    "jawaban": "Kepiting Air Tawar",
+    "pilihanJawaban": [
+      "Kura-kura",
+      "Kepiting",
+      "Ikan",
+      "Kepiting Air Tawar",
+      "Katak"
+    ]
+  },
+  {
+    "index": 99,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di hutan dan memiliki bulu berwarna abu-abu.",
+    "jawaban": "Owa",
+    "pilihanJawaban": [
+      "Kuda",
+      "Badak",
+      "Singa",
+      "Jerapah",
+      "Owa"
+    ]
+  },
+  {
+    "index": 100,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang bisa terbang tinggi dan sering digunakan dalam olahraga terbang.",
+    "jawaban": "Elang Terbang",
+    "pilihanJawaban": [
+      "Kodok",
+      "Kura-kura",
+      "Ikan",
+      "Katak",
+      "Elang Terbang"
+    ]
+  },
+  {
+    "index": 101,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna hitam dan putih, sering digunakan sebagai maskot olahraga.",
+    "jawaban": "Badak",
+    "pilihanJawaban": [
+      "Badak",
+      "Kuda",
+      "Jerapah",
+      "Rusa",
+      "Gnu"
+    ]
+  },
+  {
+    "index": 102,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di air dan memiliki insang.",
+    "jawaban": "Ikan",
+    "pilihanJawaban": [
+      "Ikan",
+      "Katak",
+      "Kura-kura",
+      "Kepiting",
+      "Kodok"
+    ]
+  },
+  {
+    "index": 103,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki tubuh besar dan hidup di air asin.",
+    "jawaban": "Hiu",
+    "pilihanJawaban": [
+      "Hiu",
+      "Lumba-lumba",
+      "Paus",
+      "Kura-kura",
+      "Pinguin"
+    ]
+  },
+  {
+    "index": 104,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki tubuh berwarna abu-abu dan tinggal di hutan hujan.",
+    "jawaban": "Kawuk",
+    "pilihanJawaban": [
+      "Kawuk",
+      "Macan Tutul",
+      "Harimau",
+      "Singa",
+      "Jerapah"
+    ]
+  },
+  {
+    "index": 105,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang sering digunakan sebagai hewan peliharaan dan bisa menggonggong.",
+    "jawaban": "Anjing",
+    "pilihanJawaban": [
+      "Tikus",
+      "Kucing",
+      "Kanguru",
+      "Koala",
+      "Anjing"
+    ]
+  },
+  {
+    "index": 106,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki tubuh berbentuk seperti busur dan sering ditemukan di rawa-rawa.",
+    "jawaban": "Anaconda",
+    "pilihanJawaban": [
+      "Katak",
+      "Buaya",
+      "Kura-kura",
+      "Kodok",
+      "Anaconda"
+    ]
+  },
+  {
+    "index": 107,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki ekor panjang dan sering berburu di malam hari.",
+    "jawaban": "Rubah",
+    "pilihanJawaban": [
+      "Badak",
+      "Gajah",
+      "Rubah",
+      "Singa",
+      "Jerapah"
+    ]
+  },
+  {
+    "index": 108,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna-warni dan hidup di air tawar.",
+    "jawaban": "Koi",
+    "pilihanJawaban": [
+      "Koi",
+      "Kolibri",
+      "Pinguin",
+      "Merpati",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 109,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki paruh panjang dan bisa mencari makan di dalam air.",
+    "jawaban": "Ibis Hitam",
+    "pilihanJawaban": [
+      "Kepiting",
+      "Kura-kura",
+      "Ikan",
+      "Katak",
+      "Ibis Hitam"
+    ]
+  },
+  {
+    "index": 110,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di lautan dan memiliki tubuh berwarna belang-belang.",
+    "jawaban": "Ikan Badut",
+    "pilihanJawaban": [
+      "Pinguin",
+      "Kura-kura",
+      "Paus",
+      "Ikan Badut",
+      "Hiu"
+    ]
+  },
+  {
+    "index": 111,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna oranye dan cenderung soliter.",
+    "jawaban": "Kucing Hutan",
+    "pilihanJawaban": [
+      "Macan Tutul",
+      "Kucing Hutan",
+      "Singa",
+      "Harimau",
+      "Jerapah"
+    ]
+  },
+  {
+    "index": 112,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki kaki panjang dan sering berlari dengan cepat.",
+    "jawaban": "Kanguru",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Kuda",
+      "Singa",
+      "Jerapah",
+      "Badak"
+    ]
+  },
+  {
+    "index": 113,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki sayap lebar dan sering berburu ikan di laut.",
+    "jawaban": "Pelicak",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Pelicak",
+      "Pinguin",
+      "Elang",
+      "Merpati"
+    ]
+  },
+  {
+    "index": 114,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki sayap dan dapat terbang dengan cepat serta sering menghisap nektar bunga.",
+    "jawaban": "Kolibri",
+    "pilihanJawaban": [
+      "Elang",
+      "Kanguru",
+      "Kolibri",
+      "Merpati",
+      "Pinguin"
+    ]
+  },
+  {
+    "index": 115,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di air dan memiliki cangkang keras serta bisa berjalan dengan lambat.",
+    "jawaban": "Kepiting Darat",
+    "pilihanJawaban": [
+      "Kura-kura",
+      "Kepiting Darat",
+      "Ikan",
+      "Kepiting",
+      "Katak"
+    ]
+  },
+  {
+    "index": 116,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki kulit berwarna abu-abu dan memiliki cekungan di punggungnya.",
+    "jawaban": "Kura-kura Belakang Cekung",
+    "pilihanJawaban": [
+      "Buaya",
+      "Katak",
+      "Kura-kura Belakang Cekung",
+      "Kura-kura",
+      "Kodok"
+    ]
+  },
+  {
+    "index": 117,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di hutan dan memiliki bulu berwarna merah cerah.",
+    "jawaban": "Orangutan",
+    "pilihanJawaban": [
+      "Beruang",
+      "Kanguru",
+      "Macan Tutul",
+      "Koala",
+      "Orangutan"
+    ]
+  },
+  {
+    "index": 118,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang bisa terbang tinggi dan sering ditemukan di sekitar air.",
+    "jawaban": "Elang Botak",
+    "pilihanJawaban": [
+      "Elang Botak",
+      "Katak",
+      "Kura-kura",
+      "Ikan",
+      "Kodok"
+    ]
+  },
+  {
+    "index": 119,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna coklat dan putih serta berkaki pendek.",
+    "jawaban": "Panda",
+    "pilihanJawaban": [
+      "Koala",
+      "Panda",
+      "Harimau",
+      "Kanguru",
+      "Beruang"
+    ]
+  },
+  {
+    "index": 120,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki moncong panjang dan sering ditemukan di hutan tropis.",
+    "jawaban": "Tapir",
+    "pilihanJawaban": [
+      "Badak",
+      "Gajah",
+      "Jerapah",
+      "Singa",
+      "Tapir"
+    ]
+  },
+  {
+    "index": 121,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di daerah gurun pasir dan memiliki kulit berwarna coklat.",
+    "jawaban": "Kura-kura Gurun",
+    "pilihanJawaban": [
+      "Kodok",
+      "Buaya",
+      "Kura-kura Gurun",
+      "Katak",
+      "Ular"
+    ]
+  },
+  {
+    "index": 122,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki ekor berbintik dan sering berada di padang rumput.",
+    "jawaban": "Rusa",
+    "pilihanJawaban": [
+      "Kuda",
+      "Badak",
+      "Rusa",
+      "Gajah",
+      "Jerapah"
+    ]
+  },
+  {
+    "index": 123,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di air dan memiliki cakar tajam serta sering mencari mangsa di malam hari.",
+    "jawaban": "Katak",
+    "pilihanJawaban": [
+      "Kepiting",
+      "Kura-kura",
+      "Kodok",
+      "Buaya",
+      "Katak"
+    ]
+  },
+  {
+    "index": 124,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki moncong panjang dan sering makan daun.",
+    "jawaban": "Tapir",
+    "pilihanJawaban": [
+      "Tapir",
+      "Koala",
+      "Harimau",
+      "Beruang",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 125,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki paruh panjang dan suka mencari makan di air tawar.",
+    "jawaban": "Ibis",
+    "pilihanJawaban": [
+      "Kura-kura",
+      "Kepiting",
+      "Ikan",
+      "Ibis",
+      "Katak"
+    ]
+  },
+  {
+    "index": 126,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di hutan dan memiliki bulu berwarna hitam.",
+    "jawaban": "Lajuma",
+    "pilihanJawaban": [
+      "Harimau",
+      "Singa",
+      "Lajuma",
+      "Macan Tutul",
+      "Jerapah"
+    ]
+  },
+  {
+    "index": 127,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di lautan dan memiliki gigi taring tajam.",
+    "jawaban": "Hiu",
+    "pilihanJawaban": [
+      "Hiu",
+      "Lumba-lumba",
+      "Paus",
+      "Pinguin",
+      "Kura-kura"
+    ]
+  },
+  {
+    "index": 128,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna keemasan dan sering digunakan dalam perburuan.",
+    "jawaban": "Harimau Emas",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Koala",
+      "Macan Tutul",
+      "Harimau Emas",
+      "Beruang"
+    ]
+  },
+  {
+    "index": 129,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki kaki panjang dan suka melompat-lompat.",
+    "jawaban": "Kangkang",
+    "pilihanJawaban": [
+      "Kuda",
+      "Jerapah",
+      "Kangkang",
+      "Gajah",
+      "Badak"
+    ]
+  },
+  {
+    "index": 130,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki cakar tajam dan sering berburu di malam hari.",
+    "jawaban": "Musang",
+    "pilihanJawaban": [
+      "Musang",
+      "Singa",
+      "Rusa",
+      "Jerapah",
+      "Gajah"
+    ]
+  },
+  {
+    "index": 131,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki paruh panjang dan suka mencari makan di pantai.",
+    "jawaban": "Bangau",
+    "pilihanJawaban": [
+      "Pinguin",
+      "Merpati",
+      "Elang",
+      "Bangau",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 132,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di air dan memiliki insang serta bersisik.",
+    "jawaban": "Ikan Gurame",
+    "pilihanJawaban": [
+      "Katak",
+      "Kepiting",
+      "Kura-kura",
+      "Ikan Gurame",
+      "Kodok"
+    ]
+  },
+  {
+    "index": 133,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna hitam dan putih serta bisa terbang tinggi di langit.",
+    "jawaban": "Syalang",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Pinguin",
+      "Merpati",
+      "Elang",
+      "Syalang"
+    ]
+  },
+  {
+    "index": 134,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki gigi taring dan sering muncul dalam legenda.",
+    "jawaban": "Naga",
+    "pilihanJawaban": [
+      "Naga",
+      "Katak",
+      "Ikan",
+      "Kepiting",
+      "Kura-kura"
+    ]
+  },
+  {
+    "index": 135,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di hutan dan memiliki bulu berwarna coklat serta berhidung besar.",
+    "jawaban": "Beruang Kutub",
+    "pilihanJawaban": [
+      "Harimau",
+      "Beruang",
+      "Kanguru",
+      "Beruang Coklat",
+      "Beruang Kutub"
+    ]
+  },
+  {
+    "index": 136,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang bisa terbang tinggi dan sering menghuni hutan belantara.",
+    "jawaban": "Elang Hitam",
+    "pilihanJawaban": [
+      "Katak",
+      "Elang Hitam",
+      "Ikan",
+      "Kodok",
+      "Kura-kura"
+    ]
+  },
+  {
+    "index": 137,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna merah dan suka mencari makan di atas pohon.",
+    "jawaban": "Arara Merah",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Koala",
+      "Beruang",
+      "Harimau",
+      "Arara Merah"
+    ]
+  },
+  {
+    "index": 138,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki moncong panjang dan cenderung soliter.",
+    "jawaban": "Komodo",
+    "pilihanJawaban": [
+      "Komodo",
+      "Badak",
+      "Gajah",
+      "Jerapah",
+      "Singa"
+    ]
+  },
+  {
+    "index": 139,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di sungai dan sering muncul dalam mitos.",
+    "jawaban": "Naga Air",
+    "pilihanJawaban": [
+      "Katak",
+      "Kepiting",
+      "Kura-kura",
+      "Naga Air",
+      "Kodok"
+    ]
+  },
+  {
+    "index": 140,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki ekor panjang dan sering ditemukan di hutan belantara.",
+    "jawaban": "Macan Tutul Salju",
+    "pilihanJawaban": [
+      "Macan Tutul Salju",
+      "Jerapah",
+      "Harimau",
+      "Macan Tutul",
+      "Singa"
+    ]
+  },
+  {
+    "index": 141,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang sering digunakan dalam percobaan ilmiah dan memiliki telinga besar.",
+    "jawaban": "Tupai",
+    "pilihanJawaban": [
+      "Gajah",
+      "Badak",
+      "Jerapah",
+      "Kanguru",
+      "Tupai"
+    ]
+  },
+  {
+    "index": 142,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna hitam dan bisa terbang tinggi di malam hari.",
+    "jawaban": "Kelelawar Hitam",
+    "pilihanJawaban": [
+      "Pinguin",
+      "Merpati",
+      "Elang",
+      "Kelelawar Hitam",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 143,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di lautan dan memiliki sirip besar.",
+    "jawaban": "Paus Biru",
+    "pilihanJawaban": [
+      "Paus Biru",
+      "Hiu",
+      "Pinguin",
+      "Lumba-lumba",
+      "Kura-kura"
+    ]
+  },
+  {
+    "index": 144,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna coklat dan hidup di hutan belantara.",
+    "jawaban": "Babirusa",
+    "pilihanJawaban": [
+      "Babirusa",
+      "Koala",
+      "Beruang",
+      "Harimau",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 145,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki sayap tetapi tidak bisa terbang dan sering hidup di air tawar.",
+    "jawaban": "Pinguin",
+    "pilihanJawaban": [
+      "Pinguin",
+      "Kanguru",
+      "Elang",
+      "Merpati",
+      "Kelelawar"
+    ]
+  },
+  {
+    "index": 146,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di sungai dan memiliki kulit berwarna hijau.",
+    "jawaban": "Kodok Hijau",
+    "pilihanJawaban": [
+      "Kodok Hijau",
+      "Kura-kura",
+      "Kepiting",
+      "Buaya",
+      "Kodok"
+    ]
+  },
+  {
+    "index": 147,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki sisik dan bisa mengubah warna kulitnya sesuai dengan lingkungannya.",
+    "jawaban": "Kadal",
+    "pilihanJawaban": [
+      "Kadal",
+      "Kodok",
+      "Kura-kura",
+      "Kepiting",
+      "Katak"
+    ]
+  },
+  {
+    "index": 148,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna kuning dan suka menggali lubang di tanah.",
+    "jawaban": "Meerkat",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Pinguin",
+      "Merpati",
+      "Elang",
+      "Meerkat"
+    ]
+  },
+  {
+    "index": 149,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang sering dianggap sebagai lambang kebijaksanaan dan memiliki sayap lebar.",
+    "jawaban": "Burung Hantu",
+    "pilihanJawaban": [
+      "Harimau",
+      "Burung Hantu",
+      "Beruang",
+      "Koala",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 150,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki kaki panjang dan leher panjang serta sering ditemukan di sungai danau.",
+    "jawaban": "Bangau Putih",
+    "pilihanJawaban": [
+      "Bangau Putih",
+      "Kura-kura",
+      "Kepiting",
+      "Katak",
+      "Kodok"
+    ]
+  },
+  {
+    "index": 151,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di hutan belantara dan memiliki ekor berwarna putih.",
+    "jawaban": "Harimau Siberia",
+    "pilihanJawaban": [
+      "Harimau Siberia",
+      "Harimau Bengal",
+      "Jerapah",
+      "Macan Tutul",
+      "Singa"
+    ]
+  },
+  {
+    "index": 152,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang bisa terbang tinggi dan memiliki bulu berwarna-warni.",
+    "jawaban": "Merak",
+    "pilihanJawaban": [
+      "Kura-kura",
+      "Merak",
+      "Kodok",
+      "Katak",
+      "Ikan"
+    ]
+  },
+  {
+    "index": 153,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki gigi taring dan sering menjadi tokoh dalam film horor.",
+    "jawaban": "Vampir",
+    "pilihanJawaban": [
+      "Ikan",
+      "Vampir",
+      "Kepiting",
+      "Kura-kura",
+      "Katak"
+    ]
+  },
+  {
+    "index": 154,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di hutan hujan dan memiliki warna bulu yang mencolok.",
+    "jawaban": "Toucan",
+    "pilihanJawaban": [
+      "Koala",
+      "Toucan",
+      "Harimau",
+      "Kanguru",
+      "Beruang"
+    ]
+  },
+  {
+    "index": 155,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki ekor panjang dan sering berenang di sungai.",
+    "jawaban": "Lumba-lumba Sungai",
+    "pilihanJawaban": [
+      "Hiu",
+      "Lumba-lumba Sungai",
+      "Kura-kura",
+      "Pinguin",
+      "Paus"
+    ]
+  },
+  {
+    "index": 156,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di hutan belantara dan memiliki tubuh berbulu tebal.",
+    "jawaban": "Wombat",
+    "pilihanJawaban": [
+      "Jerapah",
+      "Wombat",
+      "Badak",
+      "Kanguru",
+      "Gajah"
+    ]
+  },
+  {
+    "index": 157,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki moncong panjang dan sering makan semut.",
+    "jawaban": "Tamandua",
+    "pilihanJawaban": [
+      "Merpati",
+      "Pinguin",
+      "Tamandua",
+      "Elang",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 158,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki paruh panjang dan sering mencari makan di pantai.",
+    "jawaban": "Kuntul",
+    "pilihanJawaban": [
+      "Kepiting",
+      "Ikan",
+      "Katak",
+      "Kuntul",
+      "Kura-kura"
+    ]
+  },
+  {
+    "index": 159,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di padang rumput dan sering bersembunyi di semak-semak.",
+    "jawaban": "Rubah Merah",
+    "pilihanJawaban": [
+      "Singa",
+      "Gajah",
+      "Rubah Merah",
+      "Rusa",
+      "Jerapah"
+    ]
+  },
+  {
+    "index": 160,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki sayap tetapi tidak bisa terbang dan sering berenang di air.",
+    "jawaban": "Pinguin",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Kelelawar",
+      "Merpati",
+      "Elang",
+      "Pinguin"
+    ]
+  },
+  {
+    "index": 161,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna oranye dan sering hidup di hutan belantara.",
+    "jawaban": "Orangutan",
+    "pilihanJawaban": [
+      "Orangutan",
+      "Koala",
+      "Beruang",
+      "Macan Tutul",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 162,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki paruh panjang dan sering mencari makan di air tawar.",
+    "jawaban": "Bangau",
+    "pilihanJawaban": [
+      "Elang",
+      "Kelelawar",
+      "Merpati",
+      "Kanguru",
+      "Bangau"
+    ]
+  },
+  {
+    "index": 163,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di padang rumput dan memiliki tanduk panjang.",
+    "jawaban": "Rusa Betina",
+    "pilihanJawaban": [
+      "Jerapah",
+      "Badak",
+      "Kuda",
+      "Gajah",
+      "Rusa Betina"
+    ]
+  },
+  {
+    "index": 164,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di air dan memiliki cangkang keras serta sering menjadi makanan laut.",
+    "jawaban": "Lobster",
+    "pilihanJawaban": [
+      "Kodok",
+      "Lobster",
+      "Kura-kura",
+      "Kepiting",
+      "Katak"
+    ]
+  },
+  {
+    "index": 165,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki sayap dan bisa terbang dengan cepat serta sering menghisap nektar bunga.",
+    "jawaban": "Kolibri",
+    "pilihanJawaban": [
+      "Kolibri",
+      "Elang",
+      "Pinguin",
+      "Merpati",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 166,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu tebal dan sering hidup di iklim dingin.",
+    "jawaban": "Bisamur",
+    "pilihanJawaban": [
+      "Bisamur",
+      "Tupai",
+      "Kanguru",
+      "Musang",
+      "Lemur"
+    ]
+  },
+  {
+    "index": 167,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki tanduk besar dan sering dijadikan simbol hari raya Natal.",
+    "jawaban": "Rusa",
+    "pilihanJawaban": [
+      "Badak",
+      "Rusa",
+      "Kuda",
+      "Kanguru",
+      "Jerapah"
+    ]
+  },
+  {
+    "index": 168,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang terkenal dengan hantunya dan suka mengaum di malam hari.",
+    "jawaban": "Serigala",
+    "pilihanJawaban": [
+      "Beruang",
+      "Harimau",
+      "Singa",
+      "Serigala",
+      "Rusa"
+    ]
+  },
+  {
+    "index": 169,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki kaki panjang dan sering melompat tinggi.",
+    "jawaban": "Kanguru",
+    "pilihanJawaban": [
+      "Jerapah",
+      "Kanguru",
+      "Kuda",
+      "Gajah",
+      "Badak"
+    ]
+  },
+  {
+    "index": 170,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki sayap dan mampu terbang sangat tinggi.",
+    "jawaban": "Elang",
+    "pilihanJawaban": [
+      "Pinguin",
+      "Elang",
+      "Merpati",
+      "Kelelawar",
+      "Kangkang"
+    ]
+  },
+  {
+    "index": 171,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di air tawar dan memiliki moncong panjang.",
+    "jawaban": "Gavial",
+    "pilihanJawaban": [
+      "Gavial",
+      "Kepiting",
+      "Katak",
+      "Ikan",
+      "Kura-kura"
+    ]
+  },
+  {
+    "index": 172,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki taring tajam dan sering dijadikan ikan laut.",
+    "jawaban": "Hiu",
+    "pilihanJawaban": [
+      "Hiu",
+      "Paus",
+      "Lumba-lumba",
+      "Pinguin",
+      "Kura-kura"
+    ]
+  },
+  {
+    "index": 173,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki sayap tetapi tidak bisa terbang.",
+    "jawaban": "Kiwi",
+    "pilihanJawaban": [
+      "Kiwi",
+      "Kelelawar",
+      "Elang",
+      "Merpati",
+      "Kangkang"
+    ]
+  },
+  {
+    "index": 174,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu tebal dan hidup di daerah kutub.",
+    "jawaban": "Beruang Kutub",
+    "pilihanJawaban": [
+      "Rusa",
+      "Jerapah",
+      "Beruang Kutub",
+      "Harimau",
+      "Singa"
+    ]
+  },
+  {
+    "index": 175,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di air dan memiliki ekor pipih serta menghisap darah.",
+    "jawaban": "Lintah",
+    "pilihanJawaban": [
+      "Lintah",
+      "Kura-kura",
+      "Katak",
+      "Kepiting",
+      "Kodok"
+    ]
+  },
+  {
+    "index": 176,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu lebat dan memiliki sayap, meskipun tidak bisa terbang.",
+    "jawaban": "Pinguin",
+    "pilihanJawaban": [
+      "Merpati",
+      "Elang",
+      "Pinguin",
+      "Kangkang",
+      "Kelelawar"
+    ]
+  },
+  {
+    "index": 177,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang terkenal dengan gigi taringnya yang panjang dan runcing.",
+    "jawaban": "Macan Tutul",
+    "pilihanJawaban": [
+      "Macan Tutul",
+      "Beruang",
+      "Singa",
+      "Rusa",
+      "Harimau"
+    ]
+  },
+  {
+    "index": 178,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di hutan dan memiliki ekor sangat panjang.",
+    "jawaban": "Musang",
+    "pilihanJawaban": [
+      "Musang",
+      "Gajah",
+      "Kuda",
+      "Jerapah",
+      "Badak"
+    ]
+  },
+  {
+    "index": 179,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu berwarna-warni dan sering terbang di sekitar bunga.",
+    "jawaban": "Kupu-kupu",
+    "pilihanJawaban": [
+      "Kupu-kupu",
+      "Kura-kura",
+      "Ikan",
+      "Katak",
+      "Kodok"
+    ]
+  },
+  {
+    "index": 180,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di air tawar dan memiliki gigi taring tajam.",
+    "jawaban": "Buaya",
+    "pilihanJawaban": [
+      "Kura-kura",
+      "Paus",
+      "Buaya",
+      "Lumba-lumba",
+      "Pinguin"
+    ]
+  },
+  {
+    "index": 181,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang sering dijadikan maskot untuk perusahaan besar berwarna merah.",
+    "jawaban": "Banteng",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Banteng",
+      "Koala",
+      "Beruang",
+      "Harimau"
+    ]
+  },
+  {
+    "index": 182,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki kulit bersisik dan sering bergelantungan di pohon.",
+    "jawaban": "Buaya Darat",
+    "pilihanJawaban": [
+      "Buaya Darat",
+      "Kangkang",
+      "Jerapah",
+      "Gajah",
+      "Badak"
+    ]
+  },
+  {
+    "index": 183,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di air dan memiliki rahang bawah yang menjorok keluar.",
+    "jawaban": "Ikan Piranha",
+    "pilihanJawaban": [
+      "Katak",
+      "Kepiting",
+      "Kodok",
+      "Kura-kura",
+      "Ikan Piranha"
+    ]
+  },
+  {
+    "index": 184,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang terkenal dengan warna bulunya yang hitam dan putih serta gemuk.",
+    "jawaban": "Badak Hitam",
+    "pilihanJawaban": [
+      "Badak Hitam",
+      "Rusa",
+      "Beruang",
+      "Singa",
+      "Harimau"
+    ]
+  },
+  {
+    "index": 185,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki paruh panjang dan sering mencari makan di air.",
+    "jawaban": "Kormoran",
+    "pilihanJawaban": [
+      "Kormoran",
+      "Elang",
+      "Merpati",
+      "Kelelawar",
+      "Kangkang"
+    ]
+  },
+  {
+    "index": 186,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di hutan hujan dan memiliki tubuh berwarna cerah serta bisa terbang.",
+    "jawaban": "Kepik",
+    "pilihanJawaban": [
+      "Katak",
+      "Kura-kura",
+      "Kepik",
+      "Kodok",
+      "Ikan"
+    ]
+  },
+  {
+    "index": 187,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang sering dijadikan simbol kelucuan dengan tubuh berbentuk silindris.",
+    "jawaban": "Kucing",
+    "pilihanJawaban": [
+      "Pinguin",
+      "Merpati",
+      "Kucing",
+      "Elang",
+      "Kangkang"
+    ]
+  },
+  {
+    "index": 188,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki ekor panjang dan sering tinggal di sungai dan danau.",
+    "jawaban": "Otocinclus",
+    "pilihanJawaban": [
+      "Kura-kura",
+      "Pinguin",
+      "Lumba-lumba",
+      "Paus",
+      "Otocinclus"
+    ]
+  },
+  {
+    "index": 189,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di air dan memiliki tubuh pipih serta sering bersembunyi di pasir.",
+    "jawaban": "Bisamur Laut",
+    "pilihanJawaban": [
+      "Katak",
+      "Kepiting",
+      "Kura-kura",
+      "Bisamur Laut",
+      "Kodok"
+    ]
+  },
+  {
+    "index": 190,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki sayap dan terbang dengan cepat serta sering menghisap nektar bunga.",
+    "jawaban": "Kolibri",
+    "pilihanJawaban": [
+      "Pinguin",
+      "Kangkang",
+      "Kolibri",
+      "Elang",
+      "Merpati"
+    ]
+  },
+  {
+    "index": 191,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki kaki panjang dan suka melompat-lompat di padang rumput.",
+    "jawaban": "Kangkang",
+    "pilihanJawaban": [
+      "Kangkang",
+      "Kuda",
+      "Jerapah",
+      "Badak",
+      "Gajah"
+    ]
+  },
+  {
+    "index": 192,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang terkenal dengan moncong panjangnya dan sering digunakan untuk mencari mangsa di bawah tanah.",
+    "jawaban": "Cicak",
+    "pilihanJawaban": [
+      "Kura-kura",
+      "Kepiting",
+      "Ikan",
+      "Katak",
+      "Cicak"
+    ]
+  },
+  {
+    "index": 193,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di laut dan memiliki tubuh panjang serta bisa bergerak dengan sangat cepat.",
+    "jawaban": "Lumba-lumba",
+    "pilihanJawaban": [
+      "Pinguin",
+      "Hiu",
+      "Kura-kura",
+      "Paus",
+      "Lumba-lumba"
+    ]
+  },
+  {
+    "index": 194,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki bulu tebal dan hidup di daerah salju.",
+    "jawaban": "Arktik Fox",
+    "pilihanJawaban": [
+      "Arktik Fox",
+      "Singa",
+      "Rusa",
+      "Harimau",
+      "Jerapah"
+    ]
+  },
+  {
+    "index": 195,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang terkenal dengan belalainya yang panjang dan sering digunakan untuk mencari makan di sungai.",
+    "jawaban": "Gajah",
+    "pilihanJawaban": [
+      "Badak",
+      "Jerapah",
+      "Rusa",
+      "Kuda",
+      "Gajah"
+    ]
+  },
+  {
+    "index": 196,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di hutan dan sering dijadikan karakter dalam cerita anak-anak.",
+    "jawaban": "Beruang Cokelat",
+    "pilihanJawaban": [
+      "Jerapah",
+      "Harimau",
+      "Singa",
+      "Rusa",
+      "Beruang Cokelat"
+    ]
+  },
+  {
+    "index": 197,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang memiliki paruh panjang dan sering mencari makan di rawa-rawa.",
+    "jawaban": "Angsa",
+    "pilihanJawaban": [
+      "Kelelawar",
+      "Elang",
+      "Angsa",
+      "Merpati",
+      "Kangkang"
+    ]
+  },
+  {
+    "index": 198,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang sering dijadikan karakter dalam film-film horor dengan gigi taringnya yang tajam.",
+    "jawaban": "Vampir",
+    "pilihanJawaban": [
+      "Katak",
+      "Vampir",
+      "Ikan",
+      "Kepiting",
+      "Kura-kura"
+    ]
+  },
+  {
+    "index": 199,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang tinggal di hutan belantara dan memiliki ekor berbulu tebal serta hidup di tanah.",
+    "jawaban": "Marmut",
+    "pilihanJawaban": [
+      "Beruang",
+      "Kanguru",
+      "Harimau",
+      "Koala",
+      "Marmut"
+    ]
+  },
+  {
+    "index": 200,
+    "web": "md-code.xyz",
+    "soal": "Hewan yang hidup di padang rumput dan memiliki tanduk panjang serta suka berkelompok.",
+    "jawaban": "Bison",
+    "pilihanJawaban": [
+      "Badak",
+      "Kuda",
+      "Bison",
+      "Gajah",
+      "Jerapah"
+    ]
+  }
+]

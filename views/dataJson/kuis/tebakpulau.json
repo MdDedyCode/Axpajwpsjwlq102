@@ -1,0 +1,2402 @@
+[
+  {
+    "index": 0,
+    "soal": "Kabupaten kepulauan mentawai Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Sulawesi",
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 1,
+    "soal": "Kabupaten pesisir selatan Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Sulawesi",
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 2,
+    "soal": "Kabupaten solok Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Sulawesi",
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 3,
+    "soal": "Kabupaten sijunjung Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Sulawesi",
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 4,
+    "soal": "Kabupaten tanah datar Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Sulawesi",
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 5,
+    "soal": "Kabupaten padang pariaman Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Sulawesi",
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 6,
+    "soal": "Kabupaten agam Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Sulawesi",
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 7,
+    "soal": "Kabupaten lima puluh kota Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Sulawesi",
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 8,
+    "soal": "Kabupaten pasaman Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Sulawesi",
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 9,
+    "soal": "Kabupaten solok selatan Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Sulawesi",
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 10,
+    "soal": "Kabupaten dharmasraya Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Sulawesi",
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 11,
+    "soal": "Kabupaten pasaman barat Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Sulawesi",
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 12,
+    "soal": "Kabupaten nias Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 13,
+    "soal": "Kabupaten mandailing natal Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 14,
+    "soal": "Kabupaten tapanuli selatan Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 15,
+    "soal": "Kabupaten tapanuli tengah Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 16,
+    "soal": "Kabupaten tapanuli utara Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 17,
+    "soal": "Kabupaten toba samosir Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 18,
+    "soal": "Kabupaten labuhan batu Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 19,
+    "soal": "Kabupaten asahan Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 20,
+    "soal": "Kabupaten simalungun Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 21,
+    "soal": "Kabupaten dairi Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 22,
+    "soal": "Kabupaten karo Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 23,
+    "soal": "Kabupaten deli serdang Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 24,
+    "soal": "Kabupaten langkat Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 25,
+    "soal": "Kabupaten nias selatan Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 26,
+    "soal": "Kabupaten humbang hasundutan Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 27,
+    "soal": "Kabupaten pakpak bharat Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 28,
+    "soal": "Kabupaten samosir Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 29,
+    "soal": "Kabupaten serdang bedagai Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 30,
+    "soal": "Kabupaten batu bara Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 31,
+    "soal": "Kabupaten padang lawas utara Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 32,
+    "soal": "Kabupaten padang lawas Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 33,
+    "soal": "Kabupaten labuhan batu selatan Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 34,
+    "soal": "Kabupaten labuhan batu utara Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 35,
+    "soal": "Kabupaten nias utara Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 36,
+    "soal": "Kabupaten nias barat Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 37,
+    "soal": "Kabupaten ogan komering ulu Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Papua",
+      "Jawa",
+      "Kalimantan",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 38,
+    "soal": "Kabupaten ogan komering ilir Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Papua",
+      "Jawa",
+      "Kalimantan",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 39,
+    "soal": "Kabupaten muara enim Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Papua",
+      "Jawa",
+      "Kalimantan",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 40,
+    "soal": "Kabupaten lahat Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Papua",
+      "Jawa",
+      "Kalimantan",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 41,
+    "soal": "Kabupaten musi rawas Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Papua",
+      "Jawa",
+      "Kalimantan",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 42,
+    "soal": "Kabupaten musi banyuasin Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Papua",
+      "Jawa",
+      "Kalimantan",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 43,
+    "soal": "Kabupaten banyu asin Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Papua",
+      "Jawa",
+      "Kalimantan",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 44,
+    "soal": "Kabupaten ogan komering ulu selatan Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Papua",
+      "Jawa",
+      "Kalimantan",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 45,
+    "soal": "Kabupaten ogan komering ulu timur Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Papua",
+      "Jawa",
+      "Kalimantan",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 46,
+    "soal": "Kabupaten ogan ilir Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Papua",
+      "Jawa",
+      "Kalimantan",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 47,
+    "soal": "Kabupaten empat lawang Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Papua",
+      "Jawa",
+      "Kalimantan",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 48,
+    "soal": "Kabupaten penukal abab lematang ilir Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Papua",
+      "Jawa",
+      "Kalimantan",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 49,
+    "soal": "Kabupaten musi rawas utara Berada di pulau...?",
+    "jawaban": "Sumatera",
+    "pilihanJawaban": [
+      "Papua",
+      "Jawa",
+      "Kalimantan",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 50,
+    "soal": "Kabupaten bolaang mongondow Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 51,
+    "soal": "Kabupaten minahasa Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 52,
+    "soal": "Kabupaten kepulauan sangihe Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 53,
+    "soal": "Kabupaten kepulauan talaud Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 54,
+    "soal": "Kabupaten minahasa selatan Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 55,
+    "soal": "Kabupaten minahasa utara Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 56,
+    "soal": "Kabupaten bolaang mongondow utara Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 57,
+    "soal": "Kabupaten siau tagulandang biaro Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 58,
+    "soal": "Kabupaten minahasa tenggara Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 59,
+    "soal": "Kabupaten bolaang mongondow selatan Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 60,
+    "soal": "Kabupaten bolaang mongondow timur Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 61,
+    "soal": "Kabupaten banggai kepulauan Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sumatera",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 62,
+    "soal": "Kabupaten banggai Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sumatera",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 63,
+    "soal": "Kabupaten morowali Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sumatera",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 64,
+    "soal": "Kabupaten poso Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sumatera",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 65,
+    "soal": "Kabupaten donggala Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sumatera",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 66,
+    "soal": "Kabupaten toli-toli Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sumatera",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 67,
+    "soal": "Kabupaten buol Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sumatera",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 68,
+    "soal": "Kabupaten parigi moutong Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sumatera",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 69,
+    "soal": "Kabupaten tojo una-una Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sumatera",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 70,
+    "soal": "Kabupaten sigi Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sumatera",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 71,
+    "soal": "Kabupaten banggai laut Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sumatera",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 72,
+    "soal": "Kabupaten morowali utara Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sumatera",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 73,
+    "soal": "Kabupaten kepulauan selayar Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 74,
+    "soal": "Kabupaten bulukumba Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 75,
+    "soal": "Kabupaten bantaeng Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 76,
+    "soal": "Kabupaten jeneponto Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 77,
+    "soal": "Kabupaten takalar Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 78,
+    "soal": "Kabupaten gowa Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 79,
+    "soal": "Kabupaten sinjai Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 80,
+    "soal": "Kabupaten maros Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 81,
+    "soal": "Kabupaten pangkajene dan kepulauan Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 82,
+    "soal": "Kabupaten barru Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 83,
+    "soal": "Kabupaten bone Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 84,
+    "soal": "Kabupaten soppeng Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 85,
+    "soal": "Kabupaten wajo Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 86,
+    "soal": "Kabupaten sidenreng rappang Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 87,
+    "soal": "Kabupaten pinrang Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 88,
+    "soal": "Kabupaten enrekang Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 89,
+    "soal": "Kabupaten luwu Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 90,
+    "soal": "Kabupaten tana toraja Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 91,
+    "soal": "Kabupaten luwu utara Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 92,
+    "soal": "Kabupaten luwu timur Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 93,
+    "soal": "Kabupaten toraja utara Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 94,
+    "soal": "Kabupaten buton Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 95,
+    "soal": "Kabupaten muna Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 96,
+    "soal": "Kabupaten konawe Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 97,
+    "soal": "Kabupaten kolaka Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 98,
+    "soal": "Kabupaten konawe selatan Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 99,
+    "soal": "Kabupaten bombana Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 100,
+    "soal": "Kabupaten wakatobi Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 101,
+    "soal": "Kabupaten kolaka utara Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 102,
+    "soal": "Kabupaten buton utara Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 103,
+    "soal": "Kabupaten konawe utara Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 104,
+    "soal": "Kabupaten kolaka timur Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 105,
+    "soal": "Kabupaten konawe kepulauan Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 106,
+    "soal": "Kabupaten muna barat Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 107,
+    "soal": "Kabupaten buton tengah Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 108,
+    "soal": "Kabupaten buton selatan Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 109,
+    "soal": "Kabupaten majene Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 110,
+    "soal": "Kabupaten polewali mandar Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 111,
+    "soal": "Kabupaten mamasa Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 112,
+    "soal": "Kabupaten mamuju Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 113,
+    "soal": "Kabupaten mamuju utara Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 114,
+    "soal": "Kabupaten mamuju tengah Berada di pulau...?",
+    "jawaban": "Sulawesi",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 115,
+    "soal": "Kabupaten fakfak Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 116,
+    "soal": "Kabupaten kaimana Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 117,
+    "soal": "Kabupaten teluk wondama Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 118,
+    "soal": "Kabupaten teluk bintuni Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 119,
+    "soal": "Kabupaten manokwari Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 120,
+    "soal": "Kabupaten sorong selatan Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 121,
+    "soal": "Kabupaten sorong Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 122,
+    "soal": "Kabupaten raja ampat Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 123,
+    "soal": "Kabupaten tambrauw Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 124,
+    "soal": "Kabupaten maybrat Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 125,
+    "soal": "Kabupaten manokwari selatan Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 126,
+    "soal": "Kabupaten pegunungan arfak Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Jawa",
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 127,
+    "soal": "Kabupaten merauke Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 128,
+    "soal": "Kabupaten jayawijaya Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 129,
+    "soal": "Kabupaten jayapura Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 130,
+    "soal": "Kabupaten nabire Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 131,
+    "soal": "Kabupaten kepulauan yapen Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 132,
+    "soal": "Kabupaten biak numfor Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 133,
+    "soal": "Kabupaten paniai Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 134,
+    "soal": "Kabupaten puncak jaya Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 135,
+    "soal": "Kabupaten mimika Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 136,
+    "soal": "Kabupaten boven digoel Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 137,
+    "soal": "Kabupaten mappi Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 138,
+    "soal": "Kabupaten asmat Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 139,
+    "soal": "Kabupaten yahukimo Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 140,
+    "soal": "Kabupaten pegunungan bintang Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 141,
+    "soal": "Kabupaten tolikara Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 142,
+    "soal": "Kabupaten sarmi Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 143,
+    "soal": "Kabupaten keerom Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 144,
+    "soal": "Kabupaten waropen Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 145,
+    "soal": "Kabupaten supiori Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 146,
+    "soal": "Kabupaten mamberamo raya Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 147,
+    "soal": "Kabupaten nduga Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 148,
+    "soal": "Kabupaten lanny jaya Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 149,
+    "soal": "Kabupaten mamberamo tengah Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 150,
+    "soal": "Kabupaten yalimo Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 151,
+    "soal": "Kabupaten puncak Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 152,
+    "soal": "Kabupaten dogiyai Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 153,
+    "soal": "Kabupaten intan jaya Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 154,
+    "soal": "Kabupaten deiyai Berada di pulau...?",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 155,
+    "soal": "Kabupaten bogor Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 156,
+    "soal": "Kabupaten sukabumi Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 157,
+    "soal": "Kabupaten cianjur Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 158,
+    "soal": "Kabupaten bandung Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 159,
+    "soal": "Kabupaten garut Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 160,
+    "soal": "Kabupaten tasikmalaya Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 161,
+    "soal": "Kabupaten ciamis Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 162,
+    "soal": "Kabupaten kuningan Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 163,
+    "soal": "Kabupaten cirebon Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 164,
+    "soal": "Kabupaten majalengka Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 165,
+    "soal": "Kabupaten sumedang Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 166,
+    "soal": "Kabupaten indramayu Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 167,
+    "soal": "Kabupaten subang Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 168,
+    "soal": "Kabupaten purwakarta Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 169,
+    "soal": "Kabupaten karawang Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 170,
+    "soal": "Kabupaten bekasi Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 171,
+    "soal": "Kabupaten bandung barat Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 172,
+    "soal": "Kabupaten pangandaran Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 173,
+    "soal": "Kabupaten cilacap Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 174,
+    "soal": "Kabupaten banyumas Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 175,
+    "soal": "Kabupaten purbalingga Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 176,
+    "soal": "Kabupaten banjarnegara Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 177,
+    "soal": "Kabupaten kebumen Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 178,
+    "soal": "Kabupaten purworejo Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 179,
+    "soal": "Kabupaten wonosobo Berada di pulau...?",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 180,
+    "soal": "Kabupaten Slebew Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Papua",
+      "Jawa",
+      "Kalimantan",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 181,
+    "soal": "Kabupaten UdinTzy Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Sulawesi",
+      "Papua",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 182,
+    "soal": "Kabupaten Megwati Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Papua",
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 183,
+    "soal": "Kabupaten Nasi goreng Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 184,
+    "soal": "Kabupaten Mie sedaap Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 185,
+    "soal": "Kabupaten Ayanokoji🥶 Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Jawa",
+      "Sumatera",
+      "Sulawesi",
+      "Kalimantan",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 186,
+    "soal": "Kabupaten Dimas Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 187,
+    "soal": "Kabupaten Honda Brio RS 2019 Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Papua",
+      "Sulawesi",
+      "Jawa",
+      "Kalimantan",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 188,
+    "soal": "Kabupaten Masako Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Papua",
+      "Kalimantan",
+      "Sumatera",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 189,
+    "soal": "Kabupaten Dimas slebew Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sulawesi",
+      "Sumatera",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 190,
+    "soal": "Kabupaten Tsunade Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Papua",
+      "Kalimantan",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 191,
+    "soal": "Kabupaten Poco 3x PRO Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Papua",
+      "Jawa",
+      "Kalimantan",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 192,
+    "soal": "Kabupaten Aqua Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Sulawesi",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 193,
+    "soal": "Kabupaten Anggur merah Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Papua",
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 194,
+    "soal": "Kabupaten Sumanto Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Jawa",
+      "Sulawesi",
+      "Sumatera",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 195,
+    "soal": "Kabupaten Kukubima rasa Mangga Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Kalimantan",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 196,
+    "soal": "Kabupaten Honda supra gtr 150 sportify Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Jawa",
+      "Papua",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 197,
+    "soal": "Kabupaten Swallow Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Sumatera",
+      "Kalimantan",
+      "Papua",
+      "Sulawesi",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 198,
+    "soal": "Kabupaten Hinata Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Jawa",
+      "Papua",
+      "Sulawesi",
+      "Kalimantan",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 199,
+    "soal": "Kabupaten Megakonci Berada di pulau...?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Kalimantan",
+      "Sumatera",
+      "Sulawesi",
+      "Papua",
+      "Tidak ada"
+    ]
+  }
+]

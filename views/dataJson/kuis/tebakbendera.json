@@ -1,0 +1,2615 @@
+[
+  {
+    "index": 0,
+    "web": "md-code.xyz",
+    "soal": "[🇦🇨] Bendera dari negara mana kah ini?",
+    "jawaban": "Andorra",
+    "pilihanJawaban": [
+      "Fiji",
+      "Spanyol",
+      "Mikronesia",
+      "Guadeloupe",
+      "Andorra"
+    ]
+  },
+  {
+    "index": 1,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇳] Bendera dari negara mana kah ini?",
+    "jawaban": "China",
+    "pilihanJawaban": [
+      "Estonia",
+      "Kirgistan",
+      "Madagaskar",
+      "Cabo Verde",
+      "China"
+    ]
+  },
+  {
+    "index": 2,
+    "web": "md-code.xyz",
+    "soal": "[🇮🇹] Bendera dari negara mana kah ini?",
+    "jawaban": "Italia",
+    "pilihanJawaban": [
+      "Kosta Rika",
+      "Bolivia",
+      "Bolivia",
+      "Estonia",
+      "Italia"
+    ]
+  },
+  {
+    "index": 3,
+    "web": "md-code.xyz",
+    "soal": "[🇯🇵] Bendera dari negara mana kah ini?",
+    "jawaban": "Jepang",
+    "pilihanJawaban": [
+      "Portugal",
+      "Armenia",
+      "Jepang",
+      "Barbados",
+      "Nicaragua"
+    ]
+  },
+  {
+    "index": 4,
+    "web": "md-code.xyz",
+    "soal": "[🇳🇴] Bendera dari negara mana kah ini?",
+    "jawaban": "Norwegia",
+    "pilihanJawaban": [
+      "Serbia",
+      "Somalia",
+      "Denmark",
+      "Norwegia",
+      "Maladewa"
+    ]
+  },
+  {
+    "index": 5,
+    "web": "md-code.xyz",
+    "soal": "[🇵🇭] Bendera dari negara mana kah ini?",
+    "jawaban": "Filipina",
+    "pilihanJawaban": [
+      "Filipina",
+      "Antartika",
+      "Uzbekistan",
+      "Zimbabwe",
+      "Rumania"
+    ]
+  },
+  {
+    "index": 6,
+    "web": "md-code.xyz",
+    "soal": "[🇷🇺] Bendera dari negara mana kah ini?",
+    "jawaban": "Rusia",
+    "pilihanJawaban": [
+      "Polandia",
+      "Kaledonia Baru",
+      "Lesotho",
+      "Mozambik",
+      "Rusia"
+    ]
+  },
+  {
+    "index": 7,
+    "web": "md-code.xyz",
+    "soal": "[🇸🇦] Bendera dari negara mana kah ini?",
+    "jawaban": "Arab Saudi",
+    "pilihanJawaban": [
+      "Kuba",
+      "Liechtenstein",
+      "Vanuatu",
+      "Kanada",
+      "Arab Saudi"
+    ]
+  },
+  {
+    "index": 8,
+    "web": "md-code.xyz",
+    "soal": "[🇺🇸] Bendera dari negara mana kah ini?",
+    "jawaban": "Amerika Serikat",
+    "pilihanJawaban": [
+      "Timor-Leste",
+      "Chad",
+      "Montenegro",
+      "Amerika Serikat",
+      "Norwegia"
+    ]
+  },
+  {
+    "index": 9,
+    "web": "md-code.xyz",
+    "soal": "[🇻🇳] Bendera dari negara mana kah ini?",
+    "jawaban": "Vietnam",
+    "pilihanJawaban": [
+      "Liechtenstein",
+      "Guyana Prancis",
+      "Kenya",
+      "Vietnam",
+      "Kepulauan Christmas"
+    ]
+  },
+  {
+    "index": 10,
+    "web": "md-code.xyz",
+    "soal": "[🇼🇫] Bendera dari negara mana kah ini?",
+    "jawaban": "Wallis dan Futuna",
+    "pilihanJawaban": [
+      "Yunani",
+      "Uni Eropa",
+      "Polinesia Prancis",
+      "Portugal",
+      "Wallis dan Futuna"
+    ]
+  },
+  {
+    "index": 11,
+    "web": "md-code.xyz",
+    "soal": "[🇾🇪] Bendera dari negara mana kah ini?",
+    "jawaban": "Yaman",
+    "pilihanJawaban": [
+      "Armenia",
+      "Peru",
+      "Yaman",
+      "India",
+      "Dominika"
+    ]
+  },
+  {
+    "index": 12,
+    "web": "md-code.xyz",
+    "soal": "[🇿🇦] Bendera dari negara mana kah ini?",
+    "jawaban": "Afrika Selatan",
+    "pilihanJawaban": [
+      "Albania",
+      "Mozambik",
+      "Liberia",
+      "Afrika Selatan",
+      "Montenegro"
+    ]
+  },
+  {
+    "index": 13,
+    "web": "md-code.xyz",
+    "soal": "[🇿🇼] Bendera dari negara mana kah ini?",
+    "jawaban": "Zimbabwe",
+    "pilihanJawaban": [
+      "Rumania",
+      "Zimbabwe",
+      "Iran",
+      "Ukraina",
+      "Oman"
+    ]
+  },
+  {
+    "index": 14,
+    "web": "md-code.xyz",
+    "soal": "[🇹🇦] Bendera dari negara mana kah ini?",
+    "jawaban": "Tristan da Cunha",
+    "pilihanJawaban": [
+      "Qatar",
+      "Georgia",
+      "Bahama",
+      "Singapura",
+      "Tristan da Cunha"
+    ]
+  },
+  {
+    "index": 15,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇻] Bendera dari negara mana kah ini?",
+    "jawaban": "Cape Verde",
+    "pilihanJawaban": [
+      "Selandia Baru",
+      "Irak",
+      "Cape Verde",
+      "Moldova",
+      "Siprus"
+    ]
+  },
+  {
+    "index": 16,
+    "web": "md-code.xyz",
+    "soal": "[🇱🇨] Bendera dari negara mana kah ini?",
+    "jawaban": "Saint Lucia",
+    "pilihanJawaban": [
+      "Malaysia",
+      "Saint Lucia",
+      "Kepulauan Canaria",
+      "Malta",
+      "Samoa Amerika"
+    ]
+  },
+  {
+    "index": 17,
+    "web": "md-code.xyz",
+    "soal": "[🇱🇻] Bendera dari negara mana kah ini?",
+    "jawaban": "Latvia",
+    "pilihanJawaban": [
+      "Eritrea",
+      "Republik Ceko",
+      "Bhutan",
+      "Latvia",
+      "Amerika Serikat"
+    ]
+  },
+  {
+    "index": 18,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇭] Bendera dari negara mana kah ini?",
+    "jawaban": "Marshall Islands",
+    "pilihanJawaban": [
+      "Slovenia",
+      "Kepulauan Palau",
+      "Sierra Leone",
+      "Marshall Islands",
+      "Sahara Barat"
+    ]
+  },
+  {
+    "index": 19,
+    "web": "md-code.xyz",
+    "soal": "[🇸🇷] Bendera dari negara mana kah ini?",
+    "jawaban": "Suriname",
+    "pilihanJawaban": [
+      "Suriname",
+      "Malta",
+      "Sint Maarten",
+      "Honduras",
+      "Burundi"
+    ]
+  },
+  {
+    "index": 20,
+    "web": "md-code.xyz",
+    "soal": "[🇹🇴] Bendera dari negara mana kah ini?",
+    "jawaban": "Tonga",
+    "pilihanJawaban": [
+      "Kolombia",
+      "Burkina Faso",
+      "Tonga",
+      "Turkmenistan",
+      "Spanyol"
+    ]
+  },
+  {
+    "index": 21,
+    "web": "md-code.xyz",
+    "soal": "[🇹🇯] Bendera dari negara mana kah ini?",
+    "jawaban": "Tajikistan",
+    "pilihanJawaban": [
+      "Samoa Amerika",
+      "Georgia",
+      "Reunion",
+      "Tajikistan",
+      "Slovakia"
+    ]
+  },
+  {
+    "index": 22,
+    "web": "md-code.xyz",
+    "soal": "[🇹🇳] Bendera dari negara mana kah ini?",
+    "jawaban": "Tunisia",
+    "pilihanJawaban": [
+      "Thailand",
+      "Paraguay",
+      "Montserrat",
+      "Tunisia",
+      "Maroko"
+    ]
+  },
+  {
+    "index": 23,
+    "web": "md-code.xyz",
+    "soal": "[🇹🇷] Bendera dari negara mana kah ini?",
+    "jawaban": "Turki",
+    "pilihanJawaban": [
+      "Groenlandia",
+      "Suriah",
+      "Kamboja",
+      "Turki",
+      "Sint Maarten"
+    ]
+  },
+  {
+    "index": 24,
+    "web": "md-code.xyz",
+    "soal": "[🇦🇩] Bendera dari negara mana kah ini?",
+    "jawaban": "Andorra",
+    "pilihanJawaban": [
+      "Andorra",
+      "Cile",
+      "Kuba",
+      "Guam",
+      "Guyana Prancis"
+    ]
+  },
+  {
+    "index": 25,
+    "web": "md-code.xyz",
+    "soal": "[🇦🇬] Bendera dari negara mana kah ini?",
+    "jawaban": "Antigua dan Barbuda",
+    "pilihanJawaban": [
+      "Liechtenstein",
+      "Liberia",
+      "Nauru",
+      "Antigua dan Barbuda",
+      "Kepulauan Cocos"
+    ]
+  },
+  {
+    "index": 26,
+    "web": "md-code.xyz",
+    "soal": "[🇦🇲] Bendera dari negara mana kah ini?",
+    "jawaban": "Armenia",
+    "pilihanJawaban": [
+      "Spanyol",
+      "Paraguay",
+      "Armenia",
+      "Indonesia",
+      "Uni Emirat Arab"
+    ]
+  },
+  {
+    "index": 27,
+    "web": "md-code.xyz",
+    "soal": "[🇦🇴] Bendera dari negara mana kah ini?",
+    "jawaban": "Angola",
+    "pilihanJawaban": [
+      "Taiwan",
+      "Malaysia",
+      "Vanuatu",
+      "Angola",
+      "Bhutan"
+    ]
+  },
+  {
+    "index": 28,
+    "web": "md-code.xyz",
+    "soal": "[🇦🇷] Bendera dari negara mana kah ini?",
+    "jawaban": "Argentina",
+    "pilihanJawaban": [
+      "Taiwan",
+      "Bermuda",
+      "Montserrat",
+      "Argentina",
+      "Belarus"
+    ]
+  },
+  {
+    "index": 29,
+    "web": "md-code.xyz",
+    "soal": "[🇦🇸] Bendera dari negara mana kah ini?",
+    "jawaban": "Samoa Amerika",
+    "pilihanJawaban": [
+      "Brunei",
+      "Nauru",
+      "Samoa Amerika",
+      "Indonesia",
+      "Pulau Ascension"
+    ]
+  },
+  {
+    "index": 30,
+    "web": "md-code.xyz",
+    "soal": "[🇦🇹] Bendera dari negara mana kah ini?",
+    "jawaban": "Austria",
+    "pilihanJawaban": [
+      "Samoa Amerika",
+      "Diego Garcia",
+      "Austria",
+      "Anguilla",
+      "Antartika"
+    ]
+  },
+  {
+    "index": 31,
+    "web": "md-code.xyz",
+    "soal": "[🇦🇺] Bendera dari negara mana kah ini?",
+    "jawaban": "Australia",
+    "pilihanJawaban": [
+      "Australia",
+      "Guyana Prancis",
+      "Oman",
+      "Makedonia Utara",
+      "Singapura"
+    ]
+  },
+  {
+    "index": 32,
+    "web": "md-code.xyz",
+    "soal": "[🇦🇼] Bendera dari negara mana kah ini?",
+    "jawaban": "Aruba",
+    "pilihanJawaban": [
+      "Bermuda",
+      "Saint Lucia",
+      "Kepulauan Solomon",
+      "Aruba",
+      "Thailand"
+    ]
+  },
+  {
+    "index": 33,
+    "web": "md-code.xyz",
+    "soal": "[🇦🇽] Bendera dari negara mana kah ini?",
+    "jawaban": "Bonaire",
+    "pilihanJawaban": [
+      "Pulau Pitcairn",
+      "Guinea",
+      "Bonaire",
+      "Kepulauan Canaria",
+      "Sri Lanka"
+    ]
+  },
+  {
+    "index": 34,
+    "web": "md-code.xyz",
+    "soal": "[🇦🇿] Bendera dari negara mana kah ini?",
+    "jawaban": "Azerbaijan",
+    "pilihanJawaban": [
+      "Yunani",
+      "Mozambik",
+      "Grenada",
+      "Cile",
+      "Azerbaijan"
+    ]
+  },
+  {
+    "index": 35,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇦] Bendera dari negara mana kah ini?",
+    "jawaban": "Bosnia dan Herzegovina",
+    "pilihanJawaban": [
+      "Bosnia dan Herzegovina",
+      "Kanada",
+      "Saint Lucia",
+      "Armenia",
+      "Irlandia"
+    ]
+  },
+  {
+    "index": 36,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇧] Bendera dari negara mana kah ini?",
+    "jawaban": "Barbados",
+    "pilihanJawaban": [
+      "Togo",
+      "Norwegia",
+      "Barbados",
+      "Sint Maarten",
+      "Iran"
+    ]
+  },
+  {
+    "index": 37,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇩] Bendera dari negara mana kah ini?",
+    "jawaban": "Bangladesh",
+    "pilihanJawaban": [
+      "Zimbabwe",
+      "Bangladesh",
+      "Amerika Serikat",
+      "Kepulauan Solomon",
+      "Nauru"
+    ]
+  },
+  {
+    "index": 38,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇪] Bendera dari negara mana kah ini?",
+    "jawaban": "Belgia",
+    "pilihanJawaban": [
+      "Kamboja",
+      "El Salvador",
+      "Oman",
+      "Belgia",
+      "Paraguay"
+    ]
+  },
+  {
+    "index": 39,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇫] Bendera dari negara mana kah ini?",
+    "jawaban": "Burundi",
+    "pilihanJawaban": [
+      "Burundi",
+      "Namibia",
+      "Spanyol",
+      "Liechtenstein",
+      "Albania"
+    ]
+  },
+  {
+    "index": 40,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇬] Bendera dari negara mana kah ini?",
+    "jawaban": "Bulgaria",
+    "pilihanJawaban": [
+      "Senegal",
+      "Bulgaria",
+      "Belize",
+      "Taiwan",
+      "Slovakia"
+    ]
+  },
+  {
+    "index": 41,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇭] Bendera dari negara mana kah ini?",
+    "jawaban": "Bahrain",
+    "pilihanJawaban": [
+      "Pulau Ascension",
+      "Bahrain",
+      "Austria",
+      "Sri Lanka",
+      "Kolombia"
+    ]
+  },
+  {
+    "index": 42,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇮] Bendera dari negara mana kah ini?",
+    "jawaban": "Burundi",
+    "pilihanJawaban": [
+      "Nigeria",
+      "Jerman",
+      "Niger",
+      "Paraguay",
+      "Burundi"
+    ]
+  },
+  {
+    "index": 43,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇯] Bendera dari negara mana kah ini?",
+    "jawaban": "Benin",
+    "pilihanJawaban": [
+      "Benin",
+      "Madagaskar",
+      "Mauritius",
+      "Nepal",
+      "Kirgistan"
+    ]
+  },
+  {
+    "index": 44,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇱] Bendera dari negara mana kah ini?",
+    "jawaban": "Saint Barthélemy",
+    "pilihanJawaban": [
+      "Vietnam",
+      "Sierra Leone",
+      "Saint Barthélemy",
+      "Guernsey",
+      "Taiwan"
+    ]
+  },
+  {
+    "index": 45,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇲] Bendera dari negara mana kah ini?",
+    "jawaban": "Bermuda",
+    "pilihanJawaban": [
+      "Namibia",
+      "Kolombia",
+      "Bermuda",
+      "Belize",
+      "Kirgistan"
+    ]
+  },
+  {
+    "index": 46,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇳] Bendera dari negara mana kah ini?",
+    "jawaban": "Brunei",
+    "pilihanJawaban": [
+      "Aljazair",
+      "Samoa Amerika",
+      "Brunei",
+      "Kepulauan Palau",
+      "Lebanon"
+    ]
+  },
+  {
+    "index": 47,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇴] Bendera dari negara mana kah ini?",
+    "jawaban": "Bolivia",
+    "pilihanJawaban": [
+      "Chad",
+      "Saint Lucia",
+      "Sri Lanka",
+      "Taiwan",
+      "Bolivia"
+    ]
+  },
+  {
+    "index": 48,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇶] Bendera dari negara mana kah ini?",
+    "jawaban": "Bonaire, Sint Eustatius, dan Saba",
+    "pilihanJawaban": [
+      "Kepulauan Norfolk",
+      "Argentina",
+      "Bonaire, Sint Eustatius, dan Saba",
+      "Saint Helena",
+      "Haiti"
+    ]
+  },
+  {
+    "index": 49,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇷] Bendera dari negara mana kah ini?",
+    "jawaban": "Brasil",
+    "pilihanJawaban": [
+      "Finlandia",
+      "Malawi",
+      "Brasil",
+      "Kuba",
+      "Kepulauan Christmas"
+    ]
+  },
+  {
+    "index": 50,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇸] Bendera dari negara mana kah ini?",
+    "jawaban": "Bahamas",
+    "pilihanJawaban": [
+      "Lesotho",
+      "Republik Ceko",
+      "Diego Garcia",
+      "Bahamas",
+      "Kolombia"
+    ]
+  },
+  {
+    "index": 51,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇹] Bendera dari negara mana kah ini?",
+    "jawaban": "Bhutan",
+    "pilihanJawaban": [
+      "Bhutan",
+      "Yordania",
+      "Cile",
+      "Siprus",
+      "Portugal"
+    ]
+  },
+  {
+    "index": 52,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇻] Bendera dari negara mana kah ini?",
+    "jawaban": "Bouvet Island",
+    "pilihanJawaban": [
+      "Bouvet Island",
+      "Guyana",
+      "Uruguay",
+      "Afganistan",
+      "Palestina"
+    ]
+  },
+  {
+    "index": 53,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇼] Bendera dari negara mana kah ini?",
+    "jawaban": "Botswana",
+    "pilihanJawaban": [
+      "Rwanda",
+      "Rumania",
+      "Spanyol",
+      "Botswana",
+      "Panama"
+    ]
+  },
+  {
+    "index": 54,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇾] Bendera dari negara mana kah ini?",
+    "jawaban": "Belarus",
+    "pilihanJawaban": [
+      "Bhutan",
+      "Belarus",
+      "Israel",
+      "Pulau Bouvet",
+      "Serbia"
+    ]
+  },
+  {
+    "index": 55,
+    "web": "md-code.xyz",
+    "soal": "[🇧🇿] Bendera dari negara mana kah ini?",
+    "jawaban": "Belize",
+    "pilihanJawaban": [
+      "Benin",
+      "Uruguay",
+      "India",
+      "Mauritius",
+      "Belize"
+    ]
+  },
+  {
+    "index": 56,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇦] Bendera dari negara mana kah ini?",
+    "jawaban": "Kanada",
+    "pilihanJawaban": [
+      "Gibraltar",
+      "Armenia",
+      "Afrika Selatan",
+      "Burundi",
+      "Kanada"
+    ]
+  },
+  {
+    "index": 57,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇨] Bendera dari negara mana kah ini?",
+    "jawaban": "Cocos (Keeling) Islands",
+    "pilihanJawaban": [
+      "Brunei",
+      "Luxembourg",
+      "Angola",
+      "Kepulauan Norfolk",
+      "Cocos (Keeling) Islands"
+    ]
+  },
+  {
+    "index": 58,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇩] Bendera dari negara mana kah ini?",
+    "jawaban": "Kongo-Kinshasa (Republik Demokratik Kongo)",
+    "pilihanJawaban": [
+      "Jepang",
+      "Guyana Prancis",
+      "Albania",
+      "Kongo-Kinshasa (Republik Demokratik Kongo)",
+      "Meksiko"
+    ]
+  },
+  {
+    "index": 59,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇫] Bendera dari negara mana kah ini?",
+    "jawaban": "Republik Afrika Tengah",
+    "pilihanJawaban": [
+      "Guyana Prancis",
+      "Benin",
+      "Kepulauan Canaria",
+      "Qatar",
+      "Republik Afrika Tengah"
+    ]
+  },
+  {
+    "index": 60,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇬] Bendera dari negara mana kah ini?",
+    "jawaban": "Kongo-Brazzaville (Republik Kongo)",
+    "pilihanJawaban": [
+      "Kongo-Brazzaville (Republik Kongo)",
+      "Angola",
+      "Lituania",
+      "Moldova",
+      "Rwanda"
+    ]
+  },
+  {
+    "index": 61,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇭] Bendera dari negara mana kah ini?",
+    "jawaban": "Swiss",
+    "pilihanJawaban": [
+      "Cile",
+      "Mozambik",
+      "Swiss",
+      "Paraguay",
+      "Guam"
+    ]
+  },
+  {
+    "index": 62,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇮] Bendera dari negara mana kah ini?",
+    "jawaban": "Ivory Coast (Côte d'Ivoire)",
+    "pilihanJawaban": [
+      "Djibouti",
+      "Belarus",
+      "Bahama",
+      "Ivory Coast (Côte d'Ivoire)",
+      "Estonia"
+    ]
+  },
+  {
+    "index": 63,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇰] Bendera dari negara mana kah ini?",
+    "jawaban": "Cook Islands",
+    "pilihanJawaban": [
+      "Cook Islands",
+      "Benin",
+      "Burkina Faso",
+      "Armenia",
+      "Pulau Ascension"
+    ]
+  },
+  {
+    "index": 64,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇱] Bendera dari negara mana kah ini?",
+    "jawaban": "Chile",
+    "pilihanJawaban": [
+      "Kaledonia Baru",
+      "Swaziland",
+      "Reunion",
+      "Chile",
+      "Andorra"
+    ]
+  },
+  {
+    "index": 65,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇲] Bendera dari negara mana kah ini?",
+    "jawaban": "Kamerun",
+    "pilihanJawaban": [
+      "Swiss",
+      "El Salvador",
+      "Kamerun",
+      "Maroko",
+      "Gibraltar"
+    ]
+  },
+  {
+    "index": 66,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇴] Bendera dari negara mana kah ini?",
+    "jawaban": "Kolombia",
+    "pilihanJawaban": [
+      "Kepulauan Marshall",
+      "Barbados",
+      "Denmark",
+      "Pulau Pitcairn",
+      "Kolombia"
+    ]
+  },
+  {
+    "index": 67,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇵] Bendera dari negara mana kah ini?",
+    "jawaban": "Clipperton Island",
+    "pilihanJawaban": [
+      "Maladewa",
+      "Nepal",
+      "Tuvalu",
+      "Clipperton Island",
+      "Swaziland"
+    ]
+  },
+  {
+    "index": 68,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇷] Bendera dari negara mana kah ini?",
+    "jawaban": "Kosta Rika",
+    "pilihanJawaban": [
+      "Kosta Rika",
+      "Turkmenistan",
+      "Kepulauan Christmas",
+      "Uganda",
+      "Argentina"
+    ]
+  },
+  {
+    "index": 69,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇺] Bendera dari negara mana kah ini?",
+    "jawaban": "Kuba",
+    "pilihanJawaban": [
+      "Finlandia",
+      "Tokelau",
+      "Kuba",
+      "Kamboja",
+      "Guadeloupe"
+    ]
+  },
+  {
+    "index": 70,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇼] Bendera dari negara mana kah ini?",
+    "jawaban": "Curaçao",
+    "pilihanJawaban": [
+      "Palestina",
+      "Antartika",
+      "Brunei",
+      "Curaçao",
+      "Jerman"
+    ]
+  },
+  {
+    "index": 71,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇽] Bendera dari negara mana kah ini?",
+    "jawaban": "Christmas Island",
+    "pilihanJawaban": [
+      "Christmas Island",
+      "Argentina",
+      "Bahama",
+      "Guinea-Bissau",
+      "Australia"
+    ]
+  },
+  {
+    "index": 72,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇾] Bendera dari negara mana kah ini?",
+    "jawaban": "Siprus",
+    "pilihanJawaban": [
+      "Panama",
+      "Kroasia",
+      "Brunei",
+      "Siprus",
+      "Yaman"
+    ]
+  },
+  {
+    "index": 73,
+    "web": "md-code.xyz",
+    "soal": "[🇨🇿] Bendera dari negara mana kah ini?",
+    "jawaban": "Republik Ceko",
+    "pilihanJawaban": [
+      "Republik Ceko",
+      "Oman",
+      "Selandia Baru",
+      "Andorra",
+      "Burkina Faso"
+    ]
+  },
+  {
+    "index": 74,
+    "web": "md-code.xyz",
+    "soal": "[🇩🇪] Bendera dari negara mana kah ini?",
+    "jawaban": "Jerman",
+    "pilihanJawaban": [
+      "Somalia",
+      "Samoa Amerika",
+      "Puerto Riko",
+      "Jerman",
+      "Kanada"
+    ]
+  },
+  {
+    "index": 75,
+    "web": "md-code.xyz",
+    "soal": "[🇩🇬] Bendera dari negara mana kah ini?",
+    "jawaban": "Diego Garcia",
+    "pilihanJawaban": [
+      "Senegal",
+      "Finlandia",
+      "Qatar",
+      "Panama",
+      "Diego Garcia"
+    ]
+  },
+  {
+    "index": 76,
+    "web": "md-code.xyz",
+    "soal": "[🇩🇯] Bendera dari negara mana kah ini?",
+    "jawaban": "Djibouti",
+    "pilihanJawaban": [
+      "Samoa Amerika",
+      "Djibouti",
+      "Cile",
+      "Selandia Baru",
+      "Kepulauan Palau"
+    ]
+  },
+  {
+    "index": 77,
+    "web": "md-code.xyz",
+    "soal": "[🇩🇰] Bendera dari negara mana kah ini?",
+    "jawaban": "Denmark",
+    "pilihanJawaban": [
+      "Denmark",
+      "Islandia",
+      "Mozambik",
+      "Pulau Pitcairn",
+      "Fiji"
+    ]
+  },
+  {
+    "index": 78,
+    "web": "md-code.xyz",
+    "soal": "[🇩🇲] Bendera dari negara mana kah ini?",
+    "jawaban": "Dominica",
+    "pilihanJawaban": [
+      "Angola",
+      "Dominica",
+      "Kepulauan Norfolk",
+      "Republik Dominika",
+      "Puerto Riko"
+    ]
+  },
+  {
+    "index": 79,
+    "web": "md-code.xyz",
+    "soal": "[🇩🇴] Bendera dari negara mana kah ini?",
+    "jawaban": "Republik Dominika",
+    "pilihanJawaban": [
+      "Denmark",
+      "Kepulauan Clipperton",
+      "Uzbekistan",
+      "Yordania",
+      "Republik Dominika"
+    ]
+  },
+  {
+    "index": 80,
+    "web": "md-code.xyz",
+    "soal": "[🇩🇿] Bendera dari negara mana kah ini?",
+    "jawaban": "Aljazair",
+    "pilihanJawaban": [
+      "Uni Emirat Arab",
+      "Gambia",
+      "Qatar",
+      "Aljazair",
+      "Ekuador"
+    ]
+  },
+  {
+    "index": 81,
+    "web": "md-code.xyz",
+    "soal": "[🇪🇦] Bendera dari negara mana kah ini?",
+    "jawaban": "Ceuta dan Melilla",
+    "pilihanJawaban": [
+      "Singapura",
+      "Somalia",
+      "Panama",
+      "Kepulauan Solomon",
+      "Ceuta dan Melilla"
+    ]
+  },
+  {
+    "index": 82,
+    "web": "md-code.xyz",
+    "soal": "[🇪🇨] Bendera dari negara mana kah ini?",
+    "jawaban": "Ekuador",
+    "pilihanJawaban": [
+      "Tunisia",
+      "Samoa Amerika",
+      "Meksiko",
+      "Ekuador",
+      "Madagaskar"
+    ]
+  },
+  {
+    "index": 83,
+    "web": "md-code.xyz",
+    "soal": "[🇪🇪] Bendera dari negara mana kah ini?",
+    "jawaban": "Estonia",
+    "pilihanJawaban": [
+      "Estonia",
+      "Cabo Verde",
+      "Jersey",
+      "Sri Lanka",
+      "Nicaragua"
+    ]
+  },
+  {
+    "index": 84,
+    "web": "md-code.xyz",
+    "soal": "[🇪🇬] Bendera dari negara mana kah ini?",
+    "jawaban": "Mesir",
+    "pilihanJawaban": [
+      "Cabo Verde",
+      "Kamboja",
+      "Guam",
+      "Israel",
+      "Mesir"
+    ]
+  },
+  {
+    "index": 85,
+    "web": "md-code.xyz",
+    "soal": "[🇪🇭] Bendera dari negara mana kah ini?",
+    "jawaban": "Western Sahara",
+    "pilihanJawaban": [
+      "Indonesia",
+      "Mauritius",
+      "Pulau Christmas",
+      "Western Sahara",
+      "Montenegro"
+    ]
+  },
+  {
+    "index": 86,
+    "web": "md-code.xyz",
+    "soal": "[🇪🇷] Bendera dari negara mana kah ini?",
+    "jawaban": "Eritrea",
+    "pilihanJawaban": [
+      "Liberia",
+      "Peru",
+      "Prancis",
+      "Eritrea",
+      "Belanda"
+    ]
+  },
+  {
+    "index": 87,
+    "web": "md-code.xyz",
+    "soal": "[🇪🇸] Bendera dari negara mana kah ini?",
+    "jawaban": "Spanyol",
+    "pilihanJawaban": [
+      "Tokelau",
+      "Cile",
+      "Kepulauan Christmas",
+      "Mongolia",
+      "Spanyol"
+    ]
+  },
+  {
+    "index": 88,
+    "web": "md-code.xyz",
+    "soal": "[🇪🇹] Bendera dari negara mana kah ini?",
+    "jawaban": "Ethiopia",
+    "pilihanJawaban": [
+      "Meksiko",
+      "Tokelau",
+      "Jamaika",
+      "Ethiopia",
+      "Guernsey"
+    ]
+  },
+  {
+    "index": 89,
+    "web": "md-code.xyz",
+    "soal": "[🇪🇺] Bendera dari negara mana kah ini?",
+    "jawaban": "Uni Eropa",
+    "pilihanJawaban": [
+      "Denmark",
+      "Uni Eropa",
+      "Ekuador",
+      "Aruba",
+      "Botswana"
+    ]
+  },
+  {
+    "index": 90,
+    "web": "md-code.xyz",
+    "soal": "[🇫🇮] Bendera dari negara mana kah ini?",
+    "jawaban": "Finlandia",
+    "pilihanJawaban": [
+      "Vietnam",
+      "Finlandia",
+      "Aruba",
+      "Kamboja",
+      "Kamboja"
+    ]
+  },
+  {
+    "index": 91,
+    "web": "md-code.xyz",
+    "soal": "[🇫🇯] Bendera dari negara mana kah ini?",
+    "jawaban": "Fiji",
+    "pilihanJawaban": [
+      "Pulau Pitcairn",
+      "Zimbabwe",
+      "Spanyol",
+      "Nepal",
+      "Fiji"
+    ]
+  },
+  {
+    "index": 92,
+    "web": "md-code.xyz",
+    "soal": "[🇫🇰] Bendera dari negara mana kah ini?",
+    "jawaban": "Falkland Islands",
+    "pilihanJawaban": [
+      "Denmark",
+      "Guadeloupe",
+      "Falkland Islands",
+      "Aruba",
+      "Kirgistan"
+    ]
+  },
+  {
+    "index": 93,
+    "web": "md-code.xyz",
+    "soal": "[🇫🇲] Bendera dari negara mana kah ini?",
+    "jawaban": "Micronesia",
+    "pilihanJawaban": [
+      "Micronesia",
+      "Papua Nugini",
+      "Vatikan",
+      "Yordania",
+      "Sri Lanka"
+    ]
+  },
+  {
+    "index": 94,
+    "web": "md-code.xyz",
+    "soal": "[🇫🇴] Bendera dari negara mana kah ini?",
+    "jawaban": "Faroe Islands",
+    "pilihanJawaban": [
+      "Zambia",
+      "Israel",
+      "Meksiko",
+      "Faroe Islands",
+      "Kuba"
+    ]
+  },
+  {
+    "index": 95,
+    "web": "md-code.xyz",
+    "soal": "[🇫🇷] Bendera dari negara mana kah ini?",
+    "jawaban": "Perancis",
+    "pilihanJawaban": [
+      "Meksiko",
+      "Grenada",
+      "Armenia",
+      "Kepulauan Faroe",
+      "Perancis"
+    ]
+  },
+  {
+    "index": 96,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇦] Bendera dari negara mana kah ini?",
+    "jawaban": "Gabon",
+    "pilihanJawaban": [
+      "Gabon",
+      "Mauritania",
+      "Anguilla",
+      "Islandia",
+      "Bolivia"
+    ]
+  },
+  {
+    "index": 97,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇧] Bendera dari negara mana kah ini?",
+    "jawaban": "Inggris",
+    "pilihanJawaban": [
+      "Nicaragua",
+      "Paraguay",
+      "Kosta Rika",
+      "Inggris",
+      "Mongolia"
+    ]
+  },
+  {
+    "index": 98,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇩] Bendera dari negara mana kah ini?",
+    "jawaban": "Grenada",
+    "pilihanJawaban": [
+      "Gambia",
+      "Kepulauan Faroe",
+      "Lituania",
+      "Grenada",
+      "Uganda"
+    ]
+  },
+  {
+    "index": 99,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇪] Bendera dari negara mana kah ini?",
+    "jawaban": "Georgia",
+    "pilihanJawaban": [
+      "Uni Emirat Arab",
+      "Uganda",
+      "Aruba",
+      "Georgia",
+      "Guyana Prancis"
+    ]
+  },
+  {
+    "index": 100,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇫] Bendera dari negara mana kah ini?",
+    "jawaban": "Guyana",
+    "pilihanJawaban": [
+      "Brasil",
+      "Guyana",
+      "Lebanon",
+      "Bhutan",
+      "Aljazair"
+    ]
+  },
+  {
+    "index": 101,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇬] Bendera dari negara mana kah ini?",
+    "jawaban": "Guernsey",
+    "pilihanJawaban": [
+      "Guernsey",
+      "Kirgistan",
+      "Panama",
+      "Liechtenstein",
+      "Swiss"
+    ]
+  },
+  {
+    "index": 102,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇭] Bendera dari negara mana kah ini?",
+    "jawaban": "Ghana",
+    "pilihanJawaban": [
+      "Kazakhstan",
+      "Kepulauan Canaria",
+      "Italia",
+      "Ghana",
+      "Gibraltar"
+    ]
+  },
+  {
+    "index": 103,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇮] Bendera dari negara mana kah ini?",
+    "jawaban": "Gibraltar",
+    "pilihanJawaban": [
+      "Gibraltar",
+      "Mauritius",
+      "Ekuador",
+      "Botswana",
+      "Burkina Faso"
+    ]
+  },
+  {
+    "index": 104,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇱] Bendera dari negara mana kah ini?",
+    "jawaban": "Greenland",
+    "pilihanJawaban": [
+      "Georgia",
+      "Nigeria",
+      "Greenland",
+      "Turkmenistan",
+      "Belanda"
+    ]
+  },
+  {
+    "index": 105,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇲] Bendera dari negara mana kah ini?",
+    "jawaban": "Gambia",
+    "pilihanJawaban": [
+      "Gambia",
+      "Pulau Ascension",
+      "Kaledonia Baru",
+      "Curacao",
+      "Samoa Amerika"
+    ]
+  },
+  {
+    "index": 106,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇳] Bendera dari negara mana kah ini?",
+    "jawaban": "Guinea",
+    "pilihanJawaban": [
+      "Bahama",
+      "Mauritania",
+      "Guinea",
+      "Puerto Riko",
+      "Armenia"
+    ]
+  },
+  {
+    "index": 107,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇵] Bendera dari negara mana kah ini?",
+    "jawaban": "Guadeloupe",
+    "pilihanJawaban": [
+      "Guadeloupe",
+      "Mikronesia",
+      "Vanuatu",
+      "Mongolia",
+      "Kepulauan Clipperton"
+    ]
+  },
+  {
+    "index": 108,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇶] Bendera dari negara mana kah ini?",
+    "jawaban": "Guinea-Bissau",
+    "pilihanJawaban": [
+      "Mongolia",
+      "Guinea-Bissau",
+      "Sahara Barat",
+      "Chad",
+      "Liechtenstein"
+    ]
+  },
+  {
+    "index": 109,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇷] Bendera dari negara mana kah ini?",
+    "jawaban": "Yunani",
+    "pilihanJawaban": [
+      "Yunani",
+      "Kepulauan Solomon",
+      "Finlandia",
+      "Paraguay",
+      "Papua Nugini"
+    ]
+  },
+  {
+    "index": 110,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇸] Bendera dari negara mana kah ini?",
+    "jawaban": "South Georgia dan South Sandwich Islands",
+    "pilihanJawaban": [
+      "Afganistan",
+      "Antartika",
+      "Kirgistan",
+      "Antartika",
+      "South Georgia dan South Sandwich Islands"
+    ]
+  },
+  {
+    "index": 111,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇹] Bendera dari negara mana kah ini?",
+    "jawaban": "Guatemala",
+    "pilihanJawaban": [
+      "Tanzania",
+      "Sierra Leone",
+      "Guatemala",
+      "Maroko",
+      "Sudan"
+    ]
+  },
+  {
+    "index": 112,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇺] Bendera dari negara mana kah ini?",
+    "jawaban": "Guam",
+    "pilihanJawaban": [
+      "Honduras",
+      "Kazakhstan",
+      "Guam",
+      "Austria",
+      "Israel"
+    ]
+  },
+  {
+    "index": 113,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇼] Bendera dari negara mana kah ini?",
+    "jawaban": "Guinea-Bissau",
+    "pilihanJawaban": [
+      "Luxembourg",
+      "Italia",
+      "Brunei",
+      "Belanda",
+      "Guinea-Bissau"
+    ]
+  },
+  {
+    "index": 114,
+    "web": "md-code.xyz",
+    "soal": "[🇬🇾] Bendera dari negara mana kah ini?",
+    "jawaban": "Guyana",
+    "pilihanJawaban": [
+      "Pulau Christmas",
+      "Guyana",
+      "Thailand",
+      "Guernsey",
+      "Lesotho"
+    ]
+  },
+  {
+    "index": 115,
+    "web": "md-code.xyz",
+    "soal": "[🇭🇰] Bendera dari negara mana kah ini?",
+    "jawaban": "Hong Kong",
+    "pilihanJawaban": [
+      "Etiopia",
+      "Polandia",
+      "Kepulauan Palau",
+      "Hong Kong",
+      "Kepulauan Christmas"
+    ]
+  },
+  {
+    "index": 116,
+    "web": "md-code.xyz",
+    "soal": "[🇭🇲] Bendera dari negara mana kah ini?",
+    "jawaban": "Heard Island dan McDonald Islands",
+    "pilihanJawaban": [
+      "Heard Island dan McDonald Islands",
+      "Kepulauan Canary",
+      "Madagaskar",
+      "Luxembourg",
+      "Slovakia"
+    ]
+  },
+  {
+    "index": 117,
+    "web": "md-code.xyz",
+    "soal": "[🇭🇳] Bendera dari negara mana kah ini?",
+    "jawaban": "Honduras",
+    "pilihanJawaban": [
+      "Arab Saudi",
+      "Honduras",
+      "Republik Ceko",
+      "Slovenia",
+      "Taiwan"
+    ]
+  },
+  {
+    "index": 118,
+    "web": "md-code.xyz",
+    "soal": "[🇭🇷] Bendera dari negara mana kah ini?",
+    "jawaban": "Kroasia",
+    "pilihanJawaban": [
+      "Sierra Leone",
+      "Swedia",
+      "Bulgaria",
+      "Finlandia",
+      "Kroasia"
+    ]
+  },
+  {
+    "index": 119,
+    "web": "md-code.xyz",
+    "soal": "[🇭🇹] Bendera dari negara mana kah ini?",
+    "jawaban": "Haiti",
+    "pilihanJawaban": [
+      "Selandia Baru",
+      "Mauritius",
+      "Haiti",
+      "Burkina Faso",
+      "Kirgistan"
+    ]
+  },
+  {
+    "index": 120,
+    "web": "md-code.xyz",
+    "soal": "[🇭🇺] Bendera dari negara mana kah ini?",
+    "jawaban": "Hungary",
+    "pilihanJawaban": [
+      "Guinea",
+      "Uni Emirat Arab",
+      "Chad",
+      "Hungary",
+      "Belgia"
+    ]
+  },
+  {
+    "index": 121,
+    "web": "md-code.xyz",
+    "soal": "[🇮🇨] Bendera dari negara mana kah ini?",
+    "jawaban": "Canary Islands",
+    "pilihanJawaban": [
+      "Canary Islands",
+      "Peru",
+      "Aruba",
+      "Nicaragua",
+      "Dominika"
+    ]
+  },
+  {
+    "index": 122,
+    "web": "md-code.xyz",
+    "soal": "[🇮🇩] Bendera dari negara mana kah ini?",
+    "jawaban": "Indonesia",
+    "pilihanJawaban": [
+      "Indonesia",
+      "Eritrea",
+      "Vietnam",
+      "Kanada",
+      "Taiwan"
+    ]
+  },
+  {
+    "index": 123,
+    "web": "md-code.xyz",
+    "soal": "[🇮🇪] Bendera dari negara mana kah ini?",
+    "jawaban": "Irlandia",
+    "pilihanJawaban": [
+      "Grenada",
+      "Kepulauan Solomon",
+      "Irlandia",
+      "Rusia",
+      "Jerman"
+    ]
+  },
+  {
+    "index": 124,
+    "web": "md-code.xyz",
+    "soal": "[🇮🇱] Bendera dari negara mana kah ini?",
+    "jawaban": "Israel",
+    "pilihanJawaban": [
+      "Kepulauan Canary",
+      "Etiopia",
+      "Luxembourg",
+      "Kenya",
+      "Israel"
+    ]
+  },
+  {
+    "index": 125,
+    "web": "md-code.xyz",
+    "soal": "[🇮🇲] Bendera dari negara mana kah ini?",
+    "jawaban": "Isle of Man",
+    "pilihanJawaban": [
+      "Qatar",
+      "Mali",
+      "Guyana Prancis",
+      "Isle of Man",
+      "Maroko"
+    ]
+  },
+  {
+    "index": 126,
+    "web": "md-code.xyz",
+    "soal": "[🇮🇳] Bendera dari negara mana kah ini?",
+    "jawaban": "India",
+    "pilihanJawaban": [
+      "Mesir",
+      "Vatikan",
+      "Lituania",
+      "Maladewa",
+      "India"
+    ]
+  },
+  {
+    "index": 127,
+    "web": "md-code.xyz",
+    "soal": "[🇮🇴] Bendera dari negara mana kah ini?",
+    "jawaban": "British Indian Ocean Territory",
+    "pilihanJawaban": [
+      "British Indian Ocean Territory",
+      "Qatar",
+      "Taiwan",
+      "Pulau Bouvet",
+      "Montenegro"
+    ]
+  },
+  {
+    "index": 128,
+    "web": "md-code.xyz",
+    "soal": "[🇮🇶] Bendera dari negara mana kah ini?",
+    "jawaban": "Irak",
+    "pilihanJawaban": [
+      "Irak",
+      "Liechtenstein",
+      "Slovenia",
+      "Irak",
+      "Dominika"
+    ]
+  },
+  {
+    "index": 129,
+    "web": "md-code.xyz",
+    "soal": "[🇮🇷] Bendera dari negara mana kah ini?",
+    "jawaban": "Iran",
+    "pilihanJawaban": [
+      "Azerbaijan",
+      "Iran",
+      "Kamboja",
+      "Iran",
+      "Sierra Leone"
+    ]
+  },
+  {
+    "index": 130,
+    "web": "md-code.xyz",
+    "soal": "[🇮🇸] Bendera dari negara mana kah ini?",
+    "jawaban": "Islandia",
+    "pilihanJawaban": [
+      "Luxembourg",
+      "Kepulauan Cocos",
+      "Ghana",
+      "Denmark",
+      "Islandia"
+    ]
+  },
+  {
+    "index": 131,
+    "web": "md-code.xyz",
+    "soal": "[🇯🇪] Bendera dari negara mana kah ini?",
+    "jawaban": "Jersey",
+    "pilihanJawaban": [
+      "Afrika Selatan",
+      "Monako",
+      "Benin",
+      "Jersey",
+      "Maroko"
+    ]
+  },
+  {
+    "index": 132,
+    "web": "md-code.xyz",
+    "soal": "[🇯🇲] Bendera dari negara mana kah ini?",
+    "jawaban": "Jamaika",
+    "pilihanJawaban": [
+      "Kepulauan Palau",
+      "Slovakia",
+      "Zimbabwe",
+      "Israel",
+      "Jamaika"
+    ]
+  },
+  {
+    "index": 133,
+    "web": "md-code.xyz",
+    "soal": "[🇯🇴] Bendera dari negara mana kah ini?",
+    "jawaban": "Yordania",
+    "pilihanJawaban": [
+      "Yordania",
+      "Albania",
+      "Guyana Prancis",
+      "Maladewa",
+      "Rusia"
+    ]
+  },
+  {
+    "index": 134,
+    "web": "md-code.xyz",
+    "soal": "[🇯🇾] Bendera dari negara mana kah ini?",
+    "jawaban": "Cayman Islands",
+    "pilihanJawaban": [
+      "Republik Dominika",
+      "Panama",
+      "Grenada",
+      "Niue",
+      "Cayman Islands"
+    ]
+  },
+  {
+    "index": 135,
+    "web": "md-code.xyz",
+    "soal": "[🇰🇦] Bendera dari negara mana kah ini?",
+    "jawaban": "Saint Kitts dan Nevis",
+    "pilihanJawaban": [
+      "Kepulauan Christmas",
+      "Kirgistan",
+      "Sri Lanka",
+      "Saint Kitts dan Nevis",
+      "Meksiko"
+    ]
+  },
+  {
+    "index": 136,
+    "web": "md-code.xyz",
+    "soal": "[🇰🇧] Bendera dari negara mana kah ini?",
+    "jawaban": "Saint Kitts dan Nevis",
+    "pilihanJawaban": [
+      "Bolivia",
+      "Eritrea",
+      "Kepulauan Canaria",
+      "Saint Kitts dan Nevis",
+      "Paraguay"
+    ]
+  },
+  {
+    "index": 137,
+    "web": "md-code.xyz",
+    "soal": "[🇰🇨] Bendera dari negara mana kah ini?",
+    "jawaban": "Kepulauan Cocos (Keeling)",
+    "pilihanJawaban": [
+      "Mikronesia",
+      "Guinea-Bissau",
+      "Portugal",
+      "Turkmenistan",
+      "Kepulauan Cocos (Keeling)"
+    ]
+  },
+  {
+    "index": 138,
+    "web": "md-code.xyz",
+    "soal": "[🇰🇪] Bendera dari negara mana kah ini?",
+    "jawaban": "Kenya",
+    "pilihanJawaban": [
+      "Barbados",
+      "Eritrea",
+      "Indonesia",
+      "Rwanda",
+      "Kenya"
+    ]
+  },
+  {
+    "index": 139,
+    "web": "md-code.xyz",
+    "soal": "[🇰🇬] Bendera dari negara mana kah ini?",
+    "jawaban": "Kirgistan",
+    "pilihanJawaban": [
+      "Spanyol",
+      "Kirgistan",
+      "Jersey",
+      "Mongolia",
+      "Selandia Baru"
+    ]
+  },
+  {
+    "index": 140,
+    "web": "md-code.xyz",
+    "soal": "[🇰🇭] Bendera dari negara mana kah ini?",
+    "jawaban": "Kamboja",
+    "pilihanJawaban": [
+      "Kamboja",
+      "Serbia",
+      "Sierra Leone",
+      "Serbia",
+      "Montenegro"
+    ]
+  },
+  {
+    "index": 141,
+    "web": "md-code.xyz",
+    "soal": "[🇰🇮] Bendera dari negara mana kah ini?",
+    "jawaban": "Kiribati",
+    "pilihanJawaban": [
+      "Uni Emirat Arab",
+      "Malaysia",
+      "Kiribati",
+      "Uni Eropa",
+      "Peru"
+    ]
+  },
+  {
+    "index": 142,
+    "web": "md-code.xyz",
+    "soal": "[🇰🇲] Bendera dari negara mana kah ini?",
+    "jawaban": "Comoros",
+    "pilihanJawaban": [
+      "Comoros",
+      "Uni Eropa",
+      "Etiopia",
+      "Tuvalu",
+      "Montenegro"
+    ]
+  },
+  {
+    "index": 143,
+    "web": "md-code.xyz",
+    "soal": "[🇰🇳] Bendera dari negara mana kah ini?",
+    "jawaban": "Saint Kitts dan Nevis",
+    "pilihanJawaban": [
+      "Qatar",
+      "Kepulauan Cocos",
+      "Cabo Verde",
+      "Reunion",
+      "Saint Kitts dan Nevis"
+    ]
+  },
+  {
+    "index": 144,
+    "web": "md-code.xyz",
+    "soal": "[🇰🇵] Bendera dari negara mana kah ini?",
+    "jawaban": "Korea Utara",
+    "pilihanJawaban": [
+      "Korea Utara",
+      "Makau",
+      "Kepulauan Clipperton",
+      "Kepulauan Canaria",
+      "Rumania"
+    ]
+  },
+  {
+    "index": 145,
+    "web": "md-code.xyz",
+    "soal": "[🇰🇷] Bendera dari negara mana kah ini?",
+    "jawaban": "Korea Selatan",
+    "pilihanJawaban": [
+      "El Salvador",
+      "Pulau Bouvet",
+      "Kazakhstan",
+      "Polandia",
+      "Korea Selatan"
+    ]
+  },
+  {
+    "index": 146,
+    "web": "md-code.xyz",
+    "soal": "[🇰🇼] Bendera dari negara mana kah ini?",
+    "jawaban": "Kuwait",
+    "pilihanJawaban": [
+      "Liechtenstein",
+      "Kuwait",
+      "Samoa Amerika",
+      "Paraguay",
+      "Libya"
+    ]
+  },
+  {
+    "index": 147,
+    "web": "md-code.xyz",
+    "soal": "[🇰🇾] Bendera dari negara mana kah ini?",
+    "jawaban": "Kepulauan Cayman",
+    "pilihanJawaban": [
+      "Kepulauan Palau",
+      "Slovenia",
+      "Austria",
+      "Mauritius",
+      "Kepulauan Cayman"
+    ]
+  },
+  {
+    "index": 148,
+    "web": "md-code.xyz",
+    "soal": "[🇰🇿] Bendera dari negara mana kah ini?",
+    "jawaban": "Kazakhstan",
+    "pilihanJawaban": [
+      "Sri Lanka",
+      "Pulau Ascension",
+      "Somalia",
+      "Kazakhstan",
+      "Kepulauan Canaria"
+    ]
+  },
+  {
+    "index": 149,
+    "web": "md-code.xyz",
+    "soal": "[🇱🇦] Bendera dari negara mana kah ini?",
+    "jawaban": "Laos",
+    "pilihanJawaban": [
+      "Slovakia",
+      "Austria",
+      "Laos",
+      "Uganda",
+      "Diego Garcia"
+    ]
+  },
+  {
+    "index": 150,
+    "web": "md-code.xyz",
+    "soal": "[🇱🇧] Bendera dari negara mana kah ini?",
+    "jawaban": "Libanon",
+    "pilihanJawaban": [
+      "Peru",
+      "Libanon",
+      "Mongolia",
+      "Diego Garcia",
+      "Islandia"
+    ]
+  },
+  {
+    "index": 151,
+    "web": "md-code.xyz",
+    "soal": "[🇱🇮] Bendera dari negara mana kah ini?",
+    "jawaban": "Liechtenstein",
+    "pilihanJawaban": [
+      "Gibraltar",
+      "Aruba",
+      "Liechtenstein",
+      "Slovenia",
+      "Reunion"
+    ]
+  },
+  {
+    "index": 152,
+    "web": "md-code.xyz",
+    "soal": "[🇱🇰] Bendera dari negara mana kah ini?",
+    "jawaban": "Sri Lanka",
+    "pilihanJawaban": [
+      "Sri Lanka",
+      "Paraguay",
+      "Zimbabwe",
+      "Bulgaria",
+      "Malta"
+    ]
+  },
+  {
+    "index": 153,
+    "web": "md-code.xyz",
+    "soal": "[🇱🇷] Bendera dari negara mana kah ini?",
+    "jawaban": "Liberia",
+    "pilihanJawaban": [
+      "Nicaragua",
+      "Diego Garcia",
+      "Pulau Bouvet",
+      "Yaman",
+      "Liberia"
+    ]
+  },
+  {
+    "index": 154,
+    "web": "md-code.xyz",
+    "soal": "[🇱🇸] Bendera dari negara mana kah ini?",
+    "jawaban": "Lesotho",
+    "pilihanJawaban": [
+      "Uzbekistan",
+      "Lesotho",
+      "Kirgistan",
+      "Maroko",
+      "Kepulauan Marshall"
+    ]
+  },
+  {
+    "index": 155,
+    "web": "md-code.xyz",
+    "soal": "[🇱🇹] Bendera dari negara mana kah ini?",
+    "jawaban": "Lituania",
+    "pilihanJawaban": [
+      "Polinesia Prancis",
+      "Andorra",
+      "Mozambik",
+      "Lituania",
+      "Nauru"
+    ]
+  },
+  {
+    "index": 156,
+    "web": "md-code.xyz",
+    "soal": "[🇱🇺] Bendera dari negara mana kah ini?",
+    "jawaban": "Luxembourg",
+    "pilihanJawaban": [
+      "Siprus",
+      "Luxembourg",
+      "Liberia",
+      "Sudan",
+      "Guinea"
+    ]
+  },
+  {
+    "index": 157,
+    "web": "md-code.xyz",
+    "soal": "[🇱🇾] Bendera dari negara mana kah ini?",
+    "jawaban": "Libya",
+    "pilihanJawaban": [
+      "Libya",
+      "Bolivia",
+      "Senegal",
+      "Zimbabwe",
+      "Finlandia"
+    ]
+  },
+  {
+    "index": 158,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇦] Bendera dari negara mana kah ini?",
+    "jawaban": "Maroko",
+    "pilihanJawaban": [
+      "Estonia",
+      "Nigeria",
+      "Kepulauan Canary",
+      "Monako",
+      "Maroko"
+    ]
+  },
+  {
+    "index": 159,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇨] Bendera dari negara mana kah ini?",
+    "jawaban": "Monako",
+    "pilihanJawaban": [
+      "Georgia",
+      "Vanuatu",
+      "Monako",
+      "Timor-Leste",
+      "Swedia"
+    ]
+  },
+  {
+    "index": 160,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇩] Bendera dari negara mana kah ini?",
+    "jawaban": "Moldova",
+    "pilihanJawaban": [
+      "Cabo Verde",
+      "Belarus",
+      "Kolombia",
+      "Moldova",
+      "Madagaskar"
+    ]
+  },
+  {
+    "index": 161,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇪] Bendera dari negara mana kah ini?",
+    "jawaban": "Montenegro",
+    "pilihanJawaban": [
+      "Montenegro",
+      "Montenegro",
+      "Jersey",
+      "Nicaragua",
+      "Peru"
+    ]
+  },
+  {
+    "index": 162,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇫] Bendera dari negara mana kah ini?",
+    "jawaban": "Martinique",
+    "pilihanJawaban": [
+      "Aruba",
+      "Spanyol",
+      "Pulau Bouvet",
+      "Uni Emirat Arab",
+      "Martinique"
+    ]
+  },
+  {
+    "index": 163,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇬] Bendera dari negara mana kah ini?",
+    "jawaban": "Madagaskar",
+    "pilihanJawaban": [
+      "Bermuda",
+      "Inggris Raya",
+      "Madagaskar",
+      "Kepulauan Faroe",
+      "Suriah"
+    ]
+  },
+  {
+    "index": 164,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇰] Bendera dari negara mana kah ini?",
+    "jawaban": "Makedonia Utara",
+    "pilihanJawaban": [
+      "Makedonia Utara",
+      "Yaman",
+      "Kuba",
+      "Kepulauan Marshall",
+      "Kaledonia Baru"
+    ]
+  },
+  {
+    "index": 165,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇱] Bendera dari negara mana kah ini?",
+    "jawaban": "Mali",
+    "pilihanJawaban": [
+      "Mali",
+      "Nicaragua",
+      "Malaysia",
+      "Mesir",
+      "Tunisia"
+    ]
+  },
+  {
+    "index": 166,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇲] Bendera dari negara mana kah ini?",
+    "jawaban": "Myanmar",
+    "pilihanJawaban": [
+      "Siprus",
+      "Tonga",
+      "Austria",
+      "Uzbekistan",
+      "Myanmar"
+    ]
+  },
+  {
+    "index": 167,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇳] Bendera dari negara mana kah ini?",
+    "jawaban": "Mongolia",
+    "pilihanJawaban": [
+      "Albania",
+      "Ukraina",
+      "Italia",
+      "Kepulauan Palau",
+      "Mongolia"
+    ]
+  },
+  {
+    "index": 168,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇴] Bendera dari negara mana kah ini?",
+    "jawaban": "Makau",
+    "pilihanJawaban": [
+      "Spanyol",
+      "Finlandia",
+      "Makau",
+      "Spanyol",
+      "Armenia"
+    ]
+  },
+  {
+    "index": 169,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇵] Bendera dari negara mana kah ini?",
+    "jawaban": "Kepulauan Mariana Utara",
+    "pilihanJawaban": [
+      "Tanzania",
+      "Polandia",
+      "Aljazair",
+      "Kepulauan Mariana Utara",
+      "Benin"
+    ]
+  },
+  {
+    "index": 170,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇶] Bendera dari negara mana kah ini?",
+    "jawaban": "Martinique",
+    "pilihanJawaban": [
+      "Montserrat",
+      "Ukraina",
+      "Martinique",
+      "Kepulauan Cocos",
+      "Grenada"
+    ]
+  },
+  {
+    "index": 171,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇷] Bendera dari negara mana kah ini?",
+    "jawaban": "Mauritania",
+    "pilihanJawaban": [
+      "El Salvador",
+      "Papua Nugini",
+      "Mauritania",
+      "Jamaika",
+      "Luxembourg"
+    ]
+  },
+  {
+    "index": 172,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇸] Bendera dari negara mana kah ini?",
+    "jawaban": "Montserrat",
+    "pilihanJawaban": [
+      "Selandia Baru",
+      "Kepulauan Clipperton",
+      "Palestina",
+      "Montserrat",
+      "Mali"
+    ]
+  },
+  {
+    "index": 173,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇹] Bendera dari negara mana kah ini?",
+    "jawaban": "Malta",
+    "pilihanJawaban": [
+      "Samoa Amerika",
+      "Mesir",
+      "Malta",
+      "Armenia",
+      "Tajikistan"
+    ]
+  },
+  {
+    "index": 174,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇺] Bendera dari negara mana kah ini?",
+    "jawaban": "Mauritius",
+    "pilihanJawaban": [
+      "Kepulauan Marshall",
+      "Swaziland",
+      "Sahara Barat",
+      "Mauritius",
+      "Arab Saudi"
+    ]
+  },
+  {
+    "index": 175,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇻] Bendera dari negara mana kah ini?",
+    "jawaban": "Maldives",
+    "pilihanJawaban": [
+      "Maldives",
+      "Sudan",
+      "Kepulauan Faroe",
+      "India",
+      "Republik Ceko"
+    ]
+  },
+  {
+    "index": 176,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇼] Bendera dari negara mana kah ini?",
+    "jawaban": "Malawi",
+    "pilihanJawaban": [
+      "Guam",
+      "Angola",
+      "Prancis",
+      "Anguilla",
+      "Malawi"
+    ]
+  },
+  {
+    "index": 177,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇽] Bendera dari negara mana kah ini?",
+    "jawaban": "Meksiko",
+    "pilihanJawaban": [
+      "Finlandia",
+      "Senegal",
+      "Malawi",
+      "Benin",
+      "Meksiko"
+    ]
+  },
+  {
+    "index": 178,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇾] Bendera dari negara mana kah ini?",
+    "jawaban": "Malaysia",
+    "pilihanJawaban": [
+      "Polinesia Prancis",
+      "Jepang",
+      "Malaysia",
+      "Lebanon",
+      "Nigeria"
+    ]
+  },
+  {
+    "index": 179,
+    "web": "md-code.xyz",
+    "soal": "[🇲🇿] Bendera dari negara mana kah ini?",
+    "jawaban": "Mozambik",
+    "pilihanJawaban": [
+      "Polandia",
+      "Spanyol",
+      "Nigeria",
+      "Sri Lanka",
+      "Mozambik"
+    ]
+  },
+  {
+    "index": 180,
+    "web": "md-code.xyz",
+    "soal": "[🇳🇦] Bendera dari negara mana kah ini?",
+    "jawaban": "Namibia",
+    "pilihanJawaban": [
+      "Burkina Faso",
+      "Namibia",
+      "Rwanda",
+      "Libya",
+      "Andorra"
+    ]
+  },
+  {
+    "index": 181,
+    "web": "md-code.xyz",
+    "soal": "[🇳🇨] Bendera dari negara mana kah ini?",
+    "jawaban": "New Caledonia",
+    "pilihanJawaban": [
+      "New Caledonia",
+      "Guyana",
+      "Irak",
+      "Guinea-Bissau",
+      "Suriah"
+    ]
+  },
+  {
+    "index": 182,
+    "web": "md-code.xyz",
+    "soal": "[🇳🇪] Bendera dari negara mana kah ini?",
+    "jawaban": "Niger",
+    "pilihanJawaban": [
+      "Uganda",
+      "Siprus",
+      "Polinesia Prancis",
+      "Guam",
+      "Niger"
+    ]
+  },
+  {
+    "index": 183,
+    "web": "md-code.xyz",
+    "soal": "[🇳🇫] Bendera dari negara mana kah ini?",
+    "jawaban": "Norfolk Island",
+    "pilihanJawaban": [
+      "Rwanda",
+      "Maroko",
+      "Namibia",
+      "Norfolk Island",
+      "Suriah"
+    ]
+  },
+  {
+    "index": 184,
+    "web": "md-code.xyz",
+    "soal": "[🇳🇬] Bendera dari negara mana kah ini?",
+    "jawaban": "Nigeria",
+    "pilihanJawaban": [
+      "Samoa Amerika",
+      "Amerika Serikat",
+      "Nigeria",
+      "Hongaria",
+      "Aljazair"
+    ]
+  },
+  {
+    "index": 185,
+    "web": "md-code.xyz",
+    "soal": "[🇳🇮] Bendera dari negara mana kah ini?",
+    "jawaban": "Nicaragua",
+    "pilihanJawaban": [
+      "Guadeloupe",
+      "Vatikan",
+      "Barbados",
+      "Nicaragua",
+      "Uni Emirat Arab"
+    ]
+  },
+  {
+    "index": 186,
+    "web": "md-code.xyz",
+    "soal": "[🇳🇱] Bendera dari negara mana kah ini?",
+    "jawaban": "Belanda",
+    "pilihanJawaban": [
+      "Kroasia",
+      "Samoa Amerika",
+      "Belanda",
+      "Prancis",
+      "Anguilla"
+    ]
+  },
+  {
+    "index": 187,
+    "web": "md-code.xyz",
+    "soal": "[🇳🇵] Bendera dari negara mana kah ini?",
+    "jawaban": "Nepal",
+    "pilihanJawaban": [
+      "Montenegro",
+      "Senegal",
+      "Maroko",
+      "Tunisia",
+      "Nepal"
+    ]
+  },
+  {
+    "index": 188,
+    "web": "md-code.xyz",
+    "soal": "[🇳🇷] Bendera dari negara mana kah ini?",
+    "jawaban": "Nauru",
+    "pilihanJawaban": [
+      "Gibraltar",
+      "Guinea-Bissau",
+      "Nauru",
+      "Ukraina",
+      "Panama"
+    ]
+  },
+  {
+    "index": 189,
+    "web": "md-code.xyz",
+    "soal": "[🇳🇸] Bendera dari negara mana kah ini?",
+    "jawaban": "Niue",
+    "pilihanJawaban": [
+      "Australia",
+      "Brasil",
+      "Niue",
+      "Namibia",
+      "Lituania"
+    ]
+  },
+  {
+    "index": 190,
+    "web": "md-code.xyz",
+    "soal": "[🇳🇿] Bendera dari negara mana kah ini?",
+    "jawaban": "Selandia Baru",
+    "pilihanJawaban": [
+      "Belarus",
+      "Vatikan",
+      "Belize",
+      "Tajikistan",
+      "Selandia Baru"
+    ]
+  },
+  {
+    "index": 191,
+    "web": "md-code.xyz",
+    "soal": "[🇴🇲] Bendera dari negara mana kah ini?",
+    "jawaban": "Oman",
+    "pilihanJawaban": [
+      "Libya",
+      "Oman",
+      "Andorra",
+      "Slovenia",
+      "Guinea"
+    ]
+  },
+  {
+    "index": 192,
+    "web": "md-code.xyz",
+    "soal": "[🇵🇦] Bendera dari negara mana kah ini?",
+    "jawaban": "Panama",
+    "pilihanJawaban": [
+      "Liberia",
+      "Suriah",
+      "Laos",
+      "Georgia",
+      "Panama"
+    ]
+  },
+  {
+    "index": 193,
+    "web": "md-code.xyz",
+    "soal": "[🇵🇪] Bendera dari negara mana kah ini?",
+    "jawaban": "Peru",
+    "pilihanJawaban": [
+      "Tanzania",
+      "Slovenia",
+      "Sri Lanka",
+      "Peru",
+      "Uni Emirat Arab"
+    ]
+  },
+  {
+    "index": 194,
+    "web": "md-code.xyz",
+    "soal": "[🇵🇫] Bendera dari negara mana kah ini?",
+    "jawaban": "Polinesia Prancis",
+    "pilihanJawaban": [
+      "Selandia Baru",
+      "Polinesia Prancis",
+      "Angola",
+      "Paraguay",
+      "Kirgistan"
+    ]
+  },
+  {
+    "index": 195,
+    "web": "md-code.xyz",
+    "soal": "[🇵🇬] Bendera dari negara mana kah ini?",
+    "jawaban": "Papua Nugini",
+    "pilihanJawaban": [
+      "Montserrat",
+      "Papua Nugini",
+      "Makau",
+      "Estonia",
+      "Fiji"
+    ]
+  },
+  {
+    "index": 196,
+    "web": "md-code.xyz",
+    "soal": "[🇵🇰] Bendera dari negara mana kah ini?",
+    "jawaban": "Pakistan",
+    "pilihanJawaban": [
+      "Kepulauan Palau",
+      "Kepulauan Canaria",
+      "Bahrain",
+      "Madagaskar",
+      "Pakistan"
+    ]
+  },
+  {
+    "index": 197,
+    "web": "md-code.xyz",
+    "soal": "[🇵🇱] Bendera dari negara mana kah ini?",
+    "jawaban": "Polandia",
+    "pilihanJawaban": [
+      "Polandia",
+      "Tuvalu",
+      "Belize",
+      "Belanda",
+      "Nauru"
+    ]
+  },
+  {
+    "index": 198,
+    "web": "md-code.xyz",
+    "soal": "[🇵🇲] Bendera dari negara mana kah ini?",
+    "jawaban": "Saint Pierre dan Miquelon",
+    "pilihanJawaban": [
+      "Mikronesia",
+      "Republik Dominika",
+      "Saint Pierre dan Miquelon",
+      "Timor-Leste",
+      "Monako"
+    ]
+  },
+  {
+    "index": 199,
+    "web": "md-code.xyz",
+    "soal": "[🇵🇳] Bendera dari negara mana kah ini?",
+    "jawaban": "Kepulauan Pitcairn",
+    "pilihanJawaban": [
+      "Jamaika",
+      "Kepulauan Pitcairn",
+      "Laos",
+      "Somalia",
+      "Rusia"
+    ]
+  },
+  {
+    "index": 200,
+    "web": "md-code.xyz",
+    "soal": "[🇵🇷] Bendera dari negara mana kah ini?",
+    "jawaban": "Puerto Riko",
+    "pilihanJawaban": [
+      "Sint Maarten",
+      "Oman",
+      "Puerto Riko",
+      "Niger",
+      "El Salvador"
+    ]
+  }
+]

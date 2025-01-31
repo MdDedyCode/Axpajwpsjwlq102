@@ -1,0 +1,2930 @@
+[
+  {
+    "index": 0,
+    "soal": "Daerah yang terkenal dengan rendang, hidangan berbahan dasar daging sapi yang dimasak dengan rempah-rempah khas.",
+    "jawaban": "Padang",
+    "pilihanJawaban": [
+      "Padang",
+      "Surabaya",
+      "Bandung",
+      "Medan",
+      "Yogyakarta"
+    ]
+  },
+  {
+    "index": 1,
+    "soal": "Kota di Jawa Tengah yang terkenal dengan makanan gudeg, olahan nangka yang dimasak dengan santan.",
+    "jawaban": "Yogyakarta",
+    "pilihanJawaban": [
+      "Yogyakarta",
+      "Solo",
+      "Magelang",
+      "Purwokerto",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 2,
+    "soal": "Daerah yang dikenal dengan pempek, makanan berbahan dasar ikan yang disajikan dengan cuko khas.",
+    "jawaban": "Palembang",
+    "pilihanJawaban": [
+      "Palembang",
+      "Banjarmasin",
+      "Makassar",
+      "Pontianak",
+      "Manado"
+    ]
+  },
+  {
+    "index": 3,
+    "soal": "Tempat asal makanan nasi goreng, hidangan nasi yang digoreng dengan bumbu dan tambahan lainnya.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Bandung",
+      "Yogyakarta",
+      "Medan",
+      "Semarang"
+    ]
+  },
+  {
+    "index": 4,
+    "soal": "Daerah yang terkenal dengan soto, sup yang berisi daging dan sayuran dengan kuah yang gurih.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Yogyakarta",
+      "Semarang",
+      "Malang",
+      "Denpasar"
+    ]
+  },
+  {
+    "index": 5,
+    "soal": "Kota di Sumatera yang terkenal dengan masakan rendang.",
+    "jawaban": "Padang",
+    "pilihanJawaban": [
+      "Padang",
+      "Bukittinggi",
+      "Padang Panjang",
+      "Medan",
+      "Palembang"
+    ]
+  },
+  {
+    "index": 6,
+    "soal": "Daerah yang terkenal dengan makanan bakso, bola daging yang disajikan dengan mie dan kuah kaldu.",
+    "jawaban": "Malang",
+    "pilihanJawaban": [
+      "Malang",
+      "Surabaya",
+      "Bandung",
+      "Yogyakarta",
+      "Semarang"
+    ]
+  },
+  {
+    "index": 7,
+    "soal": "Kota di Jawa yang terkenal dengan makanan batagor, dimsum yang digoreng dengan saus kacang.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Bogor",
+      "Cirebon",
+      "Semarang",
+      "Surabaya"
+    ]
+  },
+  {
+    "index": 8,
+    "soal": "Tempat asal makanan pecel, salad sayur dengan bumbu kacang khas.",
+    "jawaban": "Madiun",
+    "pilihanJawaban": [
+      "Madiun",
+      "Malang",
+      "Surabaya",
+      "Yogyakarta",
+      "Semarang"
+    ]
+  },
+  {
+    "index": 9,
+    "soal": "Daerah yang terkenal dengan makanan rujak, campuran buah-buahan dengan bumbu kacang pedas.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Yogyakarta",
+      "Semarang",
+      "Jakarta",
+      "Denpasar"
+    ]
+  },
+  {
+    "index": 10,
+    "soal": "Kota di Jawa yang terkenal dengan makanan tahu tek, tahu goreng dengan irisan mentimun dan taoge.",
+    "jawaban": "Malang",
+    "pilihanJawaban": [
+      "Malang",
+      "Batu",
+      "Kediri",
+      "Jember",
+      "Madiun"
+    ]
+  },
+  {
+    "index": 11,
+    "soal": "Tempat asal makanan bakmi, mie goreng atau rebus yang disajikan dengan berbagai topping.",
+    "jawaban": "Medan",
+    "pilihanJawaban": [
+      "Medan",
+      "Surabaya",
+      "Bandung",
+      "Yogyakarta",
+      "Semarang"
+    ]
+  },
+  {
+    "index": 12,
+    "soal": "Kota di Jawa Tengah yang terkenal dengan makanan lontong kupang, nasi lontong dengan kuah kerang.",
+    "jawaban": "Semarang",
+    "pilihanJawaban": [
+      "Semarang",
+      "Solo",
+      "Magelang",
+      "Surakarta",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 13,
+    "soal": "Daerah yang terkenal dengan makanan ketoprak, nasi ketan dengan tahu, bihun, dan taoge disiram bumbu kacang.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Tangerang",
+      "Bekasi",
+      "Depok",
+      "Cirebon"
+    ]
+  },
+  {
+    "index": 14,
+    "soal": "Kota di Sumatera yang terkenal dengan makanan bika ambon, kue berbentuk bundar dengan rasa manis.",
+    "jawaban": "Medan",
+    "pilihanJawaban": [
+      "Medan",
+      "Binjai",
+      "Tebing Tinggi",
+      "Padang Sidempuan",
+      "Sibolga"
+    ]
+  },
+  {
+    "index": 15,
+    "soal": "Tempat asal makanan pempek, makanan berbahan dasar ikan.",
+    "jawaban": "Palembang",
+    "pilihanJawaban": [
+      "Palembang",
+      "Lampung",
+      "Jambi",
+      "Palembang",
+      "Padang"
+    ]
+  },
+  {
+    "index": 16,
+    "soal": "Daerah yang terkenal dengan makanan coto makassar, sup daging sapi yang kaya rempah.",
+    "jawaban": "Makassar",
+    "pilihanJawaban": [
+      "Makassar",
+      "Palu",
+      "Kendari",
+      "Palopo",
+      "Makassar"
+    ]
+  },
+  {
+    "index": 17,
+    "soal": "Kota di Jawa yang terkenal dengan makanan surabi, pancake tipis dengan berbagai varian rasa.",
+    "jawaban": "Cirebon",
+    "pilihanJawaban": [
+      "Cirebon",
+      "Bogor",
+      "Indramayu",
+      "Majalengka",
+      "Kuningan"
+    ]
+  },
+  {
+    "index": 18,
+    "soal": "Tempat asal makanan karedok, salad sayur mentah dengan bumbu kacang.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Bogor",
+      "Cirebon",
+      "Bekasi",
+      "Tangerang"
+    ]
+  },
+  {
+    "index": 19,
+    "soal": "Daerah yang terkenal dengan makanan sate lilit, sate ikan yang dibalut dengan daun pisang.",
+    "jawaban": "Bali",
+    "pilihanJawaban": [
+      "Bali",
+      "Sumbawa",
+      "Labuan Bajo",
+      "Makassar",
+      "Manado"
+    ]
+  },
+  {
+    "index": 20,
+    "soal": "Daerah yang terkenal dengan makanan nasi uduk, nasi yang dimasak dengan santan dan rempah-rempah.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 21,
+    "soal": "Kota di Jawa yang terkenal dengan makanan tahu campur, tahu goreng dengan kuah kaldu daging sapi.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 22,
+    "soal": "Tempat asal makanan rawon, sup daging berkuah hitam dengan bumbu khas.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Madiun",
+      "Jember",
+      "Lamongan"
+    ]
+  },
+  {
+    "index": 23,
+    "soal": "Daerah yang terkenal dengan makanan ketupat sayur, ketupat dengan kuah sayur khas.",
+    "jawaban": "Pekalongan",
+    "pilihanJawaban": [
+      "Pekalongan",
+      "Brebes",
+      "Purwokerto",
+      "Cirebon",
+      "Magelang"
+    ]
+  },
+  {
+    "index": 24,
+    "soal": "Kota di Jawa yang terkenal dengan makanan nasi timbel, nasi dibungkus daun pisang dengan lauk pauk khas.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Cianjur",
+      "Garut",
+      "Cimahi",
+      "Sukabumi"
+    ]
+  },
+  {
+    "index": 25,
+    "soal": "Tempat asal makanan soto banjar, sup daging sapi dengan kuah kaya rempah.",
+    "jawaban": "Banjarmasin",
+    "pilihanJawaban": [
+      "Banjarmasin",
+      "Palangkaraya",
+      "Samarinda",
+      "Pontianak",
+      "Makassar"
+    ]
+  },
+  {
+    "index": 26,
+    "soal": "Daerah yang terkenal dengan makanan es dawet, minuman segar dengan santan, air gula merah, dan cendol.",
+    "jawaban": "Jogja",
+    "pilihanJawaban": [
+      "Jogja",
+      "Surakarta",
+      "Magelang",
+      "Klaten",
+      "Bantul"
+    ]
+  },
+  {
+    "index": 27,
+    "soal": "Kota di Sumatera yang terkenal dengan makanan pempek lenjer, varian pempek dengan bentuk panjang.",
+    "jawaban": "Palembang",
+    "pilihanJawaban": [
+      "Palembang",
+      "Lubuklinggau",
+      "Pagar Alam",
+      "Banyuasin",
+      "Ogan Ilir"
+    ]
+  },
+  {
+    "index": 28,
+    "soal": "Tempat asal makanan lontong cap go meh, hidangan dengan lontong, tahu, dan kuah kacang.",
+    "jawaban": "Singkawang",
+    "pilihanJawaban": [
+      "Singkawang",
+      "Samarinda",
+      "Balikpapan",
+      "Banjarmasin",
+      "Palangkaraya"
+    ]
+  },
+  {
+    "index": 29,
+    "soal": "Daerah yang terkenal dengan makanan laksa, hidangan berkuah pedas dengan mie, daging, dan sayuran.",
+    "jawaban": "Betawi",
+    "pilihanJawaban": [
+      "Betawi",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Jakarta"
+    ]
+  },
+  {
+    "index": 30,
+    "soal": "Kota di Jawa yang terkenal dengan makanan sate kambing muda, sate dengan bumbu kacang khas.",
+    "jawaban": "Ponorogo",
+    "pilihanJawaban": [
+      "Ponorogo",
+      "Magetan",
+      "Trenggalek",
+      "Nganjuk",
+      "Jombang"
+    ]
+  },
+  {
+    "index": 31,
+    "soal": "Tempat asal makanan rujak cingur, salad dengan cingur (hidung sapi) sebagai bahan utama.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto",
+      "Lamongan"
+    ]
+  },
+  {
+    "index": 32,
+    "soal": "Daerah yang terkenal dengan makanan mie kocok, mie dengan kuah kaldu sapi dan daging sapi rebus.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Bogor",
+      "Cimahi",
+      "Cirebon",
+      "Sukabumi"
+    ]
+  },
+  {
+    "index": 33,
+    "soal": "Kota di Jawa Tengah yang terkenal dengan makanan nasi liwet, nasi dengan lauk pauk khas daerah.",
+    "jawaban": "Solo",
+    "pilihanJawaban": [
+      "Solo",
+      "Yogyakarta",
+      "Surakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 34,
+    "soal": "Tempat asal makanan empal gentong, hidangan daging dengan kuah khas Cirebon.",
+    "jawaban": "Cirebon",
+    "pilihanJawaban": [
+      "Cirebon",
+      "Majalengka",
+      "Kuningan",
+      "Tegal",
+      "Brebes"
+    ]
+  },
+  {
+    "index": 35,
+    "soal": "Daerah yang terkenal dengan makanan lapis legit, kue lapis dengan rasa manis dan legit.",
+    "jawaban": "Bogor",
+    "pilihanJawaban": [
+      "Bogor",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Cianjur"
+    ]
+  },
+  {
+    "index": 36,
+    "soal": "Kota di Sumatera yang terkenal dengan makanan saksang, hidangan berkuah dengan daging dan darah babi.",
+    "jawaban": "Medan",
+    "pilihanJawaban": [
+      "Medan",
+      "Binjai",
+      "Tebing Tinggi",
+      "Padang Sidempuan",
+      "Sibolga"
+    ]
+  },
+  {
+    "index": 37,
+    "soal": "Tempat asal makanan tekwan, sup ikan patin dengan tambahan telur dan jamur.",
+    "jawaban": "Palembang",
+    "pilihanJawaban": [
+      "Palembang",
+      "Lampung",
+      "Jambi",
+      "Palembang",
+      "Padang"
+    ]
+  },
+  {
+    "index": 38,
+    "soal": "Daerah yang terkenal dengan makanan pempek kulit, varian pempek dengan kulit ikan sebagai bahan utama.",
+    "jawaban": "Palembang",
+    "pilihanJawaban": [
+      "Palembang",
+      "Bukittinggi",
+      "Padang Panjang",
+      "Jambi",
+      "Bengkulu"
+    ]
+  },
+  {
+    "index": 39,
+    "soal": "Kota di Jawa yang terkenal dengan makanan serabi, pancake kecil dengan berbagai varian rasa.",
+    "jawaban": "Bogor",
+    "pilihanJawaban": [
+      "Bogor",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 40,
+    "soal": "Daerah yang terkenal dengan makanan soto betawi, sup daging sapi dengan santan dan bumbu khas.",
+    "jawaban": "Betawi",
+    "pilihanJawaban": [
+      "Betawi",
+      "Bogor",
+      "Depok",
+      "Tangerang",
+      "Bekasi"
+    ]
+  },
+  {
+    "index": 41,
+    "soal": "Kota di Jawa yang terkenal dengan makanan rujak cuka, salad buah dengan saus cuka khas.",
+    "jawaban": "Malang",
+    "pilihanJawaban": [
+      "Malang",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 42,
+    "soal": "Tempat asal makanan mie goreng jawa, mie goreng dengan bumbu kacang dan irisan telur.",
+    "jawaban": "Solo",
+    "pilihanJawaban": [
+      "Solo",
+      "Semarang",
+      "Surakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 43,
+    "soal": "Daerah yang terkenal dengan makanan kerak telor, makanan tradisional berbahan dasar telur dan beras ketan.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 44,
+    "soal": "Kota di Jawa yang terkenal dengan makanan nasi goreng kambing, nasi goreng dengan daging kambing.",
+    "jawaban": "Bogor",
+    "pilihanJawaban": [
+      "Bogor",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 45,
+    "soal": "Tempat asal makanan papeda, makanan berbahan dasar sagu dengan ikan kuah kuning.",
+    "jawaban": "Papua",
+    "pilihanJawaban": [
+      "Papua",
+      "Maluku",
+      "Kalimantan",
+      "Nusa Tenggara",
+      "Sumatera"
+    ]
+  },
+  {
+    "index": 46,
+    "soal": "Daerah yang terkenal dengan makanan kue cubit, kue kecil berbentuk bulat dengan berbagai varian rasa.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 47,
+    "soal": "Kota di Jawa yang terkenal dengan makanan lontong balap, lontong dengan kuah kacang dan rempah.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 48,
+    "soal": "Tempat asal makanan sate padang, sate dengan kuah kacang pedas khas Padang.",
+    "jawaban": "Padang",
+    "pilihanJawaban": [
+      "Padang",
+      "Pekanbaru",
+      "Bukittinggi",
+      "Palembang",
+      "Jakarta"
+    ]
+  },
+  {
+    "index": 49,
+    "soal": "Daerah yang terkenal dengan makanan es campur, campuran buah, agar-agar, dan es serut.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 50,
+    "soal": "Kota di Jawa yang terkenal dengan makanan kupat tahu, ketupat dengan tahu dan kuah kacang.",
+    "jawaban": "Solo",
+    "pilihanJawaban": [
+      "Solo",
+      "Semarang",
+      "Surakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 51,
+    "soal": "Tempat asal makanan sup buntut, sup dengan buntut sapi sebagai bahan utama.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 52,
+    "soal": "Daerah yang terkenal dengan makanan lontong sayur, lontong dengan kuah sayur dan opor ayam.",
+    "jawaban": "Pekalongan",
+    "pilihanJawaban": [
+      "Pekalongan",
+      "Brebes",
+      "Purwokerto",
+      "Cirebon",
+      "Magelang"
+    ]
+  },
+  {
+    "index": 53,
+    "soal": "Kota di Jawa yang terkenal dengan makanan rujak petis, salad buah dengan bumbu petis.",
+    "jawaban": "Madiun",
+    "pilihanJawaban": [
+      "Madiun",
+      "Malang",
+      "Batu",
+      "Magetan",
+      "Ngawi"
+    ]
+  },
+  {
+    "index": 54,
+    "soal": "Tempat asal makanan cakalang fufu, hidangan dengan ikan cakalang panggang dan sambal roa.",
+    "jawaban": "Manado",
+    "pilihanJawaban": [
+      "Manado",
+      "Palu",
+      "Kendari",
+      "Palopo",
+      "Makassar"
+    ]
+  },
+  {
+    "index": 55,
+    "soal": "Daerah yang terkenal dengan makanan serabi notosuman, serabi dengan rasa manis.",
+    "jawaban": "Solo",
+    "pilihanJawaban": [
+      "Solo",
+      "Semarang",
+      "Surakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 56,
+    "soal": "Kota di Jawa yang terkenal dengan makanan laksa cibinong, hidangan berkuah pedas dengan mie dan tauge.",
+    "jawaban": "Bogor",
+    "pilihanJawaban": [
+      "Bogor",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 57,
+    "soal": "Tempat asal makanan seblak, makanan pedas dengan berbagai bahan seperti kerupuk dan makaroni.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Bogor",
+      "Cimahi",
+      "Cirebon",
+      "Sukabumi"
+    ]
+  },
+  {
+    "index": 58,
+    "soal": "Daerah yang terkenal dengan makanan selat solo, hidangan daging dan sayuran dengan saus kacang.",
+    "jawaban": "Solo",
+    "pilihanJawaban": [
+      "Solo",
+      "Yogyakarta",
+      "Surakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 59,
+    "soal": "Kota di Jawa yang terkenal dengan makanan tahu bakso, tahu isi dengan bakso dan kuah.",
+    "jawaban": "Malang",
+    "pilihanJawaban": [
+      "Malang",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 60,
+    "soal": "Daerah yang terkenal dengan makanan sayur asem, sayuran dengan kuah asam dan pedas.",
+    "jawaban": "Cirebon",
+    "pilihanJawaban": [
+      "Cirebon",
+      "Brebes",
+      "Purwokerto",
+      "Semarang",
+      "Pekalongan"
+    ]
+  },
+  {
+    "index": 61,
+    "soal": "Kota di Jawa yang terkenal dengan makanan kupat glabed, ketupat dengan lauk ikan dan sambal.",
+    "jawaban": "Lamongan",
+    "pilihanJawaban": [
+      "Lamongan",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 62,
+    "soal": "Tempat asal makanan mie aceh, mie goreng dengan kuah kari khas Aceh.",
+    "jawaban": "Aceh",
+    "pilihanJawaban": [
+      "Aceh",
+      "Banda Aceh",
+      "Langsa",
+      "Lhokseumawe",
+      "Sabang"
+    ]
+  },
+  {
+    "index": 63,
+    "soal": "Daerah yang terkenal dengan makanan bubur ayam, bubur dengan daging ayam dan bumbu.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 64,
+    "soal": "Kota di Jawa yang terkenal dengan makanan docang, makanan berkuah dengan berbagai sayuran.",
+    "jawaban": "Cirebon",
+    "pilihanJawaban": [
+      "Cirebon",
+      "Majalengka",
+      "Kuningan",
+      "Tegal",
+      "Brebes"
+    ]
+  },
+  {
+    "index": 65,
+    "soal": "Tempat asal makanan sate kere, sate dengan bumbu kacang dan potongan ketupat.",
+    "jawaban": "Yogyakarta",
+    "pilihanJawaban": [
+      "Yogyakarta",
+      "Semarang",
+      "Magelang",
+      "Purwokerto",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 66,
+    "soal": "Daerah yang terkenal dengan makanan ketoprak banteng, hidangan dengan tahu, bihun, dan bumbu kacang.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Tangerang",
+      "Bekasi",
+      "Depok",
+      "Cirebon"
+    ]
+  },
+  {
+    "index": 67,
+    "soal": "Kota di Jawa yang terkenal dengan makanan soto mie, hidangan dengan mie dan kuah soto.",
+    "jawaban": "Madiun",
+    "pilihanJawaban": [
+      "Madiun",
+      "Surabaya",
+      "Batu",
+      "Magetan",
+      "Ngawi"
+    ]
+  },
+  {
+    "index": 68,
+    "soal": "Tempat asal makanan garang asem, hidangan dengan ayam dan kuah asam.",
+    "jawaban": "Semarang",
+    "pilihanJawaban": [
+      "Semarang",
+      "Solo",
+      "Magelang",
+      "Surakarta",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 69,
+    "soal": "Daerah yang terkenal dengan makanan lontong capgomeh, hidangan dengan lontong, tahu, dan kuah kacang.",
+    "jawaban": "Singkawang",
+    "pilihanJawaban": [
+      "Singkawang",
+      "Samarinda",
+      "Balikpapan",
+      "Banjarmasin",
+      "Palangkaraya"
+    ]
+  },
+  {
+    "index": 70,
+    "soal": "Kota di Jawa yang terkenal dengan makanan bubur kacang hijau, bubur dengan kacang hijau dan kelapa.",
+    "jawaban": "Bogor",
+    "pilihanJawaban": [
+      "Bogor",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 71,
+    "soal": "Tempat asal makanan tekwan Palembang, sup ikan patin dengan tambahan telur dan jamur.",
+    "jawaban": "Palembang",
+    "pilihanJawaban": [
+      "Palembang",
+      "Lampung",
+      "Jambi",
+      "Padang",
+      "Medan"
+    ]
+  },
+  {
+    "index": 72,
+    "soal": "Daerah yang terkenal dengan makanan laksa bogor, hidangan berkuah pedas dengan mie dan tauge.",
+    "jawaban": "Bogor",
+    "pilihanJawaban": [
+      "Bogor",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 73,
+    "soal": "Kota di Jawa yang terkenal dengan makanan tahu bacem, tahu goreng dengan bumbu manis.",
+    "jawaban": "Solo",
+    "pilihanJawaban": [
+      "Solo",
+      "Semarang",
+      "Surakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 74,
+    "soal": "Tempat asal makanan seblak Bandung, makanan pedas dengan berbagai bahan seperti kerupuk dan makaroni.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Bogor",
+      "Cimahi",
+      "Cirebon",
+      "Sukabumi"
+    ]
+  },
+  {
+    "index": 75,
+    "soal": "Daerah yang terkenal dengan makanan lemper, ketan berisi daging ayam atau ikan yang dibungkus daun pisang.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 76,
+    "soal": "Daerah yang terkenal dengan makanan rendang, daging sapi yang dimasak dengan bumbu kaya rempah.",
+    "jawaban": "Padang",
+    "pilihanJawaban": [
+      "Padang",
+      "Pekanbaru",
+      "Bukittinggi",
+      "Palembang",
+      "Jakarta"
+    ]
+  },
+  {
+    "index": 77,
+    "soal": "Kota di Jawa Tengah yang terkenal dengan makanan tahu telor, tahu goreng dengan kuah kacang dan telur dadar.",
+    "jawaban": "Tegal",
+    "pilihanJawaban": [
+      "Tegal",
+      "Pekalongan",
+      "Magelang",
+      "Brebes",
+      "Cirebon"
+    ]
+  },
+  {
+    "index": 78,
+    "soal": "Tempat asal makanan gado-gado, hidangan salad sayur dengan bumbu kacang.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 79,
+    "soal": "Daerah yang terkenal dengan makanan tahu campur, hidangan dengan tahu, tauge, dan daging.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 80,
+    "soal": "Kota di Jawa yang terkenal dengan makanan nasi tempong, nasi dengan sambal pedas.",
+    "jawaban": "Banyuwangi",
+    "pilihanJawaban": [
+      "Banyuwangi",
+      "Bondowoso",
+      "Situbondo",
+      "Probolinggo",
+      "Malang"
+    ]
+  },
+  {
+    "index": 81,
+    "soal": "Tempat asal makanan lontong kupang, hidangan lontong dengan saus kupang khas Timor.",
+    "jawaban": "Kupang",
+    "pilihanJawaban": [
+      "Kupang",
+      "Maumere",
+      "Soe",
+      "Atambua",
+      "Labuan Bajo"
+    ]
+  },
+  {
+    "index": 82,
+    "soal": "Daerah yang terkenal dengan makanan opor ayam, hidangan ayam dengan kuah santan.",
+    "jawaban": "Solo",
+    "pilihanJawaban": [
+      "Solo",
+      "Yogyakarta",
+      "Surakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 83,
+    "soal": "Kota di Jawa yang terkenal dengan makanan lotek, hidangan salad sayur dengan saus kacang.",
+    "jawaban": "Bogor",
+    "pilihanJawaban": [
+      "Bogor",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 84,
+    "soal": "Tempat asal makanan sate madura, sate dengan bumbu kacang khas Madura.",
+    "jawaban": "Madura",
+    "pilihanJawaban": [
+      "Madura",
+      "Bali",
+      "Lombok",
+      "Sumbawa",
+      "Bima"
+    ]
+  },
+  {
+    "index": 85,
+    "soal": "Daerah yang terkenal dengan makanan tekwan Palembang, sup ikan patin dengan tambahan telur dan jamur.",
+    "jawaban": "Palembang",
+    "pilihanJawaban": [
+      "Palembang",
+      "Lampung",
+      "Jambi",
+      "Padang",
+      "Medan"
+    ]
+  },
+  {
+    "index": 86,
+    "soal": "Kota di Jawa yang terkenal dengan makanan rujak cingur, hidangan salad buah dengan saus cingur.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 87,
+    "soal": "Daerah yang terkenal dengan makanan mie kocok, hidangan mie dengan kuah kocok khas Bandung.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Bogor",
+      "Cimahi",
+      "Cirebon",
+      "Sukabumi"
+    ]
+  },
+  {
+    "index": 88,
+    "soal": "Kota di Jawa yang terkenal dengan makanan soto mie bogor, hidangan mie dengan kuah soto.",
+    "jawaban": "Bogor",
+    "pilihanJawaban": [
+      "Bogor",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 89,
+    "soal": "Tempat asal makanan rujak juhi, hidangan salad buah dengan sotong kering.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 90,
+    "soal": "Daerah yang terkenal dengan makanan bebek goreng, hidangan bebek yang digoreng kering.",
+    "jawaban": "Magelang",
+    "pilihanJawaban": [
+      "Magelang",
+      "Semarang",
+      "Solo",
+      "Purwokerto",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 91,
+    "soal": "Kota di Jawa yang terkenal dengan makanan sate klopo, sate dengan kelapa parut sebagai bumbu.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 92,
+    "soal": "Tempat asal makanan rujak es krim, hidangan es krim dengan bumbu rujak.",
+    "jawaban": "Yogyakarta",
+    "pilihanJawaban": [
+      "Yogyakarta",
+      "Semarang",
+      "Magelang",
+      "Purwokerto",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 93,
+    "soal": "Tempat asal makanan kerak telor, makanan tradisional berbahan dasar telur dan beras ketan.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 94,
+    "soal": "Daerah yang terkenal dengan makanan lontong balap, hidangan lontong dengan saus kacang.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 95,
+    "soal": "Tempat asal makanan sate maranggi, sate daging sapi dengan bumbu khas.",
+    "jawaban": "Purwakarta",
+    "pilihanJawaban": [
+      "Purwakarta",
+      "Majalengka",
+      "Subang",
+      "Karawang",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 96,
+    "soal": "Daerah yang terkenal dengan makanan gulai kambing, hidangan berkuah kari dengan daging kambing.",
+    "jawaban": "Padang",
+    "pilihanJawaban": [
+      "Padang",
+      "Pekanbaru",
+      "Jambi",
+      "Palembang",
+      "Medan"
+    ]
+  },
+  {
+    "index": 97,
+    "soal": "Kota di Jawa yang terkenal dengan makanan sate kelopo, sate dengan parutan kelapa sebagai bumbu.",
+    "jawaban": "Lamongan",
+    "pilihanJawaban": [
+      "Lamongan",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 98,
+    "soal": "Tempat asal makanan ketoprak, hidangan dengan tahu, bihun, dan bumbu kacang.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Tangerang",
+      "Bekasi",
+      "Depok",
+      "Cirebon"
+    ]
+  },
+  {
+    "index": 99,
+    "soal": "Daerah yang terkenal dengan makanan nasi ulam, nasi dengan berbagai lauk dan rempah-rempah.",
+    "jawaban": "Betawi",
+    "pilihanJawaban": [
+      "Betawi",
+      "Bogor",
+      "Depok",
+      "Tangerang",
+      "Bekasi"
+    ]
+  },
+  {
+    "index": 100,
+    "soal": "Kota di Jawa yang terkenal dengan makanan tahu sumedang, tahu goreng dengan krispi di luar dan lembut di dalam.",
+    "jawaban": "Sumedang",
+    "pilihanJawaban": [
+      "Sumedang",
+      "Cirebon",
+      "Majalengka",
+      "Subang",
+      "Karawang"
+    ]
+  },
+  {
+    "index": 101,
+    "soal": "Tempat asal makanan bubur manado, bubur dengan berbagai lauk dan kuah khas.",
+    "jawaban": "Manado",
+    "pilihanJawaban": [
+      "Manado",
+      "Palu",
+      "Kendari",
+      "Palopo",
+      "Makassar"
+    ]
+  },
+  {
+    "index": 102,
+    "soal": "Daerah yang terkenal dengan makanan soto medan, hidangan berkuah dengan berbagai lauk.",
+    "jawaban": "Medan",
+    "pilihanJawaban": [
+      "Medan",
+      "Binjai",
+      "Tebing Tinggi",
+      "Padang Sidempuan",
+      "Sibolga"
+    ]
+  },
+  {
+    "index": 103,
+    "soal": "Kota di Jawa yang terkenal dengan makanan tape ketan, makanan tradisional fermentasi ketan.",
+    "jawaban": "Malang",
+    "pilihanJawaban": [
+      "Malang",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 104,
+    "soal": "Kota di Jawa yang terkenal dengan makanan nasi liwet, nasi dengan lauk pauk khas daerah.",
+    "jawaban": "Solo",
+    "pilihanJawaban": [
+      "Solo",
+      "Yogyakarta",
+      "Surakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 105,
+    "soal": "Tempat asal makanan pempek, hidangan berbahan dasar ikan dan tepung sagu.",
+    "jawaban": "Palembang",
+    "pilihanJawaban": [
+      "Palembang",
+      "Lampung",
+      "Jambi",
+      "Padang",
+      "Medan"
+    ]
+  },
+  {
+    "index": 106,
+    "soal": "Daerah yang terkenal dengan makanan soto betawi, hidangan berkuah dengan daging sapi, kentang, dan tomat.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 107,
+    "soal": "Kota di Jawa yang terkenal dengan makanan lontong sayur, hidangan lontong dengan kuah sayur.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 108,
+    "soal": "Tempat asal makanan bakso malang, bakso dengan tambahan bakso kecil dan mie.",
+    "jawaban": "Malang",
+    "pilihanJawaban": [
+      "Malang",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 109,
+    "soal": "Daerah yang terkenal dengan makanan rujak serut, hidangan buah-buahan dengan parutan es.",
+    "jawaban": "Yogyakarta",
+    "pilihanJawaban": [
+      "Yogyakarta",
+      "Semarang",
+      "Magelang",
+      "Purwokerto",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 110,
+    "soal": "Kota di Jawa yang terkenal dengan makanan batagor, hidangan bakso tahu goreng.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 111,
+    "soal": "Tempat asal makanan lontong cap go meh, hidangan lontong dengan berbagai lauk.",
+    "jawaban": "Singkawang",
+    "pilihanJawaban": [
+      "Singkawang",
+      "Samarinda",
+      "Balikpapan",
+      "Banjarmasin",
+      "Palangkaraya"
+    ]
+  },
+  {
+    "index": 112,
+    "soal": "Daerah yang terkenal dengan makanan keripik sanjai, keripik pisang khas.",
+    "jawaban": "Banjarmasin",
+    "pilihanJawaban": [
+      "Banjarmasin",
+      "Samarinda",
+      "Balikpapan",
+      "Singkawang",
+      "Palangkaraya"
+    ]
+  },
+  {
+    "index": 113,
+    "soal": "Kota di Jawa yang terkenal dengan makanan rawon, hidangan berkuah dengan daging sapi.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 114,
+    "soal": "Tempat asal makanan es doger, hidangan es krim dengan berbagai topping.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Bogor",
+      "Cirebon",
+      "Bekasi",
+      "Tangerang"
+    ]
+  },
+  {
+    "index": 115,
+    "soal": "Kota di Jawa yang terkenal dengan makanan nasi tutug oncom, nasi dengan oncom sebagai lauk.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 116,
+    "soal": "Tempat asal makanan sate ambal, sate dengan daging kambing dan bumbu kacang.",
+    "jawaban": "Kebumen",
+    "pilihanJawaban": [
+      "Kebumen",
+      "Magelang",
+      "Wonosobo",
+      "Purbalingga",
+      "Banjarnegara"
+    ]
+  },
+  {
+    "index": 117,
+    "soal": "Daerah yang terkenal dengan makanan es kelapa muda, hidangan minuman segar dengan kelapa muda.",
+    "jawaban": "Bali",
+    "pilihanJawaban": [
+      "Bali",
+      "Sumbawa",
+      "Labuan Bajo",
+      "Makassar",
+      "Manado"
+    ]
+  },
+  {
+    "index": 118,
+    "soal": "Kota di Jawa yang terkenal dengan makanan bebek sinjay, hidangan bebek goreng khas.",
+    "jawaban": "Banyuwangi",
+    "pilihanJawaban": [
+      "Banyuwangi",
+      "Bondowoso",
+      "Situbondo",
+      "Probolinggo",
+      "Malang"
+    ]
+  },
+  {
+    "index": 119,
+    "soal": "Tempat asal makanan nasi jagung, nasi dengan campuran jagung sebagai bahan.",
+    "jawaban": "Madura",
+    "pilihanJawaban": [
+      "Madura",
+      "Bali",
+      "Lombok",
+      "Sumbawa",
+      "Bima"
+    ]
+  },
+  {
+    "index": 120,
+    "soal": "Kota di Jawa yang terkenal dengan makanan ketoprak, hidangan dengan tahu, bihun, dan bumbu kacang.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Tangerang",
+      "Bekasi",
+      "Depok",
+      "Cirebon"
+    ]
+  },
+  {
+    "index": 121,
+    "soal": "Tempat asal makanan semur jengkol, hidangan dengan bumbu kecap dan jengkol.",
+    "jawaban": "Cirebon",
+    "pilihanJawaban": [
+      "Cirebon",
+      "Majalengka",
+      "Kuningan",
+      "Tegal",
+      "Brebes"
+    ]
+  },
+  {
+    "index": 122,
+    "soal": "Tempat asal makanan rendang, hidangan daging sapi yang dimasak dengan santan dan rempah-rempah.",
+    "jawaban": "Padang",
+    "pilihanJawaban": [
+      "Padang",
+      "Bukittinggi",
+      "Pekanbaru",
+      "Palembang",
+      "Jakarta"
+    ]
+  },
+  {
+    "index": 123,
+    "soal": "Daerah yang terkenal dengan makanan kue klepon, kue tradisional berisi kelapa parut dan gula merah.",
+    "jawaban": "Jawa Tengah",
+    "pilihanJawaban": [
+      "Jawa Tengah",
+      "Jawa Timur",
+      "Yogyakarta",
+      "Jawa Utara",
+      "Bali"
+    ]
+  },
+  {
+    "index": 124,
+    "soal": "Kota di Jawa yang terkenal dengan makanan lontong kupang, hidangan lontong dengan saus kupang khas Timor.",
+    "jawaban": "Kupang",
+    "pilihanJawaban": [
+      "Kupang",
+      "Maumere",
+      "Soe",
+      "Atambua",
+      "Labuan Bajo"
+    ]
+  },
+  {
+    "index": 125,
+    "soal": "Tempat asal makanan nasi liwet, nasi dengan lauk pauk dan disajikan dalam daun pisang.",
+    "jawaban": "Solo",
+    "pilihanJawaban": [
+      "Solo",
+      "Semarang",
+      "Surakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 126,
+    "soal": "Daerah yang terkenal dengan makanan soto banjar, hidangan soto dengan daging sapi.",
+    "jawaban": "Banjarmasin",
+    "pilihanJawaban": [
+      "Banjarmasin",
+      "Samarinda",
+      "Balikpapan",
+      "Singkawang",
+      "Palangkaraya"
+    ]
+  },
+  {
+    "index": 127,
+    "soal": "Kota di Jawa yang terkenal dengan makanan docang, hidangan sayur dengan kuah kacang.",
+    "jawaban": "Cirebon",
+    "pilihanJawaban": [
+      "Cirebon",
+      "Majalengka",
+      "Kuningan",
+      "Tegal",
+      "Brebes"
+    ]
+  },
+  {
+    "index": 128,
+    "soal": "Tempat asal makanan bubur manado, bubur dengan berbagai lauk dan bumbu khas Manado.",
+    "jawaban": "Manado",
+    "pilihanJawaban": [
+      "Manado",
+      "Balikpapan",
+      "Banjarmasin",
+      "Surabaya",
+      "Ambon"
+    ]
+  },
+  {
+    "index": 129,
+    "soal": "Daerah yang terkenal dengan makanan sate lilit, sate yang diperbuat dengan membungkus daging pada bambu.",
+    "jawaban": "Bali",
+    "pilihanJawaban": [
+      "Bali",
+      "Sumbawa",
+      "Labuan Bajo",
+      "Makassar",
+      "Manado"
+    ]
+  },
+  {
+    "index": 130,
+    "soal": "Tempat asal makanan bakso Malang, bakso dengan tambahan bakso kecil dan mie.",
+    "jawaban": "Malang",
+    "pilihanJawaban": [
+      "Malang",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 131,
+    "soal": "Daerah yang terkenal dengan makanan nasi pecel, nasi dengan sayur-sayuran dan sambal kacang.",
+    "jawaban": "Madiun",
+    "pilihanJawaban": [
+      "Madiun",
+      "Magetan",
+      "Nganjuk",
+      "Ponorogo",
+      "Tulungagung"
+    ]
+  },
+  {
+    "index": 132,
+    "soal": "Kota di Jawa yang terkenal dengan makanan ketan durian, ketan dengan potongan durian.",
+    "jawaban": "Bogor",
+    "pilihanJawaban": [
+      "Bogor",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 133,
+    "soal": "Tempat asal makanan soto ayam Lamongan, hidangan soto dengan daging ayam dan bumbu khas.",
+    "jawaban": "Lamongan",
+    "pilihanJawaban": [
+      "Lamongan",
+      "Malang",
+      "Batu",
+      "Sidoarjo",
+      "Gresik"
+    ]
+  },
+  {
+    "index": 134,
+    "soal": "Daerah yang terkenal dengan makanan kue lapis legit, kue lapis dengan lapisan yang tebal.",
+    "jawaban": "Bogor",
+    "pilihanJawaban": [
+      "Bogor",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 135,
+    "soal": "Kota di Sumatera yang terkenal dengan makanan saksang, hidangan daging dengan bumbu khas Batak.",
+    "jawaban": "Medan",
+    "pilihanJawaban": [
+      "Medan",
+      "Binjai",
+      "Tebing Tinggi",
+      "Padang Sidempuan",
+      "Sibolga"
+    ]
+  },
+  {
+    "index": 136,
+    "soal": "Tempat asal makanan kerupuk mie, kerupuk berbentuk mie yang digoreng kering.",
+    "jawaban": "Cirebon",
+    "pilihanJawaban": [
+      "Cirebon",
+      "Majalengka",
+      "Kuningan",
+      "Tegal",
+      "Brebes"
+    ]
+  },
+  {
+    "index": 137,
+    "soal": "Daerah yang terkenal dengan makanan soto Sulung, hidangan soto dengan daging sapi dan kuah santan.",
+    "jawaban": "Pekalongan",
+    "pilihanJawaban": [
+      "Pekalongan",
+      "Brebes",
+      "Purwokerto",
+      "Semarang",
+      "Solo"
+    ]
+  },
+  {
+    "index": 138,
+    "soal": "Kota di Jawa yang terkenal dengan makanan dodol, kue tradisional dengan kandungan kelapa dan gula kelapa.",
+    "jawaban": "Garut",
+    "pilihanJawaban": [
+      "Garut",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 139,
+    "soal": "Tempat asal makanan sate taichan, sate dengan bumbu pedas khas.",
+    "jawaban": "Yogyakarta",
+    "pilihanJawaban": [
+      "Yogyakarta",
+      "Semarang",
+      "Magelang",
+      "Purwokerto",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 140,
+    "soal": "Daerah yang terkenal dengan makanan gado-gado, hidangan sayur dengan saus kacang.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 141,
+    "soal": "Tempat asal makanan lontong balap, hidangan lontong dengan saus kacang.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 142,
+    "soal": "Daerah yang terkenal dengan makanan es cendol, minuman segar dengan santan, gula merah, dan tetesan tepung beras.",
+    "jawaban": "Jawa Tengah",
+    "pilihanJawaban": [
+      "Jawa Tengah",
+      "Jawa Timur",
+      "Yogyakarta",
+      "Jawa Utara",
+      "Bali"
+    ]
+  },
+  {
+    "index": 143,
+    "soal": "Tempat asal makanan nasi kuning, nasi dengan pewarna kunyit dan hidangan pelengkap.",
+    "jawaban": "Makassar",
+    "pilihanJawaban": [
+      "Makassar",
+      "Balikpapan",
+      "Banjarmasin",
+      "Manado",
+      "Ambon"
+    ]
+  },
+  {
+    "index": 144,
+    "soal": "Daerah yang terkenal dengan makanan kue putu, kue tradisional dengan isi kelapa dan gula merah.",
+    "jawaban": "Bali",
+    "pilihanJawaban": [
+      "Bali",
+      "Sumbawa",
+      "Labuan Bajo",
+      "Makassar",
+      "Manado"
+    ]
+  },
+  {
+    "index": 145,
+    "soal": "Tempat asal makanan sate padang, sate dengan bumbu kacang khas Padang.",
+    "jawaban": "Padang",
+    "pilihanJawaban": [
+      "Padang",
+      "Pekanbaru",
+      "Bukittinggi",
+      "Palembang",
+      "Jakarta"
+    ]
+  },
+  {
+    "index": 146,
+    "soal": "Kota di Jawa yang terkenal dengan makanan empal gentong, hidangan daging dengan kuah khas Cirebon.",
+    "jawaban": "Cirebon",
+    "pilihanJawaban": [
+      "Cirebon",
+      "Majalengka",
+      "Kuningan",
+      "Tegal",
+      "Brebes"
+    ]
+  },
+  {
+    "index": 147,
+    "soal": "Tempat asal makanan nasi uduk, nasi dengan santan dan hidangan pelengkap.",
+    "jawaban": "Betawi",
+    "pilihanJawaban": [
+      "Betawi",
+      "Bogor",
+      "Depok",
+      "Tangerang",
+      "Bekasi"
+    ]
+  },
+  {
+    "index": 148,
+    "soal": "Daerah yang terkenal dengan makanan kerupuk kulit, kerupuk dari kulit sapi.",
+    "jawaban": "Banjarmasin",
+    "pilihanJawaban": [
+      "Banjarmasin",
+      "Samarinda",
+      "Balikpapan",
+      "Singkawang",
+      "Palangkaraya"
+    ]
+  },
+  {
+    "index": 149,
+    "soal": "Tempat asal makanan soto banjar, hidangan soto dengan daging sapi.",
+    "jawaban": "Banjarmasin",
+    "pilihanJawaban": [
+      "Banjarmasin",
+      "Samarinda",
+      "Balikpapan",
+      "Singkawang",
+      "Palangkaraya"
+    ]
+  },
+  {
+    "index": 150,
+    "soal": "Daerah yang terkenal dengan makanan rujak cingur, hidangan salad buah dengan saus cingur.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 151,
+    "soal": "Kota di Sumatera yang terkenal dengan makanan bika Ambon, kue lapis dengan rasa manis.",
+    "jawaban": "Medan",
+    "pilihanJawaban": [
+      "Medan",
+      "Binjai",
+      "Tebing Tinggi",
+      "Padang Sidempuan",
+      "Sibolga"
+    ]
+  },
+  {
+    "index": 152,
+    "soal": "Tempat asal makanan mie aceh, mie dengan kuah kari khas Aceh.",
+    "jawaban": "Aceh",
+    "pilihanJawaban": [
+      "Aceh",
+      "Banda Aceh",
+      "Lhokseumawe",
+      "Meulaboh",
+      "Langsa"
+    ]
+  },
+  {
+    "index": 153,
+    "soal": "Daerah yang terkenal dengan makanan sate matang, sate dengan bumbu kacang dan kecap khas Sumatera.",
+    "jawaban": "Padang",
+    "pilihanJawaban": [
+      "Padang",
+      "Bukittinggi",
+      "Pariaman",
+      "Solok",
+      "Payakumbuh"
+    ]
+  },
+  {
+    "index": 154,
+    "soal": "Kota di Jawa yang terkenal dengan makanan cilok, hidangan bola-bola tepung tapioka.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Bogor",
+      "Cimahi",
+      "Cirebon",
+      "Sukabumi"
+    ]
+  },
+  {
+    "index": 155,
+    "soal": "Tempat asal makanan empek-empek, hidangan berbahan dasar ikan dan tepung sagu.",
+    "jawaban": "Palembang",
+    "pilihanJawaban": [
+      "Palembang",
+      "Lampung",
+      "Jambi",
+      "Padang",
+      "Medan"
+    ]
+  },
+  {
+    "index": 156,
+    "soal": "Daerah yang terkenal dengan makanan nasi jamblang, nasi dengan berbagai lauk pauk yang disajikan dalam daun jati.",
+    "jawaban": "Cirebon",
+    "pilihanJawaban": [
+      "Cirebon",
+      "Majalengka",
+      "Kuningan",
+      "Tegal",
+      "Brebes"
+    ]
+  },
+  {
+    "index": 157,
+    "soal": "Kota di Jawa yang terkenal dengan makanan tahu tek, hidangan tahu goreng dengan bumbu kacang dan petis.",
+    "jawaban": "Malang",
+    "pilihanJawaban": [
+      "Malang",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 158,
+    "soal": "Tempat asal makanan laksa Bogor, hidangan mie kuning dengan kuah santan khas Bogor.",
+    "jawaban": "Bogor",
+    "pilihanJawaban": [
+      "Bogor",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 159,
+    "soal": "Daerah yang terkenal dengan makanan bakmi jawa, hidangan mie dengan berbagai topping.",
+    "jawaban": "Yogyakarta",
+    "pilihanJawaban": [
+      "Yogyakarta",
+      "Semarang",
+      "Magelang",
+      "Purwokerto",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 160,
+    "soal": "Kota di Jawa yang terkenal dengan makanan bubur ayam, hidangan bubur dengan daging ayam dan bumbu kacang.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 161,
+    "soal": "Tempat asal makanan lontong opor, hidangan lontong dengan kuah opor khas.",
+    "jawaban": "Semarang",
+    "pilihanJawaban": [
+      "Semarang",
+      "Yogyakarta",
+      "Magelang",
+      "Purwokerto",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 162,
+    "soal": "Daerah yang terkenal dengan makanan keripik pisang, hidangan pisang yang dipotong tipis dan digoreng kering.",
+    "jawaban": "Pontianak",
+    "pilihanJawaban": [
+      "Pontianak",
+      "Balikpapan",
+      "Banjarmasin",
+      "Singkawang",
+      "Palangkaraya"
+    ]
+  },
+  {
+    "index": 163,
+    "soal": "Kota di Jawa yang terkenal dengan makanan tahu campur, hidangan tahu dengan kuah.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 164,
+    "soal": "Tempat asal makanan roti ganjel rel, hidangan roti isi selai kacang dan keju.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Bogor",
+      "Cirebon",
+      "Bekasi",
+      "Tangerang"
+    ]
+  },
+  {
+    "index": 165,
+    "soal": "Daerah yang terkenal dengan makanan nasi goreng pete, nasi goreng dengan tambahan pete.",
+    "jawaban": "Purwokerto",
+    "pilihanJawaban": [
+      "Purwokerto",
+      "Yogyakarta",
+      "Semarang",
+      "Magelang",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 166,
+    "soal": "Kota di Jawa yang terkenal dengan makanan sate maranggi, sate dengan daging sapi muda.",
+    "jawaban": "Purwakarta",
+    "pilihanJawaban": [
+      "Purwakarta",
+      "Cirebon",
+      "Subang",
+      "Bandung",
+      "Bekasi"
+    ]
+  },
+  {
+    "index": 167,
+    "soal": "Tempat asal makanan bika Ambon, kue lapis dengan rasa manis.",
+    "jawaban": "Medan",
+    "pilihanJawaban": [
+      "Medan",
+      "Binjai",
+      "Tebing Tinggi",
+      "Padang Sidempuan",
+      "Sibolga"
+    ]
+  },
+  {
+    "index": 168,
+    "soal": "Daerah yang terkenal dengan makanan serabi notosuman, kue serabi dengan rasa manis khas.",
+    "jawaban": "Solo",
+    "pilihanJawaban": [
+      "Solo",
+      "Semarang",
+      "Surakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 169,
+    "soal": "Kota di Jawa yang terkenal dengan makanan tahu telor, hidangan tahu dan telur goreng dengan bumbu kacang.",
+    "jawaban": "Malang",
+    "pilihanJawaban": [
+      "Malang",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 170,
+    "soal": "Daerah yang terkenal dengan makanan pempek, hidangan berbahan dasar ikan dan tepung sagu.",
+    "jawaban": "Palembang",
+    "pilihanJawaban": [
+      "Palembang",
+      "Lampung",
+      "Jambi",
+      "Padang",
+      "Medan"
+    ]
+  },
+  {
+    "index": 171,
+    "soal": "Tempat asal makanan soto betawi, hidangan soto dengan daging sapi dan jeroan.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 172,
+    "soal": "Daerah yang terkenal dengan makanan es doger, minuman segar dengan campuran kelapa muda dan cincau.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Bogor",
+      "Cimahi",
+      "Cirebon",
+      "Sukabumi"
+    ]
+  },
+  {
+    "index": 173,
+    "soal": "Tempat asal makanan sate padang, sate dengan daging sapi dan kuah gulai khas Padang.",
+    "jawaban": "Padang",
+    "pilihanJawaban": [
+      "Padang",
+      "Bukittinggi",
+      "Pekanbaru",
+      "Palembang",
+      "Jakarta"
+    ]
+  },
+  {
+    "index": 174,
+    "soal": "Daerah yang terkenal dengan makanan lontong cap go meh, hidangan lontong dengan berbagai lauk pauk.",
+    "jawaban": "Singkawang",
+    "pilihanJawaban": [
+      "Singkawang",
+      "Samarinda",
+      "Balikpapan",
+      "Banjarmasin",
+      "Palangkaraya"
+    ]
+  },
+  {
+    "index": 175,
+    "soal": "Kota di Jawa yang terkenal dengan makanan tahu lontong, hidangan tahu dengan lontong dan bumbu kacang.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 176,
+    "soal": "Tempat asal makanan keripik sanjai, keripik singkong yang renyah.",
+    "jawaban": "Banjarmasin",
+    "pilihanJawaban": [
+      "Banjarmasin",
+      "Samarinda",
+      "Balikpapan",
+      "Singkawang",
+      "Palangkaraya"
+    ]
+  },
+  {
+    "index": 177,
+    "soal": "Daerah yang terkenal dengan makanan tahu gejrot, tahu goreng dengan bumbu kacang pedas.",
+    "jawaban": "Cirebon",
+    "pilihanJawaban": [
+      "Cirebon",
+      "Majalengka",
+      "Kuningan",
+      "Tegal",
+      "Brebes"
+    ]
+  },
+  {
+    "index": 178,
+    "soal": "Kota di Jawa Tengah yang terkenal dengan makanan kupat tahu, hidangan kupat dengan tahu goreng.",
+    "jawaban": "Semarang",
+    "pilihanJawaban": [
+      "Semarang",
+      "Yogyakarta",
+      "Magelang",
+      "Purwokerto",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 179,
+    "soal": "Tempat asal makanan sate usus, sate dengan bumbu kecap pedas.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 180,
+    "soal": "Daerah yang terkenal dengan makanan tahu pong, tahu goreng dengan saus kacang.",
+    "jawaban": "Pekalongan",
+    "pilihanJawaban": [
+      "Pekalongan",
+      "Brebes",
+      "Purwokerto",
+      "Semarang",
+      "Solo"
+    ]
+  },
+  {
+    "index": 181,
+    "soal": "Kota di Jawa yang terkenal dengan makanan karedok, hidangan salad sayur dengan saus kacang.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Bogor",
+      "Cimahi",
+      "Cirebon",
+      "Sukabumi"
+    ]
+  },
+  {
+    "index": 182,
+    "soal": "Tempat asal makanan nasi goreng kambing, nasi goreng dengan daging kambing dan bumbu khas.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 183,
+    "soal": "Daerah yang terkenal dengan makanan ketoprak, hidangan ketupat dengan tahu, bihun, dan bumbu kacang.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 184,
+    "soal": "Kota di Jawa yang terkenal dengan makanan laksa, hidangan mie kuning dengan kuah santan.",
+    "jawaban": "Bogor",
+    "pilihanJawaban": [
+      "Bogor",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 185,
+    "soal": "Tempat asal makanan gudeg, hidangan nangka muda dengan santan dan berbagai lauk pauk.",
+    "jawaban": "Yogyakarta",
+    "pilihanJawaban": [
+      "Yogyakarta",
+      "Semarang",
+      "Magelang",
+      "Purwokerto",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 186,
+    "soal": "Daerah yang terkenal dengan makanan kue cubit, kue lembut dengan berbagai varian rasa.",
+    "jawaban": "Bekasi",
+    "pilihanJawaban": [
+      "Bekasi",
+      "Bogor",
+      "Depok",
+      "Tangerang",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 187,
+    "soal": "Kota di Jawa yang terkenal dengan makanan rujak soto, hidangan rujak dengan tambahan soto.",
+    "jawaban": "Malang",
+    "pilihanJawaban": [
+      "Malang",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 188,
+    "soal": "Tempat asal makanan martabak, hidangan terang bulan dengan berbagai varian isi.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 189,
+    "soal": "Tempat asal makanan mie kocok, hidangan mie dengan kuah kocok khas Bandung.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Bogor",
+      "Cimahi",
+      "Cirebon",
+      "Sukabumi"
+    ]
+  },
+  {
+    "index": 190,
+    "soal": "Daerah yang terkenal dengan makanan otak-otak Palembang, hidangan terbuat dari daging ikan yang dibungkus daun pisang.",
+    "jawaban": "Palembang",
+    "pilihanJawaban": [
+      "Palembang",
+      "Lampung",
+      "Jambi",
+      "Padang",
+      "Medan"
+    ]
+  },
+  {
+    "index": 191,
+    "soal": "Kota di Jawa yang terkenal dengan makanan surabi, kue serabi dengan berbagai varian rasa.",
+    "jawaban": "Garut",
+    "pilihanJawaban": [
+      "Garut",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 192,
+    "soal": "Daerah yang terkenal dengan makanan nasi goreng Jancuk, nasi goreng dengan tambahan telur dan kecap khas.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 193,
+    "soal": "Kota di Jawa Tengah yang terkenal dengan makanan soto Kudus, hidangan soto dengan daging ayam.",
+    "jawaban": "Kudus",
+    "pilihanJawaban": [
+      "Kudus",
+      "Solo",
+      "Yogyakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 194,
+    "soal": "Daerah yang terkenal dengan makanan mie lethek, mie kuning dengan berbagai lauk pauk.",
+    "jawaban": "Yogyakarta",
+    "pilihanJawaban": [
+      "Yogyakarta",
+      "Semarang",
+      "Magelang",
+      "Purwokerto",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 195,
+    "soal": "Kota di Jawa yang terkenal dengan makanan serabi, kue serabi dengan berbagai varian rasa.",
+    "jawaban": "Garut",
+    "pilihanJawaban": [
+      "Garut",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 196,
+    "soal": "Tempat asal makanan lontong sayur, hidangan lontong dengan kuah sayur.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 197,
+    "soal": "Daerah yang terkenal dengan makanan kerak telor, hidangan telur dadar dengan bumbu rempah.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 198,
+    "soal": "Kota di Jawa yang terkenal dengan makanan rujak cingur, hidangan rujak dengan tambahan cingur (hidung sapi).",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 199,
+    "soal": "Tempat asal makanan tahu campur, hidangan tahu dengan kuah.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 200,
+    "soal": "Daerah yang terkenal dengan makanan sate kambing, sate dengan daging kambing dan bumbu kacang.",
+    "jawaban": "Solo",
+    "pilihanJawaban": [
+      "Solo",
+      "Semarang",
+      "Surakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 201,
+    "soal": "Kota di Jawa yang terkenal dengan makanan nasi liwet, nasi dengan lauk pauk khas.",
+    "jawaban": "Cirebon",
+    "pilihanJawaban": [
+      "Cirebon",
+      "Majalengka",
+      "Kuningan",
+      "Tegal",
+      "Brebes"
+    ]
+  },
+  {
+    "index": 202,
+    "soal": "Tempat asal makanan brongkos, hidangan berkuah dengan campuran daging sapi, tahu, dan kacang merah.",
+    "jawaban": "Solo",
+    "pilihanJawaban": [
+      "Solo",
+      "Semarang",
+      "Surakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 203,
+    "soal": "Daerah yang terkenal dengan makanan cendol, minuman segar dengan campuran santan dan gula merah.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 204,
+    "soal": "Kota di Jawa yang terkenal dengan makanan kue rangi, kue tradisional dari tepung ketan dan kelapa.",
+    "jawaban": "Bogor",
+    "pilihanJawaban": [
+      "Bogor",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 205,
+    "soal": "Tempat asal makanan sate lilit, sate yang diperbuat dengan membungkus daging pada bambu.",
+    "jawaban": "Bali",
+    "pilihanJawaban": [
+      "Bali",
+      "Sumbawa",
+      "Labuan Bajo",
+      "Makassar",
+      "Manado"
+    ]
+  },
+  {
+    "index": 206,
+    "soal": "Tempat asal makanan bakmi Jawa, hidangan mie dengan berbagai topping.",
+    "jawaban": "Yogyakarta",
+    "pilihanJawaban": [
+      "Yogyakarta",
+      "Semarang",
+      "Magelang",
+      "Purwokerto",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 207,
+    "soal": "Daerah yang terkenal dengan makanan kue rangi, kue tradisional dari tepung ketan dan kelapa.",
+    "jawaban": "Bogor",
+    "pilihanJawaban": [
+      "Bogor",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 208,
+    "soal": "Kota di Jawa yang terkenal dengan makanan tahu takwa, hidangan tahu goreng dengan saus kacang.",
+    "jawaban": "Kediri",
+    "pilihanJawaban": [
+      "Kediri",
+      "Magetan",
+      "Nganjuk",
+      "Ponorogo",
+      "Tulungagung"
+    ]
+  },
+  {
+    "index": 209,
+    "soal": "Tempat asal makanan nasi pecel, nasi dengan sayur-sayuran dan sambal kacang.",
+    "jawaban": "Madiun",
+    "pilihanJawaban": [
+      "Madiun",
+      "Magetan",
+      "Nganjuk",
+      "Ponorogo",
+      "Tulungagung"
+    ]
+  },
+  {
+    "index": 210,
+    "soal": "Daerah yang terkenal dengan makanan es cendol, minuman segar dengan campuran tepung ketan dan santan.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 211,
+    "soal": "Daerah yang terkenal dengan makanan rujak ulek, hidangan rujak dengan bumbu ulek khas Betawi.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 212,
+    "soal": "Kota di Jawa Tengah yang terkenal dengan makanan gudeg, hidangan nangka muda dengan santan khas Yogyakarta.",
+    "jawaban": "Yogyakarta",
+    "pilihanJawaban": [
+      "Yogyakarta",
+      "Semarang",
+      "Magelang",
+      "Purwokerto",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 213,
+    "soal": "Tempat asal makanan es doger, minuman segar dengan campuran kelapa, alpukat, dan cincau.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Bogor",
+      "Cimahi",
+      "Cirebon",
+      "Sukabumi"
+    ]
+  },
+  {
+    "index": 214,
+    "soal": "Daerah yang terkenal dengan makanan nasi bogana, nasi dengan aneka lauk khas Banyumas.",
+    "jawaban": "Banyumas",
+    "pilihanJawaban": [
+      "Banyumas",
+      "Cilacap",
+      "Banjarnegara",
+      "Purbalingga",
+      "Kebumen"
+    ]
+  },
+  {
+    "index": 215,
+    "soal": "Kota di Jawa yang terkenal dengan makanan tahu pong, tahu goreng dengan bumbu kacang.",
+    "jawaban": "Malang",
+    "pilihanJawaban": [
+      "Malang",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 216,
+    "soal": "Tempat asal makanan selat solo, hidangan bumbu kacang dengan daging ayam, telur, dan kentang.",
+    "jawaban": "Solo",
+    "pilihanJawaban": [
+      "Solo",
+      "Semarang",
+      "Surakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 217,
+    "soal": "Daerah yang terkenal dengan makanan pecel lele, hidangan lele goreng dengan sambal pecel.",
+    "jawaban": "Purwokerto",
+    "pilihanJawaban": [
+      "Purwokerto",
+      "Cilacap",
+      "Banjarnegara",
+      "Purbalingga",
+      "Kebumen"
+    ]
+  },
+  {
+    "index": 218,
+    "soal": "Kota di Jawa yang terkenal dengan makanan nasi timbel, nasi dibungkus daun pisang dengan lauk khas.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Bogor",
+      "Cimahi",
+      "Cirebon",
+      "Sukabumi"
+    ]
+  },
+  {
+    "index": 219,
+    "soal": "Tempat asal makanan es cincau hijau, minuman segar dengan campuran cincau hijau dan santan.",
+    "jawaban": "Tangerang",
+    "pilihanJawaban": [
+      "Tangerang",
+      "Bogor",
+      "Depok",
+      "Bekasi",
+      "Serang"
+    ]
+  },
+  {
+    "index": 220,
+    "soal": "Daerah yang terkenal dengan makanan soto kaki, hidangan soto dengan daging kaki sapi.",
+    "jawaban": "Pekalongan",
+    "pilihanJawaban": [
+      "Pekalongan",
+      "Brebes",
+      "Purwokerto",
+      "Semarang",
+      "Solo"
+    ]
+  },
+  {
+    "index": 221,
+    "soal": "Kota di Jawa yang terkenal dengan makanan lontong pecel, hidangan lontong dengan sambal pecel.",
+    "jawaban": "Malang",
+    "pilihanJawaban": [
+      "Malang",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 222,
+    "soal": "Tempat asal makanan nasi tumpeng, nasi kuning berbentuk kerucut dengan berbagai lauk pauk di sekitarnya.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 223,
+    "soal": "Daerah yang terkenal dengan makanan soto sulung, hidangan soto dengan daging sapi dan kuah santan.",
+    "jawaban": "Pekalongan",
+    "pilihanJawaban": [
+      "Pekalongan",
+      "Brebes",
+      "Purwokerto",
+      "Semarang",
+      "Solo"
+    ]
+  },
+  {
+    "index": 224,
+    "soal": "Kota di Jawa yang terkenal dengan makanan batagor, hidangan baso tahu goreng dengan kuah kacang.",
+    "jawaban": "Bandung",
+    "pilihanJawaban": [
+      "Bandung",
+      "Bogor",
+      "Cimahi",
+      "Cirebon",
+      "Sukabumi"
+    ]
+  },
+  {
+    "index": 225,
+    "soal": "Tempat asal makanan serabi notosuman, kue serabi dengan rasa manis.",
+    "jawaban": "Solo",
+    "pilihanJawaban": [
+      "Solo",
+      "Semarang",
+      "Surakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 226,
+    "soal": "Daerah yang terkenal dengan makanan es puter, minuman segar dengan campuran buah dan es serut.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 227,
+    "soal": "Tempat asal makanan empek-empek, hidangan berbahan dasar ikan tenggiri dengan saus cuko khas Palembang.",
+    "jawaban": "Palembang",
+    "pilihanJawaban": [
+      "Palembang",
+      "Lampung",
+      "Jambi",
+      "Padang",
+      "Medan"
+    ]
+  },
+  {
+    "index": 228,
+    "soal": "Daerah yang terkenal dengan makanan nasi jamblang, nasi dengan berbagai lauk pauk khas Cirebon.",
+    "jawaban": "Cirebon",
+    "pilihanJawaban": [
+      "Cirebon",
+      "Majalengka",
+      "Kuningan",
+      "Tegal",
+      "Brebes"
+    ]
+  },
+  {
+    "index": 229,
+    "soal": "Kota di Jawa Tengah yang terkenal dengan makanan lumpia, hidangan roll pangsit dengan berbagai isian.",
+    "jawaban": "Semarang",
+    "pilihanJawaban": [
+      "Semarang",
+      "Yogyakarta",
+      "Magelang",
+      "Purwokerto",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 230,
+    "soal": "Tempat asal makanan nasi uduk, nasi dengan lauk pauk dan bumbu kacang.",
+    "jawaban": "Jakarta",
+    "pilihanJawaban": [
+      "Jakarta",
+      "Depok",
+      "Tangerang",
+      "Bekasi",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 231,
+    "soal": "Daerah yang terkenal dengan makanan ketan serundeng, ketan dengan taburan kelapa serundeng.",
+    "jawaban": "Bekasi",
+    "pilihanJawaban": [
+      "Bekasi",
+      "Bogor",
+      "Depok",
+      "Tangerang",
+      "Bandung"
+    ]
+  },
+  {
+    "index": 232,
+    "soal": "Kota di Jawa yang terkenal dengan makanan tahu telur, tahu goreng dengan telur dan bumbu kacang.",
+    "jawaban": "Malang",
+    "pilihanJawaban": [
+      "Malang",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 233,
+    "soal": "Tempat asal makanan lontong balap, hidangan lontong dengan kuah kacang dan tauge.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 234,
+    "soal": "Daerah yang terkenal dengan makanan sate kere, sate dengan daging sapi muda yang terkenal murah.",
+    "jawaban": "Solo",
+    "pilihanJawaban": [
+      "Solo",
+      "Semarang",
+      "Surakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 235,
+    "soal": "Tempat asal makanan rujak cingur, hidangan rujak dengan tambahan cingur (hidung sapi).",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 236,
+    "soal": "Daerah yang terkenal dengan makanan nasi gandul, nasi dengan daging suwir dan kuah gandul.",
+    "jawaban": "Semarang",
+    "pilihanJawaban": [
+      "Semarang",
+      "Yogyakarta",
+      "Magelang",
+      "Purwokerto",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 237,
+    "soal": "Kota di Jawa yang terkenal dengan makanan kue cucur, kue goreng berbentuk seperti donat.",
+    "jawaban": "Garut",
+    "pilihanJawaban": [
+      "Garut",
+      "Cianjur",
+      "Cimahi",
+      "Sukabumi",
+      "Depok"
+    ]
+  },
+  {
+    "index": 238,
+    "soal": "Tempat asal makanan soto kudus, hidangan soto dengan daging ayam dan kuah bening.",
+    "jawaban": "Kudus",
+    "pilihanJawaban": [
+      "Kudus",
+      "Solo",
+      "Yogyakarta",
+      "Magelang",
+      "Purwokerto"
+    ]
+  },
+  {
+    "index": 239,
+    "soal": "Daerah yang terkenal dengan makanan tekwan, sup ikan patin dengan tambahan telur dan jamur.",
+    "jawaban": "Palembang",
+    "pilihanJawaban": [
+      "Palembang",
+      "Lampung",
+      "Jambi",
+      "Padang",
+      "Medan"
+    ]
+  },
+  {
+    "index": 240,
+    "soal": "Kota di Sumatera yang terkenal dengan makanan rendang, daging yang dimasak dengan bumbu rempah khas Minangkabau.",
+    "jawaban": "Padang",
+    "pilihanJawaban": [
+      "Padang",
+      "Bukittinggi",
+      "Pekanbaru",
+      "Palembang",
+      "Jakarta"
+    ]
+  },
+  {
+    "index": 241,
+    "soal": "Daerah yang terkenal dengan makanan tahu isi, tahu yang diisi dengan sayuran dan daging.",
+    "jawaban": "Semarang",
+    "pilihanJawaban": [
+      "Semarang",
+      "Yogyakarta",
+      "Magelang",
+      "Purwokerto",
+      "Surakarta"
+    ]
+  },
+  {
+    "index": 242,
+    "soal": "Kota di Jawa yang terkenal dengan makanan nasi rawon, nasi dengan kuah rawon hitam khas.",
+    "jawaban": "Surabaya",
+    "pilihanJawaban": [
+      "Surabaya",
+      "Batu",
+      "Sidoarjo",
+      "Gresik",
+      "Mojokerto"
+    ]
+  },
+  {
+    "index": 243,
+    "soal": "Tempat asal makanan bakso aci, bakso kecil dengan tambahan aci (mocaf).",
+    "jawaban": "Cirebon",
+    "pilihanJawaban": [
+      "Cirebon",
+      "Majalengka",
+      "Kuningan",
+      "Tegal",
+      "Brebes"
+    ]
+  }
+]

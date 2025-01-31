@@ -1,0 +1,2615 @@
+[
+  {
+    "index": 0,
+    "web": "md-code.xyz",
+    "soal": "Besar, Tua, Tugu, Landmark",
+    "jawaban": "Patung Liberty",
+    "pilihanJawaban": [
+      "Patung David",
+      "Patung Kris",
+      "Patung Merlion",
+      "Patung Liberty",
+      "Menara Eiffel"
+    ]
+  },
+  {
+    "index": 1,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Alat, Melindungi, Tubuh",
+    "jawaban": "Jaket",
+    "pilihanJawaban": [
+      "Sarung Tangan",
+      "Kaus",
+      "Jaket",
+      "Celana",
+      "Topi"
+    ]
+  },
+  {
+    "index": 2,
+    "web": "md-code.xyz",
+    "soal": "Biru, Kering, Bola, Olahraga",
+    "jawaban": "Bola Basket",
+    "pilihanJawaban": [
+      "Bola Golf",
+      "Sepeda",
+      "Bola Voli",
+      "Bola Basket",
+      "Bola Sepak"
+    ]
+  },
+  {
+    "index": 3,
+    "web": "md-code.xyz",
+    "soal": "Dalam, Komputer, Data, Penyimpanan",
+    "jawaban": "Hard Disk",
+    "pilihanJawaban": [
+      "Hard Disk",
+      "Keyboard",
+      "Monitor",
+      "RAM",
+      "Prosesor"
+    ]
+  },
+  {
+    "index": 4,
+    "web": "md-code.xyz",
+    "soal": "Besar, Hewan, Kuda, Cepat",
+    "jawaban": "Kuda Balap",
+    "pilihanJawaban": [
+      "Kuda Poni",
+      "Kuda Arab",
+      "Kuda Tunggangan",
+      "Kuda Laut",
+      "Kuda Balap"
+    ]
+  },
+  {
+    "index": 5,
+    "web": "md-code.xyz",
+    "soal": "Panas, Dalam, Makanan, Panggang",
+    "jawaban": "Oven",
+    "pilihanJawaban": [
+      "Kompor Gas",
+      "Panci",
+      "Oven",
+      "Spatula",
+      "Microwave"
+    ]
+  },
+  {
+    "index": 6,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Putih, Bulu, Musim",
+    "jawaban": "Salju",
+    "pilihanJawaban": [
+      "Hujan",
+      "Salju",
+      "Hujan Es",
+      "Angin",
+      "Awan"
+    ]
+  },
+  {
+    "index": 7,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Kayu, Mainan, Putar",
+    "jawaban": "Gasing",
+    "pilihanJawaban": [
+      "Boneka",
+      "Bola",
+      "Gasing",
+      "Kuda-kudaan",
+      "Kartu"
+    ]
+  },
+  {
+    "index": 8,
+    "web": "md-code.xyz",
+    "soal": "Cerah, Malam, Pemandangan, Langit",
+    "jawaban": "Bintang",
+    "pilihanJawaban": [
+      "Planet",
+      "Galaksi",
+      "Bintang",
+      "Bulan",
+      "Matahari"
+    ]
+  },
+  {
+    "index": 9,
+    "web": "md-code.xyz",
+    "soal": "Panjang, Tumpukan, Buku, Penyimpanan",
+    "jawaban": "Rak Buku",
+    "pilihanJawaban": [
+      "Meja",
+      "Lemari",
+      "Kursi",
+      "Rak Buku",
+      "Sofa"
+    ]
+  },
+  {
+    "index": 10,
+    "web": "md-code.xyz",
+    "soal": "Biru, Laut, Ombak, Selancar",
+    "jawaban": "Papan Selancar",
+    "pilihanJawaban": [
+      "Surfing",
+      "Laut",
+      "Papan Selancar",
+      "Pasir",
+      "Ombak"
+    ]
+  },
+  {
+    "index": 11,
+    "web": "md-code.xyz",
+    "soal": "Panjang, Kertas, Informasi, Tanda",
+    "jawaban": "Buku",
+    "pilihanJawaban": [
+      "Buku",
+      "Koran",
+      "Majalah",
+      "Pamflet",
+      "Brochur"
+    ]
+  },
+  {
+    "index": 12,
+    "web": "md-code.xyz",
+    "soal": "Besar, Hewan, Hutan, Bulu",
+    "jawaban": "Beruang",
+    "pilihanJawaban": [
+      "Singa",
+      "Harimau",
+      "Serigala",
+      "Kucing",
+      "Beruang"
+    ]
+  },
+  {
+    "index": 13,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Cokelat, Manis, Permen",
+    "jawaban": "Truf Cokelat",
+    "pilihanJawaban": [
+      "Cokelat Hitam",
+      "Cokelat Susu",
+      "Truf Cokelat",
+      "Cokelat Batangan",
+      "Cokelat Praline"
+    ]
+  },
+  {
+    "index": 14,
+    "web": "md-code.xyz",
+    "soal": "Besar, Piring, Makan, Meja",
+    "jawaban": "Tumpukan Piring",
+    "pilihanJawaban": [
+      "Meja",
+      "Piring",
+      "Dapur",
+      "Tumpukan Piring",
+      "Makan"
+    ]
+  },
+  {
+    "index": 15,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Terang, Malam, Langit",
+    "jawaban": "Bintang Laut",
+    "pilihanJawaban": [
+      "Galaksi",
+      "Bintang",
+      "Bintang Laut",
+      "Bulan",
+      "Matahari"
+    ]
+  },
+  {
+    "index": 16,
+    "web": "md-code.xyz",
+    "soal": "Putih, Kertas, Tulis, Pesan",
+    "jawaban": "Surat",
+    "pilihanJawaban": [
+      "Pena",
+      "Amplop",
+      "Kertas",
+      "Pensil",
+      "Surat"
+    ]
+  },
+  {
+    "index": 17,
+    "web": "md-code.xyz",
+    "soal": "Besar, Baja, Mengangkat, Konstruksi",
+    "jawaban": "Derek",
+    "pilihanJawaban": [
+      "Beton",
+      "Pompa Beton",
+      "Kran",
+      "Derek",
+      "Truk"
+    ]
+  },
+  {
+    "index": 18,
+    "web": "md-code.xyz",
+    "soal": "Tinggi, Sayap, Terbang, Burung",
+    "jawaban": "Elang",
+    "pilihanJawaban": [
+      "Ayam",
+      "Bebek",
+      "Merpati",
+      "Elang",
+      "Kucing"
+    ]
+  },
+  {
+    "index": 19,
+    "web": "md-code.xyz",
+    "soal": "Besar, Pohon, Panjang, Tumbuh",
+    "jawaban": "Pohon Raksasa",
+    "pilihanJawaban": [
+      "Daun",
+      "Pohon",
+      "Pohon Raksasa",
+      "Batang",
+      "Tinggi"
+    ]
+  },
+  {
+    "index": 20,
+    "web": "md-code.xyz",
+    "soal": "Lingkaran, Roda, Menggelinding, Kendaraan",
+    "jawaban": "Mobil",
+    "pilihanJawaban": [
+      "Motor",
+      "Truk",
+      "Sepeda",
+      "Becak",
+      "Mobil"
+    ]
+  },
+  {
+    "index": 21,
+    "web": "md-code.xyz",
+    "soal": "Musik, Kecil, Biasanya, Saku",
+    "jawaban": "Mp3 Player",
+    "pilihanJawaban": [
+      "Radio",
+      "Phonograph",
+      "Kaset",
+      "Mp3 Player",
+      "CD Player"
+    ]
+  },
+  {
+    "index": 22,
+    "web": "md-code.xyz",
+    "soal": "Tinggi, Atap, Melindungi, Hujan",
+    "jawaban": "Payung",
+    "pilihanJawaban": [
+      "Topi",
+      "Sarung Tangan",
+      "Celana",
+      "Jaket",
+      "Payung"
+    ]
+  },
+  {
+    "index": 23,
+    "web": "md-code.xyz",
+    "soal": "Cepat, Terbang, Sayap, Burung",
+    "jawaban": "Merpati",
+    "pilihanJawaban": [
+      "Elang",
+      "Merpati",
+      "Bebek",
+      "Ayam",
+      "Kucing"
+    ]
+  },
+  {
+    "index": 24,
+    "web": "md-code.xyz",
+    "soal": "Besar, Panas, Api, Memasak",
+    "jawaban": "Kompor Gas",
+    "pilihanJawaban": [
+      "Oven",
+      "Panci",
+      "Spatula",
+      "Kompor Gas",
+      "Microwave"
+    ]
+  },
+  {
+    "index": 25,
+    "web": "md-code.xyz",
+    "soal": "Panas, Kering, Guntur, Petir",
+    "jawaban": "Badai",
+    "pilihanJawaban": [
+      "Hujan",
+      "Badai",
+      "Awan",
+      "Cerah",
+      "Angin"
+    ]
+  },
+  {
+    "index": 26,
+    "web": "md-code.xyz",
+    "soal": "Besar, Mesin, Roda, Menggali",
+    "jawaban": "Excavator",
+    "pilihanJawaban": [
+      "Traktor",
+      "Excavator",
+      "Loader",
+      "Bulldozer",
+      "Grader"
+    ]
+  },
+  {
+    "index": 27,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Karet, Mainan, Loncat",
+    "jawaban": "Bola Lompat",
+    "pilihanJawaban": [
+      "Bola Golf",
+      "Bola Basket",
+      "Bola Voli",
+      "Bola Sepak",
+      "Bola Lompat"
+    ]
+  },
+  {
+    "index": 28,
+    "web": "md-code.xyz",
+    "soal": "Hijau, Daun, Bersayap, Hama",
+    "jawaban": "Belalang",
+    "pilihanJawaban": [
+      "Belalang",
+      "Kecoak",
+      "Lebah",
+      "Kumbang",
+      "Lalat"
+    ]
+  },
+  {
+    "index": 29,
+    "web": "md-code.xyz",
+    "soal": "Putih, Dingin, Salju, Musim",
+    "jawaban": "Salju",
+    "pilihanJawaban": [
+      "Hujan Es",
+      "Awan",
+      "Salju",
+      "Angin",
+      "Hujan"
+    ]
+  },
+  {
+    "index": 30,
+    "web": "md-code.xyz",
+    "soal": "Lingkaran, Kertas, Gambar, Warna",
+    "jawaban": "Piring",
+    "pilihanJawaban": [
+      "Kertas",
+      "Kanvas",
+      "Krayon",
+      "Pensil",
+      "Piring"
+    ]
+  },
+  {
+    "index": 31,
+    "web": "md-code.xyz",
+    "soal": "Besar, Bata, Bangunan, Tembok",
+    "jawaban": "Gedung",
+    "pilihanJawaban": [
+      "Gedung",
+      "Rumah",
+      "Apartemen",
+      "Sekolah",
+      "Kantor"
+    ]
+  },
+  {
+    "index": 32,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Dingin, Manis, Es",
+    "jawaban": "Es Krim",
+    "pilihanJawaban": [
+      "Cokelat",
+      "Puding",
+      "Kue Cokelat",
+      "Es Krim",
+      "Pancake"
+    ]
+  },
+  {
+    "index": 33,
+    "web": "md-code.xyz",
+    "soal": "Dalam, Laut, Menyelam, Terumbu",
+    "jawaban": "Ikan Clown",
+    "pilihanJawaban": [
+      "Ikan Koi",
+      "Ikan Badut",
+      "Ikan Cupang",
+      "Ikan Lele",
+      "Ikan Gurami"
+    ]
+  },
+  {
+    "index": 34,
+    "web": "md-code.xyz",
+    "soal": "Besar, Buku, Pengetahuan, Belajar",
+    "jawaban": "Perpustakaan",
+    "pilihanJawaban": [
+      "Buku",
+      "Pelajar",
+      "Sekolah",
+      "Guru",
+      "Perpustakaan"
+    ]
+  },
+  {
+    "index": 35,
+    "web": "md-code.xyz",
+    "soal": "Panas, Dapur, Masakan, Masak",
+    "jawaban": "Kompor Listrik",
+    "pilihanJawaban": [
+      "Kompor Listrik",
+      "Microwave",
+      "Oven",
+      "Spatula",
+      "Kompor Gas"
+    ]
+  },
+  {
+    "index": 36,
+    "web": "md-code.xyz",
+    "soal": "Cerah, Malam, Berbintang, Langit",
+    "jawaban": "Malam Bintang",
+    "pilihanJawaban": [
+      "Malam",
+      "Malam Bintang",
+      "Pagi",
+      "Sore",
+      "Tengah Malam"
+    ]
+  },
+  {
+    "index": 37,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Gunung, Pegunungan, Salju",
+    "jawaban": "Ski",
+    "pilihanJawaban": [
+      "Ski Salju",
+      "Seluncur Es",
+      "Piring Salju",
+      "Papan Selancar",
+      "Ski Air"
+    ]
+  },
+  {
+    "index": 38,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Bercahaya, Malam, Langit",
+    "jawaban": "Bulan Purnama",
+    "pilihanJawaban": [
+      "Matahari",
+      "Bulan",
+      "Bintang",
+      "Galaksi",
+      "Meteor"
+    ]
+  },
+  {
+    "index": 39,
+    "web": "md-code.xyz",
+    "soal": "Kecil, Elektronik, Portabel, Pesan",
+    "jawaban": "Handphone",
+    "pilihanJawaban": [
+      "Handphone",
+      "Kamera",
+      "Radio",
+      "Tablet",
+      "Laptop"
+    ]
+  },
+  {
+    "index": 40,
+    "web": "md-code.xyz",
+    "soal": "Panjang, Karet, Pensil, Menggambar",
+    "jawaban": "Penghapus",
+    "pilihanJawaban": [
+      "Penggaris",
+      "Penghapus",
+      "Pensil",
+      "Krayon",
+      "Spidol"
+    ]
+  },
+  {
+    "index": 41,
+    "web": "md-code.xyz",
+    "soal": "Kotak, Tombol, Koneksi, Internet",
+    "jawaban": "Modem",
+    "pilihanJawaban": [
+      "Modem",
+      "Laptop",
+      "Komputer",
+      "Router",
+      "Kabel"
+    ]
+  },
+  {
+    "index": 42,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Awan, Air, Turun",
+    "jawaban": "Hujan",
+    "pilihanJawaban": [
+      "Embun",
+      "Hujan Es",
+      "Angin",
+      "Salju",
+      "Hujan"
+    ]
+  },
+  {
+    "index": 43,
+    "web": "md-code.xyz",
+    "soal": "Besar, Tinggi, Monumen, Prancis",
+    "jawaban": "Menara Eiffel",
+    "pilihanJawaban": [
+      "Menara Leaning Pisa",
+      "Menara Kuala Lumpur",
+      "Menara Tokyo",
+      "Menara Eiffel",
+      "Menara Willis"
+    ]
+  },
+  {
+    "index": 44,
+    "web": "md-code.xyz",
+    "soal": "Bulan, Malam, Terang, Langit",
+    "jawaban": "Bintang",
+    "pilihanJawaban": [
+      "Planet",
+      "Bulan",
+      "Galaksi",
+      "Bintang",
+      "Matahari"
+    ]
+  },
+  {
+    "index": 45,
+    "web": "md-code.xyz",
+    "soal": "Panas, Dapur, Memasak, Masakan",
+    "jawaban": "Kompor",
+    "pilihanJawaban": [
+      "Kompor Gas",
+      "Panci",
+      "Spatula",
+      "Kompor Listrik",
+      "Oven"
+    ]
+  },
+  {
+    "index": 46,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Salju, Musim, Putih",
+    "jawaban": "Ski Salju",
+    "pilihanJawaban": [
+      "Ski Salju",
+      "Papan Selancar",
+      "Piring Salju",
+      "Seluncur Es",
+      "Ski Air"
+    ]
+  },
+  {
+    "index": 47,
+    "web": "md-code.xyz",
+    "soal": "Besar, Kamar, Tempat Tidur, Tidur",
+    "jawaban": "Ranjang",
+    "pilihanJawaban": [
+      "Ranjang",
+      "Meja",
+      "Sofa",
+      "Kursi",
+      "Lemari"
+    ]
+  },
+  {
+    "index": 48,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Datar, Bermain, Olahraga",
+    "jawaban": "Seluncur Es",
+    "pilihanJawaban": [
+      "Sepatu Roda",
+      "Papan Selancar",
+      "Skateboard",
+      "Sepeda",
+      "Seluncur Es"
+    ]
+  },
+  {
+    "index": 49,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Kaca, Gambar, Bingkai",
+    "jawaban": "Foto",
+    "pilihanJawaban": [
+      "Pensil",
+      "Foto",
+      "Kanvas",
+      "Kamera",
+      "Lukisan"
+    ]
+  },
+  {
+    "index": 50,
+    "web": "md-code.xyz",
+    "soal": "Hijau, Daun, Panen, Sayuran",
+    "jawaban": "Brokoli",
+    "pilihanJawaban": [
+      "Wortel",
+      "Tomat",
+      "Brokoli",
+      "Kubis",
+      "Kacang Polong"
+    ]
+  },
+  {
+    "index": 51,
+    "web": "md-code.xyz",
+    "soal": "Besar, Hewan, Gajah, Belalai",
+    "jawaban": "Gajah",
+    "pilihanJawaban": [
+      "Jerapah",
+      "Kuda",
+      "Kucing",
+      "Harimau",
+      "Gajah"
+    ]
+  },
+  {
+    "index": 52,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Kue, Manis, Hiasan",
+    "jawaban": "Donat",
+    "pilihanJawaban": [
+      "Donat",
+      "Kue Ulang Tahun",
+      "Kue Tart",
+      "Roti",
+      "Kue Cokelat"
+    ]
+  },
+  {
+    "index": 53,
+    "web": "md-code.xyz",
+    "soal": "Besar, Kapal, Laut, Penumpang",
+    "jawaban": "Kapal Pesiar",
+    "pilihanJawaban": [
+      "Kapal Pesiar",
+      "Perahu Nelayan",
+      "Kapal Selam",
+      "Kapal Kargo",
+      "Perahu Kayu"
+    ]
+  },
+  {
+    "index": 54,
+    "web": "md-code.xyz",
+    "soal": "Hijau, Tinggi, Pohon, Daun",
+    "jawaban": "Pohon Tinggi",
+    "pilihanJawaban": [
+      "Bambu",
+      "Kaktus",
+      "Pohon Tinggi",
+      "Pohon",
+      "Semak"
+    ]
+  },
+  {
+    "index": 55,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Krim, Makanan Penutup, Manis",
+    "jawaban": "Es Krim",
+    "pilihanJawaban": [
+      "Cokelat",
+      "Es Krim",
+      "Kue Cokelat",
+      "Puding",
+      "Pancake"
+    ]
+  },
+  {
+    "index": 56,
+    "web": "md-code.xyz",
+    "soal": "Besar, Pintu, Masuk, Gedung",
+    "jawaban": "Gerbang",
+    "pilihanJawaban": [
+      "Tangga",
+      "Jendela",
+      "Kunci",
+      "Pintu",
+      "Gerbang"
+    ]
+  },
+  {
+    "index": 57,
+    "web": "md-code.xyz",
+    "soal": "Tinggi, Melihat, Jauh, Pengintai",
+    "jawaban": "Menara Pengawas",
+    "pilihanJawaban": [
+      "Menara Sinyal",
+      "Menara Pengintai",
+      "Menara Telepon",
+      "Menara Radio",
+      "Menara Listrik"
+    ]
+  },
+  {
+    "index": 58,
+    "web": "md-code.xyz",
+    "soal": "Besar, Buah, Kulit, Jeruk",
+    "jawaban": "Jeruk Bali",
+    "pilihanJawaban": [
+      "Jeruk Bali",
+      "Jeruk Manis",
+      "Jeruk Mandarin",
+      "Jeruk Nipis",
+      "Jeruk Limo"
+    ]
+  },
+  {
+    "index": 59,
+    "web": "md-code.xyz",
+    "soal": "Dalam, Hutan, Hewan, Bulu",
+    "jawaban": "Burung Hantu",
+    "pilihanJawaban": [
+      "Burung Hantu",
+      "Bebek",
+      "Ayam",
+      "Merpati",
+      "Kucing"
+    ]
+  },
+  {
+    "index": 60,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Tepi, Meja, Tempat Makan",
+    "jawaban": "Piring",
+    "pilihanJawaban": [
+      "Piring",
+      "Mangkuk",
+      "Sendok",
+      "Tas",
+      "Garpu"
+    ]
+  },
+  {
+    "index": 61,
+    "web": "md-code.xyz",
+    "soal": "Biru, Laut, Terumbu, Ikan",
+    "jawaban": "Terumbu Karang",
+    "pilihanJawaban": [
+      "Terumbu Karang",
+      "Pasir",
+      "Ikan",
+      "Laut",
+      "Karang"
+    ]
+  },
+  {
+    "index": 62,
+    "web": "md-code.xyz",
+    "soal": "Besar, Gelas, Minuman, Malam",
+    "jawaban": "Anggur Merah",
+    "pilihanJawaban": [
+      "Anggur Merah",
+      "Kopi Hitam",
+      "Es Teh",
+      "Jus Jeruk",
+      "Air Mineral"
+    ]
+  },
+  {
+    "index": 63,
+    "web": "md-code.xyz",
+    "soal": "Panas, Tungku, Makanan, Dapur",
+    "jawaban": "Kompor",
+    "pilihanJawaban": [
+      "Kompor Listrik",
+      "Oven",
+      "Kompor Gas",
+      "Panci",
+      "Spatula"
+    ]
+  },
+  {
+    "index": 64,
+    "web": "md-code.xyz",
+    "soal": "Besar, Motor, Roda, Berkendara",
+    "jawaban": "Sepeda Motor",
+    "pilihanJawaban": [
+      "Kereta Api",
+      "Sepeda Motor",
+      "Skuter",
+      "Mobil",
+      "Sepeda"
+    ]
+  },
+  {
+    "index": 65,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Es, Putih, Musim",
+    "jawaban": "Salju",
+    "pilihanJawaban": [
+      "Hujan Es",
+      "Hujan",
+      "Angin",
+      "Awan",
+      "Salju"
+    ]
+  },
+  {
+    "index": 66,
+    "web": "md-code.xyz",
+    "soal": "Penggerek, Tahu, Tangan, Saku",
+    "jawaban": "Uang",
+    "pilihanJawaban": [
+      "Kartu",
+      "Koin",
+      "Dompet",
+      "Cek",
+      "Uang"
+    ]
+  },
+  {
+    "index": 67,
+    "web": "md-code.xyz",
+    "soal": "Cerah, Senja, Pemandangan, Laut",
+    "jawaban": "Sunset",
+    "pilihanJawaban": [
+      "Sunset",
+      "Matahari Terbit",
+      "Siang",
+      "Malam",
+      "Pagi"
+    ]
+  },
+  {
+    "index": 68,
+    "web": "md-code.xyz",
+    "soal": "Besar, Tua, Bersejarah, Bangunan",
+    "jawaban": "Istana",
+    "pilihanJawaban": [
+      "Kuil",
+      "Kastil",
+      "Istana",
+      "Rumah",
+      "Gedung"
+    ]
+  },
+  {
+    "index": 69,
+    "web": "md-code.xyz",
+    "soal": "Dalam, Kardus, Hadiah, Membuka",
+    "jawaban": "Kado",
+    "pilihanJawaban": [
+      "Parcel",
+      "Pita",
+      "Kertas Cellophane",
+      "Ribbon",
+      "Kado"
+    ]
+  },
+  {
+    "index": 70,
+    "web": "md-code.xyz",
+    "soal": "Besar, Matahari, Planet, Tatanan",
+    "jawaban": "Sistem Tata Surya",
+    "pilihanJawaban": [
+      "Bintang",
+      "Bulan",
+      "Matahari",
+      "Sistem Tata Surya",
+      "Bumi"
+    ]
+  },
+  {
+    "index": 71,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Salju, Musim, Berkendara",
+    "jawaban": "Ski",
+    "pilihanJawaban": [
+      "Ski",
+      "Snowboard",
+      "Helm",
+      "Panci",
+      "Seluncur Es"
+    ]
+  },
+  {
+    "index": 72,
+    "web": "md-code.xyz",
+    "soal": "Cokelat, Berbentuk, Manis, Permen",
+    "jawaban": "Cokelat Praline",
+    "pilihanJawaban": [
+      "Cokelat Susu",
+      "Cokelat Praline",
+      "Cokelat Putih",
+      "Cokelat Hitam",
+      "Cokelat Batangan"
+    ]
+  },
+  {
+    "index": 73,
+    "web": "md-code.xyz",
+    "soal": "Besar, Tropis, Buah, Kulit",
+    "jawaban": "Jeruk",
+    "pilihanJawaban": [
+      "Apel",
+      "Mangga",
+      "Pisang",
+      "Jeruk",
+      "Anggur"
+    ]
+  },
+  {
+    "index": 74,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Meja, Makanan, Ruang Makan",
+    "jawaban": "Piring",
+    "pilihanJawaban": [
+      "Mangkuk",
+      "Garpu",
+      "Piring",
+      "Gelas",
+      "Sendok"
+    ]
+  },
+  {
+    "index": 75,
+    "web": "md-code.xyz",
+    "soal": "Kereta, Bawah, Rel, Di atas",
+    "jawaban": "Jembatan Kereta",
+    "pilihanJawaban": [
+      "Jembatan Kereta",
+      "Rel",
+      "Kereta Api",
+      "Stasiun",
+      "Tunnel"
+    ]
+  },
+  {
+    "index": 76,
+    "web": "md-code.xyz",
+    "soal": "Besar, Dunia, Planet, Tatanan",
+    "jawaban": "Sistem Tatasurya",
+    "pilihanJawaban": [
+      "Bulan",
+      "Bumi",
+      "Sistem Tatasurya",
+      "Matahari",
+      "Bintang"
+    ]
+  },
+  {
+    "index": 77,
+    "web": "md-code.xyz",
+    "soal": "Dalam, Ponsel, Chat, Pesan",
+    "jawaban": "Aplikasi",
+    "pilihanJawaban": [
+      "Chat",
+      "Ponsel",
+      "Aplikasi",
+      "Kamera",
+      "Internet"
+    ]
+  },
+  {
+    "index": 78,
+    "web": "md-code.xyz",
+    "soal": "Besar, Hewan, Buku, Gambar",
+    "jawaban": "Gajah",
+    "pilihanJawaban": [
+      "Gajah",
+      "Anjing",
+      "Harimau",
+      "Kucing",
+      "Singa"
+    ]
+  },
+  {
+    "index": 79,
+    "web": "md-code.xyz",
+    "soal": "Besar, Langit, Malam, Terang",
+    "jawaban": "Teleskop",
+    "pilihanJawaban": [
+      "Astronomi",
+      "Komet",
+      "Teleskop",
+      "Bintang",
+      "Planetarium"
+    ]
+  },
+  {
+    "index": 80,
+    "web": "md-code.xyz",
+    "soal": "Panas, Dingin, Nyala, Api",
+    "jawaban": "Lilin",
+    "pilihanJawaban": [
+      "Korek Api",
+      "Lilin",
+      "Api",
+      "Kayu",
+      "Bakar"
+    ]
+  },
+  {
+    "index": 81,
+    "web": "md-code.xyz",
+    "soal": "Panas, Gas, Memasak, Dapur",
+    "jawaban": "Kompor Gas",
+    "pilihanJawaban": [
+      "Kompor Gas",
+      "Sendok",
+      "Panci",
+      "Mikrowave",
+      "Oven"
+    ]
+  },
+  {
+    "index": 82,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Memanjat, Pegunungan, Es",
+    "jawaban": "Pendaki Es",
+    "pilihanJawaban": [
+      "Pendaki Es",
+      "Pegunungan",
+      "Alpinis",
+      "Gunung",
+      "Kemah"
+    ]
+  },
+  {
+    "index": 83,
+    "web": "md-code.xyz",
+    "soal": "Besar, Tua, Kain, Meja",
+    "jawaban": "Taplak Meja",
+    "pilihanJawaban": [
+      "Meja",
+      "Kursi",
+      "Taplak Meja",
+      "Sofa",
+      "Lemari"
+    ]
+  },
+  {
+    "index": 84,
+    "web": "md-code.xyz",
+    "soal": "Panjang, Tangan, Angka, Mengukur",
+    "jawaban": "Jangka Sorong",
+    "pilihanJawaban": [
+      "Skala",
+      "Pita Ukur",
+      "Meteran",
+      "Jangka Sorong",
+      "Meter"
+    ]
+  },
+  {
+    "index": 85,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Es, Pencuci Mulut, Manis",
+    "jawaban": "Es Krim",
+    "pilihanJawaban": [
+      "Kue",
+      "Es Krim",
+      "Susu",
+      "Puding",
+      "Cokelat"
+    ]
+  },
+  {
+    "index": 86,
+    "web": "md-code.xyz",
+    "soal": "Rumah, Ruangan, Mebel, Tidur",
+    "jawaban": "Kasur",
+    "pilihanJawaban": [
+      "Meja",
+      "Kursi",
+      "Lemari",
+      "Sofa",
+      "Kasur"
+    ]
+  },
+  {
+    "index": 87,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Alat, Makan, Sendok",
+    "jawaban": "Sumpit",
+    "pilihanJawaban": [
+      "Garpu",
+      "Sumpit",
+      "Piring",
+      "Sendok",
+      "Mangkuk"
+    ]
+  },
+  {
+    "index": 88,
+    "web": "md-code.xyz",
+    "soal": "Hijau, Dahan, Daun, Tumbuhan",
+    "jawaban": "Pohon",
+    "pilihanJawaban": [
+      "Semak",
+      "Rumput",
+      "Pohon",
+      "Bunga",
+      "Kaktus"
+    ]
+  },
+  {
+    "index": 89,
+    "web": "md-code.xyz",
+    "soal": "Kereta, Rel, Stasiun, Penumpang",
+    "jawaban": "Kereta Api",
+    "pilihanJawaban": [
+      "Bus",
+      "Kereta Api",
+      "Pesawat",
+      "Mobil",
+      "Sepeda"
+    ]
+  },
+  {
+    "index": 90,
+    "web": "md-code.xyz",
+    "soal": "Lingkaran, Bulat, Cahaya, Malam",
+    "jawaban": "Bulan",
+    "pilihanJawaban": [
+      "Meteor",
+      "Bulan",
+      "Matahari",
+      "Galaksi",
+      "Bintang"
+    ]
+  },
+  {
+    "index": 91,
+    "web": "md-code.xyz",
+    "soal": "Panjang, Tulisan, Buku, Cerita",
+    "jawaban": "Halaman",
+    "pilihanJawaban": [
+      "Halaman",
+      "Bab",
+      "Kata",
+      "Paragraf",
+      "Judul"
+    ]
+  },
+  {
+    "index": 92,
+    "web": "md-code.xyz",
+    "soal": "Tajam, Alat, Mengiris, Dapur",
+    "jawaban": "Pisau",
+    "pilihanJawaban": [
+      "Pisau",
+      "Pengasah",
+      "Sendok",
+      "Garpu",
+      "Potong"
+    ]
+  },
+  {
+    "index": 93,
+    "web": "md-code.xyz",
+    "soal": "Panjang, Leher, Musik, Alat",
+    "jawaban": "Gitar",
+    "pilihanJawaban": [
+      "Biola",
+      "Piano",
+      "Suling",
+      "Drum",
+      "Gitar"
+    ]
+  },
+  {
+    "index": 94,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Kertas, Coretan, Menulis",
+    "jawaban": "Bolpen",
+    "pilihanJawaban": [
+      "Krayon",
+      "Spidol",
+      "Bolpen",
+      "Tinta",
+      "Pensil"
+    ]
+  },
+  {
+    "index": 95,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Es, Minuman, Transparan",
+    "jawaban": "Air",
+    "pilihanJawaban": [
+      "Soda",
+      "Limon",
+      "Minuman",
+      "Air",
+      "Jus"
+    ]
+  },
+  {
+    "index": 96,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Dingin, Transparent, Gelas",
+    "jawaban": "Es",
+    "pilihanJawaban": [
+      "Air",
+      "Es",
+      "Minuman",
+      "Gelas",
+      "Soda"
+    ]
+  },
+  {
+    "index": 97,
+    "web": "md-code.xyz",
+    "soal": "Kota, Bangunan, Gedung, Trafik",
+    "jawaban": "Jalan Raya",
+    "pilihanJawaban": [
+      "Jalan Raya",
+      "Kota",
+      "Lampu Lalu Lintas",
+      "Trotoar",
+      "Plaza"
+    ]
+  },
+  {
+    "index": 98,
+    "web": "md-code.xyz",
+    "soal": "Besar, Atas, Cepat, Angkasa",
+    "jawaban": "Pesawat",
+    "pilihanJawaban": [
+      "UFO",
+      "Pesawat",
+      "Roket",
+      "Astronot",
+      "Satelit"
+    ]
+  },
+  {
+    "index": 99,
+    "web": "md-code.xyz",
+    "soal": "Kerucut, Berwarna, Manis, Bisa Dicuci",
+    "jawaban": "Topi Es Krim",
+    "pilihanJawaban": [
+      "Topi",
+      "Topi Tidur",
+      "Tutup Botol",
+      "Topi Pesta",
+      "Topi Es Krim"
+    ]
+  },
+  {
+    "index": 100,
+    "web": "md-code.xyz",
+    "soal": "Besar, Gunung, Dingin, Salju",
+    "jawaban": "Puncak",
+    "pilihanJawaban": [
+      "Es",
+      "Puncak",
+      "Gunung",
+      "Lembah",
+      "Hutan"
+    ]
+  },
+  {
+    "index": 101,
+    "web": "md-code.xyz",
+    "soal": "Hijau, Daun, Buah, Pohon",
+    "jawaban": "Pohon Buah",
+    "pilihanJawaban": [
+      "Daun",
+      "Pohon Buah",
+      "Kaktus",
+      "Buah",
+      "Pohon"
+    ]
+  },
+  {
+    "index": 102,
+    "web": "md-code.xyz",
+    "soal": "Tajam, Potong, Dapur, Makanan",
+    "jawaban": "Gunting",
+    "pilihanJawaban": [
+      "Pisau",
+      "Gunting",
+      "Garpu",
+      "Sendok",
+      "Cangkul"
+    ]
+  },
+  {
+    "index": 103,
+    "web": "md-code.xyz",
+    "soal": "Terang, Malam, Langit, Jutaan",
+    "jawaban": "Bintang",
+    "pilihanJawaban": [
+      "Bulan",
+      "Planet",
+      "Matahari",
+      "Galaksi",
+      "Bintang"
+    ]
+  },
+  {
+    "index": 104,
+    "web": "md-code.xyz",
+    "soal": "Gelap, Terowongan, Kereta, Rel",
+    "jawaban": "Tunnel",
+    "pilihanJawaban": [
+      "Tunnel",
+      "Stasiun",
+      "Rel",
+      "Terowongan",
+      "Kereta Api"
+    ]
+  },
+  {
+    "index": 105,
+    "web": "md-code.xyz",
+    "soal": "Tinggi, Kayu, Gedung, Bangunan",
+    "jawaban": "Pohon",
+    "pilihanJawaban": [
+      "Bambu",
+      "Bangunan",
+      "Beton",
+      "Pohon",
+      "Atap"
+    ]
+  },
+  {
+    "index": 106,
+    "web": "md-code.xyz",
+    "soal": "Biru, Laut, Pantai, Pasir",
+    "jawaban": "Ombak",
+    "pilihanJawaban": [
+      "Surfing",
+      "Ikan",
+      "Ombak",
+      "Kapal",
+      "Pantai"
+    ]
+  },
+  {
+    "index": 107,
+    "web": "md-code.xyz",
+    "soal": "Besar, Pakaian, Baju, Pesta",
+    "jawaban": "Gaun",
+    "pilihanJawaban": [
+      "Kemeja",
+      "Gaun",
+      "Rompi",
+      "Celana",
+      "Pakaian"
+    ]
+  },
+  {
+    "index": 108,
+    "web": "md-code.xyz",
+    "soal": "Manis, Krim, Permen, Es",
+    "jawaban": "Cokelat",
+    "pilihanJawaban": [
+      "Gula",
+      "Es Krim",
+      "Krim",
+      "Cokelat",
+      "Permen"
+    ]
+  },
+  {
+    "index": 109,
+    "web": "md-code.xyz",
+    "soal": "Kereta, Jalan, Penumpang, Tiket",
+    "jawaban": "Stasiun",
+    "pilihanJawaban": [
+      "Kereta Api",
+      "Stasiun",
+      "Tiket",
+      "Rel",
+      "Penumpang"
+    ]
+  },
+  {
+    "index": 110,
+    "web": "md-code.xyz",
+    "soal": "Tajam, Potong, Dapur, Memasak",
+    "jawaban": "Pisau",
+    "pilihanJawaban": [
+      "Garpu",
+      "Pisau",
+      "Sendok",
+      "Panci",
+      "Kompor"
+    ]
+  },
+  {
+    "index": 111,
+    "web": "md-code.xyz",
+    "soal": "Besar, Hewan, Kaki, Gajah",
+    "jawaban": "Kaki Gajah",
+    "pilihanJawaban": [
+      "Tangan",
+      "Kaki",
+      "Kaki Gajah",
+      "Telinga",
+      "Gajah"
+    ]
+  },
+  {
+    "index": 112,
+    "web": "md-code.xyz",
+    "soal": "Putih, Kertas, Pensil, Sketsa",
+    "jawaban": "Gambar",
+    "pilihanJawaban": [
+      "Warna",
+      "Lukis",
+      "Gambar",
+      "Tulis",
+      "Pensil"
+    ]
+  },
+  {
+    "index": 113,
+    "web": "md-code.xyz",
+    "soal": "Besar, Gelas, Minuman, Air",
+    "jawaban": "Akuarium",
+    "pilihanJawaban": [
+      "Gelas",
+      "Ikan",
+      "Minuman",
+      "Air",
+      "Akuarium"
+    ]
+  },
+  {
+    "index": 114,
+    "web": "md-code.xyz",
+    "soal": "Bulu, Terbang, Hewan, Burung",
+    "jawaban": "Bebek",
+    "pilihanJawaban": [
+      "Bebek",
+      "Elang",
+      "Ayam",
+      "Kucing",
+      "Merpati"
+    ]
+  },
+  {
+    "index": 115,
+    "web": "md-code.xyz",
+    "soal": "Besar, Gunung, Batu, Puncak",
+    "jawaban": "Kubah",
+    "pilihanJawaban": [
+      "Lembah",
+      "Bukit",
+      "Puncak",
+      "Kubah",
+      "Batu"
+    ]
+  },
+  {
+    "index": 116,
+    "web": "md-code.xyz",
+    "soal": "Panjang, Jalan, Kendaraan, Laju",
+    "jawaban": "Jalan Raya",
+    "pilihanJawaban": [
+      "Kereta",
+      "Jalan Raya",
+      "Mobil",
+      "Motor",
+      "Sepeda"
+    ]
+  },
+  {
+    "index": 117,
+    "web": "md-code.xyz",
+    "soal": "Hitam, Malam, Hewan, Terbang",
+    "jawaban": "Kelelawar",
+    "pilihanJawaban": [
+      "Burung Hantu",
+      "Kelelawar",
+      "Kupu-kupu",
+      "Merpati",
+      "Elang"
+    ]
+  },
+  {
+    "index": 118,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Es, Musim, Pohon",
+    "jawaban": "Salju",
+    "pilihanJawaban": [
+      "Angin",
+      "Hujan",
+      "Hujan Es",
+      "Salju",
+      "Awan"
+    ]
+  },
+  {
+    "index": 119,
+    "web": "md-code.xyz",
+    "soal": "Tajam, Daging, Memasak, Pisau",
+    "jawaban": "Pemotong",
+    "pilihanJawaban": [
+      "Pemotong",
+      "Kompor",
+      "Pisau",
+      "Sendok",
+      "Garpu"
+    ]
+  },
+  {
+    "index": 120,
+    "web": "md-code.xyz",
+    "soal": "Cahaya, Alam, Luar, Pemandangan",
+    "jawaban": "Lanskap",
+    "pilihanJawaban": [
+      "Lukisan",
+      "Lanskap",
+      "Potret",
+      "Gambar",
+      "Pemandangan"
+    ]
+  },
+  {
+    "index": 121,
+    "web": "md-code.xyz",
+    "soal": "Besar, Laut, Hewan, Air",
+    "jawaban": "Paus",
+    "pilihanJawaban": [
+      "Ikan",
+      "Lumba-lumba",
+      "Paus",
+      "Ikan paus",
+      "Kepiting"
+    ]
+  },
+  {
+    "index": 122,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Dingin, Minuman, Gelas",
+    "jawaban": "Es",
+    "pilihanJawaban": [
+      "Es",
+      "Gelas",
+      "Minuman",
+      "Air",
+      "Soda"
+    ]
+  },
+  {
+    "index": 123,
+    "web": "md-code.xyz",
+    "soal": "Pohon, Rumah, Mobil, Lampu",
+    "jawaban": "Listrik",
+    "pilihanJawaban": [
+      "Petir",
+      "Kabel",
+      "Air",
+      "Api",
+      "Listrik"
+    ]
+  },
+  {
+    "index": 124,
+    "web": "md-code.xyz",
+    "soal": "Besar, Hangat, Alam, Satu",
+    "jawaban": "Bumi",
+    "pilihanJawaban": [
+      "Planet",
+      "Langit",
+      "Matahari",
+      "Bumi",
+      "Bintang"
+    ]
+  },
+  {
+    "index": 125,
+    "web": "md-code.xyz",
+    "soal": "Malam, Bintang, Terang, Langit",
+    "jawaban": "Bulan",
+    "pilihanJawaban": [
+      "Galaksi",
+      "Planet",
+      "Bulan",
+      "Matahari",
+      "Bintang"
+    ]
+  },
+  {
+    "index": 126,
+    "web": "md-code.xyz",
+    "soal": "Tumpukan, Halaman, Berwarna, Musim",
+    "jawaban": "Daun",
+    "pilihanJawaban": [
+      "Bunga",
+      "Rumput",
+      "Daun",
+      "Akar",
+      "Batang"
+    ]
+  },
+  {
+    "index": 127,
+    "web": "md-code.xyz",
+    "soal": "Hijau, Segitiga, Warna-warni, Gunung",
+    "jawaban": "Bendera",
+    "pilihanJawaban": [
+      "Biru",
+      "Laut",
+      "Bendera",
+      "Angin",
+      "Merah"
+    ]
+  },
+  {
+    "index": 128,
+    "web": "md-code.xyz",
+    "soal": "Banyak, Tangan, Tiga, Kecil",
+    "jawaban": "Jam",
+    "pilihanJawaban": [
+      "Emas",
+      "Kaca",
+      "Jam",
+      "Perak",
+      "Besi"
+    ]
+  },
+  {
+    "index": 129,
+    "web": "md-code.xyz",
+    "soal": "Panjang, Tua, Sepuluh, Buku",
+    "jawaban": "Sejarah",
+    "pilihanJawaban": [
+      "Cerita",
+      "Sejarah",
+      "Fiksi",
+      "Nonfiksi",
+      "Puisi"
+    ]
+  },
+  {
+    "index": 130,
+    "web": "md-code.xyz",
+    "soal": "Kereta, Berjalan, Rel, Gerbong",
+    "jawaban": "Kereta Api",
+    "pilihanJawaban": [
+      "Pesawat",
+      "Sepeda",
+      "Kapal",
+      "Mobil",
+      "Kereta Api"
+    ]
+  },
+  {
+    "index": 131,
+    "web": "md-code.xyz",
+    "soal": "Besar, Bumi, Satu, Hewan",
+    "jawaban": "Gajah",
+    "pilihanJawaban": [
+      "Harimau",
+      "Kucing",
+      "Gajah",
+      "Singa",
+      "Anjing"
+    ]
+  },
+  {
+    "index": 132,
+    "web": "md-code.xyz",
+    "soal": "Putih, Dingin, Es, Musim",
+    "jawaban": "Salju",
+    "pilihanJawaban": [
+      "Awan",
+      "Salju",
+      "Hujan Es",
+      "Hujan",
+      "Angin"
+    ]
+  },
+  {
+    "index": 133,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Cahaya, Langit, Malam",
+    "jawaban": "Bulan",
+    "pilihanJawaban": [
+      "Bulan",
+      "Planet",
+      "Matahari",
+      "Galaksi",
+      "Bintang"
+    ]
+  },
+  {
+    "index": 134,
+    "web": "md-code.xyz",
+    "soal": "Lingkaran, Roda, Kendaraan, Berjalan",
+    "jawaban": "Mobil",
+    "pilihanJawaban": [
+      "Kereta",
+      "Pesawat",
+      "Mobil",
+      "Motor",
+      "Sepeda"
+    ]
+  },
+  {
+    "index": 135,
+    "web": "md-code.xyz",
+    "soal": "Tubuh, Rambut, Hewan, Anjing",
+    "jawaban": "Bulu",
+    "pilihanJawaban": [
+      "Kulit",
+      "Bulu",
+      "Bisul",
+      "Sisik",
+      "Kuku"
+    ]
+  },
+  {
+    "index": 136,
+    "web": "md-code.xyz",
+    "soal": "Air, Warna-warni, Pecahan, Cahaya",
+    "jawaban": "Pelangi",
+    "pilihanJawaban": [
+      "Matahari",
+      "Hujan",
+      "Bulan",
+      "Pelangi",
+      "Cahaya"
+    ]
+  },
+  {
+    "index": 137,
+    "web": "md-code.xyz",
+    "soal": "Besar, Hutan, Terumbu, Laut",
+    "jawaban": "Hutan Hujan",
+    "pilihanJawaban": [
+      "Padang Rumput",
+      "Gurun",
+      "Hutan Hujan",
+      "Gunung",
+      "Lembah"
+    ]
+  },
+  {
+    "index": 138,
+    "web": "md-code.xyz",
+    "soal": "Kerucut, Dingin, Bulat, Beku",
+    "jawaban": "Es Krim",
+    "pilihanJawaban": [
+      "Minuman",
+      "Es Krim",
+      "Salju",
+      "Air",
+      "Batu"
+    ]
+  },
+  {
+    "index": 139,
+    "web": "md-code.xyz",
+    "soal": "Tajam, Dapur, Memasak, Pisau",
+    "jawaban": "Pengasah",
+    "pilihanJawaban": [
+      "Garpu",
+      "Sendok",
+      "Pengasah",
+      "Panci",
+      "Kompor"
+    ]
+  },
+  {
+    "index": 140,
+    "web": "md-code.xyz",
+    "soal": "Berbintang, Malam, Besar, Terang",
+    "jawaban": "Teleskop",
+    "pilihanJawaban": [
+      "Bintang",
+      "Komet",
+      "Astronomi",
+      "Planetarium",
+      "Teleskop"
+    ]
+  },
+  {
+    "index": 141,
+    "web": "md-code.xyz",
+    "soal": "Besar, Bawah, Hangat, Air",
+    "jawaban": "Samudra",
+    "pilihanJawaban": [
+      "Sungai",
+      "Danau",
+      "Laut",
+      "Kolam",
+      "Samudra"
+    ]
+  },
+  {
+    "index": 142,
+    "web": "md-code.xyz",
+    "soal": "Hijau, Tanaman, Hutan, Udara",
+    "jawaban": "Daun",
+    "pilihanJawaban": [
+      "Bunga",
+      "Rumput",
+      "Pohon",
+      "Daun",
+      "Akar"
+    ]
+  },
+  {
+    "index": 143,
+    "web": "md-code.xyz",
+    "soal": "Besar, Merah, Buah, Manis",
+    "jawaban": "Semangka",
+    "pilihanJawaban": [
+      "Apel",
+      "Melon",
+      "Jeruk",
+      "Semangka",
+      "Pisang"
+    ]
+  },
+  {
+    "index": 144,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Tali, Loncat, Mainan",
+    "jawaban": "Lompat Tali",
+    "pilihanJawaban": [
+      "Sepeda",
+      "Bermain Bola",
+      "Bola Basket",
+      "Lari Cepat",
+      "Lompat Tali"
+    ]
+  },
+  {
+    "index": 145,
+    "web": "md-code.xyz",
+    "soal": "Panjang, Layar, Internet, Browsing",
+    "jawaban": "Komputer",
+    "pilihanJawaban": [
+      "Tablet",
+      "Laptop",
+      "Kalkulator",
+      "Komputer",
+      "Smartphone"
+    ]
+  },
+  {
+    "index": 146,
+    "web": "md-code.xyz",
+    "soal": "Musim, Dingin, Salju, Liburan",
+    "jawaban": "Natal",
+    "pilihanJawaban": [
+      "Paskah",
+      "Natal",
+      "Tahun Baru",
+      "Halloween",
+      "Ulang Tahun"
+    ]
+  },
+  {
+    "index": 147,
+    "web": "md-code.xyz",
+    "soal": "Biru, Laut, Ikan, Air",
+    "jawaban": "Lautan",
+    "pilihanJawaban": [
+      "Kolam",
+      "Selokan",
+      "Lautan",
+      "Danau",
+      "Sungai"
+    ]
+  },
+  {
+    "index": 148,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Dingin, Es, Mainan",
+    "jawaban": "Bola Salju",
+    "pilihanJawaban": [
+      "Bola Sepak",
+      "Bola Golf",
+      "Bola Salju",
+      "Bola Basket",
+      "Bola Voli"
+    ]
+  },
+  {
+    "index": 149,
+    "web": "md-code.xyz",
+    "soal": "Tinggi, Gede, Pintu, Masuk",
+    "jawaban": "Gerbang",
+    "pilihanJawaban": [
+      "Atap",
+      "Tembok",
+      "Gerbang",
+      "Jendela",
+      "Pagar"
+    ]
+  },
+  {
+    "index": 150,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Dalam, Hutan, Gantung",
+    "jawaban": "Laba-laba",
+    "pilihanJawaban": [
+      "Lebah",
+      "Semut",
+      "Laba-laba",
+      "Kupu-kupu",
+      "Kecoak"
+    ]
+  },
+  {
+    "index": 151,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Pegunungan, Salju, Liburan",
+    "jawaban": "Ski",
+    "pilihanJawaban": [
+      "Seluncur Es",
+      "Ski Air",
+      "Ski Salju",
+      "Piring Salju",
+      "Papan Selancar"
+    ]
+  },
+  {
+    "index": 152,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Merah, Buah, Manis",
+    "jawaban": "Stroberi",
+    "pilihanJawaban": [
+      "Stroberi",
+      "Jeruk",
+      "Semangka",
+      "Melon",
+      "Apel"
+    ]
+  },
+  {
+    "index": 153,
+    "web": "md-code.xyz",
+    "soal": "Panjang, Kanvas, Lukisan, Seni",
+    "jawaban": "Galeri",
+    "pilihanJawaban": [
+      "Museum",
+      "Galeri",
+      "Pameran",
+      "Atelier",
+      "Studio"
+    ]
+  },
+  {
+    "index": 154,
+    "web": "md-code.xyz",
+    "soal": "Besar, Pohon, Dedalu, Rimbun",
+    "jawaban": "Hutan",
+    "pilihanJawaban": [
+      "Kebun",
+      "Ladang",
+      "Taman",
+      "Padang Rumput",
+      "Hutan"
+    ]
+  },
+  {
+    "index": 155,
+    "web": "md-code.xyz",
+    "soal": "Menghitam, Malam, Langit, Bintang",
+    "jawaban": "Malam Bintang",
+    "pilihanJawaban": [
+      "Sore",
+      "Malam",
+      "Tengah Malam",
+      "Pagi",
+      "Malam Bintang"
+    ]
+  },
+  {
+    "index": 156,
+    "web": "md-code.xyz",
+    "soal": "Tinggi, Terbang, Pilot, Pesawat",
+    "jawaban": "Pesawat Terbang",
+    "pilihanJawaban": [
+      "Pesawat Terbang",
+      "Helikopter",
+      "Kapal",
+      "Kereta Api",
+      "Mobil"
+    ]
+  },
+  {
+    "index": 157,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Berkaki, Meja, Duduk",
+    "jawaban": "Kursi",
+    "pilihanJawaban": [
+      "Bangku",
+      "Berkaki",
+      "Sofa",
+      "Kursi",
+      "Stool"
+    ]
+  },
+  {
+    "index": 158,
+    "web": "md-code.xyz",
+    "soal": "Dalam, Gua, Panjang, Jelajah",
+    "jawaban": "Speleologi",
+    "pilihanJawaban": [
+      "Petualangan",
+      "Terowongan",
+      "Selam",
+      "Pendakian",
+      "Speleologi"
+    ]
+  },
+  {
+    "index": 159,
+    "web": "md-code.xyz",
+    "soal": "Panjang, Musik, Petikan, Seni",
+    "jawaban": "Gitar",
+    "pilihanJawaban": [
+      "Biola",
+      "Flute",
+      "Piano",
+      "Drum",
+      "Gitar"
+    ]
+  },
+  {
+    "index": 160,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Putih, Bulu, Salju",
+    "jawaban": "Salju",
+    "pilihanJawaban": [
+      "Angin",
+      "Awan",
+      "Salju",
+      "Hujan Es",
+      "Hujan"
+    ]
+  },
+  {
+    "index": 161,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Laut, Awan, Terbenam",
+    "jawaban": "Matahari",
+    "pilihanJawaban": [
+      "Matahari",
+      "Piring Salju",
+      "Bulan",
+      "Bintang",
+      "Galaksi"
+    ]
+  },
+  {
+    "index": 162,
+    "web": "md-code.xyz",
+    "soal": "Biru, Laut, Selancar, Ombak",
+    "jawaban": "Papan Selancar",
+    "pilihanJawaban": [
+      "Laut",
+      "Surfing",
+      "Pasir",
+      "Ombak",
+      "Papan Selancar"
+    ]
+  },
+  {
+    "index": 163,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Dapur, Masakan, Masak",
+    "jawaban": "Freezer",
+    "pilihanJawaban": [
+      "Kompor Gas",
+      "Freezer",
+      "Oven",
+      "Spatula",
+      "Microwave"
+    ]
+  },
+  {
+    "index": 164,
+    "web": "md-code.xyz",
+    "soal": "Panjang, Sungai, Aliran, Bebatuan",
+    "jawaban": "Lembah",
+    "pilihanJawaban": [
+      "Lembah",
+      "Gurun",
+      "Bukit",
+      "Gunung",
+      "Pantai"
+    ]
+  },
+  {
+    "index": 165,
+    "web": "md-code.xyz",
+    "soal": "Besar, Makanan, Minum, Hidangan",
+    "jawaban": "Restoran",
+    "pilihanJawaban": [
+      "Restoran",
+      "Warung",
+      "Bakery",
+      "Kafe",
+      "Cafe"
+    ]
+  },
+  {
+    "index": 166,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Pecah, Dalam, Geologi",
+    "jawaban": "Gunung Berapi",
+    "pilihanJawaban": [
+      "Gua",
+      "Gunung",
+      "Gunung Berapi",
+      "Bukit",
+      "Tebing"
+    ]
+  },
+  {
+    "index": 167,
+    "web": "md-code.xyz",
+    "soal": "Hijau, Daun, Panjang, Merambat",
+    "jawaban": "Liana",
+    "pilihanJawaban": [
+      "Anggur",
+      "Pohon",
+      "Bambu",
+      "Liana",
+      "Kaktus"
+    ]
+  },
+  {
+    "index": 168,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Bersinar, Malam, Langit",
+    "jawaban": "Bulan",
+    "pilihanJawaban": [
+      "Bintang",
+      "Galaksi",
+      "Bulan",
+      "Matahari",
+      "Malam Bintang"
+    ]
+  },
+  {
+    "index": 169,
+    "web": "md-code.xyz",
+    "soal": "Merah, Kepala, Bintik, Binatang",
+    "jawaban": "Nyamuk",
+    "pilihanJawaban": [
+      "Semut",
+      "Lalat",
+      "Kecoak",
+      "Lebah",
+      "Nyamuk"
+    ]
+  },
+  {
+    "index": 170,
+    "web": "md-code.xyz",
+    "soal": "Besar, Hitam, Roda, Kendaraan",
+    "jawaban": "Truk",
+    "pilihanJawaban": [
+      "Motor",
+      "Mobil",
+      "Sepeda",
+      "Truk",
+      "Bus"
+    ]
+  },
+  {
+    "index": 171,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Hujan, Air, Teduh",
+    "jawaban": "Payung",
+    "pilihanJawaban": [
+      "Jas Hujan",
+      "Payung",
+      "Sepatu",
+      "Kacamata",
+      "Topi"
+    ]
+  },
+  {
+    "index": 172,
+    "web": "md-code.xyz",
+    "soal": "Putih, Es, Kecil, Dingin",
+    "jawaban": "Salju",
+    "pilihanJawaban": [
+      "Es Krim",
+      "Salju",
+      "Hujan Es",
+      "Batu Es",
+      "Es Batu"
+    ]
+  },
+  {
+    "index": 173,
+    "web": "md-code.xyz",
+    "soal": "Bulat, Cahaya, Malam, Langit",
+    "jawaban": "Bintang",
+    "pilihanJawaban": [
+      "Galaksi",
+      "Malam Bintang",
+      "Bintang",
+      "Bulan",
+      "Matahari"
+    ]
+  },
+  {
+    "index": 174,
+    "web": "md-code.xyz",
+    "soal": "Kecil, Terbang, Kumbang, Bunga",
+    "jawaban": "Lebah",
+    "pilihanJawaban": [
+      "Lebah",
+      "Semut",
+      "Kupu-kupu",
+      "Kecoak",
+      "Nyamuk"
+    ]
+  },
+  {
+    "index": 175,
+    "web": "md-code.xyz",
+    "soal": "Biru, Laut, Nemo, Ikan",
+    "jawaban": "Ikan Badut",
+    "pilihanJawaban": [
+      "Pari",
+      "Tuna",
+      "Gurita",
+      "Ikan Badut",
+      "Paus"
+    ]
+  },
+  {
+    "index": 176,
+    "web": "md-code.xyz",
+    "soal": "Besar, Kamera, Gambar, Fotografi",
+    "jawaban": "Studio Foto",
+    "pilihanJawaban": [
+      "Kamar Mandi",
+      "Kantor",
+      "Dapur",
+      "Studio Foto",
+      "Ruang Tamu"
+    ]
+  },
+  {
+    "index": 177,
+    "web": "md-code.xyz",
+    "soal": "Kecil, Serangga, Terbang, Cahaya",
+    "jawaban": "Kupu-kupu",
+    "pilihanJawaban": [
+      "Nyamuk",
+      "Semut",
+      "Kupu-kupu",
+      "Lalat",
+      "Lebah"
+    ]
+  },
+  {
+    "index": 178,
+    "web": "md-code.xyz",
+    "soal": "Panjang, Bunyi, Musik, Alat",
+    "jawaban": "Piano",
+    "pilihanJawaban": [
+      "Piano",
+      "Gitar",
+      "Flute",
+      "Biola",
+      "Drum"
+    ]
+  },
+  {
+    "index": 179,
+    "web": "md-code.xyz",
+    "soal": "Merah, Buah, Manis, Hati",
+    "jawaban": "Cherry",
+    "pilihanJawaban": [
+      "Stroberi",
+      "Cherry",
+      "Jeruk",
+      "Apel",
+      "Anggur"
+    ]
+  },
+  {
+    "index": 180,
+    "web": "md-code.xyz",
+    "soal": "Dalam, Tumpukan, Halaman, Buku",
+    "jawaban": "Ensiklopedia",
+    "pilihanJawaban": [
+      "Novel",
+      "Kamus",
+      "Majalah",
+      "Buku Teks",
+      "Ensiklopedia"
+    ]
+  },
+  {
+    "index": 181,
+    "web": "md-code.xyz",
+    "soal": "Tinggi, Rendah, Datar, Alur",
+    "jawaban": "Kontur",
+    "pilihanJawaban": [
+      "Pegunungan",
+      "Gurun",
+      "Bukit",
+      "Lembah",
+      "Kontur"
+    ]
+  },
+  {
+    "index": 182,
+    "web": "md-code.xyz",
+    "soal": "Panjang, Sirkuit, Balapan, Mobil",
+    "jawaban": "Lintasan",
+    "pilihanJawaban": [
+      "Kecepatan",
+      "Mobil Balap",
+      "Lintasan",
+      "Pemenang",
+      "Sirkuit"
+    ]
+  },
+  {
+    "index": 183,
+    "web": "md-code.xyz",
+    "soal": "Kecil, Nyaman, Tidur, Kasur",
+    "jawaban": "Bantal",
+    "pilihanJawaban": [
+      "Selimut",
+      "Kasur",
+      "Sprei",
+      "Bantal",
+      "Guling"
+    ]
+  },
+  {
+    "index": 184,
+    "web": "md-code.xyz",
+    "soal": "Dingin, Pegunungan, Salju, Olahraga",
+    "jawaban": "Ski",
+    "pilihanJawaban": [
+      "Snowboard",
+      "Selancar Es",
+      "Ski",
+      "Lompat Ski",
+      "Gelombang Salju"
+    ]
+  },
+  {
+    "index": 185,
+    "web": "md-code.xyz",
+    "soal": "Merah, Gigit, Kecil, Makhluk",
+    "jawaban": "Kutu",
+    "pilihanJawaban": [
+      "Semut",
+      "Lebah",
+      "Lalat",
+      "Kutu",
+      "Kecoa"
+    ]
+  },
+  {
+    "index": 186,
+    "web": "md-code.xyz",
+    "soal": "Besar, Angkasa, Bulan, Astronomi",
+    "jawaban": "Teleskop",
+    "pilihanJawaban": [
+      "Galaksi",
+      "Teleskop",
+      "Astronomi",
+      "Bulan",
+      "Satelit"
+    ]
+  },
+  {
+    "index": 187,
+    "web": "md-code.xyz",
+    "soal": "Dalam, Laut, Pencarian, Harta",
+    "jawaban": "Penyelaman",
+    "pilihanJawaban": [
+      "Perahu",
+      "Snorkeling",
+      "Penyelaman",
+      "Laut",
+      "Selancar"
+    ]
+  },
+  {
+    "index": 188,
+    "web": "md-code.xyz",
+    "soal": "Kecil, Kucing, Bulu, Meong",
+    "jawaban": "Kucing",
+    "pilihanJawaban": [
+      "Kucing",
+      "Anjing",
+      "Ikan",
+      "Tikus",
+      "Burung"
+    ]
+  },
+  {
+    "index": 189,
+    "web": "md-code.xyz",
+    "soal": "Kering, Terbakar, Hutan, Panas",
+    "jawaban": "Kebakaran Hutan",
+    "pilihanJawaban": [
+      "Gunung Berapi",
+      "Tsunami",
+      "Gurun",
+      "Tornado",
+      "Kebakaran Hutan"
+    ]
+  },
+  {
+    "index": 190,
+    "web": "md-code.xyz",
+    "soal": "Panas, Pantai, Pasir, Bersantai",
+    "jawaban": "Pantai",
+    "pilihanJawaban": [
+      "Pantai",
+      "Hutan",
+      "Desert",
+      "Danau",
+      "Gunung"
+    ]
+  },
+  {
+    "index": 191,
+    "web": "md-code.xyz",
+    "soal": "Kecil, Bunyi, Terbang, Malam",
+    "jawaban": "Kelelawar",
+    "pilihanJawaban": [
+      "Kupu-kupu",
+      "Kelelawar",
+      "Burung Hantu",
+      "Tikus",
+      "Kucing"
+    ]
+  },
+  {
+    "index": 192,
+    "web": "md-code.xyz",
+    "soal": "Besar, Taring, Hutan, Karnivora",
+    "jawaban": "Harimau",
+    "pilihanJawaban": [
+      "Harimau",
+      "Singa",
+      "Beruang",
+      "Gajah",
+      "Macan"
+    ]
+  },
+  {
+    "index": 193,
+    "web": "md-code.xyz",
+    "soal": "Dalam, Terumbu Karang, Ikan, Penyelam",
+    "jawaban": "Selam",
+    "pilihanJawaban": [
+      "Selam",
+      "Perahu",
+      "Laut",
+      "Surfing",
+      "Snorkeling"
+    ]
+  },
+  {
+    "index": 194,
+    "web": "md-code.xyz",
+    "soal": "Merah, Kuning, Buah, Pedas",
+    "jawaban": "Cabai",
+    "pilihanJawaban": [
+      "Pisang",
+      "Cabai",
+      "Mangga",
+      "Semangka",
+      "Jeruk"
+    ]
+  },
+  {
+    "index": 195,
+    "web": "md-code.xyz",
+    "soal": "Besar, Kereta Api, Penumpang, Perjalanan",
+    "jawaban": "Stasiun",
+    "pilihanJawaban": [
+      "Tiket",
+      "Peron",
+      "Rel",
+      "Kereta Api",
+      "Stasiun"
+    ]
+  },
+  {
+    "index": 196,
+    "web": "md-code.xyz",
+    "soal": "Kecil, Lensa, Melihat, Detil",
+    "jawaban": "Mikroskop",
+    "pilihanJawaban": [
+      "Lup",
+      "Kamera",
+      "Teleskop",
+      "Teropong",
+      "Mikroskop"
+    ]
+  },
+  {
+    "index": 197,
+    "web": "md-code.xyz",
+    "soal": "Panjang, Tali, Pengukur, Klasik",
+    "jawaban": "Meter",
+    "pilihanJawaban": [
+      "Liter",
+      "Meter",
+      "Detik",
+      "Kilogram",
+      "Hektar"
+    ]
+  },
+  {
+    "index": 198,
+    "web": "md-code.xyz",
+    "soal": "Biru, Es, Gunung, Dingin",
+    "jawaban": "Es Gunung",
+    "pilihanJawaban": [
+      "Batu Es",
+      "Es Batu",
+      "Es Gunung",
+      "Salju",
+      "Es Krim"
+    ]
+  },
+  {
+    "index": 199,
+    "web": "md-code.xyz",
+    "soal": "Besar, Negara, Pemerintah, Kepala",
+    "jawaban": "Presiden",
+    "pilihanJawaban": [
+      "Diktator",
+      "Perdana Menteri",
+      "Sultan",
+      "Raja",
+      "Presiden"
+    ]
+  },
+  {
+    "index": 200,
+    "web": "md-code.xyz",
+    "soal": "Tinggi, Olahraga, Jaring, Bola",
+    "jawaban": "Voli",
+    "pilihanJawaban": [
+      "Bola Basket",
+      "Bola Voli",
+      "Sepak Bola",
+      "Tenis",
+      "Bulu Tangkis"
+    ]
+  }
+]

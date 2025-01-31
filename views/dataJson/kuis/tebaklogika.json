@@ -1,0 +1,2414 @@
+[
+  {
+    "index": 0,
+    "soal": "Jika ayah Tom memiliki tiga anak: Tik, Tak, dan ___?",
+    "jawaban": "Tom",
+    "pilihanJawaban": [
+      "Tuk",
+      "Tok",
+      "Tek",
+      "Tak",
+      "Tom"
+    ]
+  },
+  {
+    "index": 1,
+    "soal": "Jika satu kucing dapat membunuh satu tikus dalam satu menit, berapa waktu yang dibutuhkan untuk membunuh seratus tikus?",
+    "jawaban": "Satu menit",
+    "pilihanJawaban": [
+      "50 menit",
+      "60 menit",
+      "90 menit",
+      "100 menit",
+      "Satu menit"
+    ]
+  },
+  {
+    "index": 2,
+    "soal": "Jika Anda melempar koin dua kali, berapa kemungkinan mendapatkan kepala satu kali?",
+    "jawaban": "3/4",
+    "pilihanJawaban": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1",
+      "2/3"
+    ]
+  },
+  {
+    "index": 3,
+    "soal": "Jika ada 3 apel di atas meja dan Anda mengambil 2, berapa apel yang Anda miliki?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "5"
+    ]
+  },
+  {
+    "index": 4,
+    "soal": "Seorang tukang kayu membuat 6 kotak dalam waktu 5 menit. Berapa waktu yang dibutuhkannya untuk membuat 12 kotak?",
+    "jawaban": "5 menit",
+    "pilihanJawaban": [
+      "5 menit",
+      "10 menit",
+      "15 menit",
+      "20 menit",
+      "25 menit"
+    ]
+  },
+  {
+    "index": 5,
+    "soal": "Seorang ayah memiliki 4 putra. Setiap putra memiliki seorang saudara. Berapa banyak anak yang dimiliki ayah tersebut?",
+    "jawaban": "5",
+    "pilihanJawaban": [
+      "4",
+      "5",
+      "6",
+      "3",
+      "8"
+    ]
+  },
+  {
+    "index": 6,
+    "soal": "Jika saya punya 6 kue dan saya memberikan 3 kepada teman saya, berapa kue yang saya miliki sekarang?",
+    "jawaban": "3",
+    "pilihanJawaban": [
+      "0",
+      "3",
+      "6",
+      "9",
+      "12"
+    ]
+  },
+  {
+    "index": 7,
+    "soal": "Jika Anda berada di dalam ruangan gelap dengan satu lilin, seorang petromak, dan tungku kayu, yang akan Anda nyalakan terlebih dahulu?",
+    "jawaban": "Lilin",
+    "pilihanJawaban": [
+      "Lilin",
+      "Petromak",
+      "Tungku kayu",
+      "Semuanya sekaligus",
+      "Tidak, gelap"
+    ]
+  },
+  {
+    "index": 8,
+    "soal": "Jika ada 6 apel dan Anda mengambil 4, berapa apel yang Anda miliki?",
+    "jawaban": "4",
+    "pilihanJawaban": [
+      "0",
+      "2",
+      "4",
+      "6",
+      "10"
+    ]
+  },
+  {
+    "index": 9,
+    "soal": "Jika ada tiga apel dan Anda mengambil dua, berapa yang Anda miliki?",
+    "jawaban": "Dua",
+    "pilihanJawaban": [
+      "Satu",
+      "Dua",
+      "Tiga",
+      "Empat",
+      "Lima"
+    ]
+  },
+  {
+    "index": 10,
+    "soal": "Jika sepeda roda dua dan mobil roda empat memiliki total 18 roda, berapa roda yang dimiliki sepeda?",
+    "jawaban": "Dua",
+    "pilihanJawaban": [
+      "Dua",
+      "Empat",
+      "Enam",
+      "Delapan",
+      "Sepuluh"
+    ]
+  },
+  {
+    "index": 11,
+    "soal": "Jika seorang petani memiliki 5 apel dan memberikan satu apel kepada setiap temannya, berapa apel yang dimilikinya sekarang?",
+    "jawaban": "Satu",
+    "pilihanJawaban": [
+      "Nol",
+      "Satu",
+      "Dua",
+      "Tiga",
+      "Empat"
+    ]
+  },
+  {
+    "index": 12,
+    "soal": "Jika Anda berada di sebuah balon udara yang terbang tinggi dan melepaskan satu batu, apa yang terjadi pada berat balon?",
+    "jawaban": "Tidak berubah",
+    "pilihanJawaban": [
+      "Menurun",
+      "Meningkat",
+      "Tidak berubah",
+      "Berkurang setengah",
+      "Bertambah dua kali"
+    ]
+  },
+  {
+    "index": 13,
+    "soal": "Jika hari ini adalah hari Sabtu, hari apa enam hari lagi?",
+    "jawaban": "Jumat",
+    "pilihanJawaban": [
+      "Senin",
+      "Selasa",
+      "Rabu",
+      "Kamis",
+      "Jumat"
+    ]
+  },
+  {
+    "index": 14,
+    "soal": "Apakah bisa seekor kucing berjalan ke selatan selama satu kilometer, lalu berbelok ke barat dan kemudian ke utara untuk kembali ke titik awal?",
+    "jawaban": "Ya, di Kutub Utara",
+    "pilihanJawaban": [
+      "Ya, di Gurun Sahara",
+      "Ya, di Kutub Utara",
+      "Tidak mungkin",
+      "Hanya di Pegunungan",
+      "Hanya di Lembah"
+    ]
+  },
+  {
+    "index": 15,
+    "soal": "Jika satu kendi berisi air dan kendi lainnya berisi teh, dan Anda menuangkan setengah dari isi kendi teh ke kendi air, apa yang sekarang ada di kedua kendinya?",
+    "jawaban": "Teh",
+    "pilihanJawaban": [
+      "Air",
+      "Air dan Teh",
+      "Teh",
+      "Kosong",
+      "Minuman Lain"
+    ]
+  },
+  {
+    "index": 16,
+    "soal": "Jika ada sepuluh burung di pohon dan Anda menembak satu, berapa burung yang tersisa?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Satu",
+      "Dua",
+      "Lima",
+      "Sepuluh",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 17,
+    "soal": "Jika Anda memiliki tiga korek api dan Anda menyalakan salah satunya, kemudian melemparkannya ke dalam ruangan gelap, apa yang akan Anda miliki?",
+    "jawaban": "Cahaya",
+    "pilihanJawaban": [
+      "Asap",
+      "Panas",
+      "Gelap",
+      "Ledakan",
+      "Cahaya"
+    ]
+  },
+  {
+    "index": 18,
+    "soal": "Jika Anda berada di dalam balon yang bergerak ke atas dengan kecepatan konstan, apa yang dapat Anda lakukan untuk tetap berada di tempat?",
+    "jawaban": "Berhenti Menghirup Udara",
+    "pilihanJawaban": [
+      "Melompat",
+      "Berjalan",
+      "Berlari",
+      "Berhenti Menghirup Udara",
+      "Mengikuti Angin"
+    ]
+  },
+  {
+    "index": 19,
+    "soal": "Sebuah kapal layar berlayar ke barat. Kincir angin berputar ke arah mana?",
+    "jawaban": "Tidak berputar",
+    "pilihanJawaban": [
+      "Utara",
+      "Selatan",
+      "Timur",
+      "Barat",
+      "Tidak berputar"
+    ]
+  },
+  {
+    "index": 20,
+    "soal": "Seorang ayah memiliki lima putra: Tim, Tom, Tum, Tem, dan...",
+    "jawaban": "Tidur",
+    "pilihanJawaban": [
+      "Ted",
+      "Tin",
+      "Tot",
+      "Tum",
+      "Tidur"
+    ]
+  },
+  {
+    "index": 21,
+    "soal": "Jika seorang dokter memberi Anda tiga pil dan menyuruh Anda minum satu setiap setengah jam, berapa lama pil tersebut akan habis?",
+    "jawaban": "Satu jam",
+    "pilihanJawaban": [
+      "15 menit",
+      "30 menit",
+      "45 menit",
+      "Satu jam",
+      "Dua jam"
+    ]
+  },
+  {
+    "index": 22,
+    "soal": "Jika Anda menjatuhkan telur setinggi satu meter, apa yang akan terjadi pada telur itu?",
+    "jawaban": "Tidak ada yang terjadi",
+    "pilihanJawaban": [
+      "Pecah",
+      "Memantul",
+      "Tidak ada yang terjadi",
+      "Berubah warna",
+      "Mengeluarkan suara"
+    ]
+  },
+  {
+    "index": 23,
+    "soal": "Jika Anda memiliki satu korek api dan memasukkannya ke dalam ruangan gelap yang berisi lilin, sebotol kerosin, dan kayu bakar, mana yang akan Anda nyalakan dulu?",
+    "jawaban": "Korek api",
+    "pilihanJawaban": [
+      "Lilin",
+      "Kerosin",
+      "Kayu bakar",
+      "Api unggun",
+      "Korek api"
+    ]
+  },
+  {
+    "index": 24,
+    "soal": "Jika Anda memiliki satu batu dan setengah, berapa banyak batu yang Anda miliki?",
+    "jawaban": "Satu",
+    "pilihanJawaban": [
+      "Satu",
+      "Dua",
+      "Tiga",
+      "Setengah",
+      "Empat"
+    ]
+  },
+  {
+    "index": 25,
+    "soal": "Jika Anda memiliki satu korek api dan berada di dalam ruangan gelap yang hanya memiliki lilin, kayu bakar, dan lampu minyak, apa yang akan Anda nyalakan terlebih dahulu?",
+    "jawaban": "Korek api",
+    "pilihanJawaban": [
+      "Lilin",
+      "Kayu bakar",
+      "Lampu minyak",
+      "Api unggun",
+      "Korek api"
+    ]
+  },
+  {
+    "index": 26,
+    "soal": "Jika Anda memiliki satu kaca pembesar dan melihat ke arah matahari terbenam, apa yang Anda lihat?",
+    "jawaban": "Anda melihat terbenam",
+    "pilihanJawaban": [
+      "Langit",
+      "Bintang",
+      "Anda melihat terbenam",
+      "Cahaya",
+      "Awan"
+    ]
+  },
+  {
+    "index": 27,
+    "soal": "Jika Anda menjatuhkan kucing hitam dan kucing putih dari gedung tinggi, mana yang akan mendarat terlebih dahulu?",
+    "jawaban": "Keduanya",
+    "pilihanJawaban": [
+      "Kucing hitam",
+      "Kucing putih",
+      "Yang lebih berat",
+      "Yang lebih ringan",
+      "Keduanya"
+    ]
+  },
+  {
+    "index": 28,
+    "soal": "Jika saya memiliki 6 telur dan Anda memberi saya 4 lagi, berapa yang saya miliki sekarang?",
+    "jawaban": "Saya tetap memiliki 6 telur",
+    "pilihanJawaban": [
+      "10 telur",
+      "8 telur",
+      "Saya tetap memiliki 6 telur",
+      "4 telur",
+      "12 telur"
+    ]
+  },
+  {
+    "index": 29,
+    "soal": "Jika Anda berada di dalam mobil yang berjalan dengan kecepatan konstan, dan Anda melempar bola ke atas, di mana bola tersebut akan jatuh?",
+    "jawaban": "Di dalam mobil",
+    "pilihanJawaban": [
+      "Ke belakang",
+      "Ke depan",
+      "Di atas mobil",
+      "Di dalam mobil",
+      "Ke samping"
+    ]
+  },
+  {
+    "index": 30,
+    "soal": "Jika sebuah rumah memiliki empat sudut dan setiap sudut menghadap ke timur, di mana rumah itu berada?",
+    "jawaban": "Di Kutub Utara",
+    "pilihanJawaban": [
+      "Di Kutub Utara",
+      "Di Ekuator",
+      "Di Kutub Selatan",
+      "Di Belahan Bumi Barat",
+      "Di Belahan Bumi Timur"
+    ]
+  },
+  {
+    "index": 31,
+    "soal": "Jika hari ini adalah hari Rabu, hari apa empat hari lagi?",
+    "jawaban": "Minggu",
+    "pilihanJawaban": [
+      "Senin",
+      "Selasa",
+      "Rabu",
+      "Kamis",
+      "Minggu"
+    ]
+  },
+  {
+    "index": 32,
+    "soal": "Jika seorang petani memiliki 5 apel dan dia memberikan satu apel kepada setiap temannya, berapa banyak apel yang dimilikinya sekarang?",
+    "jawaban": "5",
+    "pilihanJawaban": [
+      "4",
+      "3",
+      "2",
+      "1",
+      "5"
+    ]
+  },
+  {
+    "index": 33,
+    "soal": "Jika ada tiga apel dan Anda mengambil dua, berapa apel yang Anda miliki?",
+    "jawaban": "Dua",
+    "pilihanJawaban": [
+      "Satu",
+      "Dua",
+      "Tiga",
+      "Empat",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 34,
+    "soal": "Berapa banyak huruf 'F' yang ada dalam kalimat ini: 'Five Friendly Flies Flying Fast'?",
+    "jawaban": "Empat",
+    "pilihanJawaban": [
+      "Dua",
+      "Tiga",
+      "Empat",
+      "Lima",
+      "Enam"
+    ]
+  },
+  {
+    "index": 35,
+    "soal": "Jika seorang montir bekerja di bengkel selama 6 jam dan melakukan perbaikan setiap 15 menit, berapa kali ia melakukan perbaikan?",
+    "jawaban": "24 kali",
+    "pilihanJawaban": [
+      "6 kali",
+      "12 kali",
+      "18 kali",
+      "24 kali",
+      "30 kali"
+    ]
+  },
+  {
+    "index": 36,
+    "soal": "Jika Anda berlari sepanjang balapan dan melampaui orang di posisi kedua, di posisi mana Anda sekarang?",
+    "jawaban": "Di posisi kedua",
+    "pilihanJawaban": [
+      "Di posisi pertama",
+      "Di posisi kedua",
+      "Di posisi ketiga",
+      "Di belakang orang kedua",
+      "Tidak dapat ditentukan"
+    ]
+  },
+  {
+    "index": 37,
+    "soal": "Jika Anda melempar koin dua kali, apa kemungkinan mendapatkan sekurangnya satu gambar?",
+    "jawaban": "75%",
+    "pilihanJawaban": [
+      "25%",
+      "50%",
+      "75%",
+      "100%",
+      "0%"
+    ]
+  },
+  {
+    "index": 38,
+    "soal": "Jika Anda berlari sepanjang perlombaan dan melewati orang di posisi terakhir, di posisi manakah Anda sekarang?",
+    "jawaban": "Di posisi terakhir",
+    "pilihanJawaban": [
+      "Di posisi pertama",
+      "Di posisi terakhir",
+      "Di posisi tengah",
+      "Di belakang semua peserta",
+      "Tidak dapat ditentukan"
+    ]
+  },
+  {
+    "index": 39,
+    "soal": "Jika setiap kucing memiliki ekor dan setiap anjing memiliki kaki, berapa total kaki dari tiga kucing dan empat anjing?",
+    "jawaban": "22 kaki",
+    "pilihanJawaban": [
+      "14 kaki",
+      "18 kaki",
+      "22 kaki",
+      "26 kaki",
+      "30 kaki"
+    ]
+  },
+  {
+    "index": 40,
+    "soal": "Jika Anda memiliki sebuah kardus yang beratnya 50 kilogram dan berisi 2 kilogram bulu, berapa berat kardus tersebut?",
+    "jawaban": "50 kilogram",
+    "pilihanJawaban": [
+      "48 kilogram",
+      "50 kilogram",
+      "52 kilogram",
+      "54 kilogram",
+      "46 kilogram"
+    ]
+  },
+  {
+    "index": 41,
+    "soal": "Jika Anda memiliki tiga apel dan empat jeruk di dalam keranjang dan tidak ada buah yang sama, berapa banyak buah yang Anda miliki?",
+    "jawaban": "Empat",
+    "pilihanJawaban": [
+      "Tiga",
+      "Empat",
+      "Tujuh",
+      "Satu",
+      "Enam"
+    ]
+  },
+  {
+    "index": 42,
+    "soal": "Jika Anda memiliki satu mangkuk berisi 6 apel, dan Anda mengambil 4 apel, berapa apel yang Anda miliki?",
+    "jawaban": "4 apel",
+    "pilihanJawaban": [
+      "2 apel",
+      "4 apel",
+      "6 apel",
+      "8 apel",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 43,
+    "soal": "Jika 5 ekor kambing membutuhkan 5 menit untuk makan rumput di halaman, berapa waktu yang dibutuhkan 100 ekor kambing untuk makan rumput yang sama?",
+    "jawaban": "5 menit",
+    "pilihanJawaban": [
+      "10 menit",
+      "5 menit",
+      "15 menit",
+      "20 menit",
+      "25 menit"
+    ]
+  },
+  {
+    "index": 44,
+    "soal": "Dalam satu tim sepak bola, ada 11 pemain. Jika semuanya mencetak gol, berapa total gol yang dicetak?",
+    "jawaban": "11 gol",
+    "pilihanJawaban": [
+      "10 gol",
+      "9 gol",
+      "11 gol",
+      "12 gol",
+      "13 gol"
+    ]
+  },
+  {
+    "index": 45,
+    "soal": "Seorang petani memiliki 17 domba, semua kecuali sembilan mati. Berapa sisa domba yang masih hidup?",
+    "jawaban": "9 domba",
+    "pilihanJawaban": [
+      "8 domba",
+      "9 domba",
+      "10 domba",
+      "11 domba",
+      "12 domba"
+    ]
+  },
+  {
+    "index": 46,
+    "soal": "Dalam satu keluarga, terdapat empat anak laki-laki. Setiap anak memiliki seorang saudara perempuan. Berapa banyak anak dalam keluarga tersebut?",
+    "jawaban": "5 anak",
+    "pilihanJawaban": [
+      "3 anak",
+      "4 anak",
+      "5 anak",
+      "6 anak",
+      "7 anak"
+    ]
+  },
+  {
+    "index": 47,
+    "soal": "Seorang ahli matematika menghitung bahwa ia memerlukan waktu 10 menit untuk menghitung setengah dari jumlah buah apel di keranjangnya. Berapa waktu yang dibutuhkan untuk menghitung seluruh buah apel?",
+    "jawaban": "10 menit",
+    "pilihanJawaban": [
+      "5 menit",
+      "10 menit",
+      "15 menit",
+      "20 menit",
+      "25 menit"
+    ]
+  },
+  {
+    "index": 48,
+    "soal": "Jika kamu melihat sesuatu di dalam hutan yang tidak ada di sana, apa yang seharusnya kamu lakukan?",
+    "jawaban": "Lihat kembali",
+    "pilihanJawaban": [
+      "Berteriak",
+      "Melarikan diri",
+      "Memotret",
+      "Lihat kembali",
+      "Telepon polisi"
+    ]
+  },
+  {
+    "index": 49,
+    "soal": "Jika kamu memiliki sebuah peti ajaib yang bisa membuat apa pun yang kamu inginkan menjadi nyata, apa yang akan kamu buat?",
+    "jawaban": "Peti itu sendiri",
+    "pilihanJawaban": [
+      "Uang",
+      "Cinta",
+      "Peti itu sendiri",
+      "Kesehatan",
+      "Kebahagiaan"
+    ]
+  },
+  {
+    "index": 50,
+    "soal": "Jika ada seorang dokter memberi tahu Anda bahwa Anda memerlukan tiga pil untuk tidur setiap malam dan setelah seminggu Anda kembali sehat, berapa banyak pil yang harus Anda minum?",
+    "jawaban": "3 pil",
+    "pilihanJawaban": [
+      "1 pil",
+      "2 pil",
+      "3 pil",
+      "4 pil",
+      "5 pil"
+    ]
+  },
+  {
+    "index": 51,
+    "soal": "Seorang pria membutuhkan 30 detik untuk naik tangga. Jika tangga memiliki 60 anak tangga, berapa waktu yang dibutuhkan pria tersebut untuk naik dari bawah sampai puncak?",
+    "jawaban": "30 detik",
+    "pilihanJawaban": [
+      "15 detik",
+      "30 detik",
+      "45 detik",
+      "60 detik",
+      "2 menit"
+    ]
+  },
+  {
+    "index": 52,
+    "soal": "Jika ada sepeda yang memiliki 2 roda dan sepeda motor yang memiliki 2 roda, berapa total roda dari dua kendaraan tersebut?",
+    "jawaban": "4 roda",
+    "pilihanJawaban": [
+      "2 roda",
+      "3 roda",
+      "4 roda",
+      "5 roda",
+      "6 roda"
+    ]
+  },
+  {
+    "index": 53,
+    "soal": "Jika kamu memilik 5 apel dan memberikan 3 apel kepada temanmu, berapa apel yang kamu miliki sekarang?",
+    "jawaban": "2 apel",
+    "pilihanJawaban": [
+      "2 apel",
+      "3 apel",
+      "4 apel",
+      "5 apel",
+      "6 apel"
+    ]
+  },
+  {
+    "index": 54,
+    "soal": "Jika sebuah pesawat jatuh tepat di perbatasan tiga negara: Amerika Serikat, Kanada, dan Meksiko, di mana kamu akan mengubur penumpangnya?",
+    "jawaban": "Mereka masih hidup",
+    "pilihanJawaban": [
+      "Amerika Serikat",
+      "Kanada",
+      "Meksiko",
+      "Mereka masih hidup",
+      "Laut"
+    ]
+  },
+  {
+    "index": 55,
+    "soal": "Seorang petani memiliki 4 apel dan 5 jeruk. Jika ia memberikan 2 apel kepada tetangganya, berapa buah yang dimilikinya sekarang?",
+    "jawaban": "7 buah",
+    "pilihanJawaban": [
+      "3 buah",
+      "5 buah",
+      "7 buah",
+      "9 buah",
+      "11 buah"
+    ]
+  },
+  {
+    "index": 56,
+    "soal": "Jika sebuah tim sepak bola memiliki 15 pemain dan 7 di antaranya cedera, berapa pemain yang siap bermain?",
+    "jawaban": "8 pemain",
+    "pilihanJawaban": [
+      "6 pemain",
+      "8 pemain",
+      "10 pemain",
+      "12 pemain",
+      "15 pemain"
+    ]
+  },
+  {
+    "index": 57,
+    "soal": "Jika sebuah kolam memiliki 6 ikan dan 3 di antaranya pergi, berapa banyak ikan yang tersisa?",
+    "jawaban": "6 ikan",
+    "pilihanJawaban": [
+      "3 ikan",
+      "4 ikan",
+      "5 ikan",
+      "6 ikan",
+      "7 ikan"
+    ]
+  },
+  {
+    "index": 58,
+    "soal": "Jika kamu memulai perjalanan pada pukul 3 sore dan tiba pada pukul 2 sore keesokan harinya, berapa lama perjalananmu?",
+    "jawaban": "23 jam",
+    "pilihanJawaban": [
+      "18 jam",
+      "20 jam",
+      "23 jam",
+      "25 jam",
+      "28 jam"
+    ]
+  },
+  {
+    "index": 59,
+    "soal": "Jika sebuah jendela tinggi 2 meter dan lebar 1 meter, berapa luas total jendela tersebut?",
+    "jawaban": "2 meter persegi",
+    "pilihanJawaban": [
+      "1 meter persegi",
+      "2 meter persegi",
+      "3 meter persegi",
+      "4 meter persegi",
+      "5 meter persegi"
+    ]
+  },
+  {
+    "index": 60,
+    "soal": "Dalam satu keluarga, ada 6 orang anak. Setiap anak memiliki 2 saudara perempuan. Berapa banyak anggota keluarga tersebut?",
+    "jawaban": "9 anggota",
+    "pilihanJawaban": [
+      "7 anggota",
+      "8 anggota",
+      "9 anggota",
+      "10 anggota",
+      "11 anggota"
+    ]
+  },
+  {
+    "index": 61,
+    "soal": "Jika kamu memiliki satu koin, apa peluangnya muncul angka atau gambar?",
+    "jawaban": "50%",
+    "pilihanJawaban": [
+      "25%",
+      "50%",
+      "75%",
+      "100%",
+      "Tergantung pada koin"
+    ]
+  },
+  {
+    "index": 62,
+    "soal": "Jika kamu memiliki kunci yang bisa membuka 5 pintu yang berbeda, berapa banyak kunci yang kamu miliki?",
+    "jawaban": "1 kunci",
+    "pilihanJawaban": [
+      "1 kunci",
+      "2 kunci",
+      "3 kunci",
+      "4 kunci",
+      "5 kunci"
+    ]
+  },
+  {
+    "index": 63,
+    "soal": "Jika kamu memiliki satu koin dan membuangnya enam kali, dan setiap kali muncul angka, apa kemungkinan muncul gambar pada buangan berikutnya?",
+    "jawaban": "50%",
+    "pilihanJawaban": [
+      "25%",
+      "50%",
+      "75%",
+      "100%",
+      "Tergantung pada koin"
+    ]
+  },
+  {
+    "index": 64,
+    "soal": "Jika seorang pria lahir di hari Sabtu dan mengalami ulang tahun setiap 4 tahun sekali, berapa kali ia merayakan ulang tahun di hari Sabtu hingga usianya 60 tahun?",
+    "jawaban": "15 kali",
+    "pilihanJawaban": [
+      "10 kali",
+      "12 kali",
+      "15 kali",
+      "20 kali",
+      "24 kali"
+    ]
+  },
+  {
+    "index": 65,
+    "soal": "Jika kamu menggali lubang setebal 6 kaki dan panjang 8 kaki dalam waktu satu jam, berapa lama waktu yang dibutuhkan untuk menggali lubang setebal 12 kaki dan panjang 16 kaki?",
+    "jawaban": "Satu jam",
+    "pilihanJawaban": [
+      "30 menit",
+      "45 menit",
+      "Satu jam",
+      "1 jam 30 menit",
+      "2 jam"
+    ]
+  },
+  {
+    "index": 66,
+    "soal": "Jika kamu memiliki 5 apel dan memakan satu, berapa banyak apel yang kamu miliki?",
+    "jawaban": "Satu apel",
+    "pilihanJawaban": [
+      "5 apel",
+      "1 apel",
+      "2 apel",
+      "3 apel",
+      "4 apel"
+    ]
+  },
+  {
+    "index": 67,
+    "soal": "Jika hari ini adalah hari Senin, hari apa 60 hari lagi?",
+    "jawaban": "Rabu",
+    "pilihanJawaban": [
+      "Selasa",
+      "Rabu",
+      "Kamis",
+      "Jumat",
+      "Sabtu"
+    ]
+  },
+  {
+    "index": 68,
+    "soal": "Jika satu-satunya anak laki-laki ibu Anda memiliki 3 anak, apa nama anak itu?",
+    "jawaban": "Anda",
+    "pilihanJawaban": [
+      "Dia",
+      "Saya",
+      "Kamu",
+      "Anda",
+      "Mereka"
+    ]
+  },
+  {
+    "index": 69,
+    "soal": "Jika Anda berdiri di tengah hutan dan membunyikan lonceng, siapa yang mendengar?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Semua orang",
+      "Hewan-hewan",
+      "Orang-orang",
+      "Tidak ada",
+      "Pohon-pohon"
+    ]
+  },
+  {
+    "index": 70,
+    "soal": "Jika Anda menggali lubang sepanjang 10 kaki, seberapa dalam lubang itu?",
+    "jawaban": "Masih di tempat",
+    "pilihanJawaban": [
+      "Lima kaki",
+      "Sepuluh kaki",
+      "Dua puluh kaki",
+      "Masih di tempat",
+      "Setengah jalan"
+    ]
+  },
+  {
+    "index": 71,
+    "soal": "Jika ada 4 kaki meja dan Anda menginjak satu kaki, berapa kaki yang tersisa di bawah meja?",
+    "jawaban": "Tiga",
+    "pilihanJawaban": [
+      "Satu",
+      "Dua",
+      "Tiga",
+      "Empat",
+      "Lima"
+    ]
+  },
+  {
+    "index": 72,
+    "soal": "Jika Anda memasukkan sesuatu ke dalam kotak itu dan mengunci nya dengan kunci yang hanya Anda miliki, siapa yang bisa membuka kotak itu?",
+    "jawaban": "Anda",
+    "pilihanJawaban": [
+      "Orang lain",
+      "Kunci",
+      "Anda",
+      "Pemilik kotak",
+      "Semua orang"
+    ]
+  },
+  {
+    "index": 73,
+    "soal": "Jika Anda berada di sebuah kapal dan semua lampu padam, sebuah pesawat jatuh ke laut, di mana Anda berada?",
+    "jawaban": "Di dalam pesawat",
+    "pilihanJawaban": [
+      "Di kapal",
+      "Di bawah laut",
+      "Di dalam pesawat",
+      "Di pantai",
+      "Di dalam kamar tidur"
+    ]
+  },
+  {
+    "index": 74,
+    "soal": "Jika Anda melempar koin, apa kemungkinan hasilnya kepala atau ekor?",
+    "jawaban": "Seratus persen",
+    "pilihanJawaban": [
+      "Seratus persen",
+      "Lima puluh persen",
+      "Nol persen",
+      "Sebelas puluh persen",
+      "Sepuluh persen"
+    ]
+  },
+  {
+    "index": 75,
+    "soal": "Jika hari ini adalah hari Minggu, apa hari setelah dua hari lagi?",
+    "jawaban": "Selasa",
+    "pilihanJawaban": [
+      "Senin",
+      "Selasa",
+      "Rabu",
+      "Kamis",
+      "Jumat"
+    ]
+  },
+  {
+    "index": 76,
+    "soal": "Jika Anda memiliki satu korek api dan berada di sebuah ruangan gelap yang memiliki lilin, petromaks, dan lampu minyak, mana yang Anda nyalakan terlebih dahulu?",
+    "jawaban": "Korek api",
+    "pilihanJawaban": [
+      "Lilin",
+      "Petromaks",
+      "Lampu minyak",
+      "Korek api",
+      "Semuanya"
+    ]
+  },
+  {
+    "index": 77,
+    "soal": "Jika ada 5 burung di dahan pohon dan Anda menembak satu, berapa burung yang tersisa?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Satu",
+      "Dua",
+      "Tiga",
+      "Empat",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 78,
+    "soal": "Jika kamu menangis di bawah air, apakah bisa terlihat air matamu?",
+    "jawaban": "Tidak",
+    "pilihanJawaban": [
+      "Ya",
+      "Tidak",
+      "Mungkin",
+      "Terlalu gelap",
+      "Tergantung kedalaman"
+    ]
+  },
+  {
+    "index": 79,
+    "soal": "Jika Anda memiliki tiga korek api dan Anda membakar satu, berapa korek api yang Anda miliki sekarang?",
+    "jawaban": "Satu",
+    "pilihanJawaban": [
+      "Satu",
+      "Dua",
+      "Tiga",
+      "Empat",
+      "Nol"
+    ]
+  },
+  {
+    "index": 80,
+    "soal": "Jika seorang petani memiliki 5 kebun apel dan di setiap kebunnya terdapat 5 apel pohon, berapa total apel yang dimilikinya?",
+    "jawaban": "125",
+    "pilihanJawaban": [
+      "25",
+      "50",
+      "75",
+      "100",
+      "125"
+    ]
+  },
+  {
+    "index": 81,
+    "soal": "Jika sebuah perahu memiliki 10 orang dan tidak seorang pun jatuh ke laut, bagaimana mungkin tidak ada yang tetap di perahu?",
+    "jawaban": "Semuanya menikah",
+    "pilihanJawaban": [
+      "Mereka berenang",
+      "Semuanya menikah",
+      "Mereka terlempar",
+      "Perahu karam",
+      "Tidak mungkin"
+    ]
+  },
+  {
+    "index": 82,
+    "soal": "Jika seorang pilot terbang dari New York ke Chicago dan kehilangan satu roda, berapa banyak roda yang tersisa di pesawat?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "Satu",
+      "Dua",
+      "Tiga",
+      "Empat",
+      "Tidak ada"
+    ]
+  },
+  {
+    "index": 83,
+    "soal": "Jika Anda memiliki dua korek api dan Anda memberikannya kepada seorang teman, berapa korek api yang Anda miliki?",
+    "jawaban": "Satu",
+    "pilihanJawaban": [
+      "Nol",
+      "Satu",
+      "Dua",
+      "Tiga",
+      "Empat"
+    ]
+  },
+  {
+    "index": 84,
+    "soal": "Jika sebuah mangkuk berisi 6 apel dan Anda mengambil 4, berapa apel yang Anda miliki?",
+    "jawaban": "Empat",
+    "pilihanJawaban": [
+      "Dua",
+      "Empat",
+      "Enam",
+      "Delapan",
+      "Sepuluh"
+    ]
+  },
+  {
+    "index": 85,
+    "soal": "Jika ada 30 hari di bulan April dan Anda mengambil satu apel setiap hari, berapa apel yang Anda miliki pada akhir bulan?",
+    "jawaban": "Satu",
+    "pilihanJawaban": [
+      "Tiga puluh",
+      "Empat belas",
+      "Dua puluh",
+      "Satu",
+      "Nol"
+    ]
+  },
+  {
+    "index": 86,
+    "soal": "Jika seorang dokter memberi Anda tiga pil dan menyuruh Anda minum satu setiap setengah jam, berapa lama Anda akan selesai minum semua pil?",
+    "jawaban": "Satu jam",
+    "pilihanJawaban": [
+      "Satu jam",
+      "Dua jam",
+      "Tiga jam",
+      "Empat jam",
+      "Setengah jam"
+    ]
+  },
+  {
+    "index": 87,
+    "soal": "Jika Anda memiliki sebuah telur dan Anda ingin memasaknya selama lima menit tepat, di mana Anda harus meletakkannya di panci air mendidih?",
+    "jawaban": "Tidak dimasukkan",
+    "pilihanJawaban": [
+      "Di bagian tengah",
+      "Di bagian bawah",
+      "Tidak dimasukkan",
+      "Di pinggir panci",
+      "Di tengah-tengah"
+    ]
+  },
+  {
+    "index": 88,
+    "soal": "Jika sebuah kursi memiliki empat kaki, mengapa orang duduk di atasnya hanya memiliki dua pantat?",
+    "jawaban": "Karena itu satu orang",
+    "pilihanJawaban": [
+      "Karena dua pantat",
+      "Karena itu satu orang",
+      "Kursi salah",
+      "Kursi retak",
+      "Kursi memiliki enam kaki"
+    ]
+  },
+  {
+    "index": 89,
+    "soal": "Jika seorang ahli matematika memiliki 12 apel dan ia membaginya ke dalam empat tumpukan yang sama, berapa apel di setiap tumpukan?",
+    "jawaban": "Tiga",
+    "pilihanJawaban": [
+      "Dua",
+      "Tiga",
+      "Empat",
+      "Enam",
+      "Satu"
+    ]
+  },
+  {
+    "index": 90,
+    "soal": "Jika sebuah pohon memiliki 12 cabang dan setiap cabang memiliki 6 daun, berapa total daun di pohon tersebut?",
+    "jawaban": "72",
+    "pilihanJawaban": [
+      "36",
+      "48",
+      "60",
+      "72",
+      "84"
+    ]
+  },
+  {
+    "index": 91,
+    "soal": "Jika sebuah sepeda memiliki dua roda dan satu rantai, berapa banyak rantai yang dimiliki 8 sepeda?",
+    "jawaban": "Hanya satu",
+    "pilihanJawaban": [
+      "Empat",
+      "Enam",
+      "Delapan",
+      "Sepuluh",
+      "Hanya satu"
+    ]
+  },
+  {
+    "index": 92,
+    "soal": "Jika seorang petugas parkir memarkir mobil di antara dua mobil lainnya, berapa banyak mobil yang sekarang diparkir di sana?",
+    "jawaban": "Satu",
+    "pilihanJawaban": [
+      "Dua",
+      "Tiga",
+      "Empat",
+      "Lima",
+      "Satu"
+    ]
+  },
+  {
+    "index": 93,
+    "soal": "Jika seorang tukang cukur di kota ini adalah orang yang mencukur semua orang yang tidak mencukur diri sendiri, siapa yang mencukur tukang cukur?",
+    "jawaban": "Dirinya sendiri",
+    "pilihanJawaban": [
+      "Tukang cukur lain",
+      "Tidak ada",
+      "Dirinya sendiri",
+      "Semua orang",
+      "Pria berjenggot"
+    ]
+  },
+  {
+    "index": 94,
+    "soal": "Jika seorang arkeolog berbicara tentang penemuan terbarunya, apa yang paling mungkin dia temukan?",
+    "jawaban": "Waktu",
+    "pilihanJawaban": [
+      "Harta karun",
+      "Fosil dinosaurus",
+      "Waktu",
+      "Sumber air",
+      "Benda bersejarah"
+    ]
+  },
+  {
+    "index": 95,
+    "soal": "Jika sebuah mobil berjalan dengan kecepatan konstan, dan roda depan kanannya berputar lebih cepat daripada roda belakang kanannya, arah mana mobil tersebut berbelok?",
+    "jawaban": "Tidak berbelok",
+    "pilihanJawaban": [
+      "Kanan",
+      "Kiri",
+      "Tidak berbelok",
+      "Mundur",
+      "Megawat1"
+    ]
+  },
+  {
+    "index": 96,
+    "soal": "Jika Anda melempar dadu dua kali, berapa peluang mendapatkan angka 12?",
+    "jawaban": "Satu dari 36",
+    "pilihanJawaban": [
+      "Satu dari 6",
+      "Satu dari 12",
+      "Satu dari 24",
+      "Satu dari 36",
+      "Satu dari 48"
+    ]
+  },
+  {
+    "index": 97,
+    "soal": "Jika seorang nelayan menangkap 30 ikan pada hari Senin dan dua kali lipat jumlah itu pada hari Selasa, berapa total ikan yang dia miliki pada kedua hari tersebut?",
+    "jawaban": "90",
+    "pilihanJawaban": [
+      "60",
+      "75",
+      "90",
+      "105",
+      "120"
+    ]
+  },
+  {
+    "index": 98,
+    "soal": "Jika seorang tukang kayu membuat 6 meja dalam 8 jam, berapa lama waktu yang dibutuhkannya untuk membuat satu meja?",
+    "jawaban": "1 jam 20 menit",
+    "pilihanJawaban": [
+      "30 menit",
+      "1 jam",
+      "1 jam 20 menit",
+      "2 jam",
+      "2 jam 30 menit"
+    ]
+  },
+  {
+    "index": 99,
+    "soal": "Jika sebuah peti berisi 100 apel dan Anda mengambil 5 apel dari peti tersebut, berapa apel yang Anda miliki?",
+    "jawaban": "5",
+    "pilihanJawaban": [
+      "5",
+      "10",
+      "15",
+      "20",
+      "25"
+    ]
+  },
+  {
+    "index": 100,
+    "soal": "Jika Anda melihat bayangan Anda di depan Anda, ke arah mana Anda sedang menghadap?",
+    "jawaban": "Ke belakang",
+    "pilihanJawaban": [
+      "Ke atas",
+      "Ke bawah",
+      "Ke depan",
+      "Ke samping",
+      "Ke belakang"
+    ]
+  },
+  {
+    "index": 101,
+    "soal": "Jika sebuah kotak berisi tiga bola merah dan dua bola biru, dan Anda secara acak mengambil satu bola tanpa melihat, apa kemungkinan bola yang Anda ambil berwarna merah?",
+    "jawaban": "Tiga kelima",
+    "pilihanJawaban": [
+      "Dua kelima",
+      "Satu kelima",
+      "Tiga kelima",
+      "Empat kelima",
+      "Lima kelima"
+    ]
+  },
+  {
+    "index": 102,
+    "soal": "Jika ada satu kandang berisi satu singa, satu kandang lagi berisi dua singa, dan kandang ketiga kosong, berapa total singa di ketiga kandang?",
+    "jawaban": "Satu",
+    "pilihanJawaban": [
+      "Dua",
+      "Tiga",
+      "Empat",
+      "Satu",
+      "Nol"
+    ]
+  },
+  {
+    "index": 103,
+    "soal": "Jika seorang tukang kayu bisa membuat 3 kursi dalam 4 jam, berapa lama waktu yang dibutuhkannya untuk membuat 6 kursi?",
+    "jawaban": "8 jam",
+    "pilihanJawaban": [
+      "4 jam",
+      "6 jam",
+      "8 jam",
+      "10 jam",
+      "12 jam"
+    ]
+  },
+  {
+    "index": 104,
+    "soal": "Jika ada 5 apel dan Anda mengambil 3, berapa sisa apelnya?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "index": 105,
+    "soal": "Sebutkan bulan-bulan dalam setahun yang memiliki 28 hari.",
+    "jawaban": "12",
+    "pilihanJawaban": [
+      "6",
+      "9",
+      "12",
+      "10",
+      "7"
+    ]
+  },
+  {
+    "index": 106,
+    "soal": "Jika Anda mempunyai 3 korek api dan menyalakan satu, berapa korek api yang tersisa?",
+    "jawaban": "1",
+    "pilihanJawaban": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "index": 107,
+    "soal": "Berapa banyak huruf 'F' yang ada dalam kalimat ini: 'Fifteen fantastic flamingos fly over the fjords'?",
+    "jawaban": "3",
+    "pilihanJawaban": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "index": 108,
+    "soal": "Jika Anda memiliki 3 korek api dan Anda menghidupkan satu, kemudian meniupnya dan mematikkan lagi, apa warna koreknya?",
+    "jawaban": "Sama",
+    "pilihanJawaban": [
+      "Merah",
+      "Hijau",
+      "Biru",
+      "Sama",
+      "Tidak diketahui"
+    ]
+  },
+  {
+    "index": 109,
+    "soal": "Berapa banyak bulan yang memiliki lebih dari 30 hari?",
+    "jawaban": "12",
+    "pilihanJawaban": [
+      "6",
+      "9",
+      "12",
+      "10",
+      "7"
+    ]
+  },
+  {
+    "index": 110,
+    "soal": "Jika setiap kucing memiliki 7 nyawa, berapa total nyawa dari 3 kucing?",
+    "jawaban": "21",
+    "pilihanJawaban": [
+      "14",
+      "18",
+      "21",
+      "24",
+      "27"
+    ]
+  },
+  {
+    "index": 111,
+    "soal": "Jika ada 3 telur di atas keranjang dan angin bertiup kencang, berapa telur yang tetap di atas keranjang?",
+    "jawaban": "3",
+    "pilihanJawaban": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "index": 112,
+    "soal": "Sebutkan kata yang salah dalam baris ini: Apel, Pisang, Jeruk, Keju.",
+    "jawaban": "Keju",
+    "pilihanJawaban": [
+      "Apel",
+      "Pisang",
+      "Jeruk",
+      "Keju",
+      "Semua benar"
+    ]
+  },
+  {
+    "index": 113,
+    "soal": "Apa yang bisa kamu temui di pagi hari, di tengah hari, dan di malam hari, tetapi tidak bisa kamu lihat?",
+    "jawaban": "Huruf 'A'",
+    "pilihanJawaban": [
+      "Matahari",
+      "Bulan",
+      "Bintang",
+      "Huruf 'A'",
+      "Angin"
+    ]
+  },
+  {
+    "index": 114,
+    "soal": "Jika kamu memiliki 5 buku di satu tangan dan 6 buku di tangan lain, apa yang kamu miliki?",
+    "jawaban": "Pecah tangan",
+    "pilihanJawaban": [
+      "5 buku",
+      "6 buku",
+      "11 buku",
+      "Pecah tangan",
+      "Tidak ada yang dimiliki"
+    ]
+  },
+  {
+    "index": 115,
+    "soal": "Jika ada kucing hitam di satu ujung sungai dan kucing putih di ujung lain, apa yang ada di tengah sungai?",
+    "jawaban": "Huruf 'H'",
+    "pilihanJawaban": [
+      "Air",
+      "Ikan",
+      "Huruf 'H'",
+      "Perahu",
+      "Semua benar"
+    ]
+  },
+  {
+    "index": 116,
+    "soal": "Jika kamu berdiri di tengah hutan dan tidak ada orang di sekitar, apakah suara yang kamu dengar?",
+    "jawaban": "Suara langkahmu sendiri",
+    "pilihanJawaban": [
+      "Angin",
+      "Suara burung",
+      "Suara langkahmu sendiri",
+      "Air sungai",
+      "Diam"
+    ]
+  },
+  {
+    "index": 117,
+    "soal": "Jika ada 6 apel dan kamu mengambil 4, berapa sisa apelnya?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "index": 118,
+    "soal": "Jika ada 4 lilin di ruangan dan angin bertiup kencang, dua lilin padam. Berapa lilin yang masih menyala?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "index": 119,
+    "soal": "Sebutkan satu hal yang bisa kamu ambil, tetapi tidak bisa kamu berikan kepada orang lain.",
+    "jawaban": "Foto",
+    "pilihanJawaban": [
+      "Uang",
+      "Cinta",
+      "Foto",
+      "Nasihat",
+      "Waktu"
+    ]
+  },
+  {
+    "index": 120,
+    "soal": "Jika seorang pilot terbang ke selatan selama 2 jam, kemudian ke barat selama 2 jam, di mana dia sekarang?",
+    "jawaban": "Dia berada di udara",
+    "pilihanJawaban": [
+      "Selatan",
+      "Barat",
+      "Dia berada di udara",
+      "Timur",
+      "Utara"
+    ]
+  },
+  {
+    "index": 121,
+    "soal": "Jika kamu memiliki 5 kantong kacang, dan setiap kantong berisi 5 kacang, berapa total kacangnya?",
+    "jawaban": "25",
+    "pilihanJawaban": [
+      "15",
+      "20",
+      "25",
+      "30",
+      "35"
+    ]
+  },
+  {
+    "index": 122,
+    "soal": "Jika ada 3 apel di satu tangan dan 4 apel di tangan lain, berapa total apel yang kamu miliki?",
+    "jawaban": "7",
+    "pilihanJawaban": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "index": 123,
+    "soal": "Berapa banyak sisi yang dimiliki oleh sebuah lingkaran?",
+    "jawaban": "Tidak ada",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "Tidak ada",
+      "Banyak"
+    ]
+  },
+  {
+    "index": 124,
+    "soal": "Jika kamu memiliki 4 kaus kaki berwarna merah dan 4 kaus kaki berwarna biru di dalam laci, tanpa melihat, berapa banyak kaus kaki yang harus kamu ambil untuk memastikan memiliki sepasang yang cocok?",
+    "jawaban": "3",
+    "pilihanJawaban": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "8"
+    ]
+  },
+  {
+    "index": 125,
+    "soal": "Jika seorang dokter memberi Anda 5 pil dan mengatakan Anda harus minum satu setiap 15 menit, berapa lama waktu yang diperlukan untuk menyelesaikan seluruh dosis?",
+    "jawaban": "1 jam",
+    "pilihanJawaban": [
+      "30 menit",
+      "45 menit",
+      "1 jam",
+      "1,5 jam",
+      "2 jam"
+    ]
+  },
+  {
+    "index": 126,
+    "soal": "Berapa banyak huruf 'R' dalam kata ini: 'Rumah Rapi Rapih'?",
+    "jawaban": "3",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "index": 127,
+    "soal": "Jika kamu memiliki 8 kucing dan semua kecuali 2 pergi, berapa banyak kucing yang kamu miliki?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "2",
+      "4",
+      "6",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "index": 128,
+    "soal": "Jika kamu berada di dalam ruangan gelap yang hanya memiliki lilin, apa yang akan kamu nyalakan pertama kali?",
+    "jawaban": "Lilin",
+    "pilihanJawaban": [
+      "Lilin",
+      "Korek api",
+      "Lampu",
+      "Kompor",
+      "Semua sekaligus"
+    ]
+  },
+  {
+    "index": 129,
+    "soal": "Jika kamu meletakkan kucing hitam di satu ujung hutan dan kucing putih di ujung lainnya, apa yang ada di tengah hutan?",
+    "jawaban": "Jarak",
+    "pilihanJawaban": [
+      "Pohon",
+      "Jarak",
+      "Jalan setapak",
+      "Sungai",
+      "Rumah"
+    ]
+  },
+  {
+    "index": 130,
+    "soal": "Jika ada 5 ekor burung di dahan pohon dan seorang pemburu menembak satu, berapa sisa burung yang ada?",
+    "jawaban": "Tidak ada, yang lain terbang",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "Tidak ada, yang lain terbang"
+    ]
+  },
+  {
+    "index": 131,
+    "soal": "Berapa banyak kaki yang dimiliki seekor gajah?",
+    "jawaban": "4",
+    "pilihanJawaban": [
+      "2",
+      "4",
+      "6",
+      "8",
+      "10"
+    ]
+  },
+  {
+    "index": 132,
+    "soal": "Jika kamu mempunyai 3 korek api dan menyalakan satu, berapa sisa korek api yang kamu miliki?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "index": 133,
+    "soal": "Jika kamu melewati orang kedua dalam lomba, berada di posisi berapa?",
+    "jawaban": "Kedua",
+    "pilihanJawaban": [
+      "Pertama",
+      "Kedua",
+      "Ketiga",
+      "Keempat",
+      "Kelima"
+    ]
+  },
+  {
+    "index": 134,
+    "soal": "Berapa banyak kamera yang diperlukan untuk mengambil gambar?",
+    "jawaban": "1",
+    "pilihanJawaban": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "index": 135,
+    "soal": "Jika kamu memiliki satu dolar dan kamu memberikannya kepada temanmu, berapa dolar yang dimiliki temanmu?",
+    "jawaban": "1",
+    "pilihanJawaban": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "index": 136,
+    "soal": "Berapa banyak mata yang dimiliki manusia?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "index": 137,
+    "soal": "Jika kamu memiliki satu kertas dan memotongnya menjadi dua bagian, apa yang kamu miliki sekarang?",
+    "jawaban": "Dua kertas",
+    "pilihanJawaban": [
+      "Satu kertas",
+      "Dua kertas",
+      "Tiga kertas",
+      "Empat kertas",
+      "Setengah kertas"
+    ]
+  },
+  {
+    "index": 138,
+    "soal": "Jika hari ini adalah 14 Februari, apa yang datang satu hari sebelumnya?",
+    "jawaban": "13 Februari",
+    "pilihanJawaban": [
+      "12 Februari",
+      "13 Februari",
+      "14 Februari",
+      "15 Februari",
+      "16 Februari"
+    ]
+  },
+  {
+    "index": 139,
+    "soal": "Berapa banyak huruf 'A' dalam kata 'Alphabet'?",
+    "jawaban": "1",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "index": 140,
+    "soal": "Jika kamu memiliki tiga koin senilai 25 sen, berapa nilai totalnya?",
+    "jawaban": "75 sen",
+    "pilihanJawaban": [
+      "50 sen",
+      "75 sen",
+      "1 dolar",
+      "1,25 dolar",
+      "1,50 dolar"
+    ]
+  },
+  {
+    "index": 141,
+    "soal": "Jika ada 6 kucing di satu tangan dan 5 kucing di tangan lain, berapa total kucing yang kamu miliki?",
+    "jawaban": "11",
+    "pilihanJawaban": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ]
+  },
+  {
+    "index": 142,
+    "soal": "Jika kamu memiliki satu ember penuh air dan menuangkan setengahnya, berapa banyak air yang tinggal di ember tersebut?",
+    "jawaban": "Setengah ember",
+    "pilihanJawaban": [
+      "Penuh",
+      "Setengah ember",
+      "Separuh",
+      "Kosong",
+      "Dua pertiga ember"
+    ]
+  },
+  {
+    "index": 143,
+    "soal": "Berapa banyak sudut yang dimiliki oleh segitiga?",
+    "jawaban": "3",
+    "pilihanJawaban": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "index": 144,
+    "soal": "Jika kamu berdiri di tepi sungai dan melihat seberkas kayu di tengahnya, kemudian kamu menyeberangi sungai, di mana kayu tersebut berada sekarang?",
+    "jawaban": "Di dalam air",
+    "pilihanJawaban": [
+      "Tepi sungai",
+      "Di dalam air",
+      "Di atas sungai",
+      "Di bawah sungai",
+      "Menyusuri sungai"
+    ]
+  },
+  {
+    "index": 145,
+    "soal": "Jika kamu memiliki satu botol air mineral yang berisi setengah air, apa yang akan kamu tambahkan agar botol tersebut menjadi penuh?",
+    "jawaban": "Tidak perlu",
+    "pilihanJawaban": [
+      "Air",
+      "Batu",
+      "Gula",
+      "Tidak perlu",
+      "Es"
+    ]
+  },
+  {
+    "index": 146,
+    "soal": "Jika kamu memiliki 2 telur dan memecahkannya ke dalam panci air yang mendidih, apa yang kamu miliki?",
+    "jawaban": "Telur rebus",
+    "pilihanJawaban": [
+      "Telur dadar",
+      "Telur rebus",
+      "Telur mentah",
+      "Telur goreng",
+      "Telur kukus"
+    ]
+  },
+  {
+    "index": 147,
+    "soal": "Jika kamu memiliki 3 kelereng biru, 4 kelereng merah, dan 2 kelereng hijau, berapa total kelereng yang kamu miliki?",
+    "jawaban": "9",
+    "pilihanJawaban": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ]
+  },
+  {
+    "index": 148,
+    "soal": "Jika kamu memiliki satu sepeda dan satu sepeda motor, berapa total roda yang kamu miliki?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "index": 149,
+    "soal": "Jika kamu memiliki dua setumpuk koin senilai 10 sen dan satu setumpuk koin senilai 5 sen, berapa nilai totalnya?",
+    "jawaban": "25 sen",
+    "pilihanJawaban": [
+      "20 sen",
+      "25 sen",
+      "30 sen",
+      "35 sen",
+      "40 sen"
+    ]
+  },
+  {
+    "index": 150,
+    "soal": "Jika kamu memiliki satu kertas dan memotongnya menjadi 4 bagian, apa yang kamu miliki sekarang?",
+    "jawaban": "4 kertas",
+    "pilihanJawaban": [
+      "Satu kertas",
+      "Dua kertas",
+      "Tiga kertas",
+      "Empat kertas",
+      "Lima kertas"
+    ]
+  },
+  {
+    "index": 151,
+    "soal": "Jika sebuah jam menunjukkan pukul 3:15, berapa sudut antara jarum jam dan jarum menit?",
+    "jawaban": "7.5 derajat",
+    "pilihanJawaban": [
+      "30 derajat",
+      "45 derajat",
+      "60 derajat",
+      "7.5 derajat",
+      "15 derajat"
+    ]
+  },
+  {
+    "index": 152,
+    "soal": "Jika kamu memiliki satu batang cokelat yang panjangnya 15 cm dan kamu memotongnya menjadi tiga bagian, berapa panjang setiap bagian?",
+    "jawaban": "5 cm",
+    "pilihanJawaban": [
+      "3 cm",
+      "5 cm",
+      "7 cm",
+      "10 cm",
+      "15 cm"
+    ]
+  },
+  {
+    "index": 153,
+    "soal": "Jika kamu memiliki 2 buah buku yang masing-masing memiliki 300 halaman, berapa total halaman kedua buku tersebut?",
+    "jawaban": "600 halaman",
+    "pilihanJawaban": [
+      "300 halaman",
+      "450 halaman",
+      "600 halaman",
+      "750 halaman",
+      "900 halaman"
+    ]
+  },
+  {
+    "index": 154,
+    "soal": "Jika sebuah kotak berisi 5 kelereng hijau, 3 kelereng merah, dan 2 kelereng biru, berapa total kelereng yang ada di dalam kotak tersebut?",
+    "jawaban": "10",
+    "pilihanJawaban": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ]
+  },
+  {
+    "index": 155,
+    "soal": "Jika kamu memiliki satu bendera merah dan satu bendera putih, berapa banyak bendera yang kamu miliki?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "index": 156,
+    "soal": "Jika sebuah jam menunjukkan pukul 9:45, berapa sudut antara jarum jam dan jarum menit?",
+    "jawaban": "112.5 derajat",
+    "pilihanJawaban": [
+      "90 derajat",
+      "112.5 derajat",
+      "135 derajat",
+      "157.5 derajat",
+      "180 derajat"
+    ]
+  },
+  {
+    "index": 157,
+    "soal": "Jika kamu memiliki dua tangki air yang masing-masing dapat menampung 500 liter, berapa total kapasitas air kedua tangki tersebut?",
+    "jawaban": "1000 liter",
+    "pilihanJawaban": [
+      "500 liter",
+      "750 liter",
+      "1000 liter",
+      "1250 liter",
+      "1500 liter"
+    ]
+  },
+  {
+    "index": 158,
+    "soal": "Jika ada 4 kantong kacang yang masing-masing berisi 8 kacang, berapa total kacang yang ada?",
+    "jawaban": "32",
+    "pilihanJawaban": [
+      "24",
+      "28",
+      "32",
+      "36",
+      "40"
+    ]
+  },
+  {
+    "index": 159,
+    "soal": "Jika sebuah televisi memiliki 3 saluran, berapa banyak saluran yang dimilikinya saat dinonaktifkan?",
+    "jawaban": "0",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "index": 160,
+    "soal": "Jika kamu memiliki satu topi dan dua pasang kaus kaki, berapa banyak item pakaian yang kamu miliki?",
+    "jawaban": "3",
+    "pilihanJawaban": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "index": 161,
+    "soal": "Jika sebuah pesawat terbang terbang di atas garis ekator, di mana ia berada?",
+    "jawaban": "Di atas garis ekator",
+    "pilihanJawaban": [
+      "Di atas garis ekator",
+      "Di utara garis ekator",
+      "Di selatan garis ekator",
+      "Di barat garis ekator",
+      "Di timur garis ekator"
+    ]
+  },
+  {
+    "index": 162,
+    "soal": "Berapa banyak planet di tata surya yang memiliki satelit bulan?",
+    "jawaban": "1",
+    "pilihanJawaban": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "index": 163,
+    "soal": "Jika kamu memiliki satu buku yang memiliki 200 halaman dan membaca setengahnya, berapa banyak halaman yang telah kamu baca?",
+    "jawaban": "100 halaman",
+    "pilihanJawaban": [
+      "50 halaman",
+      "75 halaman",
+      "100 halaman",
+      "125 halaman",
+      "150 halaman"
+    ]
+  },
+  {
+    "index": 164,
+    "soal": "Jika kamu memiliki 4 anak anjing dan memberikan satu kepada tetangga, berapa banyak anak anjing yang kamu miliki?",
+    "jawaban": "3",
+    "pilihanJawaban": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "index": 165,
+    "soal": "Jika ada 5 apel dan kamu mengambil 2, berapa sisa apel yang masih tinggal?",
+    "jawaban": "3",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "index": 166,
+    "soal": "Jika kamu memiliki dua mata, berapa banyak mata yang dapat kamu tutup dengan satu tangan?",
+    "jawaban": "1",
+    "pilihanJawaban": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "Semua"
+    ]
+  },
+  {
+    "index": 167,
+    "soal": "Jika sebuah komputer memiliki 8 bit, berapa banyak kombinasi yang mungkin?",
+    "jawaban": "256",
+    "pilihanJawaban": [
+      "64",
+      "128",
+      "256",
+      "512",
+      "1024"
+    ]
+  },
+  {
+    "index": 168,
+    "soal": "Jika ada 7 hari dalam seminggu, berapa banyak hari yang dimulai dengan huruf 'S'?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "index": 169,
+    "soal": "Jika kamu memiliki satu koin senilai 25 sen dan satu koin senilai 10 sen, berapa nilai totalnya?",
+    "jawaban": "35 sen",
+    "pilihanJawaban": [
+      "25 sen",
+      "30 sen",
+      "35 sen",
+      "40 sen",
+      "45 sen"
+    ]
+  },
+  {
+    "index": 170,
+    "soal": "Jika sebuah roda berputar dengan kecepatan 10 putaran per menit, berapa putaran yang dilakukan dalam satu jam?",
+    "jawaban": "600",
+    "pilihanJawaban": [
+      "300",
+      "450",
+      "600",
+      "750",
+      "900"
+    ]
+  },
+  {
+    "index": 171,
+    "soal": "Jika ada 4 saudara laki-laki di dalam keluarga dan masing-masing memiliki satu adik perempuan, berapa banyak anak dalam keluarga tersebut?",
+    "jawaban": "5",
+    "pilihanJawaban": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "index": 172,
+    "soal": "Jika sebuah kapal berlayar dari barat ke timur dan angin bertiup dari timur ke barat, ke mana asap kapal tersebut akan terbawa?",
+    "jawaban": "Barat",
+    "pilihanJawaban": [
+      "Utara",
+      "Selatan",
+      "Timur",
+      "Barat",
+      "Tidak terbawa"
+    ]
+  },
+  {
+    "index": 173,
+    "soal": "Jika kamu memiliki dua koin senilai 50 sen dan satu koin senilai 25 sen, berapa nilai totalnya?",
+    "jawaban": "1 dolar",
+    "pilihanJawaban": [
+      "75 sen",
+      "1 dolar",
+      "1,25 dolar",
+      "1,50 dolar",
+      "1,75 dolar"
+    ]
+  },
+  {
+    "index": 174,
+    "soal": "Jika ada 5 buku di rak dan kamu mengambil 3, berapa sisa buku yang masih tinggal di rak?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "index": 175,
+    "soal": "Jika sebuah taman memiliki 6 bangku, berapa banyak pasangan bangku yang mungkin di dalam taman tersebut?",
+    "jawaban": "15",
+    "pilihanJawaban": [
+      "10",
+      "15",
+      "20",
+      "25",
+      "30"
+    ]
+  },
+  {
+    "index": 176,
+    "soal": "Jika kamu memiliki satu buah kunci dan membuka pintu, apa yang kamu lakukan setelahnya?",
+    "jawaban": "Masuk",
+    "pilihanJawaban": [
+      "Keluar",
+      "Masuk",
+      "Berlari",
+      "Telepon",
+      "Tidur"
+    ]
+  },
+  {
+    "index": 177,
+    "soal": "Jika sebuah kamera mengambil 24 foto dalam satu detik, berapa banyak foto yang diambil dalam satu menit?",
+    "jawaban": "1440",
+    "pilihanJawaban": [
+      "1200",
+      "1440",
+      "1680",
+      "1920",
+      "2160"
+    ]
+  },
+  {
+    "index": 178,
+    "soal": "Jika sebuah kotak berisi 8 bola dan kamu mengambil 2, berapa sisa bola yang masih ada di dalam kotak?",
+    "jawaban": "6",
+    "pilihanJawaban": [
+      "4",
+      "6",
+      "8",
+      "10",
+      "12"
+    ]
+  },
+  {
+    "index": 179,
+    "soal": "Jika kamu memiliki satu set alat tulis yang terdiri dari pensil, pulpen, dan penghapus, berapa banyak item yang kamu miliki?",
+    "jawaban": "3",
+    "pilihanJawaban": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "index": 180,
+    "soal": "Jika kamu memiliki satu potong kue dan memotongnya menjadi empat bagian, apa yang kamu miliki sekarang?",
+    "jawaban": "Empat potong kue",
+    "pilihanJawaban": [
+      "Satu potong kue",
+      "Dua potong kue",
+      "Tiga potong kue",
+      "Empat potong kue",
+      "Lima potong kue"
+    ]
+  },
+  {
+    "index": 181,
+    "soal": "Jika sebuah sepeda memiliki 2 roda, berapa banyak roda yang dimiliki oleh 3 sepeda?",
+    "jawaban": "6",
+    "pilihanJawaban": [
+      "4",
+      "6",
+      "8",
+      "10",
+      "12"
+    ]
+  },
+  {
+    "index": 182,
+    "soal": "Jika kamu memiliki satu telur dan memasaknya selama 3 menit, apa yang kamu miliki?",
+    "jawaban": "Telur rebus",
+    "pilihanJawaban": [
+      "Telur dadar",
+      "Telur rebus",
+      "Telur mentah",
+      "Telur goreng",
+      "Telur kukus"
+    ]
+  },
+  {
+    "index": 183,
+    "soal": "Jika sebuah peternakan memiliki 10 sapi, berapa banyak kaki sapi di peternakan tersebut?",
+    "jawaban": "40",
+    "pilihanJawaban": [
+      "20",
+      "30",
+      "40",
+      "50",
+      "60"
+    ]
+  },
+  {
+    "index": 184,
+    "soal": "Jika ada 3 bola di dalam keranjang dan kamu mengambil satu, berapa sisa bola yang masih ada di dalam keranjang?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "index": 185,
+    "soal": "Jika kamu memiliki satu ponsel dan diberikan satu lagi, berapa banyak ponsel yang kamu miliki?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "index": 186,
+    "soal": "Jika sebuah kamera memiliki 12 megapiksel dan mengambil 5 foto, berapa total megapiksel yang digunakan?",
+    "jawaban": "60",
+    "pilihanJawaban": [
+      "50",
+      "60",
+      "70",
+      "80",
+      "90"
+    ]
+  },
+  {
+    "index": 187,
+    "soal": "Jika ada 4 buah pisang di dalam keranjang dan kamu memberikan satu kepada temanmu, berapa sisa pisang yang masih ada di keranjang?",
+    "jawaban": "3",
+    "pilihanJawaban": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "index": 188,
+    "soal": "Jika sebuah lampu menyala selama 4 jam sehari, berapa total jamnya dalam satu minggu?",
+    "jawaban": "28",
+    "pilihanJawaban": [
+      "24",
+      "28",
+      "32",
+      "36",
+      "40"
+    ]
+  },
+  {
+    "index": 189,
+    "soal": "Jika sebuah mobil memiliki 4 ban, berapa banyak ban yang dimiliki oleh lima mobil?",
+    "jawaban": "20",
+    "pilihanJawaban": [
+      "16",
+      "18",
+      "20",
+      "22",
+      "24"
+    ]
+  },
+  {
+    "index": 190,
+    "soal": "Jika kamu memiliki satu kardus yang berisi 12 botol air mineral, berapa banyak botol air yang kamu miliki?",
+    "jawaban": "12",
+    "pilihanJawaban": [
+      "8",
+      "12",
+      "16",
+      "20",
+      "24"
+    ]
+  },
+  {
+    "index": 191,
+    "soal": "Jika ada 3 saudara perempuan di dalam keluarga dan masing-masing memiliki satu saudara laki-laki, berapa banyak anak dalam keluarga tersebut?",
+    "jawaban": "4",
+    "pilihanJawaban": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ]
+  },
+  {
+    "index": 192,
+    "soal": "Jika kamu memiliki dua lembar kertas dan memberikan satu kepada temanmu, berapa sisa kertas yang kamu miliki?",
+    "jawaban": "1",
+    "pilihanJawaban": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "index": 193,
+    "soal": "Jika sebuah televisi memiliki 5 saluran, berapa banyak saluran yang dimilikinya saat dimatikan?",
+    "jawaban": "0",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "index": 194,
+    "soal": "Jika kamu memiliki satu kacamata dan kehilangannya di dalam tas, apa yang akan kamu lakukan?",
+    "jawaban": "Cari kacamata",
+    "pilihanJawaban": [
+      "Cari kacamata",
+      "Pulang tanpa kacamata",
+      "Beli kacamata baru",
+      "Tidur tanpa kacamata",
+      "Meminjam kacamata orang lain"
+    ]
+  },
+  {
+    "index": 195,
+    "soal": "Jika ada 2 burung hantu di pohon dan satu terbang pergi, berapa banyak burung hantu yang tinggal?",
+    "jawaban": "1",
+    "pilihanJawaban": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "index": 196,
+    "soal": "Jika sebuah pensil terdiri dari 3 bagian dan setiap bagian dapat dihapus, berapa banyak bagian yang dapat dihapus dari dua pensil?",
+    "jawaban": "6",
+    "pilihanJawaban": [
+      "3",
+      "6",
+      "9",
+      "12",
+      "15"
+    ]
+  },
+  {
+    "index": 197,
+    "soal": "Jika kamu memiliki satu tas dan meletakkan dua buku di dalamnya, berapa banyak buku yang kamu miliki?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "index": 198,
+    "soal": "Jika ada 6 anak di dalam kelompok dan masing-masing membawa satu bola, berapa banyak bola yang ada di kelompok tersebut?",
+    "jawaban": "6",
+    "pilihanJawaban": [
+      "4",
+      "6",
+      "8",
+      "10",
+      "12"
+    ]
+  },
+  {
+    "index": 199,
+    "soal": "Jika kamu memiliki satu ponsel dan baterainya habis, apa yang harus kamu lakukan agar bisa menggunakan ponsel tersebut kembali?",
+    "jawaban": "Isi ulang baterai",
+    "pilihanJawaban": [
+      "Isi ulang baterai",
+      "Beli ponsel baru",
+      "Gunakan tanpa baterai",
+      "Tinggalkan ponsel",
+      "Perbaiki sendiri"
+    ]
+  },
+  {
+    "index": 200,
+    "soal": "Jika ada 4 pintu di sebuah ruangan dan kamu masuk melalui pintu pertama, berapa banyak pintu yang tersisa?",
+    "jawaban": "3",
+    "pilihanJawaban": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  }
+]

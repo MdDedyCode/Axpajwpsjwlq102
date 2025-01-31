@@ -1,0 +1,1852 @@
+[
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kucing",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 0
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Anjing",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 1
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Gajah",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 2
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Harimau",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 3
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kelinci",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 4
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Ayam",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 5
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Ular",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 6
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Sapi",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 7
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Singa",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 8
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Rusa",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 9
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Elang",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 10
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kuda",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 11
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Buaya",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 12
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Beruang",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 13
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kambing",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 14
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Zebra",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 15
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Serigala",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 16
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kuda Nil",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 17
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Gorila",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 18
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Panda",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 19
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Cheetah",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 20
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Koala",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 21
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Babi",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 22
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Badak",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 23
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Lumba-lumba",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 24
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kanguru",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 25
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Macan Tutul",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 26
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Tapir",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 27
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kera",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 28
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Paus",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 29
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Alpaka",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 30
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Hyena",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 31
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Burung Hantu",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 32
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Platipus",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 33
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Anoa",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 34
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Flamingo",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 35
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Pinguin",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 36
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Capybara",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 37
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Bison",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 38
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Komodo",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 39
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Oposum",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 40
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Unta",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 41
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Tupai",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 42
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Ikan Pari",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 43
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Iguana",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 44
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Meerkat",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 45
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Wombat",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 46
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Angsa",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 47
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Serow",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 48
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Domba",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 49
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Raccoon",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 50
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Burung Kasuari",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 51
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kupu-kupu",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 52
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Owa",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 53
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Bekantan",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 54
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kancil",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 55
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Quokka",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 56
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Naga Laut",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 57
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Belibis",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 58
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Tikus",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 59
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Salamander",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 60
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Burung Jalak",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 61
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Burung Merak",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 62
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Luwak",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 63
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Burung Kiwi",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 64
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Pika",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 65
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Cendrawasih",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 66
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Trenggiling",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 67
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Walabi",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 68
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kukang",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 69
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Mandril",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 70
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Berang-berang",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 71
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kasuari",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 72
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Pelikan",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 73
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Binturong",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 74
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Burung Kakatua",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 75
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Okapi",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 76
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Dugong",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 77
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Jaguar",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 78
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Tikus Gua",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 79
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Landak",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 80
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kiwi",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 81
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Llama",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 82
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Orca",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 83
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Aye-Aye",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 84
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Tarsius",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 85
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Panda Merah",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 86
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Pangolin",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 87
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Capung",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 88
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Makaka",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 89
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Monyet Ekor Panjang",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 90
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Belalang",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 91
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kelomang",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 92
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Rayap",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 93
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Bekicot",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 94
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Katak",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 95
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Babi Hutan",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 96
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Macan Tutul Salju",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 97
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Lobster",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 98
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kuda Laut",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 99
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kambing Gunung",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 100
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kerbau",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 101
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Takin",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 102
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Musang",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 103
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Tarantula",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 104
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Jerapah",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 105
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kanguru Pohon",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 106
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Burung Sekretaris",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 107
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Tikus Belanda",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 108
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Babi Kutil",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 109
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Macaw",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 110
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Numbat",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 111
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kanguru Merah",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 112
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kuda Poni",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 113
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Burung Unta",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 114
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kambing Domba",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 115
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Buaya Muara",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 116
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Beruang Kutub",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 117
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Koati",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 118
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Antelop",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 119
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Bebek",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 120
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Simpanse",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 121
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kadal Gurun",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 122
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Paus Pembunuh",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 123
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Tapir Malaya",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 124
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Terwelu",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 125
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Merpati",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 126
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Bangau",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 127
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Tokek",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 128
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Ular Sanca",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 129
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Landak Mini",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 130
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Biawak",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 131
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Walrus",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 132
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Marmut",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 133
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Langur",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 134
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kodok",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 135
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kelabang",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 136
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Lele",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 137
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Arwana",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 138
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Manatee",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 139
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Emu",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 140
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Anemon Laut",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 141
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Iguana Hijau",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 142
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Babon",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 143
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Armadillo",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 144
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kumbang",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 145
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Lemur",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 146
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Singa Laut",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 147
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Serigala Artika",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 148
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Cacing Tanah",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 149
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Burung Kenari",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 150
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Lalat",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 151
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Zebra Finch",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 152
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Buaya Sungai Nil",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 153
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Burung Kutilang",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 154
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kucing Hutan",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 155
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Burung Merpati",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 156
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kepiting",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 157
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Hamster",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 158
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Ikan Guppy",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 159
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kakaktua Raja",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 160
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Burung Beo",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 161
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kakap",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 162
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Hiu Martil",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 163
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Belut",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 164
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Burung Nuri",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 165
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Chinchilla",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 166
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Tamarin",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 167
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Kakatua Jambul Kuning",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 168
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Anjing Laut",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 169
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Buaya Siam",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 170
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Lutung",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 171
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Udang",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 172
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Penyu Hijau",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 173
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Musang Luwak",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 174
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Katak Merah",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 175
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Sigung",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 176
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Ikan Mas",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 177
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Burung Kolibri",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 178
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Anakonda",
+    "jawaban": "Daging",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 179
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Ulat Sutera",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 180
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Monyet Betina",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 181
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Monyet Kelabu",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 182
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Belalang Hijau",
+    "jawaban": "Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 183
+  },
+  {
+    "soal": "Apa jenis makanan yang dikonsumsi oleh Burung Trulek",
+    "jawaban": "Daging & Tumbuhan",
+    "pilihanJawaban": [
+      "Daging",
+      "Daging & Tumbuhan",
+      "Tumbuhan"
+    ],
+    "index": 184
+  }
+]

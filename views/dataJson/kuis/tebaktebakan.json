@@ -1,0 +1,2615 @@
+[
+  {
+    "index": 0,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda tertawa tanpa suara?",
+    "jawaban": "Mimpi lucu",
+    "pilihanJawaban": [
+      "TV",
+      "Bantal",
+      "Gurauan",
+      "Mimpi lucu",
+      "Komik"
+    ]
+  },
+  {
+    "index": 1,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa mengangkat sesuatu tetapi tidak bisa mengangkat apapun?",
+    "jawaban": "Tangga",
+    "pilihanJawaban": [
+      "Angin",
+      "Helikopter",
+      "Gajah",
+      "Mobil",
+      "Tangga"
+    ]
+  },
+  {
+    "index": 2,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada tetapi tidak bisa dilihat?",
+    "jawaban": "Besok",
+    "pilihanJawaban": [
+      "Masa lalu",
+      "Waktu",
+      "Sekarang",
+      "Besok",
+      "Kemarin"
+    ]
+  },
+  {
+    "index": 3,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa memotong tanpa pisau dan bisa berbicara tanpa mulut?",
+    "jawaban": "Bahasa Isyarat",
+    "pilihanJawaban": [
+      "Gunting",
+      "Bahasa Isyarat",
+      "Kertas",
+      "Suara",
+      "Cahaya"
+    ]
+  },
+  {
+    "index": 4,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa berenang tanpa air?",
+    "jawaban": "Kapal",
+    "pilihanJawaban": [
+      "Ikan",
+      "Kapal",
+      "Paus",
+      "Katak",
+      "Pohon"
+    ]
+  },
+  {
+    "index": 5,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda merasa lapar meskipun Anda baru saja makan?",
+    "jawaban": "Bacaan",
+    "pilihanJawaban": [
+      "Makanan",
+      "Minuman",
+      "Musik",
+      "Olahraga",
+      "Bacaan"
+    ]
+  },
+  {
+    "index": 6,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda merasa sejuk meskipun tidak ada es?",
+    "jawaban": "Angin kipas",
+    "pilihanJawaban": [
+      "Air",
+      "Es krim",
+      "AC (Air Conditioner)",
+      "Angin kipas",
+      "Kulkas"
+    ]
+  },
+  {
+    "index": 7,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda terbang tanpa sayap dan bisa berbicara tanpa suara?",
+    "jawaban": "Pikiran",
+    "pilihanJawaban": [
+      "Cahaya",
+      "Telepati",
+      "Mimpi",
+      "Pikiran",
+      "Bahasa isyarat"
+    ]
+  },
+  {
+    "index": 8,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda merasa kaya meskipun Anda tidak memiliki uang?",
+    "jawaban": "Sahabat",
+    "pilihanJawaban": [
+      "Sahabat",
+      "Pendidikan",
+      "Uang",
+      "Emas",
+      "Kesehatan"
+    ]
+  },
+  {
+    "index": 9,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki mata tetapi tidak bisa melihat?",
+    "jawaban": "Kamera",
+    "pilihanJawaban": [
+      "Buku",
+      "Ponsel",
+      "Kucing",
+      "Tulisan",
+      "Kamera"
+    ]
+  },
+  {
+    "index": 10,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa menghancurkan segalanya tetapi tidak bisa dihancurkan?",
+    "jawaban": "Waktu",
+    "pilihanJawaban": [
+      "Angin",
+      "Api",
+      "Waktu",
+      "Air",
+      "Bumi"
+    ]
+  },
+  {
+    "index": 11,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada di belakang Anda, tetapi Anda tidak pernah bisa mengejar?",
+    "jawaban": "Usia",
+    "pilihanJawaban": [
+      "Waktu",
+      "Angan-angan",
+      "Kemajuan",
+      "Usia",
+      "Masa depan"
+    ]
+  },
+  {
+    "index": 12,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa terbang tanpa sayap dan bisa berenang tanpa kaki?",
+    "jawaban": "Bayi",
+    "pilihanJawaban": [
+      "Burung",
+      "Pesawat",
+      "Helikopter",
+      "Bayi",
+      "Ikan"
+    ]
+  },
+  {
+    "index": 13,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda merasa lapar tanpa makan?",
+    "jawaban": "Bau",
+    "pilihanJawaban": [
+      "Suara",
+      "Warna",
+      "Rasa",
+      "Bau",
+      "Tekstur"
+    ]
+  },
+  {
+    "index": 14,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda tetap hidup tetapi juga bisa membunuh Anda?",
+    "jawaban": "Air",
+    "pilihanJawaban": [
+      "Makanan",
+      "Oksigen",
+      "Air",
+      "Obat",
+      "Cinta"
+    ]
+  },
+  {
+    "index": 15,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda berdiri tetapi tidak bisa berjalan?",
+    "jawaban": "Pertanyaan",
+    "pilihanJawaban": [
+      "Jawaban",
+      "Pertanyaan",
+      "Kebingungan",
+      "Tebakan",
+      "Pikiran"
+    ]
+  },
+  {
+    "index": 16,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda merasa sejuk meskipun tidak ada salju?",
+    "jawaban": "Angin kipas",
+    "pilihanJawaban": [
+      "Air",
+      "Es krim",
+      "AC (Air Conditioner)",
+      "Angin kipas",
+      "Kulkas"
+    ]
+  },
+  {
+    "index": 17,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu berada di depan mata Anda tetapi Anda tidak pernah melihatnya?",
+    "jawaban": "Masa Depan",
+    "pilihanJawaban": [
+      "Mata",
+      "Ponsel",
+      "Masa Depan",
+      "Buku",
+      "Kaca"
+    ]
+  },
+  {
+    "index": 18,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda terbang tanpa sayap dan berbicara tanpa suara?",
+    "jawaban": "Pikiran",
+    "pilihanJawaban": [
+      "Cahaya",
+      "Mimpi",
+      "Bahasa isyarat",
+      "Pikiran",
+      "Telepati"
+    ]
+  },
+  {
+    "index": 19,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu di belakang Anda, tetapi Anda tidak pernah bisa mengejar?",
+    "jawaban": "Usia",
+    "pilihanJawaban": [
+      "Angan-angan",
+      "Waktu",
+      "Usia",
+      "Masa depan",
+      "Kemajuan"
+    ]
+  },
+  {
+    "index": 20,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda lebih cerdas saat Anda berbagi dengannya?",
+    "jawaban": "Pengetahuan",
+    "pilihanJawaban": [
+      "Uang",
+      "Kebijaksanaan",
+      "Buku",
+      "Pendidikan",
+      "Pengetahuan"
+    ]
+  },
+  {
+    "index": 21,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki banyak gigi tetapi tidak bisa mengunyah?",
+    "jawaban": "Gergaji",
+    "pilihanJawaban": [
+      "Piring",
+      "Saw",
+      "Gergaji",
+      "Mobil",
+      "Gembok"
+    ]
+  },
+  {
+    "index": 22,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda berhenti tetapi tidak bisa Anda sentuh?",
+    "jawaban": "Suara",
+    "pilihanJawaban": [
+      "Kunci",
+      "Api",
+      "Angin",
+      "Suara",
+      "Cahaya"
+    ]
+  },
+  {
+    "index": 23,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa memotong tanpa pisau dan berbicara tanpa mulut?",
+    "jawaban": "Bahasa",
+    "pilihanJawaban": [
+      "Gunting",
+      "Suara",
+      "Bahasa",
+      "Cahaya",
+      "Kertas"
+    ]
+  },
+  {
+    "index": 24,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada tetapi tidak bisa dipegang?",
+    "jawaban": "Bayangan",
+    "pilihanJawaban": [
+      "Suara",
+      "Angin",
+      "Api",
+      "Bayangan",
+      "Cahaya"
+    ]
+  },
+  {
+    "index": 25,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki mata, tetapi tidak bisa melihat?",
+    "jawaban": "Kamera",
+    "pilihanJawaban": [
+      "Buku",
+      "Ponsel",
+      "Lidah",
+      "Kucing",
+      "Kamera"
+    ]
+  },
+  {
+    "index": 26,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki banyak kunci tetapi tidak bisa membuka pintu?",
+    "jawaban": "Piano",
+    "pilihanJawaban": [
+      "Piano",
+      "Gembok",
+      "Kunci",
+      "Laci",
+      "Kotak"
+    ]
+  },
+  {
+    "index": 27,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda tertawa saat Anda tidur?",
+    "jawaban": "Mimpi lucu",
+    "pilihanJawaban": [
+      "Gurauan",
+      "Bantal",
+      "TV",
+      "Mimpi lucu",
+      "Komik"
+    ]
+  },
+  {
+    "index": 28,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda pegang tetapi tidak bisa Anda sentuh?",
+    "jawaban": "Nafas",
+    "pilihanJawaban": [
+      "Angin",
+      "Nafas",
+      "Asap",
+      "Api",
+      "Bunga"
+    ]
+  },
+  {
+    "index": 29,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda marah saat Anda terima?",
+    "jawaban": "Tagihan",
+    "pilihanJawaban": [
+      "Surat cinta",
+      "Hadiah",
+      "Ucapan terima kasih",
+      "Tagihan",
+      "Pujian"
+    ]
+  },
+  {
+    "index": 30,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki empat mata tetapi tidak bisa melihat?",
+    "jawaban": "Lensa kacamata",
+    "pilihanJawaban": [
+      "Lensa kacamata",
+      "Kucing",
+      "Buku",
+      "Kamera",
+      "Burung"
+    ]
+  },
+  {
+    "index": 31,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu datang tetapi tidak pernah tiba?",
+    "jawaban": "Besok",
+    "pilihanJawaban": [
+      "Hari ini",
+      "Besok",
+      "Kemarin",
+      "Nanti",
+      "Sekarang"
+    ]
+  },
+  {
+    "index": 32,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa mengisi sebuah rumah tetapi tidak bisa mengisi sebuah tempat tidur?",
+    "jawaban": "Pintu",
+    "pilihanJawaban": [
+      "Atap",
+      "Lantai",
+      "Pintu",
+      "Jendela",
+      "Dinding"
+    ]
+  },
+  {
+    "index": 33,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa terbang tanpa sayap dan bisa menangis tanpa mata?",
+    "jawaban": "Awan",
+    "pilihanJawaban": [
+      "Burung",
+      "Kupu-kupu",
+      "Angin",
+      "Pesawat",
+      "Awan"
+    ]
+  },
+  {
+    "index": 34,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada tetapi tidak pernah terlihat?",
+    "jawaban": "Besok",
+    "pilihanJawaban": [
+      "Besok",
+      "Kemarin",
+      "Sekarang",
+      "Masa lalu",
+      "Waktu"
+    ]
+  },
+  {
+    "index": 35,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda terbang tanpa mesin?",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Pesawat",
+      "Balon udara",
+      "Mimpi",
+      "Helikopter",
+      "Roket"
+    ]
+  },
+  {
+    "index": 36,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda berdiri tetapi tidak bisa Anda pegang?",
+    "jawaban": "Janji",
+    "pilihanJawaban": [
+      "Buku",
+      "Uang",
+      "Tulisan",
+      "Hujan",
+      "Janji"
+    ]
+  },
+  {
+    "index": 37,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda kaya saat Anda berikan kepada orang lain?",
+    "jawaban": "Pengetahuan",
+    "pilihanJawaban": [
+      "Uang",
+      "Pendidikan",
+      "Emas",
+      "Pengetahuan",
+      "Harta"
+    ]
+  },
+  {
+    "index": 38,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa bergerak tetapi tidak memiliki otot?",
+    "jawaban": "Kapal",
+    "pilihanJawaban": [
+      "Kapal",
+      "Pesawat",
+      "Mobil",
+      "Kereta",
+      "Sepeda"
+    ]
+  },
+  {
+    "index": 39,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dapat mengubah warna tetapi tidak bisa dicat?",
+    "jawaban": "Matahari terbenam",
+    "pilihanJawaban": [
+      "Buku",
+      "Pohon",
+      "Batu",
+      "Matahari terbenam",
+      "Bunga"
+    ]
+  },
+  {
+    "index": 40,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada di belakang Anda, tetapi Anda tidak pernah mencapainya?",
+    "jawaban": "Masa lalu",
+    "pilihanJawaban": [
+      "Masa lalu",
+      "Masa depan",
+      "Ponsel",
+      "Bayangan",
+      "Uang"
+    ]
+  },
+  {
+    "index": 41,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki banyak mata tetapi tidak bisa melihat?",
+    "jawaban": "Kentang",
+    "pilihanJawaban": [
+      "Tulisan",
+      "Buku",
+      "Kamera",
+      "Kentang",
+      "Kucing"
+    ]
+  },
+  {
+    "index": 42,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda tersenyum ketika Anda memilikinya?",
+    "jawaban": "Kunci",
+    "pilihanJawaban": [
+      "Buku",
+      "Ponsel",
+      "Boneka",
+      "Es krim",
+      "Kunci"
+    ]
+  },
+  {
+    "index": 43,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat orang lain menangis saat Anda tertawa?",
+    "jawaban": "Tertawa",
+    "pilihanJawaban": [
+      "Bercanda",
+      "Berpikir",
+      "Berbicara",
+      "Tertawa",
+      "Memeluk"
+    ]
+  },
+  {
+    "index": 44,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda menggigit tanpa gigi?",
+    "jawaban": "Peralatan makan",
+    "pilihanJawaban": [
+      "Peralatan makan",
+      "Gula",
+      "Makanan",
+      "Kata-kata",
+      "Susu"
+    ]
+  },
+  {
+    "index": 45,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada di dalam rumah tetapi tidak bisa keluar?",
+    "jawaban": "Atap",
+    "pilihanJawaban": [
+      "Atap",
+      "Pintu",
+      "Dinding",
+      "Jendela",
+      "Lantai"
+    ]
+  },
+  {
+    "index": 46,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa berbicara tanpa suara dan bisa pergi ke mana saja tanpa kaki?",
+    "jawaban": "Ponsel",
+    "pilihanJawaban": [
+      "Radio",
+      "Komputer",
+      "Mikrofon",
+      "Ponsel",
+      "TV"
+    ]
+  },
+  {
+    "index": 47,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat orang merasa penasaran tanpa menjawab pertanyaan?",
+    "jawaban": "Tebak-tebakan",
+    "pilihanJawaban": [
+      "Kunci",
+      "Peta",
+      "Buku",
+      "Tebak-tebakan",
+      "Misteri"
+    ]
+  },
+  {
+    "index": 48,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda menangis saat Anda mencucinya?",
+    "jawaban": "Bawang",
+    "pilihanJawaban": [
+      "Tisu",
+      "Air",
+      "Piring",
+      "Bawang",
+      "Sabun"
+    ]
+  },
+  {
+    "index": 49,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat orang lain bahagia tetapi Anda sendiri tidak bisa merasakannya?",
+    "jawaban": "Senyum",
+    "pilihanJawaban": [
+      "Cinta",
+      "Senyum",
+      "Uang",
+      "Hadiah",
+      "Hujan"
+    ]
+  },
+  {
+    "index": 50,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu mengikuti Anda, di mana pun Anda pergi?",
+    "jawaban": "Bayangan",
+    "pilihanJawaban": [
+      "Angin",
+      "Hujan",
+      "Ponsel",
+      "Cahaya",
+      "Bayangan"
+    ]
+  },
+  {
+    "index": 51,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda lihat dengan mata tetapi tidak bisa Anda sentuh dengan tangan?",
+    "jawaban": "Masa depan",
+    "pilihanJawaban": [
+      "Kaca",
+      "Masa depan",
+      "Buku",
+      "Kunci",
+      "Ponsel"
+    ]
+  },
+  {
+    "index": 52,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki roda tetapi tidak bisa bergerak?",
+    "jawaban": "Kursi",
+    "pilihanJawaban": [
+      "Troli",
+      "Kursi",
+      "Mobil",
+      "Sepeda",
+      "Pesawat"
+    ]
+  },
+  {
+    "index": 53,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa berbicara tetapi tidak memiliki mulut?",
+    "jawaban": "Televisi",
+    "pilihanJawaban": [
+      "Majalah",
+      "Komputer",
+      "Televisi",
+      "Radio",
+      "Buku"
+    ]
+  },
+  {
+    "index": 54,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda terbang tanpa sayap?",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Roket",
+      "Balon udara",
+      "Pesawat",
+      "Helikopter",
+      "Mimpi"
+    ]
+  },
+  {
+    "index": 55,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada di dalam diri Anda, tetapi Anda tidak bisa melihatnya?",
+    "jawaban": "Pikiran",
+    "pilihanJawaban": [
+      "Mata",
+      "Jantung",
+      "Pikiran",
+      "Hati",
+      "Tulang"
+    ]
+  },
+  {
+    "index": 56,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat orang merasa lapar meskipun mereka telah makan?",
+    "jawaban": "Bacaan",
+    "pilihanJawaban": [
+      "Olahraga",
+      "Minuman",
+      "Bacaan",
+      "Musik",
+      "Makanan"
+    ]
+  },
+  {
+    "index": 57,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa bergerak tanpa kaki dan mulut?",
+    "jawaban": "Jam dinding",
+    "pilihanJawaban": [
+      "Kuda",
+      "Bicycle",
+      "Pesawat",
+      "Mobil",
+      "Jam dinding"
+    ]
+  },
+  {
+    "index": 58,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa mengubah warna tanpa dicat?",
+    "jawaban": "Daun",
+    "pilihanJawaban": [
+      "Rumput",
+      "Langit",
+      "Bunga",
+      "Batu",
+      "Daun"
+    ]
+  },
+  {
+    "index": 59,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa meleleh meskipun suhu sangat dingin?",
+    "jawaban": "Es krim",
+    "pilihanJawaban": [
+      "Batu",
+      "Es krim",
+      "Air",
+      "Salju",
+      "Api"
+    ]
+  },
+  {
+    "index": 60,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa terbang tanpa mesin?",
+    "jawaban": "Waktu",
+    "pilihanJawaban": [
+      "Pesawat",
+      "Kupu-kupu",
+      "Burung",
+      "Angin",
+      "Waktu"
+    ]
+  },
+  {
+    "index": 61,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dapat membuat Anda tersenyum saat Anda menyentuhnya?",
+    "jawaban": "Kaca",
+    "pilihanJawaban": [
+      "Bantal",
+      "Ponsel",
+      "Kaca",
+      "Buku",
+      "Es krim"
+    ]
+  },
+  {
+    "index": 62,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa menggigit tanpa gigi?",
+    "jawaban": "Angin",
+    "pilihanJawaban": [
+      "Monyet",
+      "Kucing",
+      "Gajah",
+      "Ular",
+      "Angin"
+    ]
+  },
+  {
+    "index": 63,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa berdiri sendiri tetapi tidak bisa berjalan?",
+    "jawaban": "Pohon",
+    "pilihanJawaban": [
+      "Orang",
+      "Sapi",
+      "Pohon",
+      "Kuda",
+      "Mobil"
+    ]
+  },
+  {
+    "index": 64,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki kunci tetapi tidak ada pintu?",
+    "jawaban": "Keyboard",
+    "pilihanJawaban": [
+      "Ponsel",
+      "Mobil",
+      "Laci",
+      "Keyboard",
+      "Gembok"
+    ]
+  },
+  {
+    "index": 65,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda lihat dengan mata tetapi tidak bisa Anda sentuh?",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Buku",
+      "Kaca",
+      "Mimpi",
+      "TV",
+      "Bantal"
+    ]
+  },
+  {
+    "index": 66,
+    "web": "md-code.xyz",
+    "soal": "Apa yang ada di ujung langit tetapi tidak bisa Anda pegang?",
+    "jawaban": "Huruf 'T'",
+    "pilihanJawaban": [
+      "Pesawat",
+      "Bulan",
+      "Matahari",
+      "Huruf 'T'",
+      "Awan"
+    ]
+  },
+  {
+    "index": 67,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu berjalan tetapi tidak pernah bergerak?",
+    "jawaban": "Jalur kereta api",
+    "pilihanJawaban": [
+      "Roda",
+      "Jalur kereta api",
+      "Ponsel",
+      "Jam",
+      "Pasar"
+    ]
+  },
+  {
+    "index": 68,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki hati tetapi tidak bisa mencintai?",
+    "jawaban": "Artis",
+    "pilihanJawaban": [
+      "Artis",
+      "Kucing",
+      "Tebak-tebakan",
+      "Buku",
+      "Lagu"
+    ]
+  },
+  {
+    "index": 69,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa dipegang tetapi tidak bisa Anda lihat?",
+    "jawaban": "Suara",
+    "pilihanJawaban": [
+      "Suara",
+      "Angin",
+      "Api",
+      "Cahaya",
+      "Kunci"
+    ]
+  },
+  {
+    "index": 70,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa melompat tanpa kaki dan bisa berkeliaran tanpa tangan?",
+    "jawaban": "Katak",
+    "pilihanJawaban": [
+      "Katak",
+      "Burung",
+      "Monyet",
+      "Ikan",
+      "Kuda"
+    ]
+  },
+  {
+    "index": 71,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa berbicara tanpa suara?",
+    "jawaban": "Tulisan",
+    "pilihanJawaban": [
+      "TV",
+      "Kucing",
+      "Buku",
+      "Tulisan",
+      "Radio"
+    ]
+  },
+  {
+    "index": 72,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki banyak mata, tetapi tidak bisa melihat?",
+    "jawaban": "Kartu poker",
+    "pilihanJawaban": [
+      "Kartu poker",
+      "Tulisan",
+      "Kucing",
+      "Buku",
+      "Kamera"
+    ]
+  },
+  {
+    "index": 73,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa memotong tanpa menggunakan pisau?",
+    "jawaban": "Kata-kata",
+    "pilihanJawaban": [
+      "Tebak-tebakan",
+      "Kunci",
+      "Tangan",
+      "Gunting",
+      "Kata-kata"
+    ]
+  },
+  {
+    "index": 74,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu dekat tetapi tidak pernah bisa dipegang?",
+    "jawaban": "Masa lalu",
+    "pilihanJawaban": [
+      "Uang",
+      "Waktu",
+      "Masa depan",
+      "Masa lalu",
+      "Buku"
+    ]
+  },
+  {
+    "index": 75,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa merusak pakaian tetapi tidak bisa mencucinya?",
+    "jawaban": "Api",
+    "pilihanJawaban": [
+      "Sabun",
+      "Matahari",
+      "Angin",
+      "Air",
+      "Api"
+    ]
+  },
+  {
+    "index": 76,
+    "web": "md-code.xyz",
+    "soal": "Apa yang berjalan di atas air tetapi tidak bisa berenang?",
+    "jawaban": "Kapal",
+    "pilihanJawaban": [
+      "Katak",
+      "Pesawat",
+      "Anjing",
+      "Kapal",
+      "Perahu"
+    ]
+  },
+  {
+    "index": 77,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat orang tertidur ketika ia berbicara?",
+    "jawaban": "Obat tidur",
+    "pilihanJawaban": [
+      "Orang tua",
+      "Musik",
+      "Obat tidur",
+      "Buku",
+      "Guru"
+    ]
+  },
+  {
+    "index": 78,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda tangkap tetapi tidak bisa Anda lepaskan?",
+    "jawaban": "Foto",
+    "pilihanJawaban": [
+      "Ikan",
+      "Foto",
+      "Angin",
+      "Ponsel",
+      "Burung"
+    ]
+  },
+  {
+    "index": 79,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki gigi tetapi tidak bisa mengunyah?",
+    "jawaban": "Sekrup",
+    "pilihanJawaban": [
+      "Sekrup",
+      "Mobil",
+      "Kucing",
+      "Piring",
+      "Gembok"
+    ]
+  },
+  {
+    "index": 80,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa menjadi lebih besar saat Anda menghapus sebagian darinya?",
+    "jawaban": "Lubang",
+    "pilihanJawaban": [
+      "Uang",
+      "Beban",
+      "Pekerjaan",
+      "Pikiran",
+      "Lubang"
+    ]
+  },
+  {
+    "index": 81,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa bergerak cepat dan tetap di tempat yang sama?",
+    "jawaban": "Waktu",
+    "pilihanJawaban": [
+      "Lidah",
+      "Pikiran",
+      "Mobil",
+      "Waktu",
+      "Sapi"
+    ]
+  },
+  {
+    "index": 82,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu datang, tetapi tidak pernah tiba?",
+    "jawaban": "Besok",
+    "pilihanJawaban": [
+      "Hujan",
+      "Besok",
+      "Malam",
+      "Mimpi",
+      "Angin"
+    ]
+  },
+  {
+    "index": 83,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa menjadi lebih berat saat semakin banyak Anda hapus?",
+    "jawaban": "Lubang",
+    "pilihanJawaban": [
+      "Uang",
+      "Beban",
+      "Pekerjaan",
+      "Lubang",
+      "Pikiran"
+    ]
+  },
+  {
+    "index": 84,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dimiliki oleh orang yang memberikannya, tetapi orang lain yang lebih sering menggunakannya?",
+    "jawaban": "Nama",
+    "pilihanJawaban": [
+      "Mobil",
+      "Tangan",
+      "Rumah",
+      "Nama",
+      "Uang"
+    ]
+  },
+  {
+    "index": 85,
+    "web": "md-code.xyz",
+    "soal": "Apa yang tidak bisa berbicara saat mulutnya tertutup?",
+    "jawaban": "Botol",
+    "pilihanJawaban": [
+      "Anjing",
+      "Botol",
+      "Lidah",
+      "Pintu",
+      "Kucing"
+    ]
+  },
+  {
+    "index": 86,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa terbang tanpa sayap dan menangis tanpa mata?",
+    "jawaban": "Awan",
+    "pilihanJawaban": [
+      "Awan",
+      "Pesawat",
+      "Kucing",
+      "Angin",
+      "Salju"
+    ]
+  },
+  {
+    "index": 87,
+    "web": "md-code.xyz",
+    "soal": "Apa yang berjalan tanpa kaki dan bergerak tanpa sayap?",
+    "jawaban": "Jam",
+    "pilihanJawaban": [
+      "Jam",
+      "Kuda",
+      "Pesawat",
+      "Sepatu",
+      "Mobil"
+    ]
+  },
+  {
+    "index": 88,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada, tetapi tidak pernah ada saat Anda mencarinya?",
+    "jawaban": "Kata 'Kurang'",
+    "pilihanJawaban": [
+      "Angin",
+      "Bulan",
+      "Kata 'Kurang'",
+      "Uang",
+      "Mobil"
+    ]
+  },
+  {
+    "index": 89,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda tahan lama?",
+    "jawaban": "Makanan",
+    "pilihanJawaban": [
+      "Tidur",
+      "Air",
+      "Makanan",
+      "Olahraga",
+      "Musik"
+    ]
+  },
+  {
+    "index": 90,
+    "web": "md-code.xyz",
+    "soal": "Apa yang terbang tanpa sayap?",
+    "jawaban": "Waktu",
+    "pilihanJawaban": [
+      "Pesawat",
+      "Waktu",
+      "Angin",
+      "Burung",
+      "Kupu-kupu"
+    ]
+  },
+  {
+    "index": 91,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membelah laut dan menggigit besi?",
+    "jawaban": "Karang",
+    "pilihanJawaban": [
+      "Sapi",
+      "Gergaji",
+      "Ikan",
+      "Karang",
+      "Pirah"
+    ]
+  },
+  {
+    "index": 92,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu datang namun tidak pernah tinggal?",
+    "jawaban": "Hari",
+    "pilihanJawaban": [
+      "Malam",
+      "Bulan",
+      "Matahari",
+      "Tahun",
+      "Hari"
+    ]
+  },
+  {
+    "index": 93,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu mendekat tetapi tidak pernah sampai?",
+    "jawaban": "Jalan",
+    "pilihanJawaban": [
+      "Pintu",
+      "Pesawat",
+      "Mobil",
+      "Jalan",
+      "Rumah"
+    ]
+  },
+  {
+    "index": 94,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu mengikuti Anda, bahkan ketika Anda berjalan?",
+    "jawaban": "Bayangan",
+    "pilihanJawaban": [
+      "Kamera",
+      "Bayangan",
+      "Cahaya",
+      "Angin",
+      "Mimpi"
+    ]
+  },
+  {
+    "index": 95,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada di belakang mata Anda tetapi Anda tidak pernah melihatnya?",
+    "jawaban": "Kepala",
+    "pilihanJawaban": [
+      "Kepala",
+      "Otak",
+      "Pandangan",
+      "Mata",
+      "Bulu mata"
+    ]
+  },
+  {
+    "index": 96,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu datang tapi tidak pernah datang?",
+    "jawaban": "Besok",
+    "pilihanJawaban": [
+      "Laut",
+      "Malas",
+      "Pagi",
+      "Hujan",
+      "Besok"
+    ]
+  },
+  {
+    "index": 97,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki mata namun tidak dapat melihat?",
+    "jawaban": "Ikan",
+    "pilihanJawaban": [
+      "Ikan",
+      "Kucing",
+      "Kamera",
+      "Lampu",
+      "Burung"
+    ]
+  },
+  {
+    "index": 98,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa menjadi milik Anda tetapi orang lain lebih sering menggunakannya?",
+    "jawaban": "Nama",
+    "pilihanJawaban": [
+      "Rumah",
+      "Baju",
+      "Nama",
+      "Uang",
+      "Mobil"
+    ]
+  },
+  {
+    "index": 99,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu di depan Anda tetapi Anda tidak dapat melihatnya?",
+    "jawaban": "Masa Depan",
+    "pilihanJawaban": [
+      "Masa Depan",
+      "Pintu",
+      "Teman",
+      "Hari",
+      "Televisi"
+    ]
+  },
+  {
+    "index": 100,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa terbang tanpa sayap?",
+    "jawaban": "Waktu",
+    "pilihanJawaban": [
+      "Pesawat",
+      "Helikopter",
+      "Burung",
+      "Waktu",
+      "Balon Udara"
+    ]
+  },
+  {
+    "index": 101,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dapat Anda pegang tetapi tidak dapat Anda sentuh?",
+    "jawaban": "Uang",
+    "pilihanJawaban": [
+      "Nafas",
+      "Harapan",
+      "Waktu",
+      "Kata",
+      "Uang"
+    ]
+  },
+  {
+    "index": 102,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki kunci tetapi tidak memiliki pintu?",
+    "jawaban": "Keyboard",
+    "pilihanJawaban": [
+      "Keyboard",
+      "Mobil",
+      "Rumah",
+      "Laci",
+      "Kunci"
+    ]
+  },
+  {
+    "index": 103,
+    "web": "md-code.xyz",
+    "soal": "Apa yang akan selalu bertambah tetapi tidak pernah berkurang?",
+    "jawaban": "Usia",
+    "pilihanJawaban": [
+      "Usia",
+      "Berpikir",
+      "Uang",
+      "Waktu",
+      "Pekerjaan"
+    ]
+  },
+  {
+    "index": 104,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda hancurkan dengan hanya satu kata?",
+    "jawaban": "Diam",
+    "pilihanJawaban": [
+      "Hati",
+      "Gelas",
+      "Bendera",
+      "Diam",
+      "Batu"
+    ]
+  },
+  {
+    "index": 105,
+    "web": "md-code.xyz",
+    "soal": "Apa yang berdiri di sudut dan terus menangis?",
+    "jawaban": "Mangkuk",
+    "pilihanJawaban": [
+      "Jam",
+      "Kucing",
+      "Pohon",
+      "Orang",
+      "Mangkuk"
+    ]
+  },
+  {
+    "index": 106,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda tempatkan di dalam kantong tetapi juga bisa menjalani seluruh ruangan?",
+    "jawaban": "Cahaya",
+    "pilihanJawaban": [
+      "Kucing",
+      "Televisi",
+      "Kunci",
+      "Angin",
+      "Cahaya"
+    ]
+  },
+  {
+    "index": 107,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dimiliki oleh Anda, tetapi orang lain lebih sering menggunakannya?",
+    "jawaban": "Nama",
+    "pilihanJawaban": [
+      "Ponsel",
+      "Mobil",
+      "Baju",
+      "Rumah",
+      "Nama"
+    ]
+  },
+  {
+    "index": 108,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa melekat pada Anda tetapi tidak bisa Anda pegang?",
+    "jawaban": "Umur",
+    "pilihanJawaban": [
+      "Umur",
+      "Kilat",
+      "Stiker",
+      "Cat",
+      "Kepingan Es"
+    ]
+  },
+  {
+    "index": 109,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada ketika Anda tidur tetapi tidak ada ketika Anda bangun?",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Mimpi",
+      "Kasur",
+      "Selimut",
+      "Susu",
+      "Bantal"
+    ]
+  },
+  {
+    "index": 110,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu berlari tetapi tidak pernah pergi?",
+    "jawaban": "Air",
+    "pilihanJawaban": [
+      "Angin",
+      "Mobil",
+      "Api",
+      "Waktu",
+      "Air"
+    ]
+  },
+  {
+    "index": 111,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda tempatkan di dalam kantong Anda tetapi tidak bisa Anda pegang?",
+    "jawaban": "Angin",
+    "pilihanJawaban": [
+      "Api",
+      "Angin",
+      "Cahaya",
+      "Batu",
+      "Kunci"
+    ]
+  },
+  {
+    "index": 112,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki kaki tetapi tidak bisa berjalan?",
+    "jawaban": "Meja",
+    "pilihanJawaban": [
+      "Kucing",
+      "Pohon",
+      "Meja",
+      "Buku",
+      "Orang"
+    ]
+  },
+  {
+    "index": 113,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa menghasilkan api tetapi tidak bisa menghasilkan asap?",
+    "jawaban": "Korek Api",
+    "pilihanJawaban": [
+      "Kayu",
+      "Kompor",
+      "Rokok",
+      "Korek Api",
+      "Mangkuk"
+    ]
+  },
+  {
+    "index": 114,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa mematahkan tanpa suara?",
+    "jawaban": "Diam",
+    "pilihanJawaban": [
+      "Tulang",
+      "Batu",
+      "Gelas",
+      "Kayu",
+      "Diam"
+    ]
+  },
+  {
+    "index": 115,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada di belakang Anda, tetapi Anda tidak pernah bisa mengejarnya?",
+    "jawaban": "Bayangan",
+    "pilihanJawaban": [
+      "Bayangan",
+      "Uang",
+      "Mobil",
+      "Waktu",
+      "Angin"
+    ]
+  },
+  {
+    "index": 116,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membunuh Anda jika Anda tertabrak olehnya?",
+    "jawaban": "Kereta Api",
+    "pilihanJawaban": [
+      "Pesawat",
+      "Sepeda",
+      "Mobil",
+      "Kapal",
+      "Kereta Api"
+    ]
+  },
+  {
+    "index": 117,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda temukan di akhir laut dan awal langit?",
+    "jawaban": "Huruf 'T'",
+    "pilihanJawaban": [
+      "Huruf 'T'",
+      "Ikan",
+      "Ular",
+      "Kapal",
+      "Bir"
+    ]
+  },
+  {
+    "index": 118,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa mengetuk Anda tetapi tidak memiliki tangan?",
+    "jawaban": "Waktu",
+    "pilihanJawaban": [
+      "Hujan",
+      "Pintu",
+      "Waktu",
+      "Jam",
+      "Angin"
+    ]
+  },
+  {
+    "index": 119,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dapat terbang tanpa sayap dan dapat menangis tanpa mata?",
+    "jawaban": "Awan",
+    "pilihanJawaban": [
+      "Api",
+      "Angin",
+      "Burung",
+      "Pesawat",
+      "Awan"
+    ]
+  },
+  {
+    "index": 120,
+    "web": "md-code.xyz",
+    "soal": "Apa yang tidak bisa dimakan oleh manusia tetapi bisa dimakan oleh api?",
+    "jawaban": "Bensin",
+    "pilihanJawaban": [
+      "Pohon",
+      "Plastik",
+      "Karet",
+      "Batu",
+      "Bensin"
+    ]
+  },
+  {
+    "index": 121,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada di dekat Anda tetapi Anda tidak pernah menyadarinya?",
+    "jawaban": "Hidung",
+    "pilihanJawaban": [
+      "Hidung",
+      "Mobil",
+      "Kunci",
+      "Ponsel",
+      "Buku"
+    ]
+  },
+  {
+    "index": 122,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada namun tidak bisa dipegang?",
+    "jawaban": "Janji",
+    "pilihanJawaban": [
+      "Bunga",
+      "Kata-kata",
+      "Mimpi",
+      "Angin",
+      "Janji"
+    ]
+  },
+  {
+    "index": 123,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa dipegang tetapi tidak bisa disentuh?",
+    "jawaban": "Bayangan",
+    "pilihanJawaban": [
+      "Bayangan",
+      "Uang",
+      "Batu",
+      "Air",
+      "Kata"
+    ]
+  },
+  {
+    "index": 124,
+    "web": "md-code.xyz",
+    "soal": "Apa yang lebih banyak Anda berikan, semakin banyak yang Anda miliki?",
+    "jawaban": "Nasihat",
+    "pilihanJawaban": [
+      "Nasihat",
+      "Uang",
+      "Cinta",
+      "Tantangan",
+      "Waktu"
+    ]
+  },
+  {
+    "index": 125,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa merusak kapan saja, tetapi tidak bisa dihentikan?",
+    "jawaban": "Cuaca",
+    "pilihanJawaban": [
+      "Air",
+      "Orang",
+      "Api",
+      "Cuaca",
+      "Gempa"
+    ]
+  },
+  {
+    "index": 126,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa ditemukan di ujung langit?",
+    "jawaban": "Titik",
+    "pilihanJawaban": [
+      "Awan",
+      "Bulan",
+      "Bintang",
+      "Titik",
+      "Pesawat"
+    ]
+  },
+  {
+    "index": 127,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda berdiri tetapi tidak memiliki kaki?",
+    "jawaban": "Applause",
+    "pilihanJawaban": [
+      "Applause",
+      "Musik",
+      "Layar",
+      "Kucing",
+      "Kursi"
+    ]
+  },
+  {
+    "index": 128,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu datang tapi tidak pernah tiba?",
+    "jawaban": "Besok",
+    "pilihanJawaban": [
+      "Besok",
+      "Ujian",
+      "Sekolah",
+      "Mimpi",
+      "Hari"
+    ]
+  },
+  {
+    "index": 129,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dapat mengelilingi dunia tanpa pernah bergerak?",
+    "jawaban": "Uang",
+    "pilihanJawaban": [
+      "Kapal Pesiar",
+      "Pesawat",
+      "Uang",
+      "Kepala",
+      "Peta"
+    ]
+  },
+  {
+    "index": 130,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu mengikuti Anda, tidak peduli di mana Anda pergi?",
+    "jawaban": "Bayangan",
+    "pilihanJawaban": [
+      "Bayangan",
+      "Hujan",
+      "Hantu",
+      "Uang",
+      "Mimpi"
+    ]
+  },
+  {
+    "index": 131,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa dimakan, tetapi tidak bisa dicerna?",
+    "jawaban": "Umur",
+    "pilihanJawaban": [
+      "Air",
+      "Kulit",
+      "Buku",
+      "Umur",
+      "Makanan"
+    ]
+  },
+  {
+    "index": 132,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa menghasilkan uang tanpa bekerja?",
+    "jawaban": "Mesin ATM",
+    "pilihanJawaban": [
+      "Pohon Uang",
+      "Kartu Kredit",
+      "Mesin ATM",
+      "Gaji",
+      "Loteri"
+    ]
+  },
+  {
+    "index": 133,
+    "web": "md-code.xyz",
+    "soal": "Apa yang ada di awal dan akhir waktu serta membuat Anda selalu terlambat?",
+    "jawaban": "Huruf 'A'",
+    "pilihanJawaban": [
+      "Jam",
+      "Tidur",
+      "Pesawat",
+      "Huruf 'A'",
+      "Pintu"
+    ]
+  },
+  {
+    "index": 134,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki mata tetapi tidak dapat melihat?",
+    "jawaban": "Kentang",
+    "pilihanJawaban": [
+      "Ikan",
+      "Kentang",
+      "Kaca",
+      "Matahari",
+      "Kamera"
+    ]
+  },
+  {
+    "index": 135,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa mengambil Anda dari tempat satu ke tempat lain tanpa bergerak?",
+    "jawaban": "Mobil",
+    "pilihanJawaban": [
+      "Teleportasi",
+      "Jet Pack",
+      "Kuda",
+      "Mobil",
+      "Sepatu Roda"
+    ]
+  },
+  {
+    "index": 136,
+    "web": "md-code.xyz",
+    "soal": "Apa yang tidak bisa Anda lihat tetapi selalu ada saat Anda melihat?",
+    "jawaban": "Masa Depan",
+    "pilihanJawaban": [
+      "Masa Depan",
+      "Bayangan",
+      "Mimpi",
+      "Kehilangan",
+      "Angin"
+    ]
+  },
+  {
+    "index": 137,
+    "web": "md-code.xyz",
+    "soal": "Apa yang lebih panjang jika ditarik, lebih pendek jika ditekan?",
+    "jawaban": "Usia",
+    "pilihanJawaban": [
+      "Usia",
+      "Tas",
+      "Karet",
+      "Roda",
+      "Tali"
+    ]
+  },
+  {
+    "index": 138,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda pegang tetapi tidak pernah Anda sentuh?",
+    "jawaban": "Percakapan",
+    "pilihanJawaban": [
+      "Kunci",
+      "Percakapan",
+      "Uang",
+      "Pikiran",
+      "Makanan"
+    ]
+  },
+  {
+    "index": 139,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu berjalan tetapi tidak memiliki kaki?",
+    "jawaban": "Sungai",
+    "pilihanJawaban": [
+      "Jalan Raya",
+      "Mobil",
+      "Pesawat",
+      "Sungai",
+      "Kapal"
+    ]
+  },
+  {
+    "index": 140,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dapat dipegang tetapi tidak bisa disentuh?",
+    "jawaban": "Janji",
+    "pilihanJawaban": [
+      "Gelang",
+      "Kunci",
+      "Janji",
+      "Buku",
+      "Uang"
+    ]
+  },
+  {
+    "index": 141,
+    "web": "md-code.xyz",
+    "soal": "Apa yang ada di tengah-tengah laut dan selalu didepan Anda?",
+    "jawaban": "Huruf 'T'",
+    "pilihanJawaban": [
+      "Tengah Lautan",
+      "Buku",
+      "Huruf 'T'",
+      "Pulau",
+      "Kapal"
+    ]
+  },
+  {
+    "index": 142,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dimiliki oleh Anda, tetapi digunakan lebih sering oleh orang lain?",
+    "jawaban": "Nama",
+    "pilihanJawaban": [
+      "Nama",
+      "Uang",
+      "Ponsel",
+      "Mobil",
+      "Pakaian"
+    ]
+  },
+  {
+    "index": 143,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa tumbuh tanpa memiliki akar, daun, atau batang?",
+    "jawaban": "Gosip",
+    "pilihanJawaban": [
+      "Pohon",
+      "Bunga",
+      "Gosip",
+      "Jamur",
+      "Rambut"
+    ]
+  },
+  {
+    "index": 144,
+    "web": "md-code.xyz",
+    "soal": "Apa yang berjalan di atas air, jika Anda membiarkannya ia akan tenggelam?",
+    "jawaban": "Bayangan",
+    "pilihanJawaban": [
+      "Bayangan",
+      "Angin",
+      "Kapal Kertas",
+      "Kaki",
+      "Kapal"
+    ]
+  },
+  {
+    "index": 145,
+    "web": "md-code.xyz",
+    "soal": "Apa yang tidak pernah terlambat, dan selalu datang tepat waktu?",
+    "jawaban": "Usia",
+    "pilihanJawaban": [
+      "Jam",
+      "Tanggal",
+      "Pengingat",
+      "Waktu",
+      "Usia"
+    ]
+  },
+  {
+    "index": 146,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada di depan Anda tetapi Anda tidak pernah bisa menangkapnya?",
+    "jawaban": "Masa Depan",
+    "pilihanJawaban": [
+      "Hantu",
+      "Angan-angan",
+      "Uang",
+      "Bayangan",
+      "Masa Depan"
+    ]
+  },
+  {
+    "index": 147,
+    "web": "md-code.xyz",
+    "soal": "Apa yang lebih banyak Anda berikan, lebih banyak Anda terimanya?",
+    "jawaban": "Nasihat",
+    "pilihanJawaban": [
+      "Tidur",
+      "Makanan",
+      "Nasihat",
+      "Uang",
+      "Pakaian"
+    ]
+  },
+  {
+    "index": 148,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dapat membuat Anda terbang tanpa sayap?",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Angin",
+      "Helikopter",
+      "Mimpi",
+      "Pesawat",
+      "Balon Udara"
+    ]
+  },
+  {
+    "index": 149,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa jatuh tanpa pernah menyentuh tanah?",
+    "jawaban": "Hujan",
+    "pilihanJawaban": [
+      "Batu",
+      "Hujan",
+      "Daun",
+      "Burung",
+      "Pesawat"
+    ]
+  },
+  {
+    "index": 150,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda pegang, tetapi tidak bisa Anda sentuh?",
+    "jawaban": "Pikiran",
+    "pilihanJawaban": [
+      "Gelang",
+      "Cermin",
+      "Pikiran",
+      "Buku",
+      "Kunci"
+    ]
+  },
+  {
+    "index": 151,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dapat membuat Anda tertawa tetapi tidak pernah menyapa?",
+    "jawaban": "Komedi",
+    "pilihanJawaban": [
+      "Anjing",
+      "Mobil",
+      "Teman",
+      "Radio",
+      "Komedi"
+    ]
+  },
+  {
+    "index": 152,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dapat Anda tempatkan di dalam kantong, tetapi tidak dapat Anda sentuh?",
+    "jawaban": "Cahaya",
+    "pilihanJawaban": [
+      "Koin",
+      "Cahaya",
+      "Angin",
+      "Mobil",
+      "Ponsel"
+    ]
+  },
+  {
+    "index": 153,
+    "web": "md-code.xyz",
+    "soal": "Apa yang lebih besar dari Bumi tetapi lebih ringan dari awan?",
+    "jawaban": "Bayangan",
+    "pilihanJawaban": [
+      "Bumi",
+      "Bayangan",
+      "Awan",
+      "Angin",
+      "Kapal"
+    ]
+  },
+  {
+    "index": 154,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada di depan Anda tetapi Anda tidak pernah mencapainya?",
+    "jawaban": "Masa Depan",
+    "pilihanJawaban": [
+      "Tebakan",
+      "Uang",
+      "Masa Depan",
+      "Mimpi",
+      "Hantu"
+    ]
+  },
+  {
+    "index": 155,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu bergerak tetapi tidak pernah berjalan?",
+    "jawaban": "Saat",
+    "pilihanJawaban": [
+      "Saat",
+      "Pesawat",
+      "Kapal",
+      "Kapal Kertas",
+      "Angin"
+    ]
+  },
+  {
+    "index": 156,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dimiliki oleh Anda tetapi digunakan lebih sering oleh orang lain?",
+    "jawaban": "Nama",
+    "pilihanJawaban": [
+      "Ponsel",
+      "Pakaian",
+      "Mobil",
+      "Uang",
+      "Nama"
+    ]
+  },
+  {
+    "index": 157,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dapat membuat Anda menangis, tetapi tidak pernah menangis?",
+    "jawaban": "Bawang",
+    "pilihanJawaban": [
+      "Film",
+      "Bayi",
+      "Air Mata",
+      "Buku",
+      "Bawang"
+    ]
+  },
+  {
+    "index": 158,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda lihat tetapi tidak bisa Anda sentuh?",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Bintang",
+      "Bulan",
+      "Ketidakpastian",
+      "Mimpi",
+      "Waktu"
+    ]
+  },
+  {
+    "index": 159,
+    "web": "md-code.xyz",
+    "soal": "Apa yang lebih panjang saat Anda gunakan, tetapi semakin pendek ketika Anda gunakan terlalu lama?",
+    "jawaban": "Umur",
+    "pilihanJawaban": [
+      "Umur",
+      "Roda",
+      "Karet",
+      "Tas",
+      "Tali"
+    ]
+  },
+  {
+    "index": 160,
+    "web": "md-code.xyz",
+    "soal": "Apa yang ada di tengah-tengah laut dan selalu di depan Anda?",
+    "jawaban": "Huruf 'A'",
+    "pilihanJawaban": [
+      "Pulau",
+      "Huruf 'A'",
+      "Tengah Lautan",
+      "Kapal",
+      "Buku"
+    ]
+  },
+  {
+    "index": 161,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dimulai ketika Anda menghentikannya?",
+    "jawaban": "Amplop",
+    "pilihanJawaban": [
+      "Roda",
+      "Mobil",
+      "Jam",
+      "Amplop",
+      "Sinyal"
+    ]
+  },
+  {
+    "index": 162,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa mengikuti Anda di mana pun Anda pergi, tetapi tidak bisa mengejar Anda?",
+    "jawaban": "Bayangan",
+    "pilihanJawaban": [
+      "Hantu",
+      "Kamera",
+      "Mobil",
+      "Bayangan",
+      "Kapal"
+    ]
+  },
+  {
+    "index": 163,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki kunci tetapi tidak bisa membuka pintu?",
+    "jawaban": "Piano",
+    "pilihanJawaban": [
+      "Pintu",
+      "Buku",
+      "Kunci",
+      "Piano",
+      "Gelang"
+    ]
+  },
+  {
+    "index": 164,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada tetapi tidak pernah bisa dilihat?",
+    "jawaban": "Besok",
+    "pilihanJawaban": [
+      "Sekolah",
+      "Uang",
+      "Besok",
+      "Hari",
+      "Mimpi"
+    ]
+  },
+  {
+    "index": 165,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa bergerak tanpa memiliki kaki?",
+    "jawaban": "Jam",
+    "pilihanJawaban": [
+      "Jam",
+      "Kapal",
+      "Roda",
+      "Bola",
+      "Angin"
+    ]
+  },
+  {
+    "index": 166,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa menangis tanpa mata?",
+    "jawaban": "Awan",
+    "pilihanJawaban": [
+      "Gosok Gigi",
+      "Air Mata",
+      "Kucing",
+      "Bayi",
+      "Awan"
+    ]
+  },
+  {
+    "index": 167,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa menjadi besar atau kecil, tetapi tidak pernah bisa menjadi tua?",
+    "jawaban": "Pikiran",
+    "pilihanJawaban": [
+      "Baju",
+      "Kunci",
+      "Baju",
+      "Mobil",
+      "Pikiran"
+    ]
+  },
+  {
+    "index": 168,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda ambil, tetapi tidak bisa Anda pegang?",
+    "jawaban": "Foto",
+    "pilihanJawaban": [
+      "Uang",
+      "Pikiran",
+      "Foto",
+      "Makanan",
+      "Kunci"
+    ]
+  },
+  {
+    "index": 169,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dapat membuat Anda tertawa dan menangis pada saat yang sama?",
+    "jawaban": "Buah Pala",
+    "pilihanJawaban": [
+      "Buah Pala",
+      "Komedi",
+      "Musik",
+      "Acara TV",
+      "Film"
+    ]
+  },
+  {
+    "index": 170,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa berdiri di ujung kepala Anda?",
+    "jawaban": "Rambut",
+    "pilihanJawaban": [
+      "Mangkuk",
+      "Kacamata",
+      "Rambut",
+      "Antena",
+      "Topi"
+    ]
+  },
+  {
+    "index": 171,
+    "web": "md-code.xyz",
+    "soal": "Apa yang tidak pernah datang jika Anda memanggilnya?",
+    "jawaban": "Makan Malam",
+    "pilihanJawaban": [
+      "Pesawat",
+      "Makan Malam",
+      "Pakaian",
+      "Teman",
+      "Ponsel"
+    ]
+  },
+  {
+    "index": 172,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada di depan Anda tetapi Anda tidak pernah bisa mengejarnya?",
+    "jawaban": "Masa Depan",
+    "pilihanJawaban": [
+      "Mimpi",
+      "Angin",
+      "Kehilangan",
+      "Masa Depan",
+      "Bayangan"
+    ]
+  },
+  {
+    "index": 173,
+    "web": "md-code.xyz",
+    "soal": "Apa yang dapat Anda pegang tetapi tidak pernah Anda sentuh?",
+    "jawaban": "Janji",
+    "pilihanJawaban": [
+      "Buku",
+      "Gelang",
+      "Kunci",
+      "Uang",
+      "Janji"
+    ]
+  },
+  {
+    "index": 174,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa menjadi lebih berat saat diisi?",
+    "jawaban": "Lubang",
+    "pilihanJawaban": [
+      "Bola",
+      "Lubang",
+      "Kotak",
+      "Air",
+      "Angin"
+    ]
+  },
+  {
+    "index": 175,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda basah meskipun tidak turun hujan?",
+    "jawaban": "Handuk",
+    "pilihanJawaban": [
+      "Sapu",
+      "Baju",
+      "Handuk",
+      "Payung",
+      "Topi"
+    ]
+  },
+  {
+    "index": 176,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada tetapi tidak pernah bisa Anda pegang?",
+    "jawaban": "Masa Depan",
+    "pilihanJawaban": [
+      "Waktu",
+      "Bayangan",
+      "Masa Depan",
+      "Ketidakpastian",
+      "Mimpi"
+    ]
+  },
+  {
+    "index": 177,
+    "web": "md-code.xyz",
+    "soal": "Apa yang lebih besar dari mata manusia, tetapi tidak bisa dilihat oleh mata manusia?",
+    "jawaban": "Bintang",
+    "pilihanJawaban": [
+      "Planet",
+      "Bintang",
+      "Galaksi",
+      "Komet",
+      "Awan"
+    ]
+  },
+  {
+    "index": 178,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat orang tertidur saat bangun?",
+    "jawaban": "Pelukan",
+    "pilihanJawaban": [
+      "Bantal",
+      "Mimpi",
+      "Obat",
+      "Pelukan",
+      "Televisi"
+    ]
+  },
+  {
+    "index": 179,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda berjalan tetapi tidak memiliki kaki?",
+    "jawaban": "Jalan Raya",
+    "pilihanJawaban": [
+      "Mobil",
+      "Pesawat",
+      "Jalan Raya",
+      "Kapal",
+      "Sepatu"
+    ]
+  },
+  {
+    "index": 180,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa memutar tetapi tidak memiliki roda?",
+    "jawaban": "Bumi",
+    "pilihanJawaban": [
+      "Jam",
+      "Pesawat",
+      "Kapal",
+      "Mobil",
+      "Bumi"
+    ]
+  },
+  {
+    "index": 181,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda jual, tetapi tidak pernah Anda beli?",
+    "jawaban": "Umur",
+    "pilihanJawaban": [
+      "Kartu",
+      "Umur",
+      "Rumah",
+      "Uang",
+      "Mobil"
+    ]
+  },
+  {
+    "index": 182,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda temukan di dalam rumah tetapi tidak dapat Anda bawa keluar rumah?",
+    "jawaban": "Tirai",
+    "pilihanJawaban": [
+      "Meja",
+      "Kursi",
+      "Pintu",
+      "Tirai",
+      "Lampu"
+    ]
+  },
+  {
+    "index": 183,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa berbicara tanpa memiliki mulut?",
+    "jawaban": "Televisi",
+    "pilihanJawaban": [
+      "Radio",
+      "Telefon",
+      "Televisi",
+      "Buku",
+      "Mobil"
+    ]
+  },
+  {
+    "index": 184,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada di udara tetapi tidak bisa Anda lihat?",
+    "jawaban": "Suara",
+    "pilihanJawaban": [
+      "Mimpi",
+      "Kupu-kupu",
+      "Suara",
+      "Bunga",
+      "Angin"
+    ]
+  },
+  {
+    "index": 185,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu ada di tengah laut tetapi tidak bisa basah?",
+    "jawaban": "Pulau",
+    "pilihanJawaban": [
+      "Pulau",
+      "Tengah Lautan",
+      "Laut",
+      "Kapal",
+      "Pesawat"
+    ]
+  },
+  {
+    "index": 186,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda tertawa dan menangis pada saat yang sama?",
+    "jawaban": "Buku Catatan",
+    "pilihanJawaban": [
+      "Buku Catatan",
+      "Musik",
+      "Acara TV",
+      "Komedi",
+      "Film"
+    ]
+  },
+  {
+    "index": 187,
+    "web": "md-code.xyz",
+    "soal": "Apa yang lebih berat dari gunung tetapi lebih ringan dari bulu?",
+    "jawaban": "Angin",
+    "pilihanJawaban": [
+      "Bulu",
+      "Kertas",
+      "Batu",
+      "Air",
+      "Angin"
+    ]
+  },
+  {
+    "index": 188,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda lihat dengan mata Anda sendiri, tetapi tidak dapat Anda lihat dengan mata manusia lain?",
+    "jawaban": "Mimpi",
+    "pilihanJawaban": [
+      "Ketidakpastian",
+      "Bintang",
+      "Waktu",
+      "Mimpi",
+      "Bulan"
+    ]
+  },
+  {
+    "index": 189,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda berhenti tetapi tidak pernah bisa Anda mulai lagi?",
+    "jawaban": "Kematian",
+    "pilihanJawaban": [
+      "Tidur",
+      "Malam",
+      "Kematian",
+      "Perasaan",
+      "Waktu"
+    ]
+  },
+  {
+    "index": 190,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda lihat dengan mata Anda tetapi tidak dapat Anda sentuh?",
+    "jawaban": "Jarak",
+    "pilihanJawaban": [
+      "Pikiran",
+      "Angin",
+      "Ketidakpastian",
+      "Bunga",
+      "Jarak"
+    ]
+  },
+  {
+    "index": 191,
+    "web": "md-code.xyz",
+    "soal": "Apa yang lebih panjang saat Anda gunakan, tetapi semakin pendek saat Anda gunakan terlalu lama?",
+    "jawaban": "Sumpah",
+    "pilihanJawaban": [
+      "Karet",
+      "Sumpah",
+      "Tas",
+      "Tali",
+      "Roda"
+    ]
+  },
+  {
+    "index": 192,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa membuat Anda jatuh tanpa melukai diri Anda?",
+    "jawaban": "Tidur",
+    "pilihanJawaban": [
+      "Ponsel",
+      "Angin",
+      "Pohon",
+      "Tidur",
+      "Lantai"
+    ]
+  },
+  {
+    "index": 193,
+    "web": "md-code.xyz",
+    "soal": "Apa yang lebih cepat dari kilat dan lebih lambat dari cahaya?",
+    "jawaban": "Gelap",
+    "pilihanJawaban": [
+      "Gelap",
+      "Kilat",
+      "Cahaya",
+      "Malam",
+      "Suar"
+    ]
+  },
+  {
+    "index": 194,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa mengelilingi dunia tanpa pernah bergerak?",
+    "jawaban": "Perbatasan",
+    "pilihanJawaban": [
+      "Kapal Pesiar",
+      "Pesawat",
+      "Perbatasan",
+      "Peta",
+      "Kepala"
+    ]
+  },
+  {
+    "index": 195,
+    "web": "md-code.xyz",
+    "soal": "Apa yang selalu berada di belakang Anda, tetapi Anda tidak pernah melihatnya?",
+    "jawaban": "Masa Lalu",
+    "pilihanJawaban": [
+      "Bayangan",
+      "Mimpi",
+      "Masa Lalu",
+      "Hujan",
+      "Uang"
+    ]
+  },
+  {
+    "index": 196,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa melihat melalui dinding?",
+    "jawaban": "Jendela",
+    "pilihanJawaban": [
+      "Ikan",
+      "Lensa",
+      "Kaca",
+      "Jendela",
+      "Kamera"
+    ]
+  },
+  {
+    "index": 197,
+    "web": "md-code.xyz",
+    "soal": "Apa yang memiliki tiga kaki saat pagi, empat kaki saat siang, dan dua kaki saat malam?",
+    "jawaban": "Manusia",
+    "pilihanJawaban": [
+      "Anjing",
+      "Kucing",
+      "Ikan",
+      "Manusia",
+      "Kuda"
+    ]
+  },
+  {
+    "index": 198,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda buka tetapi tidak bisa Anda tutup?",
+    "jawaban": "Usia",
+    "pilihanJawaban": [
+      "Ponsel",
+      "Laci",
+      "Buku",
+      "Pintu",
+      "Usia"
+    ]
+  },
+  {
+    "index": 199,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa Anda lihat dengan mata Anda tetapi tidak bisa Anda sentuh?",
+    "jawaban": "Pikiran",
+    "pilihanJawaban": [
+      "Kamera",
+      "Angin",
+      "Pikiran",
+      "Bunga",
+      "Kaca"
+    ]
+  },
+  {
+    "index": 200,
+    "web": "md-code.xyz",
+    "soal": "Apa yang bisa mengelilingi dunia tetapi tetap berada dalam satu sudut?",
+    "jawaban": "Perangko",
+    "pilihanJawaban": [
+      "Perangko",
+      "Kepala",
+      "Pesawat",
+      "Kapal Pesiar",
+      "Peta"
+    ]
+  }
+]

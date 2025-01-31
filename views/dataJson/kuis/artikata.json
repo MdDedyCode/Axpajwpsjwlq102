@@ -1,0 +1,2414 @@
+[
+  {
+    "index": 0,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : happy",
+    "pilihanJawaban": [
+      "ceria",
+      "sedih",
+      "marah",
+      "haus",
+      "megawati"
+    ],
+    "jawaban": "ceria"
+  },
+  {
+    "index": 1,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : sunflower",
+    "pilihanJawaban": [
+      "mawar",
+      "melati",
+      "anggrek",
+      "bunga matahari",
+      "kaktus"
+    ],
+    "jawaban": "bunga matahari"
+  },
+  {
+    "index": 2,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : mountain",
+    "pilihanJawaban": [
+      "gunung",
+      "bukit",
+      "pantai",
+      "lembah",
+      "danau"
+    ],
+    "jawaban": "gunung"
+  },
+  {
+    "index": 3,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : book",
+    "pilihanJawaban": [
+      "buku",
+      "kertas",
+      "pensil",
+      "tas",
+      "meja"
+    ],
+    "jawaban": "buku"
+  },
+  {
+    "index": 4,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : elephant",
+    "pilihanJawaban": [
+      "gajah",
+      "kucing",
+      "jerapah",
+      "singa",
+      "harimau"
+    ],
+    "jawaban": "gajah"
+  },
+  {
+    "index": 5,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : rainbow",
+    "pilihanJawaban": [
+      "pelangi",
+      "awan",
+      "hujan",
+      "petir",
+      "matahari"
+    ],
+    "jawaban": "pelangi"
+  },
+  {
+    "index": 6,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : dolphin",
+    "pilihanJawaban": [
+      "lumbalumba",
+      "paus",
+      "ikan",
+      "buaya",
+      "hiu"
+    ],
+    "jawaban": "lumbalumba"
+  },
+  {
+    "index": 7,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : fire",
+    "pilihanJawaban": [
+      "api",
+      "air",
+      "angin",
+      "tanah",
+      "salju"
+    ],
+    "jawaban": "api"
+  },
+  {
+    "index": 8,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : bicycle",
+    "pilihanJawaban": [
+      "sepeda",
+      "mobil",
+      "motor",
+      "kereta",
+      "pesawat"
+    ],
+    "jawaban": "sepeda"
+  },
+  {
+    "index": 9,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : ocean",
+    "pilihanJawaban": [
+      "samudra",
+      "danau",
+      "sungai",
+      "kolam",
+      "laut"
+    ],
+    "jawaban": "laut"
+  },
+  {
+    "index": 10,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : moon",
+    "pilihanJawaban": [
+      "bulan",
+      "matahari",
+      "bintang",
+      "planet",
+      "galaksi"
+    ],
+    "jawaban": "bulan"
+  },
+  {
+    "index": 11,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : shoes",
+    "pilihanJawaban": [
+      "sepatu",
+      "sendal",
+      "sandal",
+      "boot",
+      "sneaker"
+    ],
+    "jawaban": "sepatu"
+  },
+  {
+    "index": 12,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : flower",
+    "pilihanJawaban": [
+      "bunga",
+      "daun",
+      "rumput",
+      "kaktus",
+      "pohon"
+    ],
+    "jawaban": "bunga"
+  },
+  {
+    "index": 13,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : clock",
+    "pilihanJawaban": [
+      "jam",
+      "kalender",
+      "alarm",
+      "stopwatch",
+      "timer"
+    ],
+    "jawaban": "jam"
+  },
+  {
+    "index": 14,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : umbrella",
+    "pilihanJawaban": [
+      "payung",
+      "topi",
+      "jas hujan",
+      "kacamata",
+      "sepatu"
+    ],
+    "jawaban": "payung"
+  },
+  {
+    "index": 15,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : butterfly",
+    "pilihanJawaban": [
+      "kupukupu",
+      "lebah",
+      "kumbang",
+      "semut",
+      "capung"
+    ],
+    "jawaban": "kupukupu"
+  },
+  {
+    "index": 16,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : garden",
+    "pilihanJawaban": [
+      "taman",
+      "kebun",
+      "hutan",
+      "lapangan",
+      "sawah"
+    ],
+    "jawaban": "taman"
+  },
+  {
+    "index": 17,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : cloud",
+    "pilihanJawaban": [
+      "awan",
+      "hujan",
+      "angin",
+      "petir",
+      "pelangi"
+    ],
+    "jawaban": "awan"
+  },
+  {
+    "index": 18,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : key",
+    "pilihanJawaban": [
+      "kunci",
+      "pintu",
+      "jendela",
+      "lemari",
+      "mobil"
+    ],
+    "jawaban": "kunci"
+  },
+  {
+    "index": 19,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : mirror",
+    "pilihanJawaban": [
+      "cermin",
+      "meja",
+      "lemari",
+      "kursi",
+      "lampu"
+    ],
+    "jawaban": "cermin"
+  },
+  {
+    "index": 20,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : breeze",
+    "pilihanJawaban": [
+      "angin sepoisepoi",
+      "hujan",
+      "badai",
+      "panas",
+      "dingin"
+    ],
+    "jawaban": "angin sepoisepoi"
+  },
+  {
+    "index": 21,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : cookie",
+    "pilihanJawaban": [
+      "kue kering",
+      "roti",
+      "cake",
+      "donat",
+      "es krim"
+    ],
+    "jawaban": "kue kering"
+  },
+  {
+    "index": 22,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : jungle",
+    "pilihanJawaban": [
+      "hutan belantara",
+      "taman",
+      "hutan pinus",
+      "savannah",
+      "padang rumput"
+    ],
+    "jawaban": "hutan belantara"
+  },
+  {
+    "index": 23,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : candle",
+    "pilihanJawaban": [
+      "lilin",
+      "lampu",
+      "senter",
+      "obor",
+      "korek api"
+    ],
+    "jawaban": "lilin"
+  },
+  {
+    "index": 24,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : globe",
+    "pilihanJawaban": [
+      "bola dunia",
+      "peta",
+      "komputer",
+      "televisi",
+      "radio"
+    ],
+    "jawaban": "bola dunia"
+  },
+  {
+    "index": 25,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : bracelet",
+    "pilihanJawaban": [
+      "gelang",
+      "kalung",
+      "anting",
+      "cincin",
+      "brooch"
+    ],
+    "jawaban": "gelang"
+  },
+  {
+    "index": 26,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : fireworks",
+    "pilihanJawaban": [
+      "kembang api",
+      "petasan",
+      "pawai",
+      "balon udara",
+      "mercon"
+    ],
+    "jawaban": "kembang api"
+  },
+  {
+    "index": 27,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : oxygen",
+    "pilihanJawaban": [
+      "oksigen",
+      "hidrogen",
+      "karbon dioksida",
+      "nitrogen",
+      "argon"
+    ],
+    "jawaban": "oksigen"
+  },
+  {
+    "index": 28,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : wallet",
+    "pilihanJawaban": [
+      "dompet",
+      "tas",
+      "koper",
+      "saku",
+      "kardus"
+    ],
+    "jawaban": "dompet"
+  },
+  {
+    "index": 29,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : volcano",
+    "pilihanJawaban": [
+      "gunung berapi",
+      "bukit",
+      "pantai",
+      "lembah",
+      "danau"
+    ],
+    "jawaban": "gunung berapi"
+  },
+  {
+    "index": 30,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : island",
+    "pilihanJawaban": [
+      "pulau",
+      "daratan",
+      "benua",
+      "selat",
+      "laut"
+    ],
+    "jawaban": "pulau"
+  },
+  {
+    "index": 31,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : fountain",
+    "pilihanJawaban": [
+      "air mancur",
+      "kolam",
+      "danau",
+      "sungai",
+      "sumur"
+    ],
+    "jawaban": "air mancur"
+  },
+  {
+    "index": 32,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : dragon",
+    "pilihanJawaban": [
+      "naga",
+      "singa",
+      "harimau",
+      "ular",
+      "kuda"
+    ],
+    "jawaban": "naga"
+  },
+  {
+    "index": 33,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : microphone",
+    "pilihanJawaban": [
+      "mikrofon",
+      "headset",
+      "speaker",
+      "kamera",
+      "televisi"
+    ],
+    "jawaban": "mikrofon"
+  },
+  {
+    "index": 34,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : puzzle",
+    "pilihanJawaban": [
+      "tekateki",
+      "permainan",
+      "buku",
+      "kartu",
+      "boneka"
+    ],
+    "jawaban": "tekateki"
+  },
+  {
+    "index": 35,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : tiger",
+    "pilihanJawaban": [
+      "harimau",
+      "singa",
+      "gajah",
+      "kuda",
+      "jerapah"
+    ],
+    "jawaban": "harimau"
+  },
+  {
+    "index": 36,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : sunglasses",
+    "pilihanJawaban": [
+      "kacamata hitam",
+      "topi",
+      "payung",
+      "sepatu",
+      "tas"
+    ],
+    "jawaban": "kacamata hitam"
+  },
+  {
+    "index": 37,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : sailboat",
+    "pilihanJawaban": [
+      "perahu layar",
+      "kapal pesiar",
+      "kayak",
+      "jetski",
+      "perahu motor"
+    ],
+    "jawaban": "perahu layar"
+  },
+  {
+    "index": 38,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : cruise",
+    "pilihanJawaban": [
+      "kapal pesiar",
+      "pesawat",
+      "kereta api",
+      "mobil",
+      "sepeda"
+    ],
+    "jawaban": "kapal pesiar"
+  },
+  {
+    "index": 39,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : fog",
+    "pilihanJawaban": [
+      "kabut",
+      "awan",
+      "hujan",
+      "salju",
+      "angin"
+    ],
+    "jawaban": "kabut"
+  },
+  {
+    "index": 40,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : furniture",
+    "pilihanJawaban": [
+      "perabotan",
+      "elektronik",
+      "mainan",
+      "alat masak",
+      "perhiasan"
+    ],
+    "jawaban": "perabotan"
+  },
+  {
+    "index": 41,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : waterfall",
+    "pilihanJawaban": [
+      "air terjun",
+      "sungai",
+      "danau",
+      "kolam",
+      "pantai"
+    ],
+    "jawaban": "air terjun"
+  },
+  {
+    "index": 42,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : accordion",
+    "pilihanJawaban": [
+      "akordion",
+      "gitar",
+      "biola",
+      "piano",
+      "flute"
+    ],
+    "jawaban": "akordion"
+  },
+  {
+    "index": 43,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : carousel",
+    "pilihanJawaban": [
+      "karusel",
+      "bianglala",
+      "roller coaster",
+      "ferris wheel",
+      "perahu ayun"
+    ],
+    "jawaban": "karusel"
+  },
+  {
+    "index": 44,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : tornado",
+    "pilihanJawaban": [
+      "puting beliung",
+      "badai",
+      "angin topan",
+      "hujan es",
+      "guntur"
+    ],
+    "jawaban": "puting beliung"
+  },
+  {
+    "index": 45,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : rose",
+    "pilihanJawaban": [
+      "mawar",
+      "melati",
+      "anggrek",
+      "bunga matahari",
+      "daisy"
+    ],
+    "jawaban": "mawar"
+  },
+  {
+    "index": 46,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : parachute",
+    "pilihanJawaban": [
+      "payung terjun",
+      "kacamata",
+      "helm",
+      "baju pelampung",
+      "rope"
+    ],
+    "jawaban": "payung terjun"
+  },
+  {
+    "index": 47,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : whale",
+    "pilihanJawaban": [
+      "paus",
+      "ikan hiu",
+      "lumbalumba",
+      "ikan pari",
+      "ikan salmon"
+    ],
+    "jawaban": "paus"
+  },
+  {
+    "index": 48,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : sunrise",
+    "pilihanJawaban": [
+      "matahari terbit",
+      "matahari tenggelam",
+      "siang",
+      "malam",
+      "fajar"
+    ],
+    "jawaban": "matahari terbit"
+  },
+  {
+    "index": 49,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : jigsaw",
+    "pilihanJawaban": [
+      "tekateki potongan gambar",
+      "mainan puzzle",
+      "kartu remi",
+      "monopoli",
+      "chess"
+    ],
+    "jawaban": "tekateki potongan gambar"
+  },
+  {
+    "index": 50,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : compassion",
+    "pilihanJawaban": [
+      "belas kasihan",
+      "kebencian",
+      "kebahagiaan",
+      "keadilan",
+      "keberanian"
+    ],
+    "jawaban": "belas kasihan"
+  },
+  {
+    "index": 51,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : avalanche",
+    "pilihanJawaban": [
+      "longsor",
+      "gempa bumi",
+      "badai salju",
+      "banjir",
+      "angin topan"
+    ],
+    "jawaban": "longsor"
+  },
+  {
+    "index": 52,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : velvet",
+    "pilihanJawaban": [
+      "beludru",
+      "sutera",
+      "kain",
+      "jeans",
+      "kulit"
+    ],
+    "jawaban": "beludru"
+  },
+  {
+    "index": 53,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : silhouette",
+    "pilihanJawaban": [
+      "siluet",
+      "bayangan",
+      "sketsa",
+      "gambar",
+      "foto"
+    ],
+    "jawaban": "siluet"
+  },
+  {
+    "index": 54,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : lighthouse",
+    "pilihanJawaban": [
+      "mercusuar",
+      "pelabuhan",
+      "kapal",
+      "pantai",
+      "dermaga"
+    ],
+    "jawaban": "mercusuar"
+  },
+  {
+    "index": 55,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : eclipse",
+    "pilihanJawaban": [
+      "gerhana",
+      "matahari terbit",
+      "matahari tenggelam",
+      "bulan",
+      "bintang jatuh"
+    ],
+    "jawaban": "gerhana"
+  },
+  {
+    "index": 56,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : binoculars",
+    "pilihanJawaban": [
+      "teropong",
+      "kamera",
+      "teleskop",
+      "mikroskop",
+      "kacamata"
+    ],
+    "jawaban": "teropong"
+  },
+  {
+    "index": 57,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : hurricane",
+    "pilihanJawaban": [
+      "badai",
+      "puting beliung",
+      "angin topan",
+      "hujan es",
+      "guntur"
+    ],
+    "jawaban": "angin topan"
+  },
+  {
+    "index": 58,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : crescent",
+    "pilihanJawaban": [
+      "bulan sabit",
+      "matahari",
+      "bintang",
+      "planet",
+      "awan"
+    ],
+    "jawaban": "bulan sabit"
+  },
+  {
+    "index": 59,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : giraffe",
+    "pilihanJawaban": [
+      "jerapah",
+      "gajah",
+      "kuda",
+      "kanguru",
+      "singa"
+    ],
+    "jawaban": "jerapah"
+  },
+  {
+    "index": 60,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : watermelon",
+    "pilihanJawaban": [
+      "semangka",
+      "melon",
+      "stroberi",
+      "apel",
+      "pir"
+    ],
+    "jawaban": "semangka"
+  },
+  {
+    "index": 61,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : chandelier",
+    "pilihanJawaban": [
+      "luster",
+      "lampu gantung",
+      "lampu plafon",
+      "lampu dinding",
+      "lampu meja"
+    ],
+    "jawaban": "luster"
+  },
+  {
+    "index": 62,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : coral",
+    "pilihanJawaban": [
+      "karang",
+      "ikan",
+      "lobster",
+      "hiu",
+      "kerang"
+    ],
+    "jawaban": "karang"
+  },
+  {
+    "index": 63,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : chameleon",
+    "pilihanJawaban": [
+      "bunglon",
+      "kadal",
+      "ular",
+      "katak",
+      "tupai"
+    ],
+    "jawaban": "bunglon"
+  },
+  {
+    "index": 64,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : orchid",
+    "pilihanJawaban": [
+      "anggrek",
+      "mawar",
+      "melati",
+      "bunga matahari",
+      "daisy"
+    ],
+    "jawaban": "anggrek"
+  },
+  {
+    "index": 65,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : whirlpool",
+    "pilihanJawaban": [
+      "pusaran air",
+      "kolam renang",
+      "sungai",
+      "danau",
+      "samudera"
+    ],
+    "jawaban": "pusaran air"
+  },
+  {
+    "index": 66,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : mosquito",
+    "pilihanJawaban": [
+      "nyamuk",
+      "lalat",
+      "kupukupu",
+      "lebah",
+      "kecoa"
+    ],
+    "jawaban": "nyamuk"
+  },
+  {
+    "index": 67,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : xylophone",
+    "pilihanJawaban": [
+      "silofon",
+      "gitar",
+      "biola",
+      "piano",
+      "flute"
+    ],
+    "jawaban": "silofon"
+  },
+  {
+    "index": 68,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : eagle",
+    "pilihanJawaban": [
+      "elang",
+      "burung hantu",
+      "penguin",
+      "anak bebek",
+      "bangau"
+    ],
+    "jawaban": "elang"
+  },
+  {
+    "index": 69,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : firefly",
+    "pilihanJawaban": [
+      "kupukupu malam",
+      "lalat",
+      "nyamuk",
+      "lebah",
+      "kumbang"
+    ],
+    "jawaban": "kupukupu malam"
+  },
+  {
+    "index": 70,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : mermaid",
+    "pilihanJawaban": [
+      "putri duyung",
+      "peri",
+      "elf",
+      "raksasa",
+      "ksatria"
+    ],
+    "jawaban": "putri duyung"
+  },
+  {
+    "index": 71,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : obstacle",
+    "pilihanJawaban": [
+      "hambatan",
+      "tantangan",
+      "prestasi",
+      "keberhasilan",
+      "pencapaian"
+    ],
+    "jawaban": "hambatan"
+  },
+  {
+    "index": 72,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : falcon",
+    "pilihanJawaban": [
+      "alapalap",
+      "elang",
+      "burung hantu",
+      "penguin",
+      "anak bebek"
+    ],
+    "jawaban": "alapalap"
+  },
+  {
+    "index": 73,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : cucumber",
+    "pilihanJawaban": [
+      "mentimun",
+      "wortel",
+      "tomat",
+      "kentang",
+      "brokoli"
+    ],
+    "jawaban": "mentimun"
+  },
+  {
+    "index": 74,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : whistle",
+    "pilihanJawaban": [
+      "peluit",
+      "gitar",
+      "biola",
+      "drum",
+      "saksofon"
+    ],
+    "jawaban": "peluit"
+  },
+  {
+    "index": 75,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : quicksand",
+    "pilihanJawaban": [
+      "pasir bergerak",
+      "gurun",
+      "pantai",
+      "padang pasir",
+      "rawarawa"
+    ],
+    "jawaban": "pasir bergerak"
+  },
+  {
+    "index": 76,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : spider",
+    "pilihanJawaban": [
+      "labalaba",
+      "kecoa",
+      "lalat",
+      "nyamuk",
+      "semut"
+    ],
+    "jawaban": "labalaba"
+  },
+  {
+    "index": 77,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : orchard",
+    "pilihanJawaban": [
+      "kebun buah",
+      "perkebunan",
+      "taman bunga",
+      "hutan",
+      "padang rumput"
+    ],
+    "jawaban": "kebun buah"
+  },
+  {
+    "index": 78,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : zoo",
+    "pilihanJawaban": [
+      "kebun binatang",
+      "taman bermain",
+      "museum",
+      "pantai",
+      "taman"
+    ],
+    "jawaban": "kebun binatang"
+  },
+  {
+    "index": 79,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : crocodile",
+    "pilihanJawaban": [
+      "buaya",
+      "ular",
+      "kurakura",
+      "iguana",
+      "komodo"
+    ],
+    "jawaban": "buaya"
+  },
+  {
+    "index": 80,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : lunar",
+    "pilihanJawaban": [
+      "bulan",
+      "matahari",
+      "bintang",
+      "planet",
+      "galaksi"
+    ],
+    "jawaban": "bulan"
+  },
+  {
+    "index": 81,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : whisper",
+    "pilihanJawaban": [
+      "bisikan",
+      "teriakan",
+      "cemberut",
+      "senyum",
+      "gelak"
+    ],
+    "jawaban": "bisikan"
+  },
+  {
+    "index": 82,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : quilt",
+    "pilihanJawaban": [
+      "selimut",
+      "taplak meja",
+      "gorden",
+      "handuk",
+      "karpet"
+    ],
+    "jawaban": "selimut"
+  },
+  {
+    "index": 83,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : boulevard",
+    "pilihanJawaban": [
+      "boulevard",
+      "jalan raya",
+      "gang",
+      "lorong",
+      "jalan setapak"
+    ],
+    "jawaban": "boulevard"
+  },
+  {
+    "index": 84,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : lagoon",
+    "pilihanJawaban": [
+      "laguna",
+      "pulau",
+      "sungai",
+      "danau",
+      "selat"
+    ],
+    "jawaban": "laguna"
+  },
+  {
+    "index": 85,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : tempest",
+    "pilihanJawaban": [
+      "badai",
+      "gempa bumi",
+      "puting beliung",
+      "angin topan",
+      "hujan es"
+    ],
+    "jawaban": "badai"
+  },
+  {
+    "index": 86,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : harbor",
+    "pilihanJawaban": [
+      "pelabuhan",
+      "dermaga",
+      "pantai",
+      "teluk",
+      "muara"
+    ],
+    "jawaban": "pelabuhan"
+  },
+  {
+    "index": 87,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : rain",
+    "jawaban": "hujan",
+    "pilihanJawaban": [
+      "awan",
+      "angin",
+      "hujan",
+      "badai",
+      "salju"
+    ]
+  },
+  {
+    "index": 88,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : glasses",
+    "jawaban": "kacamata",
+    "pilihanJawaban": [
+      "topi",
+      "kacamata",
+      "scarf",
+      "masker",
+      "anting"
+    ]
+  },
+  {
+    "index": 89,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : soccer",
+    "jawaban": "sepak bola",
+    "pilihanJawaban": [
+      "basket",
+      "voli",
+      "sepak bola",
+      "tenis",
+      "baseball"
+    ]
+  },
+  {
+    "index": 90,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : ship",
+    "jawaban": "kapal",
+    "pilihanJawaban": [
+      "mobil",
+      "pesawat",
+      "kapal",
+      "sepeda",
+      "kereta"
+    ]
+  },
+  {
+    "index": 91,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : rainforest",
+    "jawaban": "hutan hujan",
+    "pilihanJawaban": [
+      "savannah",
+      "gurun",
+      "hutan gugur",
+      "hutan hujan",
+      "stepa"
+    ]
+  },
+  {
+    "index": 92,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : beach",
+    "jawaban": "pantai",
+    "pilihanJawaban": [
+      "gunung",
+      "hutan",
+      "danau",
+      "pantai",
+      "sawah"
+    ]
+  },
+  {
+    "index": 93,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : owl",
+    "jawaban": "burung hantu",
+    "pilihanJawaban": [
+      "merpati",
+      "elang",
+      "burung hantu",
+      "bebek",
+      "ayam"
+    ]
+  },
+  {
+    "index": 94,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : bridge",
+    "jawaban": "jembatan",
+    "pilihanJawaban": [
+      "tunnel",
+      "jembatan",
+      "flyover",
+      "underpass",
+      "viaduct"
+    ]
+  },
+  {
+    "index": 95,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : diamond",
+    "jawaban": "intan",
+    "pilihanJawaban": [
+      "sapphire",
+      "emerald",
+      "ruby",
+      "intan",
+      "topaz"
+    ]
+  },
+  {
+    "index": 96,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : snail",
+    "jawaban": "bekicot",
+    "pilihanJawaban": [
+      "keong",
+      "siput",
+      "bekicot",
+      "labalaba",
+      "belalang"
+    ]
+  },
+  {
+    "index": 97,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : firework",
+    "jawaban": "kembang api",
+    "pilihanJawaban": [
+      "petasan",
+      "kembang api",
+      "mercon",
+      "bom",
+      "meriam"
+    ]
+  },
+  {
+    "index": 98,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : skating",
+    "jawaban": "seluncur",
+    "pilihanJawaban": [
+      "berenang",
+      "sepeda",
+      "skating",
+      "panjat tebing",
+      "terjun payung"
+    ]
+  },
+  {
+    "index": 99,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : snowflake",
+    "jawaban": "flake salju",
+    "pilihanJawaban": [
+      "bola salju",
+      "flake salju",
+      "es krim",
+      "angin",
+      "santa claus"
+    ]
+  },
+  {
+    "index": 100,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : sand",
+    "jawaban": "pasir",
+    "pilihanJawaban": [
+      "tanah",
+      "kerikil",
+      "rumput",
+      "pasir",
+      "batu"
+    ]
+  },
+  {
+    "index": 101,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : fireplace",
+    "jawaban": "perapian",
+    "pilihanJawaban": [
+      "oven",
+      "kompor",
+      "perapian",
+      "pemadam api",
+      "barbecue"
+    ]
+  },
+  {
+    "index": 102,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : shark",
+    "jawaban": "hiu",
+    "pilihanJawaban": [
+      "ikan",
+      "hiu",
+      "paus",
+      "lumbalumba",
+      "kurakura"
+    ]
+  },
+  {
+    "index": 103,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : airplane",
+    "jawaban": "pesawat",
+    "pilihanJawaban": [
+      "kapal",
+      "mobil",
+      "sepeda",
+      "pesawat",
+      "kereta"
+    ]
+  },
+  {
+    "index": 104,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : cupboard",
+    "jawaban": "lemari",
+    "pilihanJawaban": [
+      "meja",
+      "kursi",
+      "lemari",
+      "rak buku",
+      "sofa"
+    ]
+  },
+  {
+    "index": 105,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : snake",
+    "jawaban": "ular",
+    "pilihanJawaban": [
+      "kadal",
+      "ular",
+      "buaya",
+      "kurakura",
+      "cacing"
+    ]
+  },
+  {
+    "index": 106,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : alarm",
+    "jawaban": "alarm",
+    "pilihanJawaban": [
+      "telepon",
+      "kunci",
+      "alarm",
+      "lampu",
+      "gembok"
+    ]
+  },
+  {
+    "index": 107,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : sun",
+    "jawaban": "matahari",
+    "pilihanJawaban": [
+      "bulan",
+      "matahari",
+      "bintang",
+      "awan",
+      "salju"
+    ]
+  },
+  {
+    "index": 108,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : car",
+    "jawaban": "mobil",
+    "pilihanJawaban": [
+      "motor",
+      "sepeda",
+      "mobil",
+      "truk",
+      "kereta"
+    ]
+  },
+  {
+    "index": 109,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : bird",
+    "jawaban": "burung",
+    "pilihanJawaban": [
+      "kucing",
+      "anjing",
+      "ikan",
+      "burung",
+      "kuda"
+    ]
+  },
+  {
+    "index": 110,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : tree",
+    "jawaban": "pohon",
+    "pilihanJawaban": [
+      "rumput",
+      "bambu",
+      "kaktus",
+      "pohon",
+      "semak"
+    ]
+  },
+  {
+    "index": 111,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : fish",
+    "jawaban": "ikan",
+    "pilihanJawaban": [
+      "udang",
+      "lobster",
+      "cumcum",
+      "ikan",
+      "kerang"
+    ]
+  },
+  {
+    "index": 112,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : star",
+    "jawaban": "bintang",
+    "pilihanJawaban": [
+      "bulan",
+      "matahari",
+      "planet",
+      "galaksi",
+      "bintang"
+    ]
+  },
+  {
+    "index": 113,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : house",
+    "jawaban": "rumah",
+    "pilihanJawaban": [
+      "apartemen",
+      "villa",
+      "rumah",
+      "kandang",
+      "gedung"
+    ]
+  },
+  {
+    "index": 114,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : hat",
+    "jawaban": "topi",
+    "pilihanJawaban": [
+      "rambut",
+      "kacamata",
+      "topi",
+      "telinga",
+      "hidung"
+    ]
+  },
+  {
+    "index": 115,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : chair",
+    "jawaban": "kursi",
+    "pilihanJawaban": [
+      "meja",
+      "kursi",
+      "lemari",
+      "sofa",
+      "karpet"
+    ]
+  },
+  {
+    "index": 116,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : sky",
+    "jawaban": "langit",
+    "pilihanJawaban": [
+      "bumi",
+      "laut",
+      "awan",
+      "langit",
+      "angkasa"
+    ]
+  },
+  {
+    "index": 117,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : river",
+    "jawaban": "sungai",
+    "pilihanJawaban": [
+      "danau",
+      "sungai",
+      "laut",
+      "selokan",
+      "kaldera"
+    ]
+  },
+  {
+    "index": 118,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : watch",
+    "jawaban": "jam tangan",
+    "pilihanJawaban": [
+      "kalung",
+      "gelang",
+      "cincin",
+      "anting",
+      "jam tangan"
+    ]
+  },
+  {
+    "index": 119,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : cake",
+    "jawaban": "kue",
+    "pilihanJawaban": [
+      "roti",
+      "donat",
+      "kue",
+      "brownies",
+      "es krim"
+    ]
+  },
+  {
+    "index": 120,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : flag",
+    "jawaban": "bendera",
+    "pilihanJawaban": [
+      "spanduk",
+      "kain",
+      "banner",
+      "bendera",
+      "umbulumbul"
+    ]
+  },
+  {
+    "index": 121,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : train",
+    "jawaban": "kereta api",
+    "pilihanJawaban": [
+      "mobil",
+      "pesawat",
+      "kapal",
+      "sepeda",
+      "kereta api"
+    ]
+  },
+  {
+    "index": 122,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : pillow",
+    "jawaban": "bantal",
+    "pilihanJawaban": [
+      "selimut",
+      "kasur",
+      "bantal",
+      "guling",
+      "taplak"
+    ]
+  },
+  {
+    "index": 123,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : football",
+    "jawaban": "sepak bola",
+    "pilihanJawaban": [
+      "basket",
+      "voli",
+      "sepak bola",
+      "tenis",
+      "baseball"
+    ]
+  },
+  {
+    "index": 124,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : lightning",
+    "jawaban": "petir",
+    "pilihanJawaban": [
+      "angin",
+      "badai",
+      "hujan",
+      "petir",
+      "salju"
+    ]
+  },
+  {
+    "index": 125,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : sandwich",
+    "jawaban": "roti lapis",
+    "pilihanJawaban": [
+      "burger",
+      "hotdog",
+      "roti lapis",
+      "pizza",
+      "kebab"
+    ]
+  },
+  {
+    "index": 126,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : snow",
+    "jawaban": "salju",
+    "pilihanJawaban": [
+      "hujan",
+      "badai",
+      "salju",
+      "angin",
+      "awan"
+    ]
+  },
+  {
+    "index": 127,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : butter",
+    "jawaban": "mentega",
+    "pilihanJawaban": [
+      "minyak",
+      "susu",
+      "mentega",
+      "keju",
+      "madu"
+    ]
+  },
+  {
+    "index": 128,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : snowman",
+    "jawaban": "bola salju",
+    "pilihanJawaban": [
+      "snowman",
+      "es krim",
+      "angin",
+      "santa claus",
+      "gift"
+    ]
+  },
+  {
+    "index": 129,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : banana",
+    "jawaban": "pisang",
+    "pilihanJawaban": [
+      "apel",
+      "jeruk",
+      "anggur",
+      "pisang",
+      "kiwi"
+    ]
+  },
+  {
+    "index": 130,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : kite",
+    "jawaban": "layanglayang",
+    "pilihanJawaban": [
+      "panggung",
+      "layanglayang",
+      "terjun payung",
+      "gantung diri",
+      "kamera terbang"
+    ]
+  },
+  {
+    "index": 131,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : octopus",
+    "jawaban": "gurita",
+    "pilihanJawaban": [
+      "ikan",
+      "lobster",
+      "hiu",
+      "cumicumi",
+      "gurita"
+    ]
+  },
+  {
+    "index": 132,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : door",
+    "jawaban": "pintu",
+    "pilihanJawaban": [
+      "jendela",
+      "pintu",
+      "pagar",
+      "atap",
+      "lantai"
+    ]
+  },
+  {
+    "index": 133,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : dragonfly",
+    "jawaban": "capung",
+    "pilihanJawaban": [
+      "kupukupu",
+      "lebah",
+      "lalat",
+      "capung",
+      "ngengat"
+    ]
+  },
+  {
+    "index": 134,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : pear",
+    "jawaban": "pir",
+    "pilihanJawaban": [
+      "apel",
+      "pir",
+      "anggur",
+      "jeruk",
+      "mangga"
+    ]
+  },
+  {
+    "index": 135,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : turtle",
+    "jawaban": "kurakura",
+    "pilihanJawaban": [
+      "ular",
+      "kurakura",
+      "kodok",
+      "ikan",
+      "buaya"
+    ]
+  },
+  {
+    "index": 136,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : carrot",
+    "jawaban": "wortel",
+    "pilihanJawaban": [
+      "kentang",
+      "wortel",
+      "kubis",
+      "bawang",
+      "terong"
+    ]
+  },
+  {
+    "index": 137,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : bookshelf",
+    "jawaban": "rak buku",
+    "pilihanJawaban": [
+      "lemari",
+      "rak buku",
+      "meja",
+      "kursi",
+      "sofa"
+    ]
+  },
+  {
+    "index": 138,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : library",
+    "jawaban": "perpustakaan",
+    "pilihanJawaban": [
+      "rumah",
+      "kantor",
+      "gedung pencakar langit",
+      "mall",
+      "perpustakaan"
+    ]
+  },
+  {
+    "index": 139,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : vaccine",
+    "pilihanJawaban": [
+      "vaksin",
+      "obat",
+      "vitamin",
+      "serum",
+      "antibiotik"
+    ],
+    "jawaban": "vaksin"
+  },
+  {
+    "index": 140,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : yawn",
+    "pilihanJawaban": [
+      "mengantuk",
+      "menguap",
+      "menggeliat",
+      "menggigil",
+      "menggoda"
+    ],
+    "jawaban": "menguap"
+  },
+  {
+    "index": 141,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : zeal",
+    "pilihanJawaban": [
+      "semangat",
+      "keinginan",
+      "kesempatan",
+      "keberuntungan",
+      "kebahagiaan"
+    ],
+    "jawaban": "semangat"
+  },
+  {
+    "index": 142,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : acronym",
+    "pilihanJawaban": [
+      "akronim",
+      "singkatan",
+      "istilah",
+      "definisi",
+      "penjelasan"
+    ],
+    "jawaban": "akronim"
+  },
+  {
+    "index": 143,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : bizarre",
+    "pilihanJawaban": [
+      "aneh",
+      "biasa",
+      "menarik",
+      "menyenangkan",
+      "mengerikan"
+    ],
+    "jawaban": "aneh"
+  },
+  {
+    "index": 144,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : cynical",
+    "pilihanJawaban": [
+      "sinis",
+      "optimis",
+      "realistis",
+      "pesimis",
+      "romantis"
+    ],
+    "jawaban": "sinis"
+  },
+  {
+    "index": 145,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : dazzle",
+    "pilihanJawaban": [
+      "mengagumkan",
+      "mengecewakan",
+      "menghibur",
+      "mengganggu",
+      "mengancam"
+    ],
+    "jawaban": "mengagumkan"
+  },
+  {
+    "index": 146,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : embarrass",
+    "pilihanJawaban": [
+      "memalukan",
+      "memaafkan",
+      "menghormati",
+      "menghargai",
+      "menghina"
+    ],
+    "jawaban": "memalukan"
+  },
+  {
+    "index": 147,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : famine",
+    "pilihanJawaban": [
+      "kelaparan",
+      "kebanjiran",
+      "kebakaran",
+      "kegagalan",
+      "kejahatan"
+    ],
+    "jawaban": "kelaparan"
+  },
+  {
+    "index": 148,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : gorgeous",
+    "pilihanJawaban": [
+      "cantik",
+      "jelek",
+      "lucu",
+      "santai",
+      "ramah"
+    ],
+    "jawaban": "cantik"
+  },
+  {
+    "index": 149,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : hazard",
+    "pilihanJawaban": [
+      "bahaya",
+      "keuntungan",
+      "kesempatan",
+      "keberuntungan",
+      "kepastian"
+    ],
+    "jawaban": "bahaya"
+  },
+  {
+    "index": 150,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : infinite",
+    "pilihanJawaban": [
+      "tak terbatas",
+      "tak terhingga",
+      "tak terlihat",
+      "tak terduga",
+      "tak tertandingi"
+    ],
+    "jawaban": "tak terhingga"
+  },
+  {
+    "index": 151,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : jubilee",
+    "pilihanJawaban": [
+      "perayaan",
+      "pernikahan",
+      "perpisahan",
+      "pertemuan",
+      "perdamaian"
+    ],
+    "jawaban": "perayaan"
+  },
+  {
+    "index": 152,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : kneel",
+    "pilihanJawaban": [
+      "berlutut",
+      "bersujud",
+      "berdiri",
+      "duduk",
+      "tidur"
+    ],
+    "jawaban": "berlutut"
+  },
+  {
+    "index": 153,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : leisure",
+    "pilihanJawaban": [
+      "santai",
+      "sibuk",
+      "serius",
+      "stres",
+      "sedih"
+    ],
+    "jawaban": "santai"
+  },
+  {
+    "index": 154,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : magnify",
+    "pilihanJawaban": [
+      "memperbesar",
+      "memperkecil",
+      "memperjelas",
+      "memperindah",
+      "memperbaiki"
+    ],
+    "jawaban": "memperbesar"
+  },
+  {
+    "index": 155,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : nurture",
+    "pilihanJawaban": [
+      "merawat",
+      "menghancurkan",
+      "mengabaikan",
+      "menyakiti",
+      "mengejek"
+    ],
+    "jawaban": "merawat"
+  },
+  {
+    "index": 156,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : abandon",
+    "pilihanJawaban": [
+      "meninggalkan",
+      "mengambil",
+      "mengikuti",
+      "membantu",
+      "menghormati"
+    ],
+    "jawaban": "meninggalkan"
+  },
+  {
+    "index": 157,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : bargain",
+    "pilihanJawaban": [
+      "tawarmenawar",
+      "belanja",
+      "membayar",
+      "menghemat",
+      "mengeluh"
+    ],
+    "jawaban": "tawarmenawar"
+  },
+  {
+    "index": 158,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : courage",
+    "pilihanJawaban": [
+      "keberanian",
+      "kecerdasan",
+      "kejujuran",
+      "kesabaran",
+      "kebaikan"
+    ],
+    "jawaban": "keberanian"
+  },
+  {
+    "index": 159,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : diligent",
+    "pilihanJawaban": [
+      "rajin",
+      "malas",
+      "ceroboh",
+      "cerdas",
+      "pintar"
+    ],
+    "jawaban": "rajin"
+  },
+  {
+    "index": 160,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : elegant",
+    "pilihanJawaban": [
+      "elegan",
+      "sederhana",
+      "kasar",
+      "kuno",
+      "modern"
+    ],
+    "jawaban": "elegan"
+  },
+  {
+    "index": 161,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : furious",
+    "pilihanJawaban": [
+      "marah",
+      "senang",
+      "sedih",
+      "bingung",
+      "takut"
+    ],
+    "jawaban": "marah"
+  },
+  {
+    "index": 162,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : glimpse",
+    "pilihanJawaban": [
+      "sekilas",
+      "terang",
+      "gelap",
+      "jelas",
+      "kabur"
+    ],
+    "jawaban": "sekilas"
+  },
+  {
+    "index": 163,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : humble",
+    "pilihanJawaban": [
+      "rendah hati",
+      "sombong",
+      "bangga",
+      "lucu",
+      "serius"
+    ],
+    "jawaban": "rendah hati"
+  },
+  {
+    "index": 164,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : ignite",
+    "pilihanJawaban": [
+      "menyala",
+      "padam",
+      "dingin",
+      "hangat",
+      "basah"
+    ],
+    "jawaban": "menyala"
+  },
+  {
+    "index": 165,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : jewelry",
+    "pilihanJawaban": [
+      "perhiasan",
+      "pakaian",
+      "makanan",
+      "mainan",
+      "alat"
+    ],
+    "jawaban": "perhiasan"
+  },
+  {
+    "index": 166,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : knock",
+    "pilihanJawaban": [
+      "ketuk",
+      "tarik",
+      "dorong",
+      "angkat",
+      "lempar"
+    ],
+    "jawaban": "ketuk"
+  },
+  {
+    "index": 167,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : laundry",
+    "pilihanJawaban": [
+      "cucian",
+      "dapur",
+      "kamar",
+      "taman",
+      "garasi"
+    ],
+    "jawaban": "cucian"
+  },
+  {
+    "index": 168,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : mystery",
+    "pilihanJawaban": [
+      "misteri",
+      "sejarah",
+      "cerita",
+      "ilmu",
+      "seni"
+    ],
+    "jawaban": "misteri"
+  },
+  {
+    "index": 169,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : naive",
+    "pilihanJawaban": [
+      "naif",
+      "bijak",
+      "pintar",
+      "bodoh",
+      "cerdas"
+    ],
+    "jawaban": "naif"
+  },
+  {
+    "index": 170,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : quality",
+    "pilihanJawaban": [
+      "kualitas",
+      "kuantitas",
+      "kecepatan",
+      "ketepatan",
+      "kerapian"
+    ],
+    "jawaban": "kualitas"
+  },
+  {
+    "index": 171,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : refugee",
+    "pilihanJawaban": [
+      "pengungsi",
+      "pelarian",
+      "penyelundup",
+      "pemburu",
+      "petualang"
+    ],
+    "jawaban": "pengungsi"
+  },
+  {
+    "index": 172,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : sarcasm",
+    "pilihanJawaban": [
+      "sarkasme",
+      "sinisme",
+      "ironi",
+      "humor",
+      "emosi"
+    ],
+    "jawaban": "sarkasme"
+  },
+  {
+    "index": 173,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : thrill",
+    "pilihanJawaban": [
+      "sensasi",
+      "ketakutan",
+      "kebosanan",
+      "kebahagiaan",
+      "kesedihan"
+    ],
+    "jawaban": "sensasi"
+  },
+  {
+    "index": 174,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : squirrel",
+    "pilihanJawaban": [
+      "tupai",
+      "kurakura",
+      "kanguru",
+      "katak",
+      "kadal"
+    ],
+    "jawaban": "tupai"
+  },
+  {
+    "index": 175,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : drought",
+    "pilihanJawaban": [
+      "banjir",
+      "gempa",
+      "kebakaran",
+      "kekeringan",
+      "angin"
+    ],
+    "jawaban": "kekeringan"
+  },
+  {
+    "index": 176,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : flourish",
+    "pilihanJawaban": [
+      "menghilang",
+      "menggantung",
+      "mengembang",
+      "menggoreng",
+      "mengembangkan"
+    ],
+    "jawaban": "mengembangkan"
+  },
+  {
+    "index": 177,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : cushion",
+    "pilihanJawaban": [
+      "selimut",
+      "bantal",
+      "guling",
+      "kasur",
+      "karpet"
+    ],
+    "jawaban": "bantal"
+  },
+  {
+    "index": 178,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : revenue",
+    "pilihanJawaban": [
+      "pengeluaran",
+      "pendapatan",
+      "pajak",
+      "bunga",
+      "biaya"
+    ],
+    "jawaban": "pendapatan"
+  },
+  {
+    "index": 179,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : scissors",
+    "pilihanJawaban": [
+      "gunting",
+      "pensil",
+      "penghapus",
+      "lem",
+      "stapler"
+    ],
+    "jawaban": "gunting"
+  },
+  {
+    "index": 180,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : anxiety",
+    "pilihanJawaban": [
+      "kegembiraan",
+      "kesedihan",
+      "kecemasan",
+      "kemarahan",
+      "kebosanan"
+    ],
+    "jawaban": "kecemasan"
+  },
+  {
+    "index": 181,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : garlic",
+    "pilihanJawaban": [
+      "bawang putih",
+      "bawang merah",
+      "jahe",
+      "kunyit",
+      "cabe"
+    ],
+    "jawaban": "bawang putih"
+  },
+  {
+    "index": 182,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : loyal",
+    "pilihanJawaban": [
+      "setia",
+      "cerdas",
+      "baik",
+      "lucu",
+      "ramah"
+    ],
+    "jawaban": "setia"
+  },
+  {
+    "index": 183,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : quarantine",
+    "pilihanJawaban": [
+      "karantina",
+      "vaksinasi",
+      "isolasi",
+      "penyembuhan",
+      "pencegahan"
+    ],
+    "jawaban": "karantina"
+  },
+  {
+    "index": 184,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : souvenir",
+    "pilihanJawaban": [
+      "oleholeh",
+      "cinderamata",
+      "hadiah",
+      "kenangkenangan",
+      "pernakpernik"
+    ],
+    "jawaban": "cinderamata"
+  },
+  {
+    "index": 185,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : typhoon",
+    "pilihanJawaban": [
+      "topan",
+      "tsunami",
+      "tornado",
+      "badai",
+      "guntur"
+    ],
+    "jawaban": "topan"
+  },
+  {
+    "index": 186,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : unique",
+    "pilihanJawaban": [
+      "unik",
+      "aneh",
+      "langka",
+      "berbeda",
+      "istimewa"
+    ],
+    "jawaban": "unik"
+  },
+  {
+    "index": 187,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : vehicle",
+    "pilihanJawaban": [
+      "kendaraan",
+      "pesawat",
+      "mobil",
+      "sepeda",
+      "kapal"
+    ],
+    "jawaban": "kendaraan"
+  },
+  {
+    "index": 188,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : wonderful",
+    "pilihanJawaban": [
+      "menakjubkan",
+      "mengerikan",
+      "menyenangkan",
+      "menarik",
+      "mengagumkan"
+    ],
+    "jawaban": "menakjubkan"
+  },
+  {
+    "index": 189,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : xenophobia",
+    "pilihanJawaban": [
+      "rasisme",
+      "diskriminasi",
+      "fobia",
+      "kebencian",
+      "ketakutan"
+    ],
+    "jawaban": "ketakutan"
+  },
+  {
+    "index": 190,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : yacht",
+    "pilihanJawaban": [
+      "perahu",
+      "kapal",
+      "pesiar",
+      "sampan",
+      "kano"
+    ],
+    "jawaban": "pesiar"
+  },
+  {
+    "index": 191,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : egg",
+    "pilihanJawaban": [
+      "telur",
+      "daging",
+      "sayur",
+      "buah",
+      "keju"
+    ],
+    "jawaban": "telur"
+  },
+  {
+    "index": 192,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : shoe",
+    "pilihanJawaban": [
+      "sepatu",
+      "kaos kaki",
+      "sandal",
+      "celana",
+      "baju"
+    ],
+    "jawaban": "sepatu"
+  },
+  {
+    "index": 193,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : grass",
+    "pilihanJawaban": [
+      "rumput",
+      "bunga",
+      "daun",
+      "tanah",
+      "batu"
+    ],
+    "jawaban": "rumput"
+  },
+  {
+    "index": 194,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : black",
+    "pilihanJawaban": [
+      "hitam",
+      "putih",
+      "abuabu",
+      "cokelat",
+      "krem"
+    ],
+    "jawaban": "hitam"
+  },
+  {
+    "index": 195,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : cup",
+    "pilihanJawaban": [
+      "cangkir",
+      "piring",
+      "gelas",
+      "botol",
+      "mangkuk"
+    ],
+    "jawaban": "cangkir"
+  },
+  {
+    "index": 196,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : teacher",
+    "pilihanJawaban": [
+      "guru",
+      "murid",
+      "dokter",
+      "pengacara",
+      "akuntan"
+    ],
+    "jawaban": "guru"
+  },
+  {
+    "index": 197,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : hot",
+    "pilihanJawaban": [
+      "panas",
+      "dingin",
+      "hangat",
+      "sejuk",
+      "basah"
+    ],
+    "jawaban": "panas"
+  },
+  {
+    "index": 198,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : cow",
+    "pilihanJawaban": [
+      "sapi",
+      "kambing",
+      "domba",
+      "kerbau",
+      "unta"
+    ],
+    "jawaban": "sapi"
+  },
+  {
+    "index": 199,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : rice",
+    "pilihanJawaban": [
+      "nasi",
+      "roti",
+      "mie",
+      "kentang",
+      "jagung"
+    ],
+    "jawaban": "nasi"
+  },
+  {
+    "index": 200,
+    "soal": "Apa arti kata ini dalam bahasa indonesia : eraser",
+    "pilihanJawaban": [
+      "penghapus",
+      "pensil",
+      "pulpen",
+      "spidol",
+      "penggaris"
+    ],
+    "jawaban": "penghapus"
+  }
+]

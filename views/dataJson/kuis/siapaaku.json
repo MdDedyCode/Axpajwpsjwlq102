@@ -1,0 +1,2615 @@
+[
+  {
+    "index": 0,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah sebuah fenomena alam yang sangat langka. Aku terjadi ketika cahaya matahari membelok di tetesan air.",
+    "jawaban": "Pelangi",
+    "pilihanJawaban": [
+      "Awan",
+      "Hujan",
+      "Salju",
+      "Pelangi",
+      "Petir"
+    ]
+  },
+  {
+    "index": 1,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah hewan amfibi yang sering disebut sebagai 'katak bernyanyi'.",
+    "jawaban": "Kodok",
+    "pilihanJawaban": [
+      "Ular",
+      "Buaya",
+      "Kura-kura",
+      "Ikan",
+      "Kodok"
+    ]
+  },
+  {
+    "index": 2,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah simbol perdamaian yang terkenal di seluruh dunia.",
+    "jawaban": "Merpati",
+    "pilihanJawaban": [
+      "Gajah",
+      "Singa",
+      "Harimau",
+      "Serigala",
+      "Merpati"
+    ]
+  },
+  {
+    "index": 3,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat musik dawai yang memiliki enam senar dan dimainkan dengan jari-jari.",
+    "jawaban": "Gitar",
+    "pilihanJawaban": [
+      "Gitar",
+      "Piano",
+      "Suling",
+      "Drum",
+      "Biola"
+    ]
+  },
+  {
+    "index": 4,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah benua terbesar di dunia.",
+    "jawaban": "Asia",
+    "pilihanJawaban": [
+      "Eropa",
+      "Amerika",
+      "Australia",
+      "Asia",
+      "Afrika"
+    ]
+  },
+  {
+    "index": 5,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah angka yang merupakan bilangan prima terkecil.",
+    "jawaban": "Dua",
+    "pilihanJawaban": [
+      "Tiga",
+      "Empat",
+      "Lima",
+      "Dua",
+      "Enam"
+    ]
+  },
+  {
+    "index": 6,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah bintang terdekat dengan Bumi dan merupakan sumber utama cahaya di siang hari.",
+    "jawaban": "Matahari",
+    "pilihanJawaban": [
+      "Bulan",
+      "Matahari",
+      "Saturnus",
+      "Venus",
+      "Mars"
+    ]
+  },
+  {
+    "index": 7,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tumbuhan yang memiliki daun hijau dan di dalamnya terdapat cairan putih yang digunakan untuk membuat karet.",
+    "jawaban": "Karet",
+    "pilihanJawaban": [
+      "Karet",
+      "Kaktus",
+      "Tebu",
+      "Pohon Pisang",
+      "Kelapa"
+    ]
+  },
+  {
+    "index": 8,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh fiksi yang memiliki sifat jahat dan mengenakan topi berwarna hijau serta mantel merah.",
+    "jawaban": "Penyihir",
+    "pilihanJawaban": [
+      "Raja",
+      "Ksatria",
+      "Penyihir",
+      "Putri",
+      "Naga"
+    ]
+  },
+  {
+    "index": 9,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah sungai terpanjang di dunia yang mengalir melalui sejumlah negara di Afrika.",
+    "jawaban": "Nil",
+    "pilihanJawaban": [
+      "Niger",
+      "Yangtze",
+      "Amazon",
+      "Mississippi",
+      "Nil"
+    ]
+  },
+  {
+    "index": 10,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah zat kimia yang paling banyak terdapat di Bumi dan penting bagi kehidupan makhluk hidup.",
+    "jawaban": "Air",
+    "pilihanJawaban": [
+      "Minyak",
+      "Udara",
+      "Garam",
+      "Air",
+      "Tepung"
+    ]
+  },
+  {
+    "index": 11,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah negara yang terkenal dengan Menara Eiffel dan anggur berkualitas tinggi.",
+    "jawaban": "Prancis",
+    "pilihanJawaban": [
+      "Spanyol",
+      "Belgia",
+      "Italia",
+      "Prancis",
+      "Jerman"
+    ]
+  },
+  {
+    "index": 12,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah seni pertunjukan di mana seorang pesulap melakukan trik dan ilusi di atas panggung.",
+    "jawaban": "Sulap",
+    "pilihanJawaban": [
+      "Bisikan",
+      "Akrobatik",
+      "Nyanyian",
+      "Melukis",
+      "Sulap"
+    ]
+  },
+  {
+    "index": 13,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah planet terbesar di tata surya kita dan memiliki cincin yang terkenal.",
+    "jawaban": "Saturnus",
+    "pilihanJawaban": [
+      "Uranus",
+      "Saturnus",
+      "Venus",
+      "Jupiter",
+      "Mars"
+    ]
+  },
+  {
+    "index": 14,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah bintang yang berada di tengah tata surya kita dan memberikan cahaya serta panas ke Bumi.",
+    "jawaban": "Matahari",
+    "pilihanJawaban": [
+      "Matahari",
+      "Venus",
+      "Mars",
+      "Bulan",
+      "Saturnus"
+    ]
+  },
+  {
+    "index": 15,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah zat yang digunakan untuk membuat kertas dan juga merupakan pohon yang tinggi dan besar.",
+    "jawaban": "Kayu",
+    "pilihanJawaban": [
+      "Logam",
+      "Kayu",
+      "Batu",
+      "Pasir",
+      "Kaca"
+    ]
+  },
+  {
+    "index": 16,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah simbol matematika yang digunakan untuk menggambarkan hubungan perbandingan antara dua angka.",
+    "jawaban": "Pecahan",
+    "pilihanJawaban": [
+      "Pecahan",
+      "Rasio",
+      "Bulat",
+      "Desimal",
+      "Persen"
+    ]
+  },
+  {
+    "index": 17,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah hewan purba yang telah punah dan sering diasosiasikan dengan Mammoth.",
+    "jawaban": "Gajah",
+    "pilihanJawaban": [
+      "Mammoth",
+      "Saber-toothed Tiger",
+      "Velociraptor",
+      "Brachiosaurus",
+      "Gajah"
+    ]
+  },
+  {
+    "index": 18,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah sistem navigasi global yang digunakan untuk menentukan posisi di Bumi dengan akurasi tinggi.",
+    "jawaban": "GPS",
+    "pilihanJawaban": [
+      "NFC",
+      "Bluetooth",
+      "GPS",
+      "WiFi",
+      "4G"
+    ]
+  },
+  {
+    "index": 19,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah raja hutan dan hewan yang memiliki bulu berwarna oranye dengan belang hitam.",
+    "jawaban": "Harimau",
+    "pilihanJawaban": [
+      "Singa",
+      "Jaguar",
+      "Harimau",
+      "Macan",
+      "Cheetah"
+    ]
+  },
+  {
+    "index": 20,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah hewan laut yang memiliki lengan panjang dan mampu menyembunyikan diri dengan sempurna.",
+    "jawaban": "Gurita",
+    "pilihanJawaban": [
+      "Kepiting",
+      "Ikan",
+      "Kura-kura",
+      "Paus",
+      "Gurita"
+    ]
+  },
+  {
+    "index": 21,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah senjata kuno yang digunakan oleh prajurit Jepang, terkenal dengan bilah tajam dan elegan.",
+    "jawaban": "Katana",
+    "pilihanJawaban": [
+      "Pedang",
+      "Golok",
+      "Tombak",
+      "Katana",
+      "Panah"
+    ]
+  },
+  {
+    "index": 22,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah bangunan ikonik yang terletak di India dan menjadi salah satu tujuan wisata terkenal.",
+    "jawaban": "Taj Mahal",
+    "pilihanJawaban": [
+      "Borobudur",
+      "Petra",
+      "Taj Mahal",
+      "Machu Picchu",
+      "Colosseum"
+    ]
+  },
+  {
+    "index": 23,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah penyanyi legendaris yang dikenal dengan sebutan 'Raja Pop' dan memiliki album terlaris sepanjang masa.",
+    "jawaban": "Michael Jackson",
+    "pilihanJawaban": [
+      "Michael Jackson",
+      "Elvis Presley",
+      "The Beatles",
+      "Bob Marley",
+      "Madonna"
+    ]
+  },
+  {
+    "index": 24,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah elemen kimia yang memiliki simbol 'Fe' dan digunakan untuk membuat alat-alat besi.",
+    "jawaban": "Besi",
+    "pilihanJawaban": [
+      "Emas",
+      "Besi",
+      "Aluminium",
+      "Perak",
+      "Tembaga"
+    ]
+  },
+  {
+    "index": 25,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah hewan yang terkenal dengan kemampuan terbangku yang unik dan datang dalam berbagai warna dan ukuran.",
+    "jawaban": "Kupu-kupu",
+    "pilihanJawaban": [
+      "Lalat",
+      "Kupu-kupu",
+      "Nyamuk",
+      "Burung",
+      "Lebah"
+    ]
+  },
+  {
+    "index": 26,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian tradisional dari Spanyol yang menampilkan gerakan kaki yang cepat dan dramatis.",
+    "jawaban": "Flamenco",
+    "pilihanJawaban": [
+      "Hip-hop",
+      "Flamenco",
+      "Ballet",
+      "Tango",
+      "Salsa"
+    ]
+  },
+  {
+    "index": 27,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah ilmuwan terkenal yang merumuskan hukum gravitasi universal.",
+    "jawaban": "Isaac Newton",
+    "pilihanJawaban": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Albert Einstein",
+      "Nikola Tesla",
+      "Stephen Hawking"
+    ]
+  },
+  {
+    "index": 28,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian yang berasal dari India dan sering dilakukan dalam berbagai festival dan perayaan.",
+    "jawaban": "Bharatanatyam",
+    "pilihanJawaban": [
+      "Ballet",
+      "Samba",
+      "Hip-hop",
+      "Bharatanatyam",
+      "Hula"
+    ]
+  },
+  {
+    "index": 29,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah hewan purba yang menjadi ikon dinosaurus dan memiliki leher panjang.",
+    "jawaban": "Brachiosaurus",
+    "pilihanJawaban": [
+      "Tyrannosaurus Rex",
+      "Brachiosaurus",
+      "Velociraptor",
+      "Stegosaurus",
+      "Triceratops"
+    ]
+  },
+  {
+    "index": 30,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah komposer terkenal yang menciptakan banyak simfoni dan sonata terkenal, seperti 'Moonlight Sonata'.",
+    "jawaban": "Beethoven",
+    "pilihanJawaban": [
+      "Beethoven",
+      "Tchaikovsky",
+      "Mozart",
+      "Bach",
+      "Chopin"
+    ]
+  },
+  {
+    "index": 31,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah bintang film terkenal yang berperan sebagai agen rahasia James Bond dalam beberapa film.",
+    "jawaban": "Sean Connery",
+    "pilihanJawaban": [
+      "Roger Moore",
+      "Pierce Brosnan",
+      "Daniel Craig",
+      "Timothy Dalton",
+      "Sean Connery"
+    ]
+  },
+  {
+    "index": 32,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis batu permata biru yang sangat berharga dan sering dijadikan perhiasan.",
+    "jawaban": "Safir",
+    "pilihanJawaban": [
+      "Topaz",
+      "Ruby",
+      "Emerald",
+      "Safir",
+      "Diamond"
+    ]
+  },
+  {
+    "index": 33,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat musik tiup yang terbuat dari perunggu dan digunakan dalam orkestra untuk memainkan melodi.",
+    "jawaban": "Trompet",
+    "pilihanJawaban": [
+      "Trombon",
+      "Saxophone",
+      "Trompet",
+      "Flute",
+      "Klarinet"
+    ]
+  },
+  {
+    "index": 34,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah pulau terbesar di dunia dan merupakan bagian dari negara Indonesia.",
+    "jawaban": "Kalimantan",
+    "pilihanJawaban": [
+      "Jawa",
+      "Sulawesi",
+      "Sumatera",
+      "Papua",
+      "Kalimantan"
+    ]
+  },
+  {
+    "index": 35,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh fiksi terkenal yang tinggal di kediaman hobbit dan memiliki cincin ajaib.",
+    "jawaban": "Frodo",
+    "pilihanJawaban": [
+      "Frodo",
+      "Bilbo",
+      "Sauron",
+      "Aragorn",
+      "Gandalf"
+    ]
+  },
+  {
+    "index": 36,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah peristiwa besar dalam sejarah Amerika Serikat yang terjadi pada tahun 1773 dan melibatkan pembuangan teh di pelabuhan Boston.",
+    "jawaban": "Boston Tea Party",
+    "pilihanJawaban": [
+      "Civil War",
+      "Boston Tea Party",
+      "American Revolution",
+      "Prohibition",
+      "Independence Day"
+    ]
+  },
+  {
+    "index": 37,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah seni bela diri tradisional yang berasal dari Korea dan dikenal dengan teknik pukulan dan tendangan tinggi.",
+    "jawaban": "Taekwondo",
+    "pilihanJawaban": [
+      "Karate",
+      "Judo",
+      "Kung Fu",
+      "Aikido",
+      "Taekwondo"
+    ]
+  },
+  {
+    "index": 38,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah sungai terpanjang di Amerika Serikat yang mengalir melalui beberapa negara bagian.",
+    "jawaban": "Mississippi",
+    "pilihanJawaban": [
+      "Amazon",
+      "Ohio",
+      "Missouri",
+      "Colorado",
+      "Mississippi"
+    ]
+  },
+  {
+    "index": 39,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah seni pertunjukan yang menggabungkan akrobatik, tarian, dan seni bela diri.",
+    "jawaban": "Cirque du Soleil",
+    "pilihanJawaban": [
+      "Cirque du Soleil",
+      "Broadway",
+      "Ballet",
+      "Opera",
+      "Teater"
+    ]
+  },
+  {
+    "index": 40,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah malaikat yang jatuh dari surga menurut cerita dalam agama Kristen.",
+    "jawaban": "Lucifer",
+    "pilihanJawaban": [
+      "Lucifer",
+      "Gabriel",
+      "Michael",
+      "Raphael",
+      "Uriel"
+    ]
+  },
+  {
+    "index": 41,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh mitologi Yunani yang memiliki kepala ular dan bisa mengubah orang menjadi batu dengan pandanganku.",
+    "jawaban": "Medusa",
+    "pilihanJawaban": [
+      "Cerberus",
+      "Minotaur",
+      "Cyclops",
+      "Siren",
+      "Medusa"
+    ]
+  },
+  {
+    "index": 42,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah simbol perdamaian yang sering digunakan dalam budaya Hindu dan Buddha.",
+    "jawaban": "Lotus",
+    "pilihanJawaban": [
+      "Mandala",
+      "Om",
+      "Buddha",
+      "Lotus",
+      "Yin dan Yang"
+    ]
+  },
+  {
+    "index": 43,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah negara di Amerika Selatan yang terkenal dengan Carnival dan pantai indahnya.",
+    "jawaban": "Brasil",
+    "pilihanJawaban": [
+      "Argentina",
+      "Brasil",
+      "Kolombia",
+      "Peru",
+      "Venezuela"
+    ]
+  },
+  {
+    "index": 44,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah simbol astrologi yang digambarkan sebagai sepasang timbangan dan melambangkan keseimbangan.",
+    "jawaban": "Libra",
+    "pilihanJawaban": [
+      "Aries",
+      "Taurus",
+      "Libra",
+      "Cancer",
+      "Sagittarius"
+    ]
+  },
+  {
+    "index": 45,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah fenomena alam yang terjadi ketika udara dingin bertemu dengan udara panas, sering disertai petir dan hujan lebat.",
+    "jawaban": "Badai",
+    "pilihanJawaban": [
+      "Puting Beliung",
+      "Tornado",
+      "Tsunami",
+      "Badai",
+      "Gempa Bumi"
+    ]
+  },
+  {
+    "index": 46,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tarian rakyat dari Irlandia yang sering diiringi oleh musik tradisional.",
+    "jawaban": "Irish Step Dance",
+    "pilihanJawaban": [
+      "Riverdance",
+      "Tap Dance",
+      "Irish Step Dance",
+      "Breakdance",
+      "Belly Dance"
+    ]
+  },
+  {
+    "index": 47,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh fiksi yang berasal dari buku-buku Roald Dahl dan memiliki rambut pirang yang sangat panjang.",
+    "jawaban": "Matilda",
+    "pilihanJawaban": [
+      "BFG",
+      "Willy Wonka",
+      "James",
+      "Matilda",
+      "Charlie"
+    ]
+  },
+  {
+    "index": 48,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah instrumen musik tiup yang terbuat dari bambu dan sering digunakan dalam musik tradisional Jepang.",
+    "jawaban": "Shakuhachi",
+    "pilihanJawaban": [
+      "Koto",
+      "Taiko",
+      "Biwa",
+      "Shakuhachi",
+      "Shamisen"
+    ]
+  },
+  {
+    "index": 49,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh pahlawan mitologi Yunani yang terkenal dengan panahnya.",
+    "jawaban": "Apollo",
+    "pilihanJawaban": [
+      "Zeus",
+      "Hermes",
+      "Apollo",
+      "Ares",
+      "Dionysus"
+    ]
+  },
+  {
+    "index": 50,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah elemen kimia yang memiliki nomor atom 79 dan digunakan dalam perhiasan dan elektronik.",
+    "jawaban": "Emas",
+    "pilihanJawaban": [
+      "Tembaga",
+      "Emas",
+      "Perak",
+      "Besi",
+      "Platinum"
+    ]
+  },
+  {
+    "index": 51,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah binatang kecil yang memiliki telinga sangat panjang dan kaki loncatan yang kuat.",
+    "jawaban": "Kanguru",
+    "pilihanJawaban": [
+      "Possum",
+      "Koala",
+      "Wallaby",
+      "Wombat",
+      "Kanguru"
+    ]
+  },
+  {
+    "index": 52,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah ilmuwan terkenal yang merumuskan teori relativitas.",
+    "jawaban": "Albert Einstein",
+    "pilihanJawaban": [
+      "Stephen Hawking",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Marie Curie"
+    ]
+  },
+  {
+    "index": 53,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tumbuhan yang sering digunakan dalam masakan sebagai bumbu, terutama di Italia.",
+    "jawaban": "Basil",
+    "pilihanJawaban": [
+      "Basil",
+      "Mint",
+      "Oregano",
+      "Rosemary",
+      "Thyme"
+    ]
+  },
+  {
+    "index": 54,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat musik perkusi yang terdiri dari dua cymbal yang dipukul bersamaan.",
+    "jawaban": "Hi-hat",
+    "pilihanJawaban": [
+      "Tambourine",
+      "Xylophone",
+      "Snare drum",
+      "Hi-hat",
+      "Bass drum"
+    ]
+  },
+  {
+    "index": 55,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah mata uang resmi Jepang.",
+    "jawaban": "Yen",
+    "pilihanJawaban": [
+      "Dolar",
+      "Pound",
+      "Yen",
+      "Won",
+      "Euro"
+    ]
+  },
+  {
+    "index": 56,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah planet terkecil di tata surya kita.",
+    "jawaban": "Merkurius",
+    "pilihanJawaban": [
+      "Jupiter",
+      "Merkurius",
+      "Mars",
+      "Saturnus",
+      "Venus"
+    ]
+  },
+  {
+    "index": 57,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah hewan yang sering dikaitkan dengan China dan menjadi simbol tahun dalam kalender Cina.",
+    "jawaban": "Tikus",
+    "pilihanJawaban": [
+      "Kelinci",
+      "Anjing",
+      "Naga",
+      "Tikus",
+      "Kucing"
+    ]
+  },
+  {
+    "index": 58,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah negara yang terkenal dengan Great Wall dan Panda.",
+    "jawaban": "China",
+    "pilihanJawaban": [
+      "Korea",
+      "Vietnam",
+      "China",
+      "Jepang",
+      "Thailand"
+    ]
+  },
+  {
+    "index": 59,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh pahlawan dalam mitologi Yunani yang terkenal dengan perjalanan panjangnya pulang ke Ithaca setelah Perang Troya.",
+    "jawaban": "Odysseus",
+    "pilihanJawaban": [
+      "Achilles",
+      "Odysseus",
+      "Hercules",
+      "Theseus",
+      "Perseus"
+    ]
+  },
+  {
+    "index": 60,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah negara di Amerika Utara yang terkenal dengan alam liar, geiser, dan taman nasionalnya.",
+    "jawaban": "Amerika Serikat",
+    "pilihanJawaban": [
+      "Amerika Serikat",
+      "Kosta Rika",
+      "Meksiko",
+      "Kanada",
+      "Kuba"
+    ]
+  },
+  {
+    "index": 61,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian yang berasal dari Brazil dan seringkali dihubungkan dengan festival Carnival.",
+    "jawaban": "Samba",
+    "pilihanJawaban": [
+      "Samba",
+      "Tango",
+      "Flamenco",
+      "Rumba",
+      "Salsa"
+    ]
+  },
+  {
+    "index": 62,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis alat musik dawai yang memiliki enam senar dan sering digunakan dalam musik rock.",
+    "jawaban": "Gitar Listrik",
+    "pilihanJawaban": [
+      "Gitar Akustik",
+      "Violin",
+      "Gitar Listrik",
+      "Cello",
+      "Bass Guitar"
+    ]
+  },
+  {
+    "index": 63,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah benua yang terletak di selatan Bumi dan memiliki fauna unik seperti kanguru dan koala.",
+    "jawaban": "Australia",
+    "pilihanJawaban": [
+      "Antartika",
+      "Asia",
+      "Amerika Selatan",
+      "Australia",
+      "Afrika"
+    ]
+  },
+  {
+    "index": 64,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat transportasi udara yang lebih kecil daripada pesawat, sering digunakan untuk penerbangan jarak dekat.",
+    "jawaban": "Helikopter",
+    "pilihanJawaban": [
+      "Pesawat Terbang",
+      "Balon Udara",
+      "Kapal Terbang",
+      "Jet Ski",
+      "Helikopter"
+    ]
+  },
+  {
+    "index": 65,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah bangunan kuno yang terletak di Athena, Yunani, dan dianggap sebagai simbol demokrasi.",
+    "jawaban": "Parthenon",
+    "pilihanJawaban": [
+      "Colosseum",
+      "Pyramid",
+      "Parthenon",
+      "Great Wall",
+      "Taj Mahal"
+    ]
+  },
+  {
+    "index": 66,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah negara di Amerika Selatan yang terkenal dengan keanekaragaman hayati hutan hujan Amazon.",
+    "jawaban": "Brasil",
+    "pilihanJawaban": [
+      "Argentina",
+      "Kolombia",
+      "Peru",
+      "Brasil",
+      "Venezuela"
+    ]
+  },
+  {
+    "index": 67,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian tradisional dari Irlandia yang sering disertai dengan musik tradisional.",
+    "jawaban": "Irish Step Dance",
+    "pilihanJawaban": [
+      "Reel",
+      "Clog Dance",
+      "Irish Step Dance",
+      "Riverdance",
+      "Jig"
+    ]
+  },
+  {
+    "index": 68,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh fiksi yang merupakan detektif terkenal dengan akal tajam dan cerutu sebagai ciri khasnya.",
+    "jawaban": "Sherlock Holmes",
+    "pilihanJawaban": [
+      "Sam Spade",
+      "Miss Marple",
+      "Hercule Poirot",
+      "Sherlock Holmes",
+      "Philip Marlowe"
+    ]
+  },
+  {
+    "index": 69,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah bintang terdekat dengan Bumi dan merupakan sumber utama energi bagi planet kita.",
+    "jawaban": "Matahari",
+    "pilihanJawaban": [
+      "Saturnus",
+      "Bulan",
+      "Matahari",
+      "Mars",
+      "Venus"
+    ]
+  },
+  {
+    "index": 70,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah simbol astrologi yang digambarkan sebagai kambing dengan tanduk yang melengkung.",
+    "jawaban": "Capricorn",
+    "pilihanJawaban": [
+      "Leo",
+      "Aries",
+      "Gemini",
+      "Sagitarius",
+      "Capricorn"
+    ]
+  },
+  {
+    "index": 71,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tumbuhan yang dikenal dengan kemampuanku untuk memproduksi oksigen melalui proses fotosintesis.",
+    "jawaban": "Pohon",
+    "pilihanJawaban": [
+      "Rumput",
+      "Semak",
+      "Bunga",
+      "Tumbuhan Berbunga",
+      "Pohon"
+    ]
+  },
+  {
+    "index": 72,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah ilmuwan terkenal yang dikenal dengan teori relativitas dan persamaan terkenal E=mc^2.",
+    "jawaban": "Albert Einstein",
+    "pilihanJawaban": [
+      "Isaac Newton",
+      "Stephen Hawking",
+      "Galileo Galilei",
+      "Marie Curie",
+      "Albert Einstein"
+    ]
+  },
+  {
+    "index": 73,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah hewan yang terkenal dengan warna kulitku yang hijau dan kemampuanku melompat tinggi.",
+    "jawaban": "Katak",
+    "pilihanJawaban": [
+      "Kura-kura",
+      "Katak",
+      "Buaya",
+      "Kadal",
+      "Tokek"
+    ]
+  },
+  {
+    "index": 74,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis alat musik tiup kayu yang sering digunakan dalam orkestra simfoni.",
+    "jawaban": "Oboe",
+    "pilihanJawaban": [
+      "Bassoon",
+      "Clarinet",
+      "Oboe",
+      "Saxophone",
+      "Flute"
+    ]
+  },
+  {
+    "index": 75,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat musik perkusi yang terdiri dari tabung dengan membran yang diregangkan di atasnya.",
+    "jawaban": "Drum",
+    "pilihanJawaban": [
+      "Tambourine",
+      "Gong",
+      "Drum",
+      "Xylophone",
+      "Bongo"
+    ]
+  },
+  {
+    "index": 76,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah elemen kimia yang memiliki simbol 'Na' dan sering digunakan dalam pembuatan garam.",
+    "jawaban": "Natrium",
+    "pilihanJawaban": [
+      "Kalsium",
+      "Kalium",
+      "Magnesium",
+      "Natrium",
+      "Aluminium"
+    ]
+  },
+  {
+    "index": 77,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis seni pertunjukan yang menggabungkan tarian, akrobatik, dan komedi dalam pertunjukan yang menghibur.",
+    "jawaban": "Cirque du Soleil",
+    "pilihanJawaban": [
+      "Teater",
+      "Cirque du Soleil",
+      "Opera",
+      "Musikal",
+      "Balet"
+    ]
+  },
+  {
+    "index": 78,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam mitologi Mesir Kuno yang memiliki kepala singa dan tubuh manusia.",
+    "jawaban": "Sphinx",
+    "pilihanJawaban": [
+      "Osiris",
+      "Anubis",
+      "Isis",
+      "Horus",
+      "Sphinx"
+    ]
+  },
+  {
+    "index": 79,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tumbuhan yang terkenal dengan kemampuannya berubah warna pada musim gugur.",
+    "jawaban": "Maple",
+    "pilihanJawaban": [
+      "Palm",
+      "Pine",
+      "Oak",
+      "Maple",
+      "Birch"
+    ]
+  },
+  {
+    "index": 80,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat musik tiup logam yang sering digunakan dalam orkestra simfoni.",
+    "jawaban": "Trombon",
+    "pilihanJawaban": [
+      "Tuba",
+      "Trombon",
+      "Saxophone",
+      "Trompet",
+      "French Horn"
+    ]
+  },
+  {
+    "index": 81,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah negara di Eropa yang terkenal dengan kanal-kanalnya yang indah dan sepeda sebagai alat transportasi utama.",
+    "jawaban": "Belanda",
+    "pilihanJawaban": [
+      "Jerman",
+      "Austria",
+      "Belanda",
+      "Italia",
+      "Swiss"
+    ]
+  },
+  {
+    "index": 82,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis burung yang terkenal dengan kemampuan menirukan suara-suara lingkungannya.",
+    "jawaban": "Burung Kakak Tua",
+    "pilihanJawaban": [
+      "Merpati",
+      "Merak",
+      "Elang",
+      "Burung Kakak Tua",
+      "Bangau"
+    ]
+  },
+  {
+    "index": 83,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh pahlawan dalam cerita legenda Yunani yang terkenal dengan panahnya yang tak pernah meleset.",
+    "jawaban": "Herakles",
+    "pilihanJawaban": [
+      "Perseus",
+      "Odysseus",
+      "Achilles",
+      "Theseus",
+      "Herakles"
+    ]
+  },
+  {
+    "index": 84,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah zat kimia yang digunakan dalam pembuatan kertas dan seringkali dihubungkan dengan hujan.",
+    "jawaban": "H2O",
+    "pilihanJawaban": [
+      "CO2",
+      "O2",
+      "H2O",
+      "N2",
+      "CH4"
+    ]
+  },
+  {
+    "index": 85,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah raja hutan dan hewan yang memiliki bulu berwarna jingga dengan belang hitam.",
+    "jawaban": "Harimau",
+    "pilihanJawaban": [
+      "Singa",
+      "Jaguar",
+      "Leopard",
+      "Macan Tutul",
+      "Harimau"
+    ]
+  },
+  {
+    "index": 86,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah elemen kimia yang memiliki simbol 'Cu' dan digunakan dalam pembuatan koin dan kabel listrik.",
+    "jawaban": "Tembaga",
+    "pilihanJawaban": [
+      "Tembaga",
+      "Aluminium",
+      "Besi",
+      "Perak",
+      "Emas"
+    ]
+  },
+  {
+    "index": 87,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis makanan yang berasal dari Italia dan terkenal dengan berbagai variasi dan toppingnya.",
+    "jawaban": "Pizza",
+    "pilihanJawaban": [
+      "Taco",
+      "Pizza",
+      "Sushi",
+      "Burger",
+      "Pasta"
+    ]
+  },
+  {
+    "index": 88,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah simbol matematika yang digunakan untuk menggambarkan bilangan pecahan.",
+    "jawaban": "Pecahan",
+    "pilihanJawaban": [
+      "Rasio",
+      "Pecahan",
+      "Bulat",
+      "Persen",
+      "Desimal"
+    ]
+  },
+  {
+    "index": 89,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian tradisional dari India yang menampilkan gerakan yang indah dan penuh makna.",
+    "jawaban": "Bharatanatyam",
+    "pilihanJawaban": [
+      "Hip-hop",
+      "Bharatanatyam",
+      "Tango",
+      "Salsa",
+      "Ballet"
+    ]
+  },
+  {
+    "index": 90,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah planet terbesar di tata surya kita.",
+    "jawaban": "Jupiter",
+    "pilihanJawaban": [
+      "Venus",
+      "Mars",
+      "Saturnus",
+      "Uranus",
+      "Jupiter"
+    ]
+  },
+  {
+    "index": 91,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah senjata tradisional Jepang yang memiliki bilah yang melengkung dan digunakan oleh samurai.",
+    "jawaban": "Katana",
+    "pilihanJawaban": [
+      "Katana",
+      "Bo Staff",
+      "Nunchaku",
+      "Sai",
+      "Wakizashi"
+    ]
+  },
+  {
+    "index": 92,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis binatang yang memiliki sisik dan sering hidup di air tawar.",
+    "jawaban": "Ikan",
+    "pilihanJawaban": [
+      "Kepiting",
+      "Ikan",
+      "Buaya",
+      "Kura-kura",
+      "Katak"
+    ]
+  },
+  {
+    "index": 93,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah negara di Asia Tenggara yang terkenal dengan pulau-pulau tropisnya.",
+    "jawaban": "Indonesia",
+    "pilihanJawaban": [
+      "Vietnam",
+      "Indonesia",
+      "Thailand",
+      "Filipina",
+      "Malaysia"
+    ]
+  },
+  {
+    "index": 94,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat musik tiup yang terbuat dari kayu dan memiliki suara yang lembut.",
+    "jawaban": "Flute",
+    "pilihanJawaban": [
+      "Oboe",
+      "Clarinet",
+      "Saxophone",
+      "Bassoon",
+      "Flute"
+    ]
+  },
+  {
+    "index": 95,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis makanan yang berasal dari Jepang dan terdiri dari nasi yang digulung dengan berbagai bahan.",
+    "jawaban": "Sushi",
+    "pilihanJawaban": [
+      "Sushi",
+      "Sashimi",
+      "Tempura",
+      "Ramen",
+      "Udon"
+    ]
+  },
+  {
+    "index": 96,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah negara yang terkenal dengan Great Pyramids dan sungai Nil.",
+    "jawaban": "Mesir",
+    "pilihanJawaban": [
+      "Maroko",
+      "Libya",
+      "Sudan",
+      "Yordania",
+      "Mesir"
+    ]
+  },
+  {
+    "index": 97,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah salah satu planet dalam tata surya yang memiliki cincin yang terkenal.",
+    "jawaban": "Saturnus",
+    "pilihanJawaban": [
+      "Saturnus",
+      "Neptunus",
+      "Venus",
+      "Jupiter",
+      "Mars"
+    ]
+  },
+  {
+    "index": 98,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis makanan ringan yang terbuat dari jagung yang dipanggang dan sering disajikan dengan berbagai rasa.",
+    "jawaban": "Popcorn",
+    "pilihanJawaban": [
+      "Kacang",
+      "Popcorn",
+      "Es Krim",
+      "Kentang Goreng",
+      "Keripik"
+    ]
+  },
+  {
+    "index": 99,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis bunga yang terkenal dengan warna-warni kelopaknya dan sering digunakan dalam acara pernikahan.",
+    "jawaban": "Bunga Mawar",
+    "pilihanJawaban": [
+      "Krisan",
+      "Tulip",
+      "Lily",
+      "Bunga Mawar",
+      "Anggrek"
+    ]
+  },
+  {
+    "index": 100,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah makanan yang terbuat dari adonan yang diisi dengan berbagai bahan seperti daging, sayuran, atau keju.",
+    "jawaban": "Roti",
+    "pilihanJawaban": [
+      "Roti",
+      "Hot Dog",
+      "Spaghetti",
+      "Burger",
+      "Pizza"
+    ]
+  },
+  {
+    "index": 101,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian tradisional dari Kuba yang sering diiringi oleh musik perkusi.",
+    "jawaban": "Salsa",
+    "pilihanJawaban": [
+      "Samba",
+      "Flamenco",
+      "Tango",
+      "Rumba",
+      "Salsa"
+    ]
+  },
+  {
+    "index": 102,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat musik tiup logam yang sering digunakan dalam marching band.",
+    "jawaban": "Trompet",
+    "pilihanJawaban": [
+      "Klarinet",
+      "Trompet",
+      "Tuba",
+      "Saxophone",
+      "Trombone"
+    ]
+  },
+  {
+    "index": 103,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah pulau terbesar di dunia yang terletak di Asia dan terkenal dengan kekayaan budayanya.",
+    "jawaban": "Jawa",
+    "pilihanJawaban": [
+      "Sulawesi",
+      "Jawa",
+      "Kalimantan",
+      "Sumatera",
+      "Papua"
+    ]
+  },
+  {
+    "index": 104,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam cerita-cerita mitologi Yunani yang merupakan dewa cinta dan kecantikan.",
+    "jawaban": "Aphrodite",
+    "pilihanJawaban": [
+      "Hera",
+      "Aphrodite",
+      "Demeter",
+      "Artemis",
+      "Athena"
+    ]
+  },
+  {
+    "index": 105,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah hewan peliharaan yang terkenal dengan bulu lebatku dan kemampuanku melompat tinggi.",
+    "jawaban": "Kelinci",
+    "pilihanJawaban": [
+      "Kucing",
+      "Anjing",
+      "Tikus",
+      "Kelinci",
+      "Hamster"
+    ]
+  },
+  {
+    "index": 106,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah elemen kimia yang memiliki simbol 'Cu' dan sering digunakan dalam pembuatan kawat dan koin.",
+    "jawaban": "Tembaga",
+    "pilihanJawaban": [
+      "Besi",
+      "Aluminium",
+      "Emas",
+      "Timah",
+      "Tembaga"
+    ]
+  },
+  {
+    "index": 107,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh fiksi yang merupakan manusia super dengan kekuatan luar biasa dan identitas ganda.",
+    "jawaban": "Superman",
+    "pilihanJawaban": [
+      "Superman",
+      "Flash",
+      "Wonder Woman",
+      "Spider-Man",
+      "Batman"
+    ]
+  },
+  {
+    "index": 108,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat musik perkusi yang terdiri dari rangkaian logam yang dipukul untuk menghasilkan suara berdering.",
+    "jawaban": "Glockenspiel",
+    "pilihanJawaban": [
+      "Xylophone",
+      "Marimba",
+      "Tambourine",
+      "Glockenspiel",
+      "Triangle"
+    ]
+  },
+  {
+    "index": 109,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian tradisional dari India yang sering diiringi oleh musik sitar dan tabla.",
+    "jawaban": "Bharatanatyam",
+    "pilihanJawaban": [
+      "Odissi",
+      "Kathak",
+      "Kathakali",
+      "Bharatanatyam",
+      "Kuchipudi"
+    ]
+  },
+  {
+    "index": 110,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam cerita-cerita mitologi Mesir Kuno yang merupakan dewa kebijaksanaan dan pengetahuan.",
+    "jawaban": "Thoth",
+    "pilihanJawaban": [
+      "Ra",
+      "Hathor",
+      "Osiris",
+      "Anubis",
+      "Thoth"
+    ]
+  },
+  {
+    "index": 111,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis hewan yang terkenal dengan cakar dan sayapnya yang besar, dan aku sering digambarkan dalam cerita horor.",
+    "jawaban": "Vampir",
+    "pilihanJawaban": [
+      "Werewolf",
+      "Zombie",
+      "Hantu",
+      "Vampir",
+      "Mumi"
+    ]
+  },
+  {
+    "index": 112,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah simbol matematika yang digunakan untuk menggambarkan perbandingan antara dua angka atau kuantitas.",
+    "jawaban": "Rasio",
+    "pilihanJawaban": [
+      "Desimal",
+      "Bulat",
+      "Rasio",
+      "Pecahan",
+      "Persen"
+    ]
+  },
+  {
+    "index": 113,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah negara di Amerika Selatan yang terkenal dengan tarian tango dan anggur malbecnya.",
+    "jawaban": "Argentina",
+    "pilihanJawaban": [
+      "Peru",
+      "Venezuela",
+      "Kolombia",
+      "Brasil",
+      "Argentina"
+    ]
+  },
+  {
+    "index": 114,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian yang berasal dari Hawaii dan sering melibatkan gerakan tangan dan pinggul.",
+    "jawaban": "Hula",
+    "pilihanJawaban": [
+      "Luau",
+      "Tiki",
+      "Hula",
+      "Aloha",
+      "Mahalo"
+    ]
+  },
+  {
+    "index": 115,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam cerita-cerita mitologi Nordik yang merupakan dewa kebijaksanaan dan seni.",
+    "jawaban": "Bragi",
+    "pilihanJawaban": [
+      "Thor",
+      "Loki",
+      "Frigg",
+      "Bragi",
+      "Baldr"
+    ]
+  },
+  {
+    "index": 116,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam cerita-cerita mitologi Romawi yang merupakan dewa langit dan alam semesta.",
+    "jawaban": "Jupiter",
+    "pilihanJawaban": [
+      "Mars",
+      "Neptunus",
+      "Venus",
+      "Saturnus",
+      "Jupiter"
+    ]
+  },
+  {
+    "index": 117,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis makanan ringan yang terbuat dari jagung yang dipanggang dan sering disajikan di bioskop.",
+    "jawaban": "Popcorn",
+    "pilihanJawaban": [
+      "Kacang",
+      "Popcorn",
+      "Es Krim",
+      "Kentang Goreng",
+      "Keripik"
+    ]
+  },
+  {
+    "index": 118,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis bunga yang sering digunakan dalam pernikahan sebagai lambang cinta dan kecantikan.",
+    "jawaban": "Mawar",
+    "pilihanJawaban": [
+      "Lily",
+      "Tulip",
+      "Mawar",
+      "Krisan",
+      "Anggrek"
+    ]
+  },
+  {
+    "index": 119,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis makanan yang terbuat dari daging sapi yang diolah menjadi irisan tipis dan biasanya dimakan dalam roti.",
+    "jawaban": "Sandwich",
+    "pilihanJawaban": [
+      "Burger",
+      "Sandwich",
+      "Hot Dog",
+      "Spaghetti",
+      "Pizza"
+    ]
+  },
+  {
+    "index": 120,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian tradisional dari Spanyol yang sering diiringi oleh musik gitar.",
+    "jawaban": "Flamenco",
+    "pilihanJawaban": [
+      "Tango",
+      "Salsa",
+      "Flamenco",
+      "Rumba",
+      "Samba"
+    ]
+  },
+  {
+    "index": 121,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat musik tiup kayu yang terkenal dengan suara yang tenang dan indah.",
+    "jawaban": "Klarinet",
+    "pilihanJawaban": [
+      "Saxophone",
+      "Oboe",
+      "Bassoon",
+      "Klarinet",
+      "Flute"
+    ]
+  },
+  {
+    "index": 122,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah pulau terbesar di dunia yang terletak di Indonesia dan terkenal dengan kekayaan alamnya.",
+    "jawaban": "Kalimantan",
+    "pilihanJawaban": [
+      "Sulawesi",
+      "Sumatera",
+      "Kalimantan",
+      "Papua",
+      "Jawa"
+    ]
+  },
+  {
+    "index": 123,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam cerita-cerita mitologi Yunani yang merupakan dewa laut.",
+    "jawaban": "Poseidon",
+    "pilihanJawaban": [
+      "Poseidon",
+      "Zeus",
+      "Ares",
+      "Hades",
+      "Apollo"
+    ]
+  },
+  {
+    "index": 124,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis binatang yang sering digunakan sebagai hewan peliharaan dan dikenal dengan ekornya yang panjang.",
+    "jawaban": "Kucing",
+    "pilihanJawaban": [
+      "Anjing",
+      "Kelinci",
+      "Tikus",
+      "Kucing",
+      "Hamster"
+    ]
+  },
+  {
+    "index": 125,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah elemen kimia yang memiliki simbol 'Fe' dan digunakan dalam pembuatan baja.",
+    "jawaban": "Besi",
+    "pilihanJawaban": [
+      "Kuningan",
+      "Aluminium",
+      "Emas",
+      "Besi",
+      "Timah"
+    ]
+  },
+  {
+    "index": 126,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh fiksi yang merupakan wujud setan yang suka bermain trik pada orang-orang.",
+    "jawaban": "Loki",
+    "pilihanJawaban": [
+      "Sauron",
+      "Voldemort",
+      "Loki",
+      "Cruella",
+      "Joker"
+    ]
+  },
+  {
+    "index": 127,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat musik perkusi yang terdiri dari sepasang cymbal yang dipukul bersamaan.",
+    "jawaban": "Crash Cymbal",
+    "pilihanJawaban": [
+      "Ride Cymbal",
+      "Hi-hat",
+      "Splash Cymbal",
+      "China Cymbal",
+      "Crash Cymbal"
+    ]
+  },
+  {
+    "index": 128,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian tradisional dari Jepang yang sering melibatkan gerakan anggun dan kimono.",
+    "jawaban": "Noh",
+    "pilihanJawaban": [
+      "Salsa",
+      "Kabuki",
+      "Hula",
+      "Tango",
+      "Noh"
+    ]
+  },
+  {
+    "index": 129,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam cerita-cerita mitologi Norse yang merupakan dewa kebijaksanaan dan kecerdasan.",
+    "jawaban": "Odin",
+    "pilihanJawaban": [
+      "Thor",
+      "Odin",
+      "Loki",
+      "Baldr",
+      "Frigg"
+    ]
+  },
+  {
+    "index": 130,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah hewan yang terkenal dengan paruhku yang panjang dan sering ditemukan di Australia.",
+    "jawaban": "Kanguru",
+    "pilihanJawaban": [
+      "Kanguru",
+      "Koala",
+      "Wombat",
+      "Wallaby",
+      "Possum"
+    ]
+  },
+  {
+    "index": 131,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis makanan yang terbuat dari tepung dan air yang direbus dan sering disajikan dengan saus dan bahan pelengkap.",
+    "jawaban": "Pasta",
+    "pilihanJawaban": [
+      "Roti",
+      "Pasta",
+      "Nasi",
+      "Sushi",
+      "Pizza"
+    ]
+  },
+  {
+    "index": 132,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah simbol matematika yang digunakan untuk menggambarkan bilangan bulat positif.",
+    "jawaban": "Bilangan Bulat",
+    "pilihanJawaban": [
+      "Pecahan",
+      "Persen",
+      "Desimal",
+      "Bilangan Bulat",
+      "Rasio"
+    ]
+  },
+  {
+    "index": 133,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah negara di Amerika Selatan yang terkenal dengan hutan hujan Amazon dan kopi berkualitas tinggi.",
+    "jawaban": "Kolombia",
+    "pilihanJawaban": [
+      "Peru",
+      "Kolombia",
+      "Argentina",
+      "Brasil",
+      "Venezuela"
+    ]
+  },
+  {
+    "index": 134,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian yang berasal dari Irlandia dan sering diiringi oleh musik tradisional.",
+    "jawaban": "Jig",
+    "pilihanJawaban": [
+      "Irish Step Dance",
+      "Jig",
+      "Riverdance",
+      "Clog Dance",
+      "Reel"
+    ]
+  },
+  {
+    "index": 135,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah benua yang memiliki populasi terbanyak di dunia.",
+    "jawaban": "Asia",
+    "pilihanJawaban": [
+      "Eropa",
+      "Amerika",
+      "Asia",
+      "Afrika",
+      "Australia"
+    ]
+  },
+  {
+    "index": 136,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis makanan yang terbuat dari daging ikan yang diasinkan dan sering disajikan sebagai camilan.",
+    "jawaban": "Ikan Asin",
+    "pilihanJawaban": [
+      "Ikan Asin",
+      "Popcorn",
+      "Keripik",
+      "Es Krim",
+      "Kacang"
+    ]
+  },
+  {
+    "index": 137,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis bunga yang terkenal dengan aroma yang harum dan sering digunakan dalam parfum.",
+    "jawaban": "Mawar",
+    "pilihanJawaban": [
+      "Krisan",
+      "Mawar",
+      "Anggrek",
+      "Lily",
+      "Tulip"
+    ]
+  },
+  {
+    "index": 138,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis makanan yang terdiri dari daging sapi yang digoreng dan biasanya dimakan dalam roti.",
+    "jawaban": "Burger",
+    "pilihanJawaban": [
+      "Hot Dog",
+      "Pizza",
+      "Burger",
+      "Spaghetti",
+      "Sandwich"
+    ]
+  },
+  {
+    "index": 139,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tarian tradisional dari Argentina yang sering diiringi oleh musik bandoneon.",
+    "jawaban": "Tango",
+    "pilihanJawaban": [
+      "Tango",
+      "Rumba",
+      "Salsa",
+      "Samba",
+      "Flamenco"
+    ]
+  },
+  {
+    "index": 140,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat musik tiup kayu yang terkenal dengan suara yang lembut.",
+    "jawaban": "Fagot",
+    "pilihanJawaban": [
+      "Saxophone",
+      "Flute",
+      "Oboe",
+      "Klarinet",
+      "Fagot"
+    ]
+  },
+  {
+    "index": 141,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah negara yang terletak di kawasan Skandinavia dan terkenal dengan fjord-fjord indahnya.",
+    "jawaban": "Norwegia",
+    "pilihanJawaban": [
+      "Swedia",
+      "Denmark",
+      "Finlandia",
+      "Norwegia",
+      "Islandia"
+    ]
+  },
+  {
+    "index": 142,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam cerita-cerita mitologi Mesir Kuno yang merupakan dewa kekayaan dan kemakmuran.",
+    "jawaban": "Hapi",
+    "pilihanJawaban": [
+      "Anubis",
+      "Hapi",
+      "Hathor",
+      "Osiris",
+      "Ra"
+    ]
+  },
+  {
+    "index": 143,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis binatang peliharaan yang sering digunakan untuk menjaga rumah dari tikus dan serangga.",
+    "jawaban": "Kucing",
+    "pilihanJawaban": [
+      "Kucing",
+      "Tikus",
+      "Hamster",
+      "Anjing",
+      "Kelinci"
+    ]
+  },
+  {
+    "index": 144,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah elemen kimia yang memiliki simbol 'Ag' dan sering digunakan dalam perhiasan.",
+    "jawaban": "Perak",
+    "pilihanJawaban": [
+      "Aluminium",
+      "Besi",
+      "Perak",
+      "Timah",
+      "Emas"
+    ]
+  },
+  {
+    "index": 145,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh fiksi yang merupakan alien dengan telinga panjang dan kulit hijau.",
+    "jawaban": "Spock",
+    "pilihanJawaban": [
+      "E.T.",
+      "Spock",
+      "Martian",
+      "Yoda",
+      "Predator"
+    ]
+  },
+  {
+    "index": 146,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat musik perkusi yang terdiri dari sepasang drum yang dipukul bersamaan.",
+    "jawaban": "Drum Set",
+    "pilihanJawaban": [
+      "Drum Set",
+      "Snare Drum",
+      "Hi-hat",
+      "Ride Cymbal",
+      "Bass Drum"
+    ]
+  },
+  {
+    "index": 147,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian tradisional dari Korea yang sering melibatkan gerakan anggun dan kostum tradisional.",
+    "jawaban": "Hanbok",
+    "pilihanJawaban": [
+      "Bibimbap",
+      "Taegeukmu",
+      "Hanbok",
+      "Kimchi",
+      "Samulnori"
+    ]
+  },
+  {
+    "index": 148,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam cerita-cerita mitologi Yunani yang merupakan dewa perang.",
+    "jawaban": "Ares",
+    "pilihanJawaban": [
+      "Ares",
+      "Poseidon",
+      "Apollo",
+      "Zeus",
+      "Hades"
+    ]
+  },
+  {
+    "index": 149,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis hewan yang sering digunakan untuk mengangkut barang di gurun pasir.",
+    "jawaban": "Unta",
+    "pilihanJawaban": [
+      "Kuda",
+      "Unta",
+      "Sapi",
+      "Kembara",
+      "Gajah"
+    ]
+  },
+  {
+    "index": 150,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis makanan yang terbuat dari tepung terigu dan biasanya diisi dengan berbagai bahan.",
+    "jawaban": "Pancake",
+    "pilihanJawaban": [
+      "Waffle",
+      "Donat",
+      "Crepe",
+      "Pancake",
+      "Roti Bakar"
+    ]
+  },
+  {
+    "index": 151,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah simbol matematika yang digunakan untuk menggambarkan bilangan pecahan dalam bentuk desimal.",
+    "jawaban": "Desimal",
+    "pilihanJawaban": [
+      "Pecahan",
+      "Persen",
+      "Rasio",
+      "Bulat",
+      "Desimal"
+    ]
+  },
+  {
+    "index": 152,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah negara di Amerika Selatan yang terkenal dengan tarian samba dan Karnaval Rio.",
+    "jawaban": "Brasil",
+    "pilihanJawaban": [
+      "Peru",
+      "Brasil",
+      "Argentina",
+      "Kolombia",
+      "Venezuela"
+    ]
+  },
+  {
+    "index": 153,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian yang berasal dari Skotlandia dan sering diiringi oleh musik gaita.",
+    "jawaban": "Highland Dance",
+    "pilihanJawaban": [
+      "Clog Dance",
+      "Highland Dance",
+      "Jig",
+      "Irish Step Dance",
+      "Reel"
+    ]
+  },
+  {
+    "index": 154,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah planet dalam tata surya yang terkenal dengan cincin yang sangat besar dan spektakuler.",
+    "jawaban": "Saturnus",
+    "pilihanJawaban": [
+      "Mars",
+      "Neptunus",
+      "Saturnus",
+      "Jupiter",
+      "Venus"
+    ]
+  },
+  {
+    "index": 155,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis makanan yang terbuat dari daging sapi cincang yang dibentuk menjadi patty dan biasanya dimakan dalam roti.",
+    "jawaban": "Burger",
+    "pilihanJawaban": [
+      "Pizza",
+      "Roti",
+      "Burger",
+      "Hot Dog",
+      "Spaghetti"
+    ]
+  },
+  {
+    "index": 156,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis bunga yang sering digunakan dalam perayaan Hari Valentine dan sering berwarna merah.",
+    "jawaban": "Mawar Merah",
+    "pilihanJawaban": [
+      "Lily",
+      "Krisan",
+      "Tulip",
+      "Mawar Merah",
+      "Anggrek"
+    ]
+  },
+  {
+    "index": 157,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah makanan yang terbuat dari adonan yang dililitkan menjadi tali dan direbus hingga matang.",
+    "jawaban": "Spaghetti",
+    "pilihanJawaban": [
+      "Burger",
+      "Roti",
+      "Spaghetti",
+      "Pizza",
+      "Hot Dog"
+    ]
+  },
+  {
+    "index": 158,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian tradisional dari Argentina yang sering diiringi oleh musik bandoneon.",
+    "jawaban": "Tango",
+    "pilihanJawaban": [
+      "Rumba",
+      "Flamenco",
+      "Tango",
+      "Salsa",
+      "Samba"
+    ]
+  },
+  {
+    "index": 159,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah negara di Amerika Selatan yang terkenal dengan Patung Kristus Penebus dan Pantai Copacabana.",
+    "jawaban": "Brasil",
+    "pilihanJawaban": [
+      "Argentina",
+      "Brasil",
+      "Venezuela",
+      "Kolombia",
+      "Peru"
+    ]
+  },
+  {
+    "index": 160,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam cerita-cerita mitologi Yunani yang merupakan dewi kelahiran dan pelindung anak-anak.",
+    "jawaban": "Hera",
+    "pilihanJawaban": [
+      "Hera",
+      "Demeter",
+      "Artemis",
+      "Aphrodite",
+      "Athena"
+    ]
+  },
+  {
+    "index": 161,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah hewan peliharaan yang terkenal dengan telinga yang panjang dan tubuh yang besar.",
+    "jawaban": "Gajah",
+    "pilihanJawaban": [
+      "Tikus",
+      "Kelinci",
+      "Gajah",
+      "Anjing",
+      "Kucing"
+    ]
+  },
+  {
+    "index": 162,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh fiksi yang merupakan manusia super yang mengenakan topeng hitam dan bertopengkan keadilan.",
+    "jawaban": "Zorro",
+    "pilihanJawaban": [
+      "Batman",
+      "Spider-Man",
+      "Wonder Woman",
+      "Zorro",
+      "The Flash"
+    ]
+  },
+  {
+    "index": 163,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat musik perkusi yang terdiri dari dua plat logam yang dipukul bersamaan.",
+    "jawaban": "Simbal",
+    "pilihanJawaban": [
+      "Tambourine",
+      "Marimba",
+      "Xylophone",
+      "Cymbals",
+      "Simbal"
+    ]
+  },
+  {
+    "index": 164,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian tradisional dari India yang sering diiringi oleh musik tabla dan sitar.",
+    "jawaban": "Kuchipudi",
+    "pilihanJawaban": [
+      "Kuchipudi",
+      "Odissi",
+      "Kathak",
+      "Bharatanatyam",
+      "Kathakali"
+    ]
+  },
+  {
+    "index": 165,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam cerita-cerita mitologi Mesir Kuno yang merupakan dewi kecantikan dan cinta.",
+    "jawaban": "Hathor",
+    "pilihanJawaban": [
+      "Anubis",
+      "Thoth",
+      "Hathor",
+      "Osiris",
+      "Ra"
+    ]
+  },
+  {
+    "index": 166,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis makhluk legendaris yang sering digambarkan sebagai manusia serigala.",
+    "jawaban": "Werewolf",
+    "pilihanJawaban": [
+      "Mumi",
+      "Hantu",
+      "Zombie",
+      "Werewolf",
+      "Vampir"
+    ]
+  },
+  {
+    "index": 167,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah simbol matematika yang digunakan untuk menggambarkan bilangan yang bulat tanpa pecahan.",
+    "jawaban": "Bulat",
+    "pilihanJawaban": [
+      "Persen",
+      "Desimal",
+      "Bulat",
+      "Rasio",
+      "Pecahan"
+    ]
+  },
+  {
+    "index": 168,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian yang berasal dari Irlandia dan sering melibatkan gerakan cepat kaki.",
+    "jawaban": "Irish Step Dance",
+    "pilihanJawaban": [
+      "Reel",
+      "Clog Dance",
+      "Jig",
+      "Highland Dance",
+      "Irish Step Dance"
+    ]
+  },
+  {
+    "index": 169,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam cerita-cerita mitologi Nordik yang merupakan dewa ilmu pengetahuan dan hikmat.",
+    "jawaban": "Odin",
+    "pilihanJawaban": [
+      "Bragi",
+      "Odin",
+      "Loki",
+      "Thor",
+      "Frigg"
+    ]
+  },
+  {
+    "index": 170,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah salah satu planet dalam tata surya yang memiliki dua bulan yang disebut Deimos dan Phobos.",
+    "jawaban": "Mars",
+    "pilihanJawaban": [
+      "Saturnus",
+      "Mars",
+      "Venus",
+      "Neptunus",
+      "Jupiter"
+    ]
+  },
+  {
+    "index": 171,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis makanan yang terbuat dari kedelai yang difermentasi dan sering digunakan sebagai pengganti daging.",
+    "jawaban": "Tahu",
+    "pilihanJawaban": [
+      "Kacang",
+      "Tahu",
+      "Es Krim",
+      "Tempe",
+      "Keripik"
+    ]
+  },
+  {
+    "index": 172,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis bunga yang terkenal dengan aroma yang khas dan sering digunakan dalam minyak wangi.",
+    "jawaban": "Lavender",
+    "pilihanJawaban": [
+      "Lily",
+      "Lavender",
+      "Anggrek",
+      "Tulip",
+      "Mawar"
+    ]
+  },
+  {
+    "index": 173,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah makanan yang terbuat dari adonan yang diisi dengan berbagai bahan seperti saus tomat dan keju.",
+    "jawaban": "Pizza",
+    "pilihanJawaban": [
+      "Roti",
+      "Pizza",
+      "Burger",
+      "Hot Dog",
+      "Spaghetti"
+    ]
+  },
+  {
+    "index": 174,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat musik tiup logam yang terdiri dari tabung yang diputar untuk menghasilkan suara.",
+    "jawaban": "Tuba",
+    "pilihanJawaban": [
+      "Trombone",
+      "Tuba",
+      "Saxophone",
+      "Trompet",
+      "Klarinet"
+    ]
+  },
+  {
+    "index": 175,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah negara di Amerika Selatan yang terkenal dengan hutan hujan Amazon dan pantainya yang panjang.",
+    "jawaban": "Brasil",
+    "pilihanJawaban": [
+      "Argentina",
+      "Brasil",
+      "Peru",
+      "Venezuela",
+      "Kolombia"
+    ]
+  },
+  {
+    "index": 176,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam cerita-cerita mitologi Yunani yang merupakan dewi kelahiran dan perlindungan.",
+    "jawaban": "Artemis",
+    "pilihanJawaban": [
+      "Aphrodite",
+      "Athena",
+      "Artemis",
+      "Demeter",
+      "Hera"
+    ]
+  },
+  {
+    "index": 177,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah hewan peliharaan yang terkenal dengan kecerdasan dan kemampuan untuk memahami perintah manusia.",
+    "jawaban": "Anjing",
+    "pilihanJawaban": [
+      "Anjing",
+      "Hamster",
+      "Kucing",
+      "Tikus",
+      "Kelinci"
+    ]
+  },
+  {
+    "index": 178,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah elemen kimia yang memiliki simbol 'Hg' dan sering digunakan dalam termometer.",
+    "jawaban": "Mercury",
+    "pilihanJawaban": [
+      "Besi",
+      "Aluminium",
+      "Mercury",
+      "Timah",
+      "Tembaga"
+    ]
+  },
+  {
+    "index": 179,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh fiksi yang merupakan manusia super dengan kemampuan memutar tubuhnya dengan cepat.",
+    "jawaban": "The Flash",
+    "pilihanJawaban": [
+      "Superman",
+      "Wonder Woman",
+      "The Flash",
+      "Spider-Man",
+      "Batman"
+    ]
+  },
+  {
+    "index": 180,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian tradisional dari Meksiko yang sering diiringi oleh musik mariachi.",
+    "jawaban": "Mariachi",
+    "pilihanJawaban": [
+      "Salsa",
+      "Mariachi",
+      "Tango",
+      "Flamenco",
+      "Rumba"
+    ]
+  },
+  {
+    "index": 181,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam cerita-cerita mitologi Mesir Kuno yang merupakan dewa langit dan matahari.",
+    "jawaban": "Ra",
+    "pilihanJawaban": [
+      "Ra",
+      "Osiris",
+      "Anubis",
+      "Hathor",
+      "Thoth"
+    ]
+  },
+  {
+    "index": 182,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah negara di Amerika Selatan yang terkenal dengan tarian samba dan karnaval yang megah.",
+    "jawaban": "Brasil",
+    "pilihanJawaban": [
+      "Argentina",
+      "Kolombia",
+      "Venezuela",
+      "Brasil",
+      "Peru"
+    ]
+  },
+  {
+    "index": 183,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam cerita-cerita mitologi Nordik yang merupakan dewa keberuntungan dan kebahagiaan.",
+    "jawaban": "Freyr",
+    "pilihanJawaban": [
+      "Freyr",
+      "Thor",
+      "Bragi",
+      "Frigg",
+      "Loki"
+    ]
+  },
+  {
+    "index": 184,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah planet dalam tata surya yang terkenal dengan warna biru langit dan memiliki cincin yang indah.",
+    "jawaban": "Bumi",
+    "pilihanJawaban": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturnus",
+      "Bumi"
+    ]
+  },
+  {
+    "index": 185,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis makanan ringan yang terbuat dari kentang yang dipotong tipis dan digoreng hingga renyah.",
+    "jawaban": "Keripik Kentang",
+    "pilihanJawaban": [
+      "Kacang",
+      "Keripik Kentang",
+      "Es Krim",
+      "Kentang Goreng",
+      "Keripik"
+    ]
+  },
+  {
+    "index": 186,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis bunga yang terkenal dengan bentuknya yang unik dan sering digunakan sebagai tanda persahabatan.",
+    "jawaban": "Tulip",
+    "pilihanJawaban": [
+      "Lavender",
+      "Mawar",
+      "Anggrek",
+      "Tulip",
+      "Lily"
+    ]
+  },
+  {
+    "index": 187,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah makanan yang terbuat dari adonan yang diisi dengan saus tomat, daging, dan keju, kemudian dipanggang.",
+    "jawaban": "Lasagna",
+    "pilihanJawaban": [
+      "Roti",
+      "Lasagna",
+      "Spaghetti",
+      "Burger",
+      "Pizza"
+    ]
+  },
+  {
+    "index": 188,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis tarian tradisional dari Brasil yang sering diiringi oleh musik samba.",
+    "jawaban": "Samba",
+    "pilihanJawaban": [
+      "Tango",
+      "Samba",
+      "Flamenco",
+      "Salsa",
+      "Rumba"
+    ]
+  },
+  {
+    "index": 189,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat musik tiup kayu yang terkenal dengan suara yang lembut dan emosional.",
+    "jawaban": "Saxophone",
+    "pilihanJawaban": [
+      "Klarinet",
+      "Trompet",
+      "Oboe",
+      "Saxophone",
+      "Fagot"
+    ]
+  },
+  {
+    "index": 190,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah negara di Eropa yang terkenal dengan gunung Alpen dan keju Swiss-nya.",
+    "jawaban": "Swiss",
+    "pilihanJawaban": [
+      "Austria",
+      "Swiss",
+      "Denmark",
+      "Swedia",
+      "Norwegia"
+    ]
+  },
+  {
+    "index": 191,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam cerita-cerita mitologi Yunani yang merupakan dewi kebijaksanaan dan strategi perang.",
+    "jawaban": "Athena",
+    "pilihanJawaban": [
+      "Hera",
+      "Demeter",
+      "Athena",
+      "Artemis",
+      "Aphrodite"
+    ]
+  },
+  {
+    "index": 192,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah hewan peliharaan yang terkenal dengan kecerdasan dan kemampuan untuk berbicara (dalam cerita fiksi).",
+    "jawaban": "Burung Kakak Tua",
+    "pilihanJawaban": [
+      "Kelinci",
+      "Anjing",
+      "Burung Kakak Tua",
+      "Tikus",
+      "Kucing"
+    ]
+  },
+  {
+    "index": 193,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah elemen kimia yang memiliki simbol 'K' dan dikenal sebagai logam alkali.",
+    "jawaban": "Kalium",
+    "pilihanJawaban": [
+      "Kalium",
+      "Aluminium",
+      "Tembaga",
+      "Besi",
+      "Timah"
+    ]
+  },
+  {
+    "index": 194,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh fiksi yang merupakan jurnalis pahlawan yang mengenakan jubah merah dan celana dalam di luar.",
+    "jawaban": "Superman",
+    "pilihanJawaban": [
+      "Batman",
+      "The Flash",
+      "Spider-Man",
+      "Superman",
+      "Wonder Woman"
+    ]
+  },
+  {
+    "index": 195,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah alat musik perkusi yang terdiri dari sebuah kulit yang dipukul untuk menghasilkan suara.",
+    "jawaban": "Drum",
+    "pilihanJawaban": [
+      "Drum",
+      "Tambourine",
+      "Marimba",
+      "Xylophone",
+      "Glockenspiel"
+    ]
+  },
+  {
+    "index": 196,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah jenis makhluk legendaris yang sering digambarkan sebagai mayat hidup yang haus darah manusia.",
+    "jawaban": "Vampir",
+    "pilihanJawaban": [
+      "Mumi",
+      "Vampir",
+      "Hantu",
+      "Zombie",
+      "Werewolf"
+    ]
+  },
+  {
+    "index": 197,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah simbol matematika yang digunakan untuk menggambarkan perbandingan antara dua angka dalam bentuk pecahan.",
+    "jawaban": "Pecahan",
+    "pilihanJawaban": [
+      "Pecahan",
+      "Rasio",
+      "Bulat",
+      "Desimal",
+      "Persen"
+    ]
+  },
+  {
+    "index": 198,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah tokoh dalam cerita-cerita mitologi Nordik yang merupakan dewa kematian dan kegelapan.",
+    "jawaban": "Hel",
+    "pilihanJawaban": [
+      "Bragi",
+      "Frigg",
+      "Loki",
+      "Thor",
+      "Hel"
+    ]
+  },
+  {
+    "index": 199,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah planet dalam tata surya yang memiliki suhu ekstrem yang sangat panas dan dingin.",
+    "jawaban": "Merkurius",
+    "pilihanJawaban": [
+      "Mars",
+      "Bumi",
+      "Venus",
+      "Jupiter",
+      "Merkurius"
+    ]
+  },
+  {
+    "index": 200,
+    "web": "md-code.xyz",
+    "soal": "Aku adalah hidangan daging yang dimasak dalam saus tomat dan sering disajikan dalam sandwich.",
+    "jawaban": "Sloppy Joe",
+    "pilihanJawaban": [
+      "Kebab",
+      "Burrito",
+      "Sloppy Joe",
+      "Taco",
+      "Hot Dog"
+    ]
+  }
+]

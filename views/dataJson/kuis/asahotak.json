@@ -1,0 +1,2615 @@
+[
+  {
+    "index": 0,
+    "web": "md-code.xyz",
+    "soal": "Apa nama zat yang merupakan penyusun utama dinding sel tumbuhan?",
+    "jawaban": "Selulosa",
+    "pilihanJawaban": [
+      "Selulosa",
+      "Lipid",
+      "Glukosa",
+      "Protein",
+      "Karbon Dioksida"
+    ]
+  },
+  {
+    "index": 1,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang menemukan hukum elektromagnetik yang dikenal sebagai hukum Faraday?",
+    "jawaban": "Michael Faraday",
+    "pilihanJawaban": [
+      "Michael Faraday",
+      "James Clerk Maxwell",
+      "Nikola Tesla",
+      "Isaac Newton",
+      "Albert Einstein"
+    ]
+  },
+  {
+    "index": 2,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia H2SO4?",
+    "jawaban": "Asam Sulfat",
+    "pilihanJawaban": [
+      "Asam Klorida",
+      "Asam Sulfurik",
+      "Asam Nitrat",
+      "Asam Asetat",
+      "Asam Sulfat"
+    ]
+  },
+  {
+    "index": 3,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah neutron dalam inti atom Plutonium-239?",
+    "jawaban": "145",
+    "pilihanJawaban": [
+      "239",
+      "54",
+      "71",
+      "94",
+      "145"
+    ]
+  },
+  {
+    "index": 4,
+    "web": "md-code.xyz",
+    "soal": "Apa nama proses yang mengubah energi cahaya menjadi energi kimia dalam fotosintesis?",
+    "jawaban": "Fotokimiosmosis",
+    "pilihanJawaban": [
+      "Fototranspirasi",
+      "Fotodegradasi",
+      "Fotokimiosmosis",
+      "Fotodisintegrasi",
+      "Fotofosforilasi"
+    ]
+  },
+  {
+    "index": 5,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang merumuskan hukum gerak?",
+    "jawaban": "Sir Isaac Newton",
+    "pilihanJawaban": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Albert Einstein",
+      "Johannes Kepler",
+      "Stephen Hawking"
+    ]
+  },
+  {
+    "index": 6,
+    "web": "md-code.xyz",
+    "soal": "Apa nama lapisan atmosfer yang terletak di atas ionosfer dan terdiri dari molekul-molekul yang terionisasi?",
+    "jawaban": "Ekzosfer",
+    "pilihanJawaban": [
+      "Termosfer",
+      "Troposfer",
+      "Mesosfer",
+      "Stratosfer",
+      "Ekzosfer"
+    ]
+  },
+  {
+    "index": 7,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah gigi permanen dalam rongga mulut manusia dewasa?",
+    "jawaban": "32",
+    "pilihanJawaban": [
+      "36",
+      "40",
+      "32",
+      "30",
+      "28"
+    ]
+  },
+  {
+    "index": 8,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang air tanah dan sumber daya air di bawah permukaan Bumi?",
+    "jawaban": "Hidrogeologi",
+    "pilihanJawaban": [
+      "Klimatologi",
+      "Geologi",
+      "Geohidrologi",
+      "Oseanografi",
+      "Hidrogeologi"
+    ]
+  },
+  {
+    "index": 9,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang struktur, asal-usul, dan perkembangan alam semesta?",
+    "jawaban": "Kosmologi",
+    "pilihanJawaban": [
+      "Astrologi",
+      "Astronomi",
+      "Astrofisika",
+      "Kosmologi",
+      "Geologi"
+    ]
+  },
+  {
+    "index": 10,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang merumuskan hukum gravitasi universal?",
+    "jawaban": "Isaac Newton",
+    "pilihanJawaban": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Stephen Hawking",
+      "Johannes Kepler"
+    ]
+  },
+  {
+    "index": 11,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia HCN?",
+    "jawaban": "Asam Sianida",
+    "pilihanJawaban": [
+      "Asam Klorida",
+      "Asam Sulfat",
+      "Asam Nitrat",
+      "Asam Asetat",
+      "Asam Sianida"
+    ]
+  },
+  {
+    "index": 12,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel '1984'?",
+    "jawaban": "George Orwell",
+    "pilihanJawaban": [
+      "Aldous Huxley",
+      "Arthur C. Clarke",
+      "Isaac Asimov",
+      "Ray Bradbury",
+      "George Orwell"
+    ]
+  },
+  {
+    "index": 13,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang perkembangan dan evolusi kehidupan di Bumi?",
+    "jawaban": "Biogeografi",
+    "pilihanJawaban": [
+      "Biologi Evolusi",
+      "Ekosistemologi",
+      "Genetika",
+      "Ekologi",
+      "Biogeografi"
+    ]
+  },
+  {
+    "index": 14,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'Brave New World'?",
+    "jawaban": "Aldous Huxley",
+    "pilihanJawaban": [
+      "Isaac Asimov",
+      "Ray Bradbury",
+      "Aldous Huxley",
+      "Arthur C. Clarke",
+      "George Orwell"
+    ]
+  },
+  {
+    "index": 15,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pola cuaca jangka panjang dan iklim?",
+    "jawaban": "Klimatologi",
+    "pilihanJawaban": [
+      "Astronomi",
+      "Geologi",
+      "Fisika",
+      "Klimatologi",
+      "Meteorologi"
+    ]
+  },
+  {
+    "index": 16,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'Pride and Prejudice'?",
+    "jawaban": "Jane Austen",
+    "pilihanJawaban": [
+      "Emily Brontë",
+      "Charlotte Brontë",
+      "Virginia Woolf",
+      "Jane Austen",
+      "Agatha Christie"
+    ]
+  },
+  {
+    "index": 17,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia C6H12O6?",
+    "jawaban": "Glukosa",
+    "pilihanJawaban": [
+      "Fraktosa",
+      "Laktosa",
+      "Galaktosa",
+      "Maltoza",
+      "Glukosa"
+    ]
+  },
+  {
+    "index": 18,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang dikenal dengan hukum termodinamika?",
+    "jawaban": "Rudolf Clausius",
+    "pilihanJawaban": [
+      "James Clerk Maxwell",
+      "Sadi Carnot",
+      "Rudolf Clausius",
+      "Josiah Willard Gibbs",
+      "Ludwig Boltzmann"
+    ]
+  },
+  {
+    "index": 19,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang perilaku partikel subatomik di dalam inti atom?",
+    "jawaban": "Fisika Nuklir",
+    "pilihanJawaban": [
+      "Fisika Termodinamika",
+      "Fisika Partikel",
+      "Fisika Relativitas",
+      "Fisika Kuantum",
+      "Fisika Nuklir"
+    ]
+  },
+  {
+    "index": 20,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang merumuskan hukum gerak planet?",
+    "jawaban": "Johannes Kepler",
+    "pilihanJawaban": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Stephen Hawking",
+      "Albert Einstein",
+      "Johannes Kepler"
+    ]
+  },
+  {
+    "index": 21,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia C14H10O4?",
+    "jawaban": "Asam Antrasat",
+    "pilihanJawaban": [
+      "Asam Benzoat",
+      "Asam Salisilat",
+      "Asam Antrasat",
+      "Asam Asetilsalisilat",
+      "Asam Phtalic"
+    ]
+  },
+  {
+    "index": 22,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah proton dalam inti atom Helium-4?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "2",
+      "8",
+      "10",
+      "4",
+      "6"
+    ]
+  },
+  {
+    "index": 23,
+    "web": "md-code.xyz",
+    "soal": "Apa nama proses yang mengubah karbon dioksida dan air menjadi glukosa dan oksigen melalui energi cahaya matahari?",
+    "jawaban": "Fotosintesis",
+    "pilihanJawaban": [
+      "Glikolisis",
+      "Respirasi",
+      "Glukoneogenesis",
+      "Fotosintesis",
+      "Fermentasi"
+    ]
+  },
+  {
+    "index": 24,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang pertama kali merumuskan hukum gerak?",
+    "jawaban": "Galileo Galilei",
+    "pilihanJawaban": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Stephen Hawking",
+      "Albert Einstein"
+    ]
+  },
+  {
+    "index": 25,
+    "web": "md-code.xyz",
+    "soal": "Apa nama lapisan atmosfer yang terletak di atas eksofer dan mengandung partikel bermuatan, seperti ion?",
+    "jawaban": "Ionosfer",
+    "pilihanJawaban": [
+      "Stratosfer",
+      "Troposfer",
+      "Mesosfer",
+      "Ionosfer",
+      "Termosfer"
+    ]
+  },
+  {
+    "index": 26,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah gigi manusia dewasa yang biasanya tumbuh, termasuk gigi geraham ketiga?",
+    "jawaban": "32",
+    "pilihanJawaban": [
+      "40",
+      "36",
+      "32",
+      "30",
+      "28"
+    ]
+  },
+  {
+    "index": 27,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pergerakan dan distribusi air tanah di bawah permukaan Bumi?",
+    "jawaban": "Hidrogeologi",
+    "pilihanJawaban": [
+      "Geohidrologi",
+      "Klimatologi",
+      "Geologi",
+      "Hidrogeologi",
+      "Oseanografi"
+    ]
+  },
+  {
+    "index": 28,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang asal-usul dan evolusi alam semesta serta struktur kosmik?",
+    "jawaban": "Astrofisika",
+    "pilihanJawaban": [
+      "Kosmologi",
+      "Geologi",
+      "Astrofisika",
+      "Astrologi",
+      "Astronomi"
+    ]
+  },
+  {
+    "index": 29,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang merumuskan teori relativitas umum?",
+    "jawaban": "Albert Einstein",
+    "pilihanJawaban": [
+      "Galileo",
+      "Newton",
+      "Einstein",
+      "Hawking",
+      "Kepler"
+    ]
+  },
+  {
+    "index": 30,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia H2CO3?",
+    "jawaban": "Asam Karbonat",
+    "pilihanJawaban": [
+      "Asam Asetat",
+      "Asam Nitrat",
+      "Asam Sulfat",
+      "Asam Karbonat",
+      "Asam Klorida"
+    ]
+  },
+  {
+    "index": 31,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'Crime and Punishment'?",
+    "jawaban": "Fyodor Dostoevsky",
+    "pilihanJawaban": [
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky",
+      "Anton Chekhov",
+      "Ivan Turgenev",
+      "Alexander Pushkin"
+    ]
+  },
+  {
+    "index": 32,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang struktur dan fungsi biomolekul di dalam sel?",
+    "jawaban": "Biokimia",
+    "pilihanJawaban": [
+      "Biokimia",
+      "Biologi Molekuler",
+      "Genetika",
+      "Mikrobiologi",
+      "Biologi Sel"
+    ]
+  },
+  {
+    "index": 33,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The Great Gatsby'?",
+    "jawaban": "F. Scott Fitzgerald",
+    "pilihanJawaban": [
+      "Fyodor Dostoevsky",
+      "Anton Chekhov",
+      "Ivan Turgenev",
+      "F. Scott Fitzgerald",
+      "Leo Tolstoy"
+    ]
+  },
+  {
+    "index": 34,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'To Kill a Mockingbird'?",
+    "jawaban": "Harper Lee",
+    "pilihanJawaban": [
+      "J.D. Salinger",
+      "Harper Lee",
+      "Mark Twain",
+      "F. Scott Fitzgerald",
+      "John Steinbeck"
+    ]
+  },
+  {
+    "index": 35,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia C5H5N?",
+    "jawaban": "Piridin",
+    "pilihanJawaban": [
+      "Pirimidin",
+      "Piridin",
+      "Furan",
+      "Pirrol",
+      "Pirazin"
+    ]
+  },
+  {
+    "index": 36,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang dikenal dengan hukum kekekalan energi?",
+    "jawaban": "Hermann von Helmholtz",
+    "pilihanJawaban": [
+      "Marie Curie",
+      "Albert Einstein",
+      "Hermann von Helmholtz",
+      "Johannes Kepler",
+      "Isaac Newton"
+    ]
+  },
+  {
+    "index": 37,
+    "web": "md-code.xyz",
+    "soal": "Apa nama reaksi kimia yang menggabungkan hidrogen dan oksigen untuk menghasilkan air?",
+    "jawaban": "Reaksi Redoks",
+    "pilihanJawaban": [
+      "Reaksi Fermentasi",
+      "Reaksi Redoks",
+      "Reaksi Disosiasi",
+      "Reaksi Ionisasi",
+      "Reaksi Dehidrasi"
+    ]
+  },
+  {
+    "index": 38,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang menemukan prinsip ketidakpastian, yang merupakan dasar dari mekanika kuantum?",
+    "jawaban": "Werner Heisenberg",
+    "pilihanJawaban": [
+      "Niels Bohr",
+      "Erwin Schrödinger",
+      "Werner Heisenberg",
+      "Max Planck",
+      "Albert Einstein"
+    ]
+  },
+  {
+    "index": 39,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia C40H56?",
+    "jawaban": "Beta-Karoten",
+    "pilihanJawaban": [
+      "Asam Askorbat",
+      "Alfa-Tokoferol",
+      "Retinol",
+      "Folat",
+      "Beta-Karoten"
+    ]
+  },
+  {
+    "index": 40,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah neutron dalam inti atom Uranium-235?",
+    "jawaban": "143",
+    "pilihanJawaban": [
+      "92",
+      "56",
+      "71",
+      "143",
+      "235"
+    ]
+  },
+  {
+    "index": 41,
+    "web": "md-code.xyz",
+    "soal": "Apa nama proses fotosintesis yang hanya terjadi dalam kondisi ketika tanaman menerima lebih banyak cahaya daripada yang mereka gunakan?",
+    "jawaban": "Fotosintesis Maksimal",
+    "pilihanJawaban": [
+      "Fotosintesis C3",
+      "Fotosintesis CAM",
+      "Fotosintesis Maksimal",
+      "Fotosintesis C4",
+      "Fotosintesis Terbalik"
+    ]
+  },
+  {
+    "index": 42,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang pertama kali merumuskan hukum gravitasi universal?",
+    "jawaban": "Isaac Newton",
+    "pilihanJawaban": [
+      "Stephen Hawking",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Johannes Kepler",
+      "Albert Einstein"
+    ]
+  },
+  {
+    "index": 43,
+    "web": "md-code.xyz",
+    "soal": "Apa nama lapisan atmosfer yang terletak di atas eksosfer dan merupakan batas terluar atmosfer Bumi?",
+    "jawaban": "Exosphere",
+    "pilihanJawaban": [
+      "Troposfer",
+      "Termosfer",
+      "Mesosfer",
+      "Exosphere",
+      "Stratosfer"
+    ]
+  },
+  {
+    "index": 44,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah gigi susu yang biasanya dimiliki anak-anak?",
+    "jawaban": "20",
+    "pilihanJawaban": [
+      "20",
+      "24",
+      "28",
+      "32",
+      "36"
+    ]
+  },
+  {
+    "index": 45,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pergerakan dan distribusi air di Bumi, termasuk air tanah dan perairan permukaan?",
+    "jawaban": "Hidrogeologi",
+    "pilihanJawaban": [
+      "Geohidrologi",
+      "Hidrogeologi",
+      "Klimatologi",
+      "Oseanografi",
+      "Geologi"
+    ]
+  },
+  {
+    "index": 46,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang asal-usul, evolusi, dan struktur alam semesta secara keseluruhan?",
+    "jawaban": "Kosmologi",
+    "pilihanJawaban": [
+      "Astronomi",
+      "Astrologi",
+      "Kosmologi",
+      "Geologi",
+      "Astrofisika"
+    ]
+  },
+  {
+    "index": 47,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang merumuskan teori relativitas khusus?",
+    "jawaban": "Albert Einstein",
+    "pilihanJawaban": [
+      "Einstein",
+      "Hawking",
+      "Galileo",
+      "Newton",
+      "Kepler"
+    ]
+  },
+  {
+    "index": 48,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia H3PO4?",
+    "jawaban": "Asam Fosfat",
+    "pilihanJawaban": [
+      "Asam Nitrat",
+      "Asam Fosfat",
+      "Asam Asetat",
+      "Asam Sulfat",
+      "Asam Klorida"
+    ]
+  },
+  {
+    "index": 49,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'War and Peace'?",
+    "jawaban": "Leo Tolstoy",
+    "pilihanJawaban": [
+      "Ivan Turgenev",
+      "Alexander Pushkin",
+      "Anton Chekhov",
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy"
+    ]
+  },
+  {
+    "index": 50,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang struktur dan fungsi molekul biologis?",
+    "jawaban": "Biokimia",
+    "pilihanJawaban": [
+      "Biokimia",
+      "Mikrobiologi",
+      "Biologi Sel",
+      "Biologi Molekuler",
+      "Genetika"
+    ]
+  },
+  {
+    "index": 51,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'One Hundred Years of Solitude'?",
+    "jawaban": "Gabriel Garcia Marquez",
+    "pilihanJawaban": [
+      "Jorge Luis Borges",
+      "Julio Cortázar",
+      "Carlos Fuentes",
+      "Mario Vargas Llosa",
+      "Gabriel Garcia Marquez"
+    ]
+  },
+  {
+    "index": 52,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang perubahan iklim dan dampaknya pada lingkungan?",
+    "jawaban": "Ekologi Iklim",
+    "pilihanJawaban": [
+      "Meteorologi",
+      "Ekologi Iklim",
+      "Geografi",
+      "Ekologi",
+      "Klimatologi"
+    ]
+  },
+  {
+    "index": 53,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'Moby-Dick'?",
+    "jawaban": "Herman Melville",
+    "pilihanJawaban": [
+      "Nathaniel Hawthorne",
+      "Emily Dickinson",
+      "Herman Melville",
+      "Mark Twain",
+      "Edgar Allan Poe"
+    ]
+  },
+  {
+    "index": 54,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia C12H22O11?",
+    "jawaban": "Sukrosa",
+    "pilihanJawaban": [
+      "Fruktosa",
+      "Maltosa",
+      "Sukrosa",
+      "Glukosa",
+      "Laktosa"
+    ]
+  },
+  {
+    "index": 55,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang dikenal dengan hukum kekekalan massa?",
+    "jawaban": "Antoine Lavoisier",
+    "pilihanJawaban": [
+      "Marie Curie",
+      "Albert Einstein",
+      "Antoine Lavoisier",
+      "Johannes Kepler",
+      "Isaac Newton"
+    ]
+  },
+  {
+    "index": 56,
+    "web": "md-code.xyz",
+    "soal": "Apa nama partikel subatomik yang memiliki muatan positif dan terdapat di inti atom?",
+    "jawaban": "Proton",
+    "pilihanJawaban": [
+      "Elektron",
+      "Neutron",
+      "Positron",
+      "Proton",
+      "Meson"
+    ]
+  },
+  {
+    "index": 57,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penemu teleskop reflektor pertama?",
+    "jawaban": "Isaac Newton",
+    "pilihanJawaban": [
+      "Galileo Galilei",
+      "Stephen Hawking",
+      "Isaac Newton",
+      "Johannes Kepler",
+      "Albert Einstein"
+    ]
+  },
+  {
+    "index": 58,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia C8H10N4O2?",
+    "jawaban": "Kafein",
+    "pilihanJawaban": [
+      "Kafein",
+      "Kodein",
+      "Nikotin",
+      "Aspirin",
+      "Morfine"
+    ]
+  },
+  {
+    "index": 59,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah planet kerdil yang diakui oleh International Astronomical Union (IAU) pada tahun 2023?",
+    "jawaban": "5",
+    "pilihanJawaban": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "index": 60,
+    "web": "md-code.xyz",
+    "soal": "Apa nama gas yang paling banyak menyusun atmosfer Bumi?",
+    "jawaban": "Nitrogen",
+    "pilihanJawaban": [
+      "Karbon Dioksida",
+      "Oksigen",
+      "Argon",
+      "Hidrogen",
+      "Nitrogen"
+    ]
+  },
+  {
+    "index": 61,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang dikenal dengan hukum gravitasi universal?",
+    "jawaban": "Isaac Newton",
+    "pilihanJawaban": [
+      "Stephen Hawking",
+      "Albert Einstein",
+      "Johannes Kepler",
+      "Galileo Galilei",
+      "Isaac Newton"
+    ]
+  },
+  {
+    "index": 62,
+    "web": "md-code.xyz",
+    "soal": "Apa nama lapisan atmosfer yang terletak di atas termosfer dan merupakan lapisan terluar atmosfer Bumi?",
+    "jawaban": "Eksofer",
+    "pilihanJawaban": [
+      "Termosfer",
+      "Mesosfer",
+      "Eksofer",
+      "Troposfer",
+      "Stratosfer"
+    ]
+  },
+  {
+    "index": 63,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pergerakan dan distribusi air di Bumi, termasuk sungai, danau, dan gletser?",
+    "jawaban": "Limnologi",
+    "pilihanJawaban": [
+      "Geologi",
+      "Oseanografi",
+      "Klimatologi",
+      "Limnologi",
+      "Hidrologi"
+    ]
+  },
+  {
+    "index": 64,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang struktur dan evolusi alam semesta, termasuk asal-usul dan akhir dari segalanya?",
+    "jawaban": "Kosmologi",
+    "pilihanJawaban": [
+      "Astrofisika",
+      "Astronomi",
+      "Astrologi",
+      "Geologi",
+      "Kosmologi"
+    ]
+  },
+  {
+    "index": 65,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang merumuskan hukum pergerakan planet?",
+    "jawaban": "Johannes Kepler",
+    "pilihanJawaban": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Johannes Kepler",
+      "Stephen Hawking",
+      "Albert Einstein"
+    ]
+  },
+  {
+    "index": 66,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia HNO3?",
+    "jawaban": "Asam Nitrat",
+    "pilihanJawaban": [
+      "Asam Sulfat",
+      "Asam Klorida",
+      "Asam Perklorat",
+      "Asam Asetat",
+      "Asam Nitrat"
+    ]
+  },
+  {
+    "index": 67,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The Count of Monte Cristo'?",
+    "jawaban": "Alexandre Dumas",
+    "pilihanJawaban": [
+      "Alexandre Dumas",
+      "Honoré de Balzac",
+      "Gustave Flaubert",
+      "Marcel Proust",
+      "Victor Hugo"
+    ]
+  },
+  {
+    "index": 68,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'Ulysses'?",
+    "jawaban": "James Joyce",
+    "pilihanJawaban": [
+      "Ernest Hemingway",
+      "James Joyce",
+      "Virginia Woolf",
+      "F. Scott Fitzgerald",
+      "William Faulkner"
+    ]
+  },
+  {
+    "index": 69,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia C10H16N5O13P3?",
+    "jawaban": "Adenosin trifosfat (ATP)",
+    "pilihanJawaban": [
+      "Guanosin trifosfat (GTP)",
+      "Adenosin trifosfat (ATP)",
+      "Adenosin monosulfat (AMS)",
+      "Sitidin monofosfat (CMP)",
+      "Ribonukleat"
+    ]
+  },
+  {
+    "index": 70,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang dikenal dengan teori relativitas umum?",
+    "jawaban": "Albert Einstein",
+    "pilihanJawaban": [
+      "Stephen Hawking",
+      "Johannes Kepler",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Albert Einstein"
+    ]
+  },
+  {
+    "index": 71,
+    "web": "md-code.xyz",
+    "soal": "Apa nama elemen kimia dengan nomor atom 92?",
+    "jawaban": "Uranium",
+    "pilihanJawaban": [
+      "Uranium",
+      "Berkelium",
+      "Plutonium",
+      "Neptunium",
+      "Californium"
+    ]
+  },
+  {
+    "index": 72,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia C27H45OH?",
+    "jawaban": "Kolesterol",
+    "pilihanJawaban": [
+      "Gliserol",
+      "Asam Oleat",
+      "Kolesterol",
+      "Palmitat",
+      "Stearat"
+    ]
+  },
+  {
+    "index": 73,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah elemen kimia yang terdapat di dalam tabel periodik?",
+    "jawaban": "118",
+    "pilihanJawaban": [
+      "124",
+      "92",
+      "137",
+      "103",
+      "118"
+    ]
+  },
+  {
+    "index": 74,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia yang digunakan dalam proses fotosintesis oleh tumbuhan?",
+    "jawaban": "Klorofil",
+    "pilihanJawaban": [
+      "Karboksil",
+      "Klorida",
+      "Karbonil",
+      "Klorofil",
+      "Klorin"
+    ]
+  },
+  {
+    "index": 75,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang dikenal dengan hukum geraknya yang terkenal sebagai hukum Kepler?",
+    "jawaban": "Johannes Kepler",
+    "pilihanJawaban": [
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Stephen Hawking",
+      "Johannes Kepler"
+    ]
+  },
+  {
+    "index": 76,
+    "web": "md-code.xyz",
+    "soal": "Apa nama lapisan atmosfer yang terletak di atas mesosfer dan terdiri dari gas langka seperti helium dan hidrogen?",
+    "jawaban": "Termosfer",
+    "pilihanJawaban": [
+      "Stratosfer",
+      "Mesosfer",
+      "Termosfer",
+      "Troposfer",
+      "Eksofer"
+    ]
+  },
+  {
+    "index": 77,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah gigi manusia dewasa yang biasanya tumbuh?",
+    "jawaban": "32",
+    "pilihanJawaban": [
+      "28",
+      "30",
+      "40",
+      "32",
+      "36"
+    ]
+  },
+  {
+    "index": 78,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pergerakan dan interaksi air di Bumi, termasuk sumber air, siklus air, dan kualitas air?",
+    "jawaban": "Hidrologi",
+    "pilihanJawaban": [
+      "Hidrologi",
+      "Geologi",
+      "Biologi",
+      "Klimatologi",
+      "Oseanografi"
+    ]
+  },
+  {
+    "index": 79,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pergerakan benda langit di luar tata surya kita?",
+    "jawaban": "Astronomi",
+    "pilihanJawaban": [
+      "Astrofisika",
+      "Astronomi",
+      "Geologi",
+      "Astrologi",
+      "Kosmologi"
+    ]
+  },
+  {
+    "index": 80,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The Brothers Karamazov'?",
+    "jawaban": "Fyodor Dostoevsky",
+    "pilihanJawaban": [
+      "Fyodor Dostoevsky",
+      "Anton Chekhov",
+      "Ivan Turgenev",
+      "Leo Tolstoy",
+      "Alexander Pushkin"
+    ]
+  },
+  {
+    "index": 81,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang perilaku materi pada tingkat atom dan molekul?",
+    "jawaban": "Kimia",
+    "pilihanJawaban": [
+      "Fisika",
+      "Kimia",
+      "Geologi",
+      "Astronomi",
+      "Biologi"
+    ]
+  },
+  {
+    "index": 82,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The Odyssey'?",
+    "jawaban": "Homer",
+    "pilihanJawaban": [
+      "Homer",
+      "Aeschylus",
+      "Sophocles",
+      "Euripides",
+      "Hesiod"
+    ]
+  },
+  {
+    "index": 83,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan terkenal yang merumuskan teori evolusi dengan seleksi alam?",
+    "jawaban": "Charles Darwin",
+    "pilihanJawaban": [
+      "Louis Pasteur",
+      "Alfred Russel Wallace",
+      "Gregor Mendel",
+      "Charles Darwin",
+      "Marie Curie"
+    ]
+  },
+  {
+    "index": 84,
+    "web": "md-code.xyz",
+    "soal": "Apa nama fenomena alam yang terjadi ketika cahaya matahari melewati tetesan air dan membentuk spektrum warna?",
+    "jawaban": "Pelangi",
+    "pilihanJawaban": [
+      "Gempa Bumi",
+      "Badai Petir",
+      "Tornado",
+      "Gelombang Tsunami",
+      "Pelangi"
+    ]
+  },
+  {
+    "index": 85,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang merumuskan teori relativitas?",
+    "jawaban": "Einstein",
+    "pilihanJawaban": [
+      "Einstein",
+      "Hawking",
+      "Kepler",
+      "Newton",
+      "Galileo"
+    ]
+  },
+  {
+    "index": 86,
+    "web": "md-code.xyz",
+    "soal": "Apa nama proses di mana tumbuhan menggunakan energi matahari untuk membuat makanan mereka sendiri?",
+    "jawaban": "Fotosintesis",
+    "pilihanJawaban": [
+      "Transpirasi",
+      "Fotosintesis",
+      "Respirasi",
+      "Eksudasi",
+      "Fermentasi"
+    ]
+  },
+  {
+    "index": 87,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah planet dalam tata surya kita?",
+    "jawaban": "8",
+    "pilihanJawaban": [
+      "11",
+      "10",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "index": 88,
+    "web": "md-code.xyz",
+    "soal": "Apa nama zat kimia yang umumnya digunakan untuk mengawetkan makanan?",
+    "jawaban": "Boraks",
+    "pilihanJawaban": [
+      "Kalium Nitrat",
+      "Formalin",
+      "Boraks",
+      "Asam Sitrat",
+      "Natrium Klorida"
+    ]
+  },
+  {
+    "index": 89,
+    "web": "md-code.xyz",
+    "soal": "Apa nama lapisan atmosfer yang terletak di atas stratosfer dan berisi sebagian besar gas beracun?",
+    "jawaban": "Mesosfer",
+    "pilihanJawaban": [
+      "Eksofer",
+      "Stratosfer",
+      "Mesosfer",
+      "Termosfer",
+      "Troposfer"
+    ]
+  },
+  {
+    "index": 90,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan yang dikenal dengan hukum gravitasi?",
+    "jawaban": "Isaac Newton",
+    "pilihanJawaban": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Stephen Hawking",
+      "Albert Einstein",
+      "Johannes Kepler"
+    ]
+  },
+  {
+    "index": 91,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia NH3?",
+    "jawaban": "Amonia",
+    "pilihanJawaban": [
+      "Propana",
+      "Eter",
+      "Amidon",
+      "Aseton",
+      "Amonia"
+    ]
+  },
+  {
+    "index": 92,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah provinsi di Indonesia?",
+    "jawaban": "34",
+    "pilihanJawaban": [
+      "38",
+      "28",
+      "32",
+      "34",
+      "36"
+    ]
+  },
+  {
+    "index": 93,
+    "web": "md-code.xyz",
+    "soal": "Apa nama lapisan atmosfer yang paling dekat dengan permukaan bumi?",
+    "jawaban": "Troposfer",
+    "pilihanJawaban": [
+      "Mesosfer",
+      "Termosfer",
+      "Troposfer",
+      "Eksofer",
+      "Stratosfer"
+    ]
+  },
+  {
+    "index": 94,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah gigi rahang tetap pada manusia dewasa?",
+    "jawaban": "32",
+    "pilihanJawaban": [
+      "36",
+      "32",
+      "28",
+      "24",
+      "20"
+    ]
+  },
+  {
+    "index": 95,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pola cuaca jangka pendek dan lokal?",
+    "jawaban": "Meteorologi",
+    "pilihanJawaban": [
+      "Astronomi",
+      "Fisika",
+      "Klimatologi",
+      "Geologi",
+      "Meteorologi"
+    ]
+  },
+  {
+    "index": 96,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia H2O2?",
+    "jawaban": "Hidrogen Peroksida",
+    "pilihanJawaban": [
+      "Hidrogen Peroksida",
+      "Asam Nitrat",
+      "Asam Asetat",
+      "Asam Sulfat",
+      "Asam Klorida"
+    ]
+  },
+  {
+    "index": 97,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The Plague'?",
+    "jawaban": "Camus",
+    "pilihanJawaban": [
+      "Sartre",
+      "Proust",
+      "Camus",
+      "Beckett",
+      "Voltaire"
+    ]
+  },
+  {
+    "index": 98,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang struktur dan komposisi bumi?",
+    "jawaban": "Geologi",
+    "pilihanJawaban": [
+      "Fisika",
+      "Geologi",
+      "Kimia",
+      "Biologi",
+      "Astronomi"
+    ]
+  },
+  {
+    "index": 99,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang fungsi organisme hidup?",
+    "jawaban": "Fisiologi",
+    "pilihanJawaban": [
+      "Genetika",
+      "Biokimia",
+      "Mikrobiologi",
+      "Fisiologi",
+      "Anatomi"
+    ]
+  },
+  {
+    "index": 100,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The Road'?",
+    "jawaban": "McCarthy",
+    "pilihanJawaban": [
+      "Salinger",
+      "Lee",
+      "McCarthy",
+      "Hemingway",
+      "Steinbeck"
+    ]
+  },
+  {
+    "index": 101,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia CO2?",
+    "jawaban": "Karbon Dioksida",
+    "pilihanJawaban": [
+      "Karbon Dioksida",
+      "Nitrit",
+      "Nitrat",
+      "Amonia",
+      "Nitrogen"
+    ]
+  },
+  {
+    "index": 102,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah negara anggota ASEAN?",
+    "jawaban": "10",
+    "pilihanJawaban": [
+      "11",
+      "9",
+      "12",
+      "10",
+      "8"
+    ]
+  },
+  {
+    "index": 103,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia NaOH?",
+    "jawaban": "Natrium Hidroksida",
+    "pilihanJawaban": [
+      "Natrium Klorida",
+      "Natrium Nitrat",
+      "Natrium Sulfat",
+      "Natrium Hidroksida",
+      "Natrium Karbonat"
+    ]
+  },
+  {
+    "index": 104,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah negara anggota PBB pada tahun 2023?",
+    "jawaban": "193",
+    "pilihanJawaban": [
+      "220",
+      "206",
+      "193",
+      "180",
+      "237"
+    ]
+  },
+  {
+    "index": 105,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pergerakan dan interaksi planet-planet di tata surya kita?",
+    "jawaban": "Astronomi",
+    "pilihanJawaban": [
+      "Geologi",
+      "Kosmologi",
+      "Astrofisika",
+      "Astronomi",
+      "Astrologi"
+    ]
+  },
+  {
+    "index": 106,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The Catcher in the Rye'?",
+    "jawaban": "Salinger",
+    "pilihanJawaban": [
+      "Fitzgerald",
+      "Lee",
+      "Twain",
+      "Hemingway",
+      "Salinger"
+    ]
+  },
+  {
+    "index": 107,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The Stranger'?",
+    "jawaban": "Camus",
+    "pilihanJawaban": [
+      "Beckett",
+      "Voltaire",
+      "Camus",
+      "Proust",
+      "Sartre"
+    ]
+  },
+  {
+    "index": 108,
+    "web": "md-code.xyz",
+    "soal": "Siapakah ilmuwan terkenal yang merumuskan hukum gravitasi?",
+    "jawaban": "Newton",
+    "pilihanJawaban": [
+      "Kepler",
+      "Galileo",
+      "Newton",
+      "Hawking",
+      "Einstein"
+    ]
+  },
+  {
+    "index": 109,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pergerakan planet dan benda langit lainnya di alam semesta?",
+    "jawaban": "Astronomi",
+    "pilihanJawaban": [
+      "Astrologi",
+      "Astronomi",
+      "Astrofisika",
+      "Geologi",
+      "Kosmologi"
+    ]
+  },
+  {
+    "index": 110,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The Hobbit'?",
+    "jawaban": "Tolkien",
+    "pilihanJawaban": [
+      "Rowling",
+      "Tolkien",
+      "Carroll",
+      "Lewis",
+      "Dahl"
+    ]
+  },
+  {
+    "index": 111,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pergerakan dan interaksi air di Bumi?",
+    "jawaban": "Hidrologi",
+    "pilihanJawaban": [
+      "Geologi",
+      "Biologi",
+      "Hidrologi",
+      "Oseanografi",
+      "Klimatologi"
+    ]
+  },
+  {
+    "index": 112,
+    "web": "md-code.xyz",
+    "soal": "Siapakah tokoh yang dikenal dengan hukum gerak planet?",
+    "jawaban": "Kepler",
+    "pilihanJawaban": [
+      "Galileo",
+      "Newton",
+      "Einstein",
+      "Hawking",
+      "Kepler"
+    ]
+  },
+  {
+    "index": 113,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia CH4?",
+    "jawaban": "Metana",
+    "pilihanJawaban": [
+      "Butana",
+      "Propana",
+      "Etana",
+      "Metana",
+      "Pentana"
+    ]
+  },
+  {
+    "index": 114,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang atmosfer Bumi?",
+    "jawaban": "Meteorologi",
+    "pilihanJawaban": [
+      "Astronomi",
+      "Fisika",
+      "Meteorologi",
+      "Geologi",
+      "Klimatologi"
+    ]
+  },
+  {
+    "index": 115,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The Lord of the Rings'?",
+    "jawaban": "Tolkien",
+    "pilihanJawaban": [
+      "Rowling",
+      "Carroll",
+      "Tolkien",
+      "Lewis",
+      "Dahl"
+    ]
+  },
+  {
+    "index": 116,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah gigi susu pada manusia biasanya?",
+    "jawaban": "20",
+    "pilihanJawaban": [
+      "20",
+      "24",
+      "22",
+      "26",
+      "18"
+    ]
+  },
+  {
+    "index": 117,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang planet luar tata surya kita?",
+    "jawaban": "Astrofisika",
+    "pilihanJawaban": [
+      "Astrofisika",
+      "Astrologi",
+      "Geologi",
+      "Kosmologi",
+      "Astronomi"
+    ]
+  },
+  {
+    "index": 118,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia CO?",
+    "jawaban": "Karbon Monoksida",
+    "pilihanJawaban": [
+      "Oksigen",
+      "Hidrogen",
+      "Karbon Dioksida",
+      "Karbon Monoksida",
+      "Nitrogen"
+    ]
+  },
+  {
+    "index": 119,
+    "web": "md-code.xyz",
+    "soal": "Siapakah tokoh yang dikenal dengan hukum gravitasi?",
+    "jawaban": "Newton",
+    "pilihanJawaban": [
+      "Hawking",
+      "Newton",
+      "Einstein",
+      "Galileo",
+      "Kepler"
+    ]
+  },
+  {
+    "index": 120,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia HClO3?",
+    "jawaban": "Asam Perklorat",
+    "pilihanJawaban": [
+      "Asam Nitrat",
+      "Asam Asetat",
+      "Asam Perklorat",
+      "Asam Sulfat",
+      "Asam Klorida"
+    ]
+  },
+  {
+    "index": 121,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pola dan struktur bumi?",
+    "jawaban": "Geologi",
+    "pilihanJawaban": [
+      "Astronomi",
+      "Fisika",
+      "Geologi",
+      "Kimia",
+      "Biologi"
+    ]
+  },
+  {
+    "index": 122,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia CH3COOH?",
+    "jawaban": "Asam Asetat",
+    "pilihanJawaban": [
+      "Asam Perklorat",
+      "Asam Asetat",
+      "Asam Nitrat",
+      "Asam Sulfat",
+      "Asam Klorida"
+    ]
+  },
+  {
+    "index": 123,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia NaCl?",
+    "jawaban": "Garam",
+    "pilihanJawaban": [
+      "Garam",
+      "Gula",
+      "Asam Sulfat",
+      "Asam Asetat",
+      "Air"
+    ]
+  },
+  {
+    "index": 124,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penemu teori relativitas khusus?",
+    "jawaban": "Einstein",
+    "pilihanJawaban": [
+      "Galileo",
+      "Newton",
+      "Einstein",
+      "Hawking",
+      "Planck"
+    ]
+  },
+  {
+    "index": 125,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The Alchemist'?",
+    "jawaban": "Coelho",
+    "pilihanJawaban": [
+      "Borges",
+      "Cortázar",
+      "Fuentes",
+      "Coelho",
+      "Vargas Llosa"
+    ]
+  },
+  {
+    "index": 126,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia C5H12?",
+    "jawaban": "Pentana",
+    "pilihanJawaban": [
+      "Etana",
+      "Butana",
+      "Metana",
+      "Propana",
+      "Pentana"
+    ]
+  },
+  {
+    "index": 127,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The Chronicles of Narnia'?",
+    "jawaban": "Lewis",
+    "pilihanJawaban": [
+      "Tolkien",
+      "Rowling",
+      "Carroll",
+      "Dahl",
+      "Lewis"
+    ]
+  },
+  {
+    "index": 128,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pergerakan air di laut?",
+    "jawaban": "Oseanografi",
+    "pilihanJawaban": [
+      "Hidrologi",
+      "Oseanografi",
+      "Biologi",
+      "Geologi",
+      "Klimatologi"
+    ]
+  },
+  {
+    "index": 129,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The Picture of Dorian Gray'?",
+    "jawaban": "Wilde",
+    "pilihanJawaban": [
+      "Lovecraft",
+      "Stoker",
+      "Poe",
+      "Dickens",
+      "Wilde"
+    ]
+  },
+  {
+    "index": 130,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang hewan?",
+    "jawaban": "Zoologi",
+    "pilihanJawaban": [
+      "Genetika",
+      "Zoologi",
+      "Botani",
+      "Ekologi",
+      "Biologi"
+    ]
+  },
+  {
+    "index": 131,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'Jane Eyre'?",
+    "jawaban": "Bronte",
+    "pilihanJawaban": [
+      "Eliot",
+      "Dickens",
+      "Bronte",
+      "Austen",
+      "Woolf"
+    ]
+  },
+  {
+    "index": 132,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The Grapes of Wrath'?",
+    "jawaban": "Steinbeck",
+    "pilihanJawaban": [
+      "Lee",
+      "Fitzgerald",
+      "Hemingway",
+      "Twain",
+      "Steinbeck"
+    ]
+  },
+  {
+    "index": 133,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pola perubahan iklim di Bumi?",
+    "jawaban": "Klimatologi",
+    "pilihanJawaban": [
+      "Klimatologi",
+      "Geologi",
+      "Fisika",
+      "Astronomi",
+      "Meteorologi"
+    ]
+  },
+  {
+    "index": 134,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia C3H6O?",
+    "jawaban": "Aseton",
+    "pilihanJawaban": [
+      "Butana",
+      "Propana",
+      "Aseton",
+      "Etilena",
+      "Etilen"
+    ]
+  },
+  {
+    "index": 135,
+    "web": "md-code.xyz",
+    "soal": "Apa nama proses di mana tumbuhan menggunakan energi matahari untuk mengubah karbon dioksida menjadi oksigen?",
+    "jawaban": "Fotosintesis",
+    "pilihanJawaban": [
+      "Respirasi",
+      "Transpirasi",
+      "Fotosintesis",
+      "Fermentasi",
+      "Ekskresi"
+    ]
+  },
+  {
+    "index": 136,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah negara anggota Perserikatan Bangsa-Bangsa (PBB) pada tahun 2023?",
+    "jawaban": "193",
+    "pilihanJawaban": [
+      "210",
+      "190",
+      "200",
+      "193",
+      "180"
+    ]
+  },
+  {
+    "index": 137,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia C4H10?",
+    "jawaban": "Butana",
+    "pilihanJawaban": [
+      "Metana",
+      "Butana",
+      "Pentana",
+      "Etana",
+      "Propana"
+    ]
+  },
+  {
+    "index": 138,
+    "web": "md-code.xyz",
+    "soal": "Apa nama planet terbesar dalam tata surya kita?",
+    "jawaban": "Yupiter",
+    "pilihanJawaban": [
+      "Bumi",
+      "Yupiter",
+      "Venus",
+      "Saturnus",
+      "Mars"
+    ]
+  },
+  {
+    "index": 139,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia C3H8?",
+    "jawaban": "Propana",
+    "pilihanJawaban": [
+      "Butana",
+      "Etana",
+      "Pentana",
+      "Metana",
+      "Propana"
+    ]
+  },
+  {
+    "index": 140,
+    "web": "md-code.xyz",
+    "soal": "Siapakah tokoh ilmuwan terkenal yang dikenal dengan hukum tentang gerak planet?",
+    "jawaban": "Kepler",
+    "pilihanJawaban": [
+      "Kepler",
+      "Hawking",
+      "Einstein",
+      "Newton",
+      "Galileo"
+    ]
+  },
+  {
+    "index": 141,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia HNO2?",
+    "jawaban": "Asam Nitrit",
+    "pilihanJawaban": [
+      "Asam Klorida",
+      "Asam Nitrat",
+      "Asam Nitrit",
+      "Asam Asetat",
+      "Asam Sulfat"
+    ]
+  },
+  {
+    "index": 142,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia C2H6?",
+    "jawaban": "Etilena",
+    "pilihanJawaban": [
+      "Butana",
+      "Etana",
+      "Metana",
+      "Propana",
+      "Etilena"
+    ]
+  },
+  {
+    "index": 143,
+    "web": "md-code.xyz",
+    "soal": "Siapakah tokoh yang dikenal sebagai 'Bapak Psikologi Analitis'?",
+    "jawaban": "Jung",
+    "pilihanJawaban": [
+      "Freud",
+      "Jung",
+      "Pavlov",
+      "Skinner",
+      "Maslow"
+    ]
+  },
+  {
+    "index": 144,
+    "web": "md-code.xyz",
+    "soal": "Apa nama partikel subatomik yang memiliki muatan positif?",
+    "jawaban": "Proton",
+    "pilihanJawaban": [
+      "Proton",
+      "Foton",
+      "Positron",
+      "Neutron",
+      "Elektron"
+    ]
+  },
+  {
+    "index": 145,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah gigi susu pada manusia dewasa?",
+    "jawaban": "32",
+    "pilihanJawaban": [
+      "32",
+      "36",
+      "28",
+      "24",
+      "20"
+    ]
+  },
+  {
+    "index": 146,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang hubungan antara organisme dan lingkungannya?",
+    "jawaban": "Ekologi",
+    "pilihanJawaban": [
+      "Genetika",
+      "Biologi",
+      "Zoologi",
+      "Ekologi",
+      "Botani"
+    ]
+  },
+  {
+    "index": 147,
+    "web": "md-code.xyz",
+    "soal": "Siapakah presiden Amerika Serikat ke-16?",
+    "jawaban": "Lincoln",
+    "pilihanJawaban": [
+      "Adams",
+      "Jefferson",
+      "Lincoln",
+      "Madison",
+      "Washington"
+    ]
+  },
+  {
+    "index": 148,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pergerakan benda cair?",
+    "jawaban": "Reologi",
+    "pilihanJawaban": [
+      "Fisika",
+      "Biologi",
+      "Geologi",
+      "Kimia",
+      "Reologi"
+    ]
+  },
+  {
+    "index": 149,
+    "web": "md-code.xyz",
+    "soal": "Apa nama benua terkecil di dunia?",
+    "jawaban": "Australia",
+    "pilihanJawaban": [
+      "Eropa",
+      "Asia",
+      "Australia",
+      "Amerika",
+      "Afrika"
+    ]
+  },
+  {
+    "index": 150,
+    "web": "md-code.xyz",
+    "soal": "Apa nama lapisan atmosfer yang paling tinggi?",
+    "jawaban": "Eksofer",
+    "pilihanJawaban": [
+      "Stratosfer",
+      "Mesosfer",
+      "Termosfer",
+      "Troposfer",
+      "Eksofer"
+    ]
+  },
+  {
+    "index": 151,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah kromosom dalam sel manusia wanita?",
+    "jawaban": "46",
+    "pilihanJawaban": [
+      "50",
+      "48",
+      "46",
+      "44",
+      "23"
+    ]
+  },
+  {
+    "index": 152,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pergerakan dan interaksi udara?",
+    "jawaban": "Aerodinamika",
+    "pilihanJawaban": [
+      "Meteorologi",
+      "Aerodinamika",
+      "Fisika",
+      "Astronomi",
+      "Biologi"
+    ]
+  },
+  {
+    "index": 153,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The Hound of the Baskervilles'?",
+    "jawaban": "Doyle",
+    "pilihanJawaban": [
+      "Dumas",
+      "Doyle",
+      "Lovecraft",
+      "Poe",
+      "Conan"
+    ]
+  },
+  {
+    "index": 154,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang komposisi dan struktur bumi?",
+    "jawaban": "Geologi",
+    "pilihanJawaban": [
+      "Geologi",
+      "Astronomi",
+      "Fisika",
+      "Kimia",
+      "Biologi"
+    ]
+  },
+  {
+    "index": 155,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The Jungle Book'?",
+    "jawaban": "Kipling",
+    "pilihanJawaban": [
+      "Tolkien",
+      "Dahl",
+      "Carroll",
+      "Defoe",
+      "Kipling"
+    ]
+  },
+  {
+    "index": 156,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'The War of the Worlds'?",
+    "jawaban": "Wells",
+    "pilihanJawaban": [
+      "Bradbury",
+      "Verne",
+      "Asimov",
+      "Clarke",
+      "Wells"
+    ]
+  },
+  {
+    "index": 157,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia C6H6?",
+    "jawaban": "Benzene",
+    "pilihanJawaban": [
+      "Laktosa",
+      "Benzene",
+      "Glukosa",
+      "Fruktosa",
+      "Malat"
+    ]
+  },
+  {
+    "index": 158,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah tanda zodiak dalam astrologi barat?",
+    "jawaban": "12",
+    "pilihanJawaban": [
+      "10",
+      "11",
+      "14",
+      "12",
+      "13"
+    ]
+  },
+  {
+    "index": 159,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penemu lampu pijar?",
+    "jawaban": "Edison",
+    "pilihanJawaban": [
+      "Morse",
+      "Edison",
+      "Marconi",
+      "Bell",
+      "Tesla"
+    ]
+  },
+  {
+    "index": 160,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah elemen kimia yang ada dalam tabel periodik?",
+    "jawaban": "118",
+    "pilihanJawaban": [
+      "100",
+      "108",
+      "118",
+      "138",
+      "128"
+    ]
+  },
+  {
+    "index": 161,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia C2H5OH?",
+    "jawaban": "Etanol",
+    "pilihanJawaban": [
+      "Metanol",
+      "Etanol",
+      "Propanol",
+      "Butanol",
+      "Glikol"
+    ]
+  },
+  {
+    "index": 162,
+    "web": "md-code.xyz",
+    "soal": "Apa nama sungai terpanjang di dunia?",
+    "jawaban": "Nil",
+    "pilihanJawaban": [
+      "Yangtze",
+      "Mississippi",
+      "Danube",
+      "Amazon",
+      "Nile"
+    ]
+  },
+  {
+    "index": 163,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pergerakan udara?",
+    "jawaban": "Meteorologi",
+    "pilihanJawaban": [
+      "Klimatologi",
+      "Geologi",
+      "Meteorologi",
+      "Fisika",
+      "Astronomi"
+    ]
+  },
+  {
+    "index": 164,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penulis terkenal dari novel 'Frankenstein'?",
+    "jawaban": "Shelley",
+    "pilihanJawaban": [
+      "Stoker",
+      "Dickens",
+      "Shelley",
+      "Lovecraft",
+      "Poe"
+    ]
+  },
+  {
+    "index": 165,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang kehidupan di laut?",
+    "jawaban": "Oseanografi",
+    "pilihanJawaban": [
+      "Klimatologi",
+      "Oseanografi",
+      "Hidrologi",
+      "Geologi",
+      "Biologi"
+    ]
+  },
+  {
+    "index": 166,
+    "web": "md-code.xyz",
+    "soal": "Apa nama gas yang paling melimpah di atmosfer bumi?",
+    "jawaban": "Nitrogen",
+    "pilihanJawaban": [
+      "Nitrogen",
+      "Argon",
+      "Hidrogen",
+      "Karbon Dioksida",
+      "Oksigen"
+    ]
+  },
+  {
+    "index": 167,
+    "web": "md-code.xyz",
+    "soal": "Apa nama zat yang berperan sebagai sumber energi utama dalam sel?",
+    "jawaban": "ATP",
+    "pilihanJawaban": [
+      "RNA",
+      "ATP",
+      "ADP",
+      "DNA",
+      "Glukosa"
+    ]
+  },
+  {
+    "index": 168,
+    "web": "md-code.xyz",
+    "soal": "Siapakah presiden pertama Indonesia?",
+    "jawaban": "Soekarno",
+    "pilihanJawaban": [
+      "Soekarno",
+      "Jokowi",
+      "Habibie",
+      "Megawati",
+      "Soeharto"
+    ]
+  },
+  {
+    "index": 169,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari struktur dan fungsi otak?",
+    "jawaban": "Neurologi",
+    "pilihanJawaban": [
+      "Biologi",
+      "Psikologi",
+      "Fisika",
+      "Neurologi",
+      "Anatomi"
+    ]
+  },
+  {
+    "index": 170,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah planet dalam tata surya yang memiliki cincin?",
+    "jawaban": "4",
+    "pilihanJawaban": [
+      "4",
+      "3",
+      "5",
+      "2",
+      "6"
+    ]
+  },
+  {
+    "index": 171,
+    "web": "md-code.xyz",
+    "soal": "Apa nama proses penggabungan inti atom yang melepaskan energi?",
+    "jawaban": "Fusi",
+    "pilihanJawaban": [
+      "Fotosintesis",
+      "Fermentasi",
+      "Fusi",
+      "Filtrasi",
+      "Fisi"
+    ]
+  },
+  {
+    "index": 172,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang pergerakan atmosfer dan cuaca?",
+    "jawaban": "Meteorologi",
+    "pilihanJawaban": [
+      "Klimatologi",
+      "Meteorologi",
+      "Geologi",
+      "Astronomi",
+      "Fisika"
+    ]
+  },
+  {
+    "index": 173,
+    "web": "md-code.xyz",
+    "soal": "Siapakah tokoh yang dikenal dengan teori evolusi?",
+    "jawaban": "Darwin",
+    "pilihanJawaban": [
+      "Wallace",
+      "Lamarck",
+      "Mendel",
+      "Darwin",
+      "Huxley"
+    ]
+  },
+  {
+    "index": 174,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah unsur kimia yang memiliki nama yang dimulai dengan huruf 'K' dalam tabel periodik?",
+    "jawaban": "3",
+    "pilihanJawaban": [
+      "5",
+      "3",
+      "6",
+      "2",
+      "4"
+    ]
+  },
+  {
+    "index": 175,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus kimia HCl?",
+    "jawaban": "Asam Klorida",
+    "pilihanJawaban": [
+      "Asam Nitrat",
+      "Asam Klorida",
+      "Asam Sulfat",
+      "Asam Asetat",
+      "Air"
+    ]
+  },
+  {
+    "index": 176,
+    "web": "md-code.xyz",
+    "soal": "Apa nama benua yang paling dingin di dunia?",
+    "jawaban": "Antartika",
+    "pilihanJawaban": [
+      "Asia",
+      "Afrika",
+      "Eropa",
+      "Antartika",
+      "Australia"
+    ]
+  },
+  {
+    "index": 177,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penemu teleskop?",
+    "jawaban": "Galileo",
+    "pilihanJawaban": [
+      "Copernicus",
+      "Kepler",
+      "Newton",
+      "Hubble",
+      "Galileo"
+    ]
+  },
+  {
+    "index": 178,
+    "web": "md-code.xyz",
+    "soal": "Apa nama lapisan atmosfer yang berbatasan dengan lapisan luar angkasa?",
+    "jawaban": "Termosfer",
+    "pilihanJawaban": [
+      "Troposfer",
+      "Stratosfer",
+      "Mesosfer",
+      "Termosfer",
+      "Eksofer"
+    ]
+  },
+  {
+    "index": 179,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah kromosom dalam sel manusia jantan?",
+    "jawaban": "46",
+    "pilihanJawaban": [
+      "23",
+      "46",
+      "48",
+      "44",
+      "50"
+    ]
+  },
+  {
+    "index": 180,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari tentang fosil?",
+    "jawaban": "Paleontologi",
+    "pilihanJawaban": [
+      "Arkeologi",
+      "Geologi",
+      "Biologi",
+      "Antropologi",
+      "Paleontologi"
+    ]
+  },
+  {
+    "index": 181,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari pergerakan air di Bumi?",
+    "jawaban": "Hidrologi",
+    "pilihanJawaban": [
+      "Geologi",
+      "Biologi",
+      "Hidrologi",
+      "Klimatologi",
+      "Oseanografi"
+    ]
+  },
+  {
+    "index": 182,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus H2O2?",
+    "jawaban": "Peroksida",
+    "pilihanJawaban": [
+      "Karbon Dioksida",
+      "Oksigen",
+      "Peroksida",
+      "Nitrogen",
+      "Hidrogen"
+    ]
+  },
+  {
+    "index": 183,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah negara di Amerika Utara?",
+    "jawaban": "23",
+    "pilihanJawaban": [
+      "21",
+      "24",
+      "20",
+      "22",
+      "23"
+    ]
+  },
+  {
+    "index": 184,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari struktur dan fungsi organisme?",
+    "jawaban": "Biologi",
+    "pilihanJawaban": [
+      "Kimia",
+      "Fisika",
+      "Matematika",
+      "Geologi",
+      "Biologi"
+    ]
+  },
+  {
+    "index": 185,
+    "web": "md-code.xyz",
+    "soal": "Siapakah tokoh yang dikenal sebagai 'Bapak Fisika Modern'?",
+    "jawaban": "Planck",
+    "pilihanJawaban": [
+      "Einstein",
+      "Bohr",
+      "Heisenberg",
+      "Curie",
+      "Planck"
+    ]
+  },
+  {
+    "index": 186,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah mata pada wajah manusia rata-rata?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "3",
+      "4",
+      "1",
+      "2",
+      "5"
+    ]
+  },
+  {
+    "index": 187,
+    "web": "md-code.xyz",
+    "soal": "Apa nama proses di mana tumbuhan menghasilkan makanan menggunakan cahaya matahari?",
+    "jawaban": "Fotosintesis",
+    "pilihanJawaban": [
+      "Ekskresi",
+      "Fermentasi",
+      "Respirasi",
+      "Transpirasi",
+      "Fotosintesis"
+    ]
+  },
+  {
+    "index": 188,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penemu telepon?",
+    "jawaban": "Bell",
+    "pilihanJawaban": [
+      "Marconi",
+      "Edison",
+      "Morse",
+      "Tesla",
+      "Bell"
+    ]
+  },
+  {
+    "index": 189,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari pergerakan dan interaksi planet?",
+    "jawaban": "Astronomi",
+    "pilihanJawaban": [
+      "Biologi",
+      "Astrologi",
+      "Meteorologi",
+      "Geologi",
+      "Astronomi"
+    ]
+  },
+  {
+    "index": 190,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah unsur kimia yang ditemukan dalam alam?",
+    "jawaban": "94",
+    "pilihanJawaban": [
+      "98",
+      "100",
+      "96",
+      "92",
+      "94"
+    ]
+  },
+  {
+    "index": 191,
+    "web": "md-code.xyz",
+    "soal": "Apa nama benua yang menjadi rumah bagi Sahara, gurun terbesar di dunia?",
+    "jawaban": "Afrika",
+    "pilihanJawaban": [
+      "Eropa",
+      "Afrika",
+      "Asia",
+      "Amerika",
+      "Australia"
+    ]
+  },
+  {
+    "index": 192,
+    "web": "md-code.xyz",
+    "soal": "Siapakah tokoh yang dikenal dengan teori relativitas umum?",
+    "jawaban": "Einstein",
+    "pilihanJawaban": [
+      "Galileo",
+      "Einstein",
+      "Planck",
+      "Newton",
+      "Hawking"
+    ]
+  },
+  {
+    "index": 193,
+    "web": "md-code.xyz",
+    "soal": "Berapa jumlah pulau di Indonesia?",
+    "jawaban": "17,508",
+    "pilihanJawaban": [
+      "15,000",
+      "16,000",
+      "17,000",
+      "17,508",
+      "18,000"
+    ]
+  },
+  {
+    "index": 194,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari perkembangan dan evolusi spesies?",
+    "jawaban": "Biologi",
+    "pilihanJawaban": [
+      "Fisika",
+      "Kimia",
+      "Geologi",
+      "Biologi",
+      "Matematika"
+    ]
+  },
+  {
+    "index": 195,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penemu radio?",
+    "jawaban": "Marconi",
+    "pilihanJawaban": [
+      "Bell",
+      "Tesla",
+      "Marconi",
+      "Morse",
+      "Edison"
+    ]
+  },
+  {
+    "index": 196,
+    "web": "md-code.xyz",
+    "soal": "Apa nama ilmu yang mempelajari hukum gerak benda?",
+    "jawaban": "Fisika",
+    "pilihanJawaban": [
+      "Kimia",
+      "Fisika",
+      "Geografi",
+      "Biologi",
+      "Matematika"
+    ]
+  },
+  {
+    "index": 197,
+    "web": "md-code.xyz",
+    "soal": "Berapa akar dari persamaan kuadrat x^2 - 4x + 4 = 0?",
+    "jawaban": "2",
+    "pilihanJawaban": [
+      "4",
+      "5",
+      "3",
+      "2",
+      "1"
+    ]
+  },
+  {
+    "index": 198,
+    "web": "md-code.xyz",
+    "soal": "Siapakah penemu relativitas khusus?",
+    "jawaban": "Einstein",
+    "pilihanJawaban": [
+      "Galileo",
+      "Newton",
+      "Einstein",
+      "Hawking",
+      "Tesla"
+    ]
+  },
+  {
+    "index": 199,
+    "web": "md-code.xyz",
+    "soal": "Apa nama senyawa kimia dengan rumus H2O?",
+    "jawaban": "Air",
+    "pilihanJawaban": [
+      "Air",
+      "Oksigen",
+      "Hidrogen",
+      "Karbon Dioksida",
+      "Ammonia"
+    ]
+  },
+  {
+    "index": 200,
+    "web": "md-code.xyz",
+    "soal": "Apa nama partikel subatomik yang memiliki muatan negatif?",
+    "jawaban": "Elektron",
+    "pilihanJawaban": [
+      "Proton",
+      "Elektron",
+      "Neutron",
+      "Foton",
+      "Positron"
+    ]
+  }
+]
